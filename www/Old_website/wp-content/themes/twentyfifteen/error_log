@@ -1,3 +1,0 @@
-[05-Dec-2015 23:10:12 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/cttoaqzb/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
-[18-Jan-2016 20:05:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/cttoaqzb/public_html/wp-content/themes/twentyfifteen/404.php on line 10
-[02-Jul-2016 14:40:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/cttoaqzb/public_html/wp-content/themes/twentyfifteen/404.php on line 10

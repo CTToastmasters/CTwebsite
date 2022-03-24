@@ -1,3 +1,0 @@
-[06-Nov-2015 17:51:29 UTC] PHP Fatal error:  Call to undefined function dynamic_sidebar() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/wrapper/wrapper-footer.php on line 6
-[06-Nov-2015 18:17:27 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/wrapper/wrapper-header.php on line 5
-[17-Apr-2016 23:38:01 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/wrapper/wrapper-header.php on line 5
