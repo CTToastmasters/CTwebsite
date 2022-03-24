@@ -1,0 +1,227 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Wed, 26 Jul 2017 12:38:33 +0200
+Received: from mail-wm0-f67.google.com ([74.125.82.67]:34426)
+	by elrond.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	id 1daJi4-0002yR-M7
+	for cttoaqzb@elrond.aserv.co.za; Wed, 26 Jul 2017 12:38:33 +0200
+Received: by mail-wm0-f67.google.com with SMTP id c184so6852746wmd.1
+        for <cttoaqzb@elrond.aserv.co.za>; Wed, 26 Jul 2017 03:38:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20161025;
+        h=from:to:auto-submitted:subject:references:in-reply-to:message-id
+         :date;
+        bh=QBwqV3i2nYMAVZSnPaz3yQqzEaMO+94Ej2II8HXuYDw=;
+        b=WC3IHl59vHhQ15gIX0h5UPGzViy+Em4qByHJaM1b4X9rKUgJJYBTarqWWBMIjWQonI
+         LtUsBkhXiB4QRLB89DX0G304u/8hD0AGnpX6Vpxv+kw3QZjUu/E0FSuhqeH4Gw2NjgEE
+         hl4fptpwHXMnCdw+4MMUYzi1kIb5FGttabV9ISWbMp6K0z2vV701ROhvIqF6jppgSPfC
+         4zw2yloru94ZSmOq5TgglE81SRfFwyBp0D9c/FVptwI1s5PHCq+NJf0iMeN9flrHwl5P
+         urQbBco2KyqkOIuugngrHb6AhsYRMEhqIPm8aNyK0ddz+51ogFSOzSO1GBDw1NrSLDb+
+         Vcjw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:auto-submitted:subject:references
+         :in-reply-to:message-id:date;
+        bh=QBwqV3i2nYMAVZSnPaz3yQqzEaMO+94Ej2II8HXuYDw=;
+        b=nE2oIJFmT5SPqH8xtSTmKVFsnKjg9sMetq43CHq8QQRS8r+09CLOpsAXjSl8Bk52uV
+         6O/dmRYMrZ1q0MXeup+BjCQxE9hPQYlx2vPnloG9YRyoM1/vHyCLL6+j2Elf21ZxEp8/
+         TaAs7dmcVAhzKoJ6RkYxg1ouCwD4zFZwXpT50mR4G5V5xtvHZ1jY4S/0UTszX7/lJCo+
+         wfhE56JIpqIjcwTlN/QO+++yhEvC4C00XIOw8GlKp6IAgtszMT8Mxon8SNdEeqdHLaPc
+         +Frwdx5K9Yr6/Wj3hrTAHP12wUzp1bgaoFLJ5QtQzoxxEMKByJQZLQEGdP4ZQO0Yl3i7
+         3g5g==
+X-Gm-Message-State: AIVw113DwcXcO65lUS1hweuMSoM0xtu7l0jxd6RzAJjIkgrtgNB5ROhF
+	htPK8Z5EoPM9JbVwDQLoWdlHNkr/pc/LcGFFj/Lo3g==
+X-Received: by 10.28.13.138 with SMTP id 132mr389754wmn.23.1501065471810;
+        Wed, 26 Jul 2017 03:37:51 -0700 (PDT)
+Content-Type: multipart/report; boundary="001a11444c123b59290555360ac5"; report-type=delivery-status
+Received: by 10.28.13.138 with SMTP id 132mr426553wmn.23; Wed, 26 Jul 2017
+ 03:37:51 -0700 (PDT)
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+To: cttoaqzb@elrond.aserv.co.za
+Auto-Submitted: auto-replied
+Subject: Delivery Status Notification (Failure)
+References: <E1daJhK-0002xy-Sn@elrond.aserv.co.za>
+In-Reply-To: <E1daJhK-0002xy-Sn@elrond.aserv.co.za>
+X-Failed-Recipients: chris@chrisadlamnlp.com
+Message-ID: <597870ff.8a0d1c0a.7414f.0b71.GMRIR@mx.google.com>
+Date: Wed, 26 Jul 2017 03:37:51 -0700 (PDT)
+
+--001a11444c123b59290555360ac5
+Content-Type: multipart/related; boundary="001a11444c123b59a20555360ac6"
+
+--001a11444c123b59a20555360ac6
+Content-Type: multipart/alternative; boundary="001a11444c123b59a80555360ac7"
+
+--001a11444c123b59a80555360ac7
+Content-Type: text/plain; charset="UTF-8"
+
+
+** Address not found **
+
+Your message wasn't delivered to chris@chrisadlamnlp.com because the address couldn't be found. Check for typos or unnecessary spaces and try again.
+
+Learn more here: https://support.google.com/mail/?p=DisabledUser
+
+The response was:
+
+The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+
+--001a11444c123b59a80555360ac7
+Content-Type: text/html; charset="UTF-8"
+
+
+<html>
+<head>
+<style>
+* {
+font-family:Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+</style>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" class="email-wrapper" style="padding-top:32px;background-color:#ffffff;"><tbody>
+<tr><td>
+<table cellpadding=0 cellspacing=0><tbody>
+<tr><td style="max-width:560px;padding:24px 24px 32px;background-color:#fafafa;border:1px solid #e0e0e0;border-radius:2px">
+<img style="padding:0 24px 16px 0;float:left" width=72 height=72 alt="Error Icon" src="cid:icon.png">
+<table style="min-width:272px;padding-top:8px"><tbody>
+<tr><td><h2 style="font-size:20px;color:#212121;font-weight:bold;margin:0">
+Address not found
+</h2></td></tr>
+<tr><td style="padding-top:20px;color:#757575;font-size:16px;font-weight:normal;text-align:left">
+Your message wasn't delivered to <a style='color:#212121;text-decoration:none'><b>chris@chrisadlamnlp.com</b></a> because the address couldn't be found. Check for typos or unnecessary spaces and try again.
+</td></tr>
+<tr><td style="padding-top:24px;color:#4285F4;font-size:14px;font-weight:bold;text-align:left">
+<a style="text-decoration:none" href="https://support.google.com/mail/?p=DisabledUser">LEARN MORE</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr style="border:none;background-color:#fff;font-size:12.8px;width:90%">
+<td align="left" style="padding:48px 10px">
+The response was:<br/>
+<p style="font-family:monospace">
+The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+</p>
+</td>
+</tr>
+</tbody></table>
+</body>
+</html>
+
+--001a11444c123b59a80555360ac7--
+--001a11444c123b59a20555360ac6
+Content-Type: image/png; name="icon.png"
+Content-Disposition: attachment; filename="icon.png"
+Content-Transfer-Encoding: base64
+Content-ID: <icon.png>
+
+iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAABYlAAAWJQFJUiTwAAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABTdJREFUeNrsnD9sFEcUh5+PRMqZ
+yA0SPhAUQAQFUkyTgiBASARo6QApqVIkfdxGFJFSgGhJAUIiBaQB0ZIOKVCkwUgURjIg2fxL4kS+
+YDvkbC/388bi8N16Z4/d7J/5PsniuD3fyePP772ZeTsDQRAYQL/UGAJAIEAgQCBAIAAEAgQCBAIE
+AkAgyJT3Mv+Eq7vYK8mTE+MDRCAghQECAeRQA5V2ZOpmg5vDx3NPzRbmGRMEcmTrEbNNB8zWfRD+
+f/Efs2e3zCZvMjaksBg27TfbcuSNPEKP9ZyuAQKtHX2O9ncNgWC57umMPKvRNb0GEKgnLoUyxTQC
+rcns0/6uIRAs8/hGf9cQCJZpTpjdO2f25/03z+mxntM1eLtsZAgiUtX4JcaBCAQIBAgECARQ8CJa
+G5jab4J4pm4WZmO3OALVh802fIwcLkyPkcKAGggAgQCBAIEAgQCBABAIEAjKA/1AnahhbO5FdOOY
+VsrrDbPBYcYKgf5D2wLaV3p+22xh1u17tO3S+DTcvxvagUDeivPgx/a/95J/73w7Sj26Hn4pKo2M
+ehuV/KyBJM6d0f7k6RKx/R63vvL2tmf/ItDdM2ZTP6f7nkp9Y2fDx1v9akmpIU+KSCLVUghUQfSL
+zVKeTklbLxGoctw/nzC5rw8L5KRNbkpnKq6pgSqEClzNnFzY+XnYWrt6VpVk1vbwWvg+RKCKMOUw
+Q1LEOXA+/MX3mpJvGDHb265xtnzmFoUK1HaKQGlMtePYM+q2KKjXuaS1NJYIEKgI8jhEgqHt4cqy
+Ky53j3hyHz2bqSLp2o2LbJ7MxKovkGqXteoWpaOk96O9/yF/dF7NwlS36AuIQIBA5celQK4PIxBE
+4LLzrtoLgaALdSy6CJRkWQCBPGLsTHznomZ9nszUECgJ2ml3WWHe+QVFNPSQx6UdZNtxr9pbEShN
+eTTz8mQXHoHSlke7+Z+c9m6VGoHSkEfs/trLW3wQKApN1V3lGfnGu2Z6BFoLtYCs3GWBPAiUCLVh
+/HoaeRCoT9R873KLM/IgUBfapnCpe5AHgXry4pf412ihEHkQqCdxd5VqrcezhUIESsJMTJ+Pdthp
+Z0WgyNlXXPHc2Mc4IVAELl2Gnh8mhUDvCkfbIVAkcbf/aOoO3fMKhqAD3frTa4quwpn0hUDOkQhI
+YYBAgECAQAAU0QlYObl+5Ug8NcprZkZxjUCxRPVA6zmtEXHCBykskrhjgHXN09PoEcgFl4M4H11j
+nBAoApcj6ZoPGScEAgTKApcDoTw5sgWB+sGlz1n90IBAPdE6j1o21PfcC11jLagL1oFWRyGlKU3p
+OxcSJQ7NZAjkhHp/uG2HFAYIBAgECASAQIBAgECAQAAIBOkxEARBtp9wdVfAMOfIifEBIhCQwgCB
+ABAI0oV2jhxZ+nfBatuPZfgBCy0Eqqo8c01b+uu51XZvzOgDWoHNTGR+pCwpLEd5svuAZXlO2uEr
+PyEQ8hRWHgRCHmqg0sjTnLalv6crJQ8C/U8stqNO0I4+VZOHFIY8COS1PGL2ybd5yUMKK7s8zYmL
+dujyd3n+nESgcsvzZd4/KwIhDwIhT35QA6UyE1qyxZnfvJMHgdKS549JC1qvvJOHFIY8CFR5eV5O
+XimqPAhUdHnmfx+zgxdOFXkoqIGKKs/cswnb/8Oeog8HEai48nxUhiFBIORBIOShBioskkbySCLk
+IQIhDwIhj28p7FApR6b1qlEbHGpkO/rr6215vi/zH1r2x7tApSGFAQIBAgECAQIBIBAgECAQIBBA
+LK8FGADCTxYrr+EVJgAAAABJRU5ErkJggg==
+--001a11444c123b59a20555360ac6--
+--001a11444c123b59290555360ac5
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; cttoaqzb@elrond.aserv.co.za
+Arrival-Date: Wed, 26 Jul 2017 03:37:50 -0700 (PDT)
+X-Original-Message-ID: <E1daJhK-0002xy-Sn@elrond.aserv.co.za>
+
+Final-Recipient: rfc822; chris@chrisadlamnlp.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+Last-Attempt-Date: Wed, 26 Jul 2017 03:37:51 -0700 (PDT)
+
+--001a11444c123b59290555360ac5
+Content-Type: message/rfc822
+
+X-Received: by 10.28.13.138 with SMTP id 132mr389721wmn.23.1501065470971;
+        Wed, 26 Jul 2017 03:37:50 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1501065470; cv=none;
+        d=google.com; s=arc-20160816;
+        b=QSmrnL5RExVRddOtJDsy8e0lcbRGCeVmdfoRbSioCwhob7UEKMiUZsfs7EeUuox3/r
+         WU1hS/8Gf9shfSjb+J8N7vBFv7XsABxv0zD4pu1FGCSRJMPyrGzPCW7xKLFWKff422L6
+         hWms1XC1dEHOEh3mMp38d6UzMiwBwv3j538upPnFSQQmRet8lL6rBNhkLW8ySSse2nlV
+         kwTJYWKSIGvoUEGEm2UZCmkONFF8dOALZ6YKpvKLc0wRQqLQc84xz71SuhI0jbhjFu9e
+         H6/TgbNBDHe+KPb4mMV5hp0lkvzbkRU7Byzdf5eGGd6AsbbcB6m0+t/J+5slaWI+v6c9
+         XOSA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=date:message-id:reply-to:from:subject:to:arc-authentication-results;
+        bh=3Qd7KLuC5gc4anf676DUl3a2MAyGR3seJg862yDOBSk=;
+        b=pbB6WbUxm3NHvA2GMq2VTba44AeuTggXfYzrN07XKS+b5wT30v6gzxbmJ0/0xp0n6j
+         adxJb3D3hbocBsb49SFufc8JRlGAvGRPeyJL7lfTMgTVv8mUhhuNLFMryFOaUAFozA/n
+         Bbz2RPInG84OHD/jO3dVnzstKhMi7jXtc2Zwmcu8H0j3w/4s1QonM9BqQldh1StwbHWR
+         kvUeo+5PDhkQ+/7E2t950t7TVnHJIEyDvJYziS2ZXI1uYBQWDto+NpYeLT+9Jn1F7xUq
+         BO/q0GveP1XnL0TY26T3ciYmt3WAQYmljyCfQmUx4lCdHeGyhZeu4m+9gmD+5WgE5k34
+         SlIQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of cttoaqzb@elrond.aserv.co.za designates 154.0.172.230 as permitted sender) smtp.mailfrom=cttoaqzb@elrond.aserv.co.za;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmail.com
+Return-Path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za (elrond.aserv.co.za. [154.0.172.230])
+        by mx.google.com with ESMTPS id t2si12984983wra.414.2017.07.26.03.37.50
+        for <chris@chrisadlamnlp.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 26 Jul 2017 03:37:50 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of cttoaqzb@elrond.aserv.co.za designates 154.0.172.230 as permitted sender) client-ip=154.0.172.230;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of cttoaqzb@elrond.aserv.co.za designates 154.0.172.230 as permitted sender) smtp.mailfrom=cttoaqzb@elrond.aserv.co.za;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmail.com
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.87)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1daJhK-0002xy-Sn
+	for chris@Chrisadlamnlp.com; Wed, 26 Jul 2017 12:37:46 +0200
+To: chris@Chrisadlamnlp.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 164.160.24.35
+From: mokhothulimm@gmail.com
+Reply-To: mokhothulimm@gmail.com
+X-Mailer: PHP/5.6.30
+Message-Id: <E1daJhK-0002xy-Sn@elrond.aserv.co.za>
+Date: Wed, 26 Jul 2017 12:37:46 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - elrond.aserv.co.za
+X-AntiAbuse: Original Domain - chrisadlamnlp.com
+X-AntiAbuse: Originator/Caller UID/GID - [1517 501] / [47 12]
+X-AntiAbuse: Sender Address Domain - elrond.aserv.co.za
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php 
+X-Source-Dir: cttoastmasters.org.za:/public_html/pix_mail
+
+
+Subscribe using flatpack form,
+name: Letele Mokhothu -  
+email: mokhothulimm@gmail.com -  
+message: I would like to join the club -  
+
+
+--001a11444c123b59290555360ac5--

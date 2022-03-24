@@ -1,0 +1,6 @@
+[06-Nov-2015 18:59:42 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php on line 7
+[06-Nov-2015 19:02:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-framework.php on line 28
+[06-Nov-2015 20:58:02 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php on line 9
+[06-May-2016 19:15:01 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php on line 7
+[06-May-2016 19:18:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-framework.php on line 28
+[07-May-2016 03:56:40 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cttoaqzb/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php on line 9

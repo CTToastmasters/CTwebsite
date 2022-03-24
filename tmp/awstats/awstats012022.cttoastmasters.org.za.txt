@@ -1,0 +1,2550 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2697                
+POS_VISITOR 54044               
+POS_DAY 101827              
+POS_DOMAIN 3580                
+POS_LOGIN 5014                
+POS_ROBOT 5169                
+POS_WORMS 6258                
+POS_EMAILSENDER 6389                
+POS_EMAILRECEIVER 6532                
+POS_SESSION 102721              
+POS_SIDER 102926              
+POS_FILETYPES 6667                
+POS_DOWNLOADS 6896                
+POS_OS 24877               
+POS_BROWSER 25363               
+POS_SCREENSIZE 27797               
+POS_UNKNOWNREFERER 27871               
+POS_UNKNOWNREFERERBROWSER 28825               
+POS_ORIGIN 29451               
+POS_SEREFERRALS 29595               
+POS_PAGEREFS 29801               
+POS_SEARCHWORDS 47830               
+POS_KEYWORDS 47982               
+POS_MISC 2360                
+POS_ERRORS 48041               
+POS_CLUSTER 4870                
+POS_SIDER_404 48143               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201003943 37 7011 14881432810513
+FirstTime 20220101002747
+LastTime 20220131234002
+LastUpdate 20220201142450 37 0 36 0 0
+TotalVisits 2012                
+TotalUnique 1206                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1221                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 34 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 100 111 2273757 11 26 239351
+1 103 115 2567454 11 29 236425
+2 133 168 5660226 12 27 293591
+3 319 583 2350894 9 20 227344
+4 237 237 2411583 24 49 794223
+5 131 131 2204135 42 59 533139
+6 111 112 2180095 107 168 1596751
+7 111 112 2628277 10 35 459249
+8 90 124 5447290 15 45 477714
+9 115 119 2975273 13 48 1133353
+10 111 142 5275709 16 45 665052
+11 93 214 12637345 15 79 749045
+12 90 131 5668930 83 109 447668
+13 113 118 3339968 17 39 404144
+14 103 105 2571820 12 30 318344
+15 99 168 8854026 19 64 1231849
+16 104 115 2688653 73 111 1089567
+17 63 63 1478067 8 53 791261
+18 85 153 8438893 29 44 588193
+19 113 149 6269018 15 52 845650
+20 105 157 7903874 9 21 138902
+21 97 140 6619114 21 70 1400332
+22 96 105 3294287 22 41 260988
+23 103 146 6619114 72 84 424474
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 83
+ru 924 924 11409640
+cn 352 426 15486571
+us 328 562 26833074
+ua 144 144 3734064
+in 141 141 2670893
+th 83 83 2152273
+nl 74 74 311172
+id 62 166 11501147
+br 57 57 1478067
+se 48 48 1244688
+gb 43 46 1115264
+jp 33 33 855723
+by 28 28 726068
+ir 26 26 674206
+de 25 36 873483
+it 24 24 622344
+za 23 438 14190727
+ar 23 23 596413
+vn 22 22 570482
+gr 19 19 492689
+tw 19 19 492689
+ca 19 19 492689
+ro 18 18 466758
+hk 17 17 440827
+pl 15 15 388965
+mw 3 3 77793
+cm 2 2 51862
+cz 9 43 3528396
+cl 8 8 207448
+kz 2 2 51862
+pa 3 3 77793
+ng 3 3 77793
+dk 5 5 129655
+ve 3 3 77793
+co 4 4 103724
+kr 8 8 207448
+cr 2 2 51862
+gt 1 1 25931
+tz 4 4 103724
+pt 4 4 103724
+ie 3 3 77793
+np 1 1 25931
+zz 10 10 259310
+bd 7 7 181517
+py 1 1 25931
+md 2 2 51862
+ps 2 2 51862
+my 5 5 129655
+uy 2 2 51862
+mx 11 11 285241
+sa 2 2 51862
+es 9 9 233379
+am 1 1 25931
+eg 4 4 103724
+al 3 3 77793
+ph 2 2 51862
+il 2 2 51862
+fi 4 4 103724
+ge 1 1 25931
+bg 9 9 233379
+cw 4 4 103724
+iq 6 6 155586
+uz 2 2 51862
+lv 9 9 233379
+bz 3 3 77793
+pk 2 2 51862
+ch 9 9 233379
+kh 5 5 129655
+sg 1 1 25931
+eu 6 6 155586
+mu 11 29 2888774
+fr 12 12 311172
+sy 1 1 25931
+ke 2 2 51862
+hu 4 4 103724
+lb 5 5 77793
+ma 1 1 25931
+mn 1 1 25931
+au 14 14 363034
+rs 7 7 181517
+hn 2 2 51862
+lt 1 1 25931
+hr 8 8 207448
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 25
+Googlebot/ 184 4767409 20220131154329 0
+AhrefsBot/ 113 3347938 20220128201820 0
+bingbot/ 39 1885876 20220130151449 0
+archive\.org_bot 25 1308475 20220112185334 0
+no_user_agent 22 570482 20220131010254 0
+robot 20 518620 20220129193834 0
+DuckDuckGo\-Favicons\-Bot/ 17 440827 20220131224225 0
+bingpreview 10 248516 20220130154531 0
+MJ12bot/ 10 259310 20220130070103 0
+bot[\s_+:,\.\;\/\\-] 6 155586 20220116144755 0
+Dalvik/ 6 155586 20220131135623 0
+Apache\-HttpClient/ 6 155586 20220123192742 0
+Mail\.RU_Bot/ 5 275168 20220119023208 0
+Applebot/ 4 279216 20220130041437 0
+BLEXBot/ 4 103724 20220131104723 0
+Barkrowler 3 0 20220131235553 0
+DotBot/ 3 55515 20220129042910 0
+facebookexternalhit/ 2 44278 20220120180001 0
+SemrushBot/ 2 51862 20220107064049 0
+360Spider 2 51862 20220106020823 0
+scanner 1 25931 20220116104246 0
+MixrankBot 1 25931 20220105050511 0
+MegaIndex\.ru/ 1 25931 20220125085403 0
+survey 1 0 20220128141601 0
+yacybot 1 25931 20220116000805 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+php 1 56 0 0
+jpg 175 41221154 0 0
+css 167 7724617 0 0
+txt 264 17104 0 0
+html 2820 57074131 0 0
+png 66 1883469 0 0
+js 220 4345463 0 0
+woff 4 88208 0 0
+gif 1 3600 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 249
+/.well-known/pki-validation/9BD6D53B38EE43AE4B5056EA1E2596C1.txt 16 0 1232
+/.well-known/pki-validation/7AA6BEC68C71FEDAE9DB82F20D1A3ECB.txt 1 0 64
+/.well-known/pki-validation/36CC892D59D6E40768125F3A327674BB.txt 1 0 64
+/.well-known/pki-validation/7D019E464291198FF4606ED875C455C3.txt 1 0 64
+/.well-known/pki-validation/86E8F45FB72194D849B76E2CD77B9AB4.txt 1 0 64
+/.well-known/pki-validation/D574391E584658DA21351EC32529E043.txt 1 0 64
+/.well-known/pki-validation/67469AB5590277723D5229283AF3A556.txt 1 0 64
+/.well-known/pki-validation/50D7060BA8510B1483BF4591798BC4B0.txt 1 0 64
+/.well-known/pki-validation/5DEE64FDD779C698DE2CCA87BC676136.txt 1 0 64
+/.well-known/pki-validation/CF5B2BA595171843A76901C102E2EF1B.txt 1 0 64
+/.well-known/pki-validation/403D6BB8E75E16AB4195329DD807CA16.txt 1 0 64
+/.well-known/pki-validation/2892448BD96732FB590E19A8A51E2E24.txt 1 0 64
+/.well-known/pki-validation/580D80EFC4DB7BE9DB6281F4BF238843.txt 1 0 64
+/.well-known/pki-validation/9BD592CACB9F2BD910BBC2C45FB02D2D.txt 1 0 64
+/.well-known/pki-validation/3748C938C9B0A5081056127019495C20.txt 1 0 64
+/.well-known/pki-validation/C3F8300C5FD3D40BDA5EE775AD120283.txt 1 0 64
+/.well-known/pki-validation/FC1B89A5B7290350681500632D571812.txt 1 0 64
+/.well-known/pki-validation/4E32FFB05760BC907165D8B8ADFAF97D.txt 1 0 64
+/.well-known/pki-validation/FEEEF58F6488EBEBB94BF5647BD17D2E.txt 1 0 64
+/.well-known/pki-validation/5137AED1E795F80C3A019F992C49DF46.txt 1 0 64
+/.well-known/pki-validation/2BD3218CDCE76EC47F2F91622FB807D0.txt 1 0 64
+/.well-known/pki-validation/7AE823BD5B0F979EBF606303C75C6196.txt 1 0 64
+/.well-known/pki-validation/858D519089FAFC48DD383ED08C1C4B4C.txt 1 0 64
+/.well-known/pki-validation/3FFAD4AFDBFBBA6264F40797018C66DB.txt 1 0 64
+/.well-known/pki-validation/782016F2CFB785FBD5F9C97FCF9F94EB.txt 1 0 64
+/.well-known/pki-validation/F8DC642EF828FD51F6605C2AF0DE2879.txt 1 0 64
+/.well-known/pki-validation/97CD7E927FFC04C4B09EFA7C43B95754.txt 1 0 64
+/.well-known/pki-validation/5F251419981DBD14E638231940BA8E61.txt 1 0 64
+/.well-known/pki-validation/15964161DBE8B7EB8F864C6FD2A2334A.txt 1 0 64
+/.well-known/pki-validation/3BE7EB6F9E2FB635B49558D85120AADC.txt 1 0 64
+/.well-known/pki-validation/173E51926FC740002CA795B5C7473139.txt 1 0 64
+/.well-known/pki-validation/40C02570C79F5C9E89E2ECC9C4D0F068.txt 1 0 64
+/.well-known/pki-validation/6935DE8988037E765179D34671DE11CC.txt 1 0 64
+/.well-known/pki-validation/C5AD6E1DC51783548FA283E351183F6F.txt 1 0 64
+/.well-known/pki-validation/9C28C9C4339C2C110DAE84F6C7B39AC1.txt 1 0 64
+/.well-known/pki-validation/23A686F389865A4CD510213D75355853.txt 1 0 64
+/.well-known/pki-validation/D0747E8D9817AA31EB55418B5DBED6EE.txt 1 0 64
+/.well-known/pki-validation/227715F0D7873A9A3138EBBC0CA373E2.txt 1 0 64
+/.well-known/pki-validation/F2A94B9326E0AC624AED94CE6A8AF6DE.txt 1 0 64
+/.well-known/pki-validation/E05D61E34BAB2DB2A6C4C71BC5BA1407.txt 1 0 64
+/.well-known/pki-validation/E183479EFF54595EE66C6102F942202A.txt 1 0 64
+/.well-known/pki-validation/0A08B572D1150187703937437A84B823.txt 1 0 64
+/.well-known/pki-validation/7CB3E56ABDBA2E84A87E2C705EA1FD55.txt 1 0 64
+/.well-known/pki-validation/DF7B7941F35A5723F1400AA0450E75E9.txt 1 0 64
+/.well-known/pki-validation/98C462E6E7C2E15BE016B91AF6669084.txt 1 0 64
+/.well-known/pki-validation/6AE5F84A2549C42BED8D1B993153625E.txt 1 0 64
+/.well-known/pki-validation/48867FDF4B5BE04C2C3B7A4E127DC49B.txt 1 0 64
+/.well-known/pki-validation/A1F23CBFDE0E6DDB5307D671898D9CBC.txt 1 0 64
+/.well-known/pki-validation/0EB31EAE7CB1D169E0EBF1A6646BC5A8.txt 1 0 64
+/.well-known/pki-validation/C384EC9BD3234D156FEE4F6367918839.txt 1 0 64
+/.well-known/pki-validation/4029CFE82DE7AD4600F50095CCF0ACCE.txt 1 0 64
+/.well-known/pki-validation/32A44E294ECCA6319BE88F464D0586F1.txt 1 0 64
+/.well-known/pki-validation/FC9D3F4FEA026B8256D166E9A0F769CF.txt 1 0 64
+/.well-known/pki-validation/08C093B894DA96E3DBF14539DA168ED3.txt 1 0 64
+/.well-known/pki-validation/9145D5C06744128D2D5450CB0DC4CE71.txt 1 0 64
+/.well-known/pki-validation/7B1982491898EAF2CD77EAD443904517.txt 1 0 64
+/.well-known/pki-validation/7B93498AE9C6A880B5E18E57E71E615B.txt 1 0 64
+/.well-known/pki-validation/E2EBFD0B991EB6098BB5F724596D9B48.txt 1 0 64
+/.well-known/pki-validation/3AE0C2791EBC6EC1389E30731B784102.txt 1 0 64
+/.well-known/pki-validation/54DD57E3E6FB7CEF0B58C149ED7CCF33.txt 1 0 64
+/.well-known/pki-validation/171CFDBF037DFD0061D18BDB82FDBCE4.txt 1 0 64
+/.well-known/pki-validation/3D6C9ACB9B27B111229B555573CD2623.txt 1 0 64
+/.well-known/pki-validation/D3B7E4DEA4355218BD38109DCFEF1D9D.txt 1 0 64
+/.well-known/pki-validation/554899954E1BF62A3E4C4DC98492813F.txt 1 0 64
+/.well-known/pki-validation/19B09C8A07A8808DAD8D9F1AF99028AF.txt 1 0 64
+/.well-known/pki-validation/5E9B9B79B893A230903887C3C8747849.txt 1 0 64
+/.well-known/pki-validation/376B830069777ECD821AAC4EB7E666FD.txt 1 0 64
+/.well-known/pki-validation/AB71C62824772BC3E7C306D04FFA62EF.txt 1 0 64
+/.well-known/pki-validation/34198D34ED9939A8FE489446B6E2075E.txt 1 0 64
+/.well-known/pki-validation/14D06C20A24B5282CE76CB008838C3EE.txt 1 0 64
+/.well-known/pki-validation/58BDCF3B71BF22E9D34DA2CA4E159BA0.txt 1 0 64
+/.well-known/pki-validation/09A08873201A5D5211224FC4FE1A3EA0.txt 1 0 64
+/.well-known/pki-validation/3D110CA7AF28D2D572690FEE9EF95A52.txt 1 0 64
+/.well-known/pki-validation/8DAC1053DD1A4756FB79DDBE934FEF42.txt 1 0 64
+/.well-known/pki-validation/BD1544502D8120B88D35343BB41448FA.txt 1 0 64
+/.well-known/pki-validation/6D0E60A59DDB3340203350209222682F.txt 1 0 64
+/.well-known/pki-validation/D412EF70B8AF8658D9A8135D79DE980B.txt 1 0 64
+/.well-known/pki-validation/2CBACB98935360499D3A8FC1CE953343.txt 1 0 64
+/.well-known/pki-validation/ECE51F4E4E4D745934BF92CE80BEC66B.txt 1 0 64
+/.well-known/pki-validation/FC09166A7856F65C4FE2A006B98E3396.txt 1 0 64
+/.well-known/pki-validation/F27C940956AA77A9058B99E127B4EE2D.txt 1 0 64
+/.well-known/pki-validation/3F659E5066C72D1D7CCBE55314238A81.txt 1 0 64
+/.well-known/pki-validation/232B198FF7EDA5BB9B26878B22191B5F.txt 1 0 64
+/.well-known/pki-validation/D70E6BCF6B0B83B53A1B9475AC7B0C59.txt 1 0 64
+/.well-known/pki-validation/194E7E512F706C303A182286FE7A539E.txt 1 0 64
+/.well-known/pki-validation/C038EBDA1B4308D605903E1DBA1D5859.txt 1 0 64
+/.well-known/pki-validation/8DBC0EA9F50C40078073D31FD455ADAD.txt 1 0 64
+/.well-known/pki-validation/5F0CFA3DA50CBA10280E7BE4C793B3D5.txt 1 0 64
+/.well-known/pki-validation/ABF2B3526DE100941316075E8B22FFFB.txt 1 0 64
+/.well-known/pki-validation/85BA1EEA1DEE632553875C8FE14E64A1.txt 1 0 64
+/.well-known/pki-validation/DE8729138BB40173174AE7B9CA1ED3B9.txt 1 0 64
+/.well-known/pki-validation/17D3F5EAE0956F02E3E4462300C19ECE.txt 1 0 64
+/.well-known/pki-validation/C7BE59B50CB04B6D227021B338AD3DA5.txt 1 0 64
+/.well-known/pki-validation/03C062E47EA05037282A7406D1A52F5F.txt 1 0 64
+/.well-known/pki-validation/FD1FD903510A63CCBAF302EE9357F212.txt 1 0 64
+/.well-known/pki-validation/F8A763A29981FCD308CD083D5546F22C.txt 1 0 64
+/.well-known/pki-validation/D5A270487BC85C86716177E06EEC7CE8.txt 1 0 64
+/.well-known/pki-validation/5C40415772AE218CFE63A6E0BAEBFE86.txt 1 0 64
+/.well-known/pki-validation/FC03FC938FD992F1119DDE38A828ED1A.txt 1 0 64
+/.well-known/pki-validation/527CC394ADEC5443E848ADA2457F7CCE.txt 1 0 64
+/.well-known/pki-validation/42247C9970A475E72967733E4A96ABD1.txt 1 0 64
+/.well-known/pki-validation/E6DD441D970961BCFF3D76A295348547.txt 1 0 64
+/.well-known/pki-validation/E14B605C6CE15220A0DC8940211F42F0.txt 1 0 64
+/.well-known/pki-validation/0EE1FF8C613A0E923BE1BABD03FBBECD.txt 1 0 64
+/.well-known/pki-validation/16512E76100E62C8B8132B1152CEA3E0.txt 1 0 64
+/.well-known/pki-validation/03D1B15B60348A29BAA7D33840CCB8D0.txt 1 0 64
+/.well-known/pki-validation/825A6FF67995D80347BD170058CA7EB4.txt 1 0 64
+/.well-known/pki-validation/AA8900B991E67E48CD7CE3A18FCA2C9D.txt 1 0 64
+/.well-known/pki-validation/B8CDE22AD5B891839FBCD7958E190A5E.txt 1 0 64
+/.well-known/pki-validation/D2460E9465C0996E8650E1346212291B.txt 1 0 64
+/.well-known/pki-validation/CB63CD503C55A31B97BFBFE0F90D4C39.txt 1 0 64
+/.well-known/pki-validation/7193C5CFE1E4BEB8312668896446DBE7.txt 1 0 64
+/.well-known/pki-validation/D9177526E4BD20FF42640EDDD61EBA0E.txt 1 0 64
+/.well-known/pki-validation/F57F1DE7ED50884B3AB254CF92173AD9.txt 1 0 64
+/.well-known/pki-validation/39B092A81A783EB36B61960E1D58CD68.txt 1 0 64
+/.well-known/pki-validation/402E6B5609596EE379AC8BE1CF1AF1D8.txt 1 0 64
+/.well-known/pki-validation/795879BA6EC1814D0F6594EEAD059F88.txt 1 0 64
+/.well-known/pki-validation/CDEAD123FE04D7254D7236756C53D1E8.txt 1 0 64
+/.well-known/pki-validation/BF4456ADFB5D7AA27B277C2B15712D15.txt 1 0 64
+/.well-known/pki-validation/C544355778FADE58ECD86709AD60E9B2.txt 1 0 64
+/.well-known/pki-validation/15188BD4F031D0B12621B3EF4E6E2A3A.txt 1 0 64
+/.well-known/pki-validation/5104D46541BED7748B673E912C731E16.txt 1 0 64
+/.well-known/pki-validation/D9CB11D03266645307EBA5997E7F4063.txt 1 0 64
+/.well-known/pki-validation/CAA1210F2AC0B4B36FF8E9EC7E3893B4.txt 1 0 64
+/.well-known/pki-validation/025811F24E1BBEE43F35F60260334B79.txt 1 0 64
+/.well-known/pki-validation/934C6356C3EF6209E9F28781F62731BC.txt 1 0 64
+/.well-known/pki-validation/14B310EA181222008EA2B8C3B91B9FCB.txt 1 0 64
+/.well-known/pki-validation/B6D3A1B6CB139161A5789A5F87C8DD39.txt 1 0 64
+/.well-known/pki-validation/BE4DA7DC66F1CA92C4459CB366B9A7AD.txt 1 0 64
+/.well-known/pki-validation/EE9740945AED88885C4B2D06BD29918D.txt 1 0 64
+/.well-known/pki-validation/ED7995CF36F557AAFDD1BDE60CE9B472.txt 1 0 64
+/.well-known/pki-validation/1105A380A5D847420D230A752DD6AA44.txt 1 0 64
+/.well-known/pki-validation/37E7666A353964AFB1D621CD6F3887E7.txt 1 0 64
+/.well-known/pki-validation/633039FB49B8C3E547ED7E207B4A1BE4.txt 1 0 64
+/.well-known/pki-validation/8F59B325DEC2EF46CAAA1372DAB6A0AD.txt 1 0 64
+/.well-known/pki-validation/F6D7673F0D66B75E3F4849FED571FC6B.txt 1 0 64
+/.well-known/pki-validation/6D279E85D537B35D1EAD296A0E839F16.txt 1 0 64
+/.well-known/pki-validation/F1AC5BEB1131DE2053A7DB645578120D.txt 1 0 64
+/.well-known/pki-validation/E94C2229AAF65ED1D9C356B802C12489.txt 1 0 64
+/.well-known/pki-validation/E55033311B600D348B562AFE6CAA4549.txt 1 0 64
+/.well-known/pki-validation/318E96864165E9646AD7E7FA8CFFD377.txt 1 0 64
+/.well-known/pki-validation/EFB4CFFCFB10B66E177CB71E531299BF.txt 1 0 64
+/.well-known/pki-validation/34A9E0ABB0D60E83DB139101DFA829FA.txt 1 0 64
+/.well-known/pki-validation/F59A7FAF0598EE8F4BA556A786E6D679.txt 1 0 64
+/.well-known/pki-validation/ED040FF97B45117D4E675C84439ECE5E.txt 1 0 64
+/.well-known/pki-validation/67E6412322E29DF86D332EBBC931CA33.txt 1 0 64
+/.well-known/pki-validation/619AC25072A63249289FFF78B134CBF7.txt 1 0 64
+/.well-known/pki-validation/CB3EC9F43AD9128968C193814B84BE33.txt 1 0 64
+/.well-known/pki-validation/64BE1B54E47B1D2B2BD43367C3328F2B.txt 1 0 64
+/.well-known/pki-validation/8B69D2D4612ABEDFAE34A2669FD56E51.txt 1 0 64
+/.well-known/pki-validation/34E4AEC56A1D3DB528DDDEF2947999DC.txt 1 0 64
+/.well-known/pki-validation/7342A4CD2486A077A284FEB9E1CA766B.txt 1 0 64
+/.well-known/pki-validation/EA3E38570E6D004BC4D497602370C231.txt 1 0 64
+/.well-known/pki-validation/182FE78A9CB49ABE0C898E423DB4CF90.txt 1 0 64
+/.well-known/pki-validation/8F4F378DC67FDF060BBEFC9157A3682A.txt 1 0 64
+/.well-known/pki-validation/A9765B5CA0DB165FD2A49FDACCB7E22C.txt 1 0 64
+/.well-known/pki-validation/CC75835716F1EC6C034F25FF8B26C786.txt 1 0 64
+/.well-known/pki-validation/0964393756FFB0780E7416C8BA2F17E2.txt 1 0 64
+/.well-known/pki-validation/DBF27CCD7D16D9D67977124FA5262FF3.txt 1 0 64
+/.well-known/pki-validation/7A4F2F91ADFE4B8C769D5554BF225B4E.txt 1 0 64
+/.well-known/pki-validation/115C15E6A90B7BF489C9EE56419C73F4.txt 1 0 64
+/.well-known/pki-validation/88CD70CC9F72DA583B596E18C6671D74.txt 1 0 64
+/.well-known/pki-validation/9C9CF651B34B9F924C40113585725880.txt 1 0 64
+/.well-known/pki-validation/57B9CE042C2EEAF7B6C735D7EA15B7FE.txt 1 0 64
+/.well-known/pki-validation/609B6113727AC57B41D906BDEF8790C4.txt 1 0 64
+/.well-known/pki-validation/310F0170B0F74F271BC857124CF00DA5.txt 1 0 64
+/.well-known/pki-validation/E8AD1E3335CED557058CDC6C0F4D9C24.txt 1 0 64
+/.well-known/pki-validation/5F00FB24DEE055CC5135C1DDC31FFA37.txt 1 0 64
+/.well-known/pki-validation/5912C02ABDB50D0163C812586FCD12B1.txt 1 0 64
+/.well-known/pki-validation/E3BDB02874ABAE9E7BBA237AAB267291.txt 1 0 64
+/.well-known/pki-validation/EF23B9FA4FDEA277ADC2EEB0910DDC05.txt 1 0 64
+/.well-known/pki-validation/48ABB677A4F382A70E47CDF026DDF294.txt 1 0 64
+/.well-known/pki-validation/A5F62A8F7CA5246C790341CD690AF0D0.txt 1 0 64
+/.well-known/pki-validation/861A997554D0D3B267FE058AD6EDCDBF.txt 1 0 64
+/.well-known/pki-validation/06B7608DD20D4A3A8E8012FA2197868B.txt 1 0 64
+/.well-known/pki-validation/EA9E8A549E6CF535B6BE7090A1A17A94.txt 1 0 64
+/.well-known/pki-validation/85B6F16BC946752A52B9A3AF59268106.txt 1 0 64
+/.well-known/pki-validation/9C1886A66D246CE700FEB6413A1E95B0.txt 1 0 64
+/.well-known/pki-validation/EC29C01CBD29889288836DD69A80B338.txt 1 0 64
+/.well-known/pki-validation/97EF75D3E85B03E735318DBB5BD6467E.txt 1 0 64
+/.well-known/pki-validation/008D0A0BBB23A5D8A246172E516626A6.txt 1 0 64
+/.well-known/pki-validation/720D1DC18614F964D292F5E73C295C0C.txt 1 0 64
+/.well-known/pki-validation/DE73540E28D77C1A9F2FEEFE6CCD012E.txt 1 0 64
+/.well-known/pki-validation/07470CB722F2904F9F8B2802A876B0C9.txt 1 0 64
+/.well-known/pki-validation/5CCB8DFF5946E3CA8349E007AEE52FE5.txt 1 0 64
+/.well-known/pki-validation/C20993D2820655320ED2170635CE1DE8.txt 1 0 64
+/.well-known/pki-validation/4D1A2F4C0F621D7F75B97467553F7A76.txt 1 0 64
+/.well-known/pki-validation/48842C31FF0FAE8B67A0F87E48C8B27D.txt 1 0 64
+/.well-known/pki-validation/5F1FB4339F6DEE50F395BE2BA8B2EA37.txt 1 0 64
+/.well-known/pki-validation/321D0C0079B0A4DEE299A6FE130EFC87.txt 1 0 64
+/.well-known/pki-validation/61D17AD34C9DC8E96C4695D19D2567D9.txt 1 0 64
+/.well-known/pki-validation/7AC6F59131C588C56E66EECF3295EDF0.txt 1 0 64
+/.well-known/pki-validation/A0A462E65913EDBEF107D08D3C7818EA.txt 1 0 64
+/.well-known/pki-validation/DC92CB2F4F42CDB56DDDCEA8121F436A.txt 1 0 64
+/.well-known/pki-validation/BEF0081D57422F6864F7738A13F0BF04.txt 1 0 64
+/.well-known/pki-validation/FC3286E0E2C29F46CAD308BA92B1DA3F.txt 1 0 64
+/.well-known/pki-validation/E764DFBFA06EAB46E59981E59E6EAF74.txt 1 0 64
+/.well-known/pki-validation/51DF7628F409A49B7FBFC7506D1695E3.txt 1 0 64
+/.well-known/pki-validation/B1F4FB05CD0037DFFB270CC79FA5139E.txt 1 0 64
+/.well-known/pki-validation/B42897BF7F78BF225A96DC7956EEE552.txt 1 0 64
+/.well-known/pki-validation/D83219740C6FA32ECBEDB38B499FAB05.txt 1 0 64
+/.well-known/pki-validation/36068E115360A3438DF51B2AF1B8B515.txt 1 0 64
+/.well-known/pki-validation/E8D242AEAE8B53ABE70329C4C0F777F6.txt 1 0 64
+/.well-known/pki-validation/EFBB7851E7971C5E4586860CFC01352F.txt 1 0 64
+/.well-known/pki-validation/5EBA844E36661663CAD68C52B09008C3.txt 1 0 64
+/.well-known/pki-validation/D9D57585E493B5802B5BFB097FF9E9D1.txt 1 0 64
+/.well-known/pki-validation/21F959E43FF422E62973719E07D55F37.txt 1 0 64
+/.well-known/pki-validation/986CB8DE2E96CAA3A08CA6CFB032F275.txt 1 0 64
+/.well-known/pki-validation/6F2E593EA89F0F0E72D67B37F2EBA82C.txt 1 0 64
+/.well-known/pki-validation/A25BE74BAF37FB2F6BC7B71712F39DFF.txt 1 0 64
+/.well-known/pki-validation/931A1AB6D131123CA53F65E341F12CB1.txt 1 0 64
+/.well-known/pki-validation/BB2B9E44A583EE38935131539404186B.txt 1 0 64
+/.well-known/pki-validation/7E34871DFB333BFDD3F9525CB178F730.txt 1 0 64
+/.well-known/pki-validation/A5B36BBF655E146C215F7237240F18BF.txt 1 0 64
+/.well-known/pki-validation/8668681D8AC6904EFA48F58D087B0191.txt 1 0 64
+/.well-known/pki-validation/DE06D658B40C23088DC6D923F5844BA6.txt 1 0 64
+/.well-known/pki-validation/D22CB299ABAA456DED6ECD1D5FEBE656.txt 1 0 64
+/.well-known/pki-validation/A305BE95CE0CA7720B14597ACA0A2AF4.txt 1 0 64
+/.well-known/pki-validation/E5CC43FA958D77AAFA0F235B60B93556.txt 1 0 64
+/.well-known/pki-validation/FC41EB37FBEE12691C037EDF264FD6D8.txt 1 0 64
+/.well-known/pki-validation/C42C4BC4FA37C3B5CF537D6C76CD0AB0.txt 1 0 64
+/.well-known/pki-validation/FC6977F87E7602738B6E006827B39899.txt 1 0 64
+/.well-known/pki-validation/12A414083B95E0C3876BBB719331F66D.txt 1 0 64
+/.well-known/pki-validation/0F218539D95B8F984BC29E1BDDFE3B03.txt 1 0 64
+/.well-known/pki-validation/ED4329A0304541872F0A377C68375E3A.txt 1 0 64
+/.well-known/pki-validation/4B5F7C622C012E737D2E38D041FFA365.txt 1 0 64
+/.well-known/pki-validation/FE69C4DE574D55FB4CE4A19EB0C0F2D3.txt 1 0 64
+/.well-known/pki-validation/EA210EDA6BB503B265D263D05F6FF863.txt 1 0 64
+/.well-known/pki-validation/C49320149349979BB35854E71209B688.txt 1 0 64
+/.well-known/pki-validation/8A0DBECCB79B48E6FB81A07BD5796B79.txt 1 0 64
+/.well-known/pki-validation/A129EC267F28FD2D15383E40878ADADC.txt 1 0 64
+/.well-known/pki-validation/F9BC6FE024CE6F4BA188226FD217C58C.txt 1 0 64
+/.well-known/pki-validation/FFC5CEF7A7651BF3CD03409C08FCD509.txt 1 0 64
+/.well-known/pki-validation/16E34832CBB6FC96963F22ADF1B06B14.txt 1 0 64
+/.well-known/pki-validation/3477348BF2D17BA24684B8C45344E603.txt 1 0 64
+/.well-known/pki-validation/21FF6B31B973896D90E0B976ECDB561F.txt 1 0 64
+/.well-known/pki-validation/E8BBCDC59E14385D059ECC058F7534CA.txt 1 0 64
+/.well-known/pki-validation/6E3BFF085F856FF359D4FEDD2EA0F6C5.txt 1 0 64
+/.well-known/pki-validation/F2DA7423AA7B53424A6AE675B40D4044.txt 1 0 64
+/.well-known/pki-validation/454C9AABE4F969F5BCB5A2D082913C9F.txt 1 0 64
+/.well-known/pki-validation/27CA01DFD8240590ABA597F1441D5845.txt 1 0 64
+/.well-known/pki-validation/9EA907E4302A041BED08C9C410386749.txt 1 0 64
+/.well-known/pki-validation/834261485DF8DCE159E751FE6261E22E.txt 1 0 64
+/.well-known/pki-validation/C1FECF8DD1D56CA9B68E5A4B1721C82F.txt 1 0 64
+/.well-known/pki-validation/AE59B9CDB9264780F6D05D382A37A0F5.txt 1 0 64
+/.well-known/pki-validation/C51C25570FC6D12F53EBBE19BDDFC988.txt 1 0 64
+/.well-known/pki-validation/17079DC94C119A6244DC3913D9716D7D.txt 1 0 64
+/.well-known/pki-validation/122888FD52D48C178B5950A27B317C6A.txt 1 0 64
+/.well-known/pki-validation/8F7FE0E186AD3F1194B7FE8D2568AC18.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 28
+Unknown 346 43
+win2003 90 90
+winxp 10 10
+androidlollipop 3 3
+macosx8 1 1
+winlong 74 74
+android 36 2
+win8 39 39
+win8.1 307 307
+macosx15 138 15
+macosx9 16 16
+win7 590 578
+androidjellybean 11 2
+macosx13 5 5
+winunknown 375 375
+linux 61 19
+macosx10 2 2
+androidoreo 37 2
+linuxubuntu 22 4
+androidmarshmallow 23 12
+win2008 65 65
+win10 1344 1140
+macosx6 1 1
+macosx11 6 6
+winnt 7 7
+macosx14 35 1
+ios_iphone 73 5
+androidnougat 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 111
+chrome81.0.4044.138 11 11
+chrome83.0.4103.24 56 56
+chrome67.0.3396.87 2 2
+opera69.0.3686.7 29 29
+firefox89.0 1 1
+chrome41.0.2227.1 1 1
+chrome80.0.3987.132 3 3
+msie4.00 98 98
+chrome90.0.4400.8 24 24
+opera10.53 1 1
+firefox58.0 3 3
+chrome66.0.3359.181 15 15
+chrome90.0.4427.0 25 25
+chrome71.0.3578.98 4 4
+chrome94.0.4606.81 4 4
+msie3.00 89 89
+chrome4.0.212.0 1 1
+firefox45.0 1 1
+chrome83.0.4096.0 35 35
+chrome4.0.213.1 1 1
+msie8.0 1 1
+safari12.1.2 36 2
+chrome73.0.3683.90 1 1
+Unknown 300 36
+chrome83.0.4099.2 43 43
+chrome83.0.4103.34 99 99
+msie6.00 103 103
+chrome83.0.4086.0 52 52
+chrome45.0.2454.94 1 1
+chrome85.0.4183.121 4 4
+chrome90.0.4430.93 204 204
+chrome49.0.2623.75 1 1
+chrome33.0.1750.517 1 1
+firefox65.0 1 1
+firefox29.0 2 2
+chrome71.0.3542.0 1 1
+chrome50.0.2661.102 7 7
+chrome62.0.3202.94 8 8
+opera54.0.2952.64 4 4
+safari15.0 71 3
+chrome57.0.2987.133 1 1
+firefox83.0 36 1
+chrome81.0.4044.129 1 1
+netscape5.0 11 2
+firefox36.0 20 2
+msie5.00 94 94
+chrome89.0.4389.128 5 1
+chrome68.0.3440.106 2 2
+chrome80.0.3987.149 1 1
+chrome78.0.3904.108 3 3
+chrome60.0.3112.90 4 4
+msie2.00 109 109
+chrome74.0.3729.157 1 1
+opera15.0.1147.153 1 1
+chrome74.0.3729.169 1 1
+chrome5.0.375.86 1 1
+chrome83.0.4100.3 39 39
+chrome88.0.4324.190 3 3
+safari14.0 1 1
+chrome68.0.3440.84 2 2
+chrome83.0.4103.61 379 379
+msie7.0 7 7
+chrome91.0.4472.114 17 9
+chrome94.0.4606.61 12 1
+firefox59.0 1 1
+firefox92.0 35 1
+chrome66.0.3359.117 1 1
+chrome75.0.3765.0 37 2
+chrome87.0.4280.141 1 0
+chrome97.0.4692.71 123 4
+chrome35.0.1916.47 9 9
+chrome42.0.2311.90 1 1
+chrome66.0.3359.170 18 18
+firefox73.0 1 1
+msie9.0 19 7
+chrome72.0.3626.121 1 1
+chrome70.0.3538.102 1 1
+chrome90.0.4430.85 297 297
+firefox94.0 1 1
+chrome90.0.4430.72 304 304
+chrome83.0.4103.14 26 26
+chrome83.0.4089.0 40 40
+chrome90.0.4430.212 2 2
+chrome83.0.4103.97 10 10
+chrome83.0.4103.44 28 28
+wap 12 1
+chrome90.0.4430.86 31 31
+chrome83.0.4102.0 45 45
+msie7.00 111 111
+chrome75.0.3770.100 38 38
+firefox79.0 12 1
+chrome65.0.3325.146 1 1
+chrome26.0.1410.65 1 1
+chrome92.0.4515.159 1 1
+chrome36.0.1985.125 5 5
+chrome96.0.4664.110 1 1
+chrome97.0.4692.99 35 1
+chrome96.0.4664.93 35 1
+chrome41.0.2226.0 1 1
+edge17 2 2
+safari14.1.2 35 1
+chrome83.0.4087.0 22 22
+chrome79.0.3945.130 4 4
+chrome83.0.4098.0 35 35
+mozilla 35 7
+safari15.1 99 10
+chrome34.0.1847.131 1 1
+chrome47.0.2526.106 6 6
+chrome83.0.4103.0 28 28
+chrome83.0.4093.3 70 70
+chrome63.0.3239.84 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+WhatsApp/2.21.22.26_A 20220125111341
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220130151031
+GuzzleHttp/7 20220126084440
+Sectigo_DCV 20220101032719
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220115190913
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131025215
+Mozilla/5.0_(compatible;_ips-agent) 20220116151949
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20220130043758
+python-requests/2.27.0 20220125194342
+Wappalyzer 20220115000308
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220119104007
+COMODO_DCV 20220131031807
+python-requests/2.26.0 20220103005111
+Grammarly/1.0_(http://www.grammarly.com) 20220116164224
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+WhatsApp/2.21.22.26_A 20220125111341
+python-requests/2.27.0 20220125194342
+python-requests/2.26.0 20220103005111
+COMODO_DCV 20220131031807
+GuzzleHttp/7 20220126084440
+Sectigo_DCV 20220101032719
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220130151031
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131025215
+Grammarly/1.0_(http://www.grammarly.com) 20220116164224
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 273 582
+From1 0 0
+From2 6 6
+From3 632 632
+From4 1914 2498
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+ecosia 2 2
+www_google_com 1 1
+duckduckgo 2 2
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 375
+https://bodylinespb.ru 8 8
+https://luxrental.com.ua 7 7
+https://www.modsgame.ru 7 7
+https://auto-vykup.kiev.ua 7 7
+http://time-seller.ru 7 7
+https://www.prjadko.kiev.ua/pamyatniki/pamyatniki-iz-mramora.html 7 7
+https://xn----9sbcgeddz7b7j.xn--p1ai/category/e-commerce/ 5 5
+https://wellcoinpay.com 5 5
+https://rieltor.club/search.php 5 5
+https://save4k.com 5 5
+https://clatronic.com.ua 5 5
+https://2gym.net/anatomiya-myshcy-spiny-cheloveka 5 5
+https://banket-restoran.ru/products 5 5
+https://rohla-shtabeler.ru/shtabelery-dlja-sklada/ 5 5
+https://xn--80akjecndbdgx.xn--80aswg 4 4
+https://ua.xn--80aae7avmmg0g.net 4 4
+https://www.studyinvienna.ru/viennauniversity 4 4
+https://www.israelcelebs.co.il/%D7%94%D7%99%D7%AA%D7%A8%D7%95%D7%A0%D7%95%D7%AA-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A8%D7%95%D7%AA-%D7%A7%D7%A4%D7%95%D7%90%D7%99%D7%9D/ 4 4
+https://ritual.net.ua/uslugi/krematsiya.html 4 4
+https://t4k.info/genres/pop 4 4
+https://amulety-talismany.ru/kukly/ 4 4
+https://carivka.com.ua 4 4
+https://midas-buy.shop/shop/ 4 4
+https://nomertaxi.top 4 4
+https://midas-buy.shop/pubg-new-state-nc/ 4 4
+https://deltacentr.com.ua 1 1
+https://vstrokax.net/category/goroda-armenii/ 3 3
+https://ivakon.ru/stroitelstvo/ 1 1
+https://studio-mint.pro/uslugi/dizayn-interera/dizayn-proektirovanie-kommercheskoy-nedvizhimosti 1 1
+https://studio-mint.pro 1 1
+https://xn----9sbcgeddz7b7j.xn--p1ai/category/franshizy/ 1 1
+https://anvilmarket.ru/product/krepezh/nozhka-reguliruemaya/ 1 1
+https://realtykharkov.net 2 2
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai 1 1
+https://kreditka.ru.com 1 1
+https://dveri-krivoj-rog.kr.ua/vhodnie-dveri-so-vstavkoy/ 2 2
+https://autobrezik.cz/jeep/ 1 1
+https://icaramelle.ru/category/zdorove/ 3 3
+https://studio-mint.pro/uslugi-i-ceny/podbor-materialov-dlya-interera 1 1
+https://idolstore.net/cartoons/ 1 1
+https://minecraft-mcpe.com/download-mcpe/minecraft-pe-1-14-60-apk/ 1 1
+https://pamjatnik.com.ua/productions 2 2
+https://studio-mint.pro/uslugi-i-ceny/avtorskiy-nadzor 1 1
+https://hydraruzxpnew9webes.com 1 1
+https://alfaconslt.ru 3 3
+https://amulety-talismany.ru/runicheskie-stavy-s-ogovorom-na-vse-sluchai-zhizni/ 2 2
+https://deltacentr.com.ua/remont-i-obsluzhivanie-hodovoj-chasti/zamena-amortizatorov/ 1 1
+https://galleryreno.com 2 2
+https://privatnamarka.com/category/dekol-ot-proizvoditelja/ 1 1
+https://actorz.ru 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-pavlovske 1 1
+https://turkru.lol/voennyj/ 1 1
+https://voenmag.com.ua/g13508418-utsenka 1 1
+https://pamjatnik.com.ua/ritualnaja-productsia/memorial-kompleks 2 2
+https://salonshtor-spb.ru/pokrivala_podushki 1 1
+https://motorsport-live.de/suzuki/ 3 3
+https://xn--80akjecndbdgx.xn--80aswg/%d0%bd%d0%b0%d0%bd%d0%be%d0%ba%d1%80%d0%b5%d0%bc%d0%bd%d0%b8%d0%b9/ 3 3
+https://by-law.ru/djetjekt-vnyje-uslug/nformac-ja-sotovyh-opjeratorov/yota 1 1
+https://ritual.nars.su/katalog-pamyatnikov.html 2 2
+https://mydiary.su 1 1
+https://hardcs.ru/%D0%BA%D1%8116_%D1%81%D0%BF%D0%B0%D1%83%D0%BD 1 1
+https://h-h-auto.de/lexus/ 1 1
+https://deltacentr.com.ua/tehnicheskoe-obsluzhivanie/chistka-regulirovka-i-adaptaciya-drosselnoj-zaslonki/ 1 1
+https://velesritual.com.ua 3 3
+https://kupi-elektriku.ru 2 2
+https://volvogrupp-a.se/subaru/ 1 1
+https://dveri-krivoj-rog.kr.ua/foto/ 2 2
+https://motorsport-live.de/ducati/ 2 2
+https://kreditka.ru.com/news/category/bystryj-zajm-onlajn/ 1 1
+https://www.prjadko.kiev.ua 1 1
+https://studio-mint.net.by/uslugi-i-ceny/individualnoe-proektirovanie-domov-i-kottedzhey 1 1
+https://voenmag.com.ua/g24539564-ochki 1 1
+https://volvogrupp-a.se/toyota/ 1 1
+https://muncatashi.ru 3 3
+https://turkru.lol/turok1990/ 1 1
+https://2gym.net/fitnes-trener-donetsk 1 1
+https://sf-auto.jp/acura/ 1 1
+https://ukavenue.ru/o-kompanii/ 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-toksovo 1 1
+https://autobrezik.cz/peugeot/ 1 1
+https://ivakon.ru/stellazhi/palletnye-nabivnye/ 1 1
+https://lechenie-alkogolizma-moskva.ru/lechenie-beloj-goryachki/ 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-kronshtadte 1 1
+https://potolki.kr.ua/%d1%84%d0%be%d1%82%d0%be%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d1%8c-%d0%bd%d0%b0-%d0%bf%d0%be%d1%82%d0%be%d0%bb%d0%ba%d0%b5/ 3 3
+https://prodaiteego.ru 1 1
+https://amulety-talismany.ru/oberegi/ 1 1
+https://conciergetravel.am/ekskursii/ 2 2
+https://minecraft-mcpe.com/mods/op-diamond/ 1 1
+https://icaramelle.ru/category/krasota/ 3 3
+https://vmagazine.dn.ua/bytovaja_tehnika/ 1 1
+https://volvogrupp-a.se/ford/ 1 1
+https://malinovskiyclinic.ru 1 1
+https://moskva.studio-mint.ru/uslugi-i-ceny/individualnoe-proektirovanie-domov-i-kottedzhey 1 1
+https://kruso.su 1 1
+https://kreditka.ru.com/news/category/oformit-kreditnuyu-kartu-onlajn/ 1 1
+https://avkbis.ru/zarabotok-bez-vlozheniy 3 3
+https://svetlica-mama-blogger.ru 2 2
+https://potolki.kr.ua/%d0%bf%d0%be%d1%82%d0%be%d0%bb%d0%ba%d0%b8-%d1%81-%d0%bf%d0%be%d0%b4%d1%81%d0%b2%d0%b5%d1%82%d0%ba%d0%be%d0%b9/ 3 3
+http://alfaknife.ru 3 3
+https://ivakon.ru/stellazhi/proekty/ 1 1
+https://voenmag.com.ua/g48660225-spalnye-meshki 1 1
+https://vskrytie-zamka.by/vskrytie-avtomobilej/importnye/ 2 2
+https://nieuweautos.com/gmc/ 1 1
+https://potolki.kr.ua/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/ 1 1
+https://studio-mint.com.ua/uslugi-i-ceny/dizayn-interera-doma 1 1
+https://xn----9sbcgeddz7b7j.xn--p1ai 2 2
+https://volvogrupp-a.se/renault/ 1 1
+https://by-law.ru/djetjekt-vnyje-uslug/dosje-na-chjelovjeka 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-yanino 1 1
+http://asupro.com 1 1
+https://moskva.studio-mint.ru/uslugi-i-ceny/avtorskiy-nadzor 2 2
+https://amulety-talismany.ru/amulety/ 1 1
+https://idolstore.net/marvel-comics/deadpool/ 1 1
+https://studio-mint.com.ua 1 1
+https://ritual.nars.su/kresty.html 3 3
+https://volvogrupp-a.se/infiniti/ 1 1
+https://by-law.ru/yuridicheskie_uslugi/njedv-zh-most/kuplja-prodazha-objektov-na-torgah 1 1
+https://autobrezik.cz 1 1
+https://www.spokiy.com/uk/vinki-z-zhivikh-kvitiv.html 3 3
+https://idolstore.net/cartoons/disney/ 1 1
+https://turgunov.ru/trening-po-peregovoram/ 1 1
+https://avkbis.ru/forex-zarabotok 1 1
+https://studio-mint.com.ua/uslugi-i-ceny/dizayn-taunhausa 1 1
+https://privatnamarka.com/category/vse-dlya-dekora/ 1 1
+https://xn--90agc8abcigou.xn--p1ai/category/instruktsii/ 1 1
+https://autobrezik.cz/mercedes-benz/ 1 1
+https://perila-iz-nerzhavejki.ru 1 1
+https://xn--b1adcgjb2abq4al4j.zp.ua/search.php 3 3
+https://conciergetravel.am/oteli/ 1 1
+https://cleaningservices.kiev.ua/yborka_posle_remonta 1 1
+https://xn--90agc8abcigou.xn--p1ai/category/oborudovanie/ 1 1
+https://kinoindia.tv 1 1
+https://www.spokiy.com/venki-iz-zhivykh-tsvetov.html 2 2
+https://pamjatnik.com.ua/ritualnaja-productsia/exclusive-memorial 3 3
+https://webtechsurvey.com/website/cttoastmasters.org.za 1 1
+https://carivka.com.ua/hotels.html 2 2
+https://anvilmarket.ru/product/krepezh/rezbovye-zaklepki-stalnye/ 1 1
+https://nieuweautos.com/subaru/ 1 1
+https://nieuweautos.com/nissan/ 1 1
+https://nomertaxi.top/gorod/moskva 1 1
+https://dufttobacco.com/buy/ 1 1
+https://nomertaxi.top/gorod 2 2
+https://ivakon.ru/stellazhi/mezoniny/ 1 1
+https://gorkigorodofficial.ru 1 1
+https://turkru.lol/melodrama/ 1 1
+https://conciergetravel.am/transport/ 2 2
+https://kinoindia.tv/detektiv/ 1 1
+https://vadstudio.biz 1 1
+https://omega-art.com.ua/category/sadovye-figury-iz-iskustmennogo-kamnya/ 1 1
+https://anvilmarket.ru/product/dekorativnye-kovannye-elementy/ruchki-dvernye/ 1 1
+https://hdon.ge 3 3
+https://sf-auto.jp/skoda/ 2 2
+https://fores.lv/ardurvis_dzivoklim 1 1
+https://rustrans.com.ua 3 3
+https://fores.lv/logi 1 1
+https://xn--80adbtgauelj.xn--p1ai 2 2
+https://vorotaminska.by/katalog/gotovyie-izdeliya-sekczionnyie-vorota/otkatnyie-vorota/ 1 1
+https://www.evrovet.su/uslugi/terapiya/ 1 1
+https://studio-mint.pro/uslugi-i-ceny/dizayn-taunhausa 1 1
+https://by-law.ru/yuridicheskie_uslugi/njedv-zh-most/ljegal-zac-ja-objektov-samovolnogo-stro-tjelstva 1 1
+https://moskva.studio-mint.ru/uslugi-i-ceny/dizayn-kottedzha 1 1
+https://idolstore.net/dc-universe/joker/ 1 1
+https://shieldmag.ru 2 2
+https://minecraft-mcpe.com 1 1
+https://banket-restoran.ru 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-otradnom 1 1
+https://www.iopt.pro 1 1
+https://odezhdasaem.ru 3 3
+https://studio-mint.net.by/uslugi-i-ceny/dizayn-taunhausa 1 1
+https://icaramelle.ru 1 1
+https://dezses-chl.ru/unichtozhenie-klopov-chelyabinsk/ 2 2
+https://opalubka-r.ru 1 1
+https://egida-chel.ru/catalog/buhgalterskoe-obslujivanie-i-soprovojdenie/ 1 1
+https://salonshtor-spb.ru/gallery 1 1
+https://nieuweautos.com/hyundai/ 1 1
+https://vskrytie-zamka.by/vskrytie-sejfov/kejsy-i-diplomaty/ 1 1
+https://hardcs.ru/%D0%BA%D1%8116_%D1%84%D0%BD%D0%B0%D1%82%D0%B8%D0%BA 1 1
+https://turgunov.ru/otdel-prodaj/ 2 2
+https://fores.lv/ieksdurvis 1 1
+https://velesritual.com.ua/cremation.html 1 1
+https://kreditka.ru.com/credit/ 1 1
+https://avkbis.ru 1 1
+https://psiholog-lebedeva.com 1 1
+https://moskva.studio-mint.ru/uslugi-i-ceny/remont-kvartir 1 1
+https://sf-auto.jp/infiniti/ 1 1
+https://velesritual.com.ua/coffins.html 2 2
+https://ritual.net.ua 1 1
+https://omega-art.com.ua/category/orekhovodstvo/ 1 1
+https://team45.ru 3 3
+https://www.spokiy.com/uk/mistse-na-kladovyshchi.html 2 2
+https://ritual.nars.su/pamyatniki-metallich%D0%B5skie.html 1 1
+http://aksonural.ru 1 1
+https://idolstore.net/games/the-witcher/ 1 1
+https://studio-mint.com.ua/dizayn-proekt/komnaty 2 2
+https://anvilmarket.ru/product/dekorativnye-kovannye-elementy/kryshki-stolbov/ 1 1
+https://h-h-auto.de/bmw/ 2 2
+https://wallseo.com 1 1
+https://vorotaminska.by/katalog/komplektuyushhie-dlya-vorot-kalitok/zamki-dlya-kalitok/ 1 1
+https://deltacentr.com.ua/tehnicheskoe-obsluzhivanie/zamena-masla-akpp/ 1 1
+https://carivka.com.ua/articles/155-otdykh-pod-kievom-s-bassejnom.html 3 3
+https://deltacentr.com.ua/tehnicheskoe-obsluzhivanie/zamena-katushek/ 1 1
+https://hdon.ge/filmebi/fentezi/ 1 1
+https://lechenie-alkogolizma-moskva.ru/lechenie-solevoj-zavisimosti/ 1 1
+http://www.tangblog.top 1 1
+https://dezses-chl.ru/unichtozhenie-tarakanov-chelyabinsk/ 2 2
+https://xn--c1ac3a.xn--80aswg 1 1
+https://ua.velesritual.com.ua/funeral.html 1 1
+https://rieltor.club 2 2
+https://ritual.net.ua/uslugi/perevozka-tela.html 1 1
+https://idolstore.net/games/minecraft/ 1 1
+https://loyalty-platform.cloud 1 1
+https://volvogrupp-a.se/audi/ 1 1
+https://vstrokax.net/category/drevnyaya-armeniya/ 2 2
+https://vorotaminska.by/katalog/komplektuyushhie-dlya-vorot-kalitok/furnitura-dlya-otkatnyix-vorot/ 1 1
+https://voenmag.com.ua/g13399846-futbolki 1 1
+https://xn--80aahcxmtfhmh.xn--p1ai/category/zagorodnaya-zhizn/ 3 3
+https://salonshtor-spb.ru/ekonomicnie_shtory 1 1
+https://pes-zone.ru 3 3
+https://mission32.ru 1 1
+https://xn--90agc8abcigou.xn--p1ai 3 3
+https://nieuweautos.com/mazda/ 1 1
+https://turkru.lol/boevik/ 1 1
+https://nieuweautos.com/opel/ 1 1
+https://dufttobacco.com/coal/ 2 2
+https://potolki.kr.ua/zhidkie-oboi/ 2 2
+https://salonshtor-spb.ru/shtory_na_luversah 1 1
+https://cleaningservices.kiev.ua 2 2
+https://one-ses.ru 2 2
+https://centurion-sport.com 1 1
+https://autobrezik.cz/citroen/ 1 1
+https://icaramelle.ru/category/pohudenie/ 1 1
+https://turkru.lol/detektiv/ 1 1
+https://autobrezik.cz/toyota/ 1 1
+https://biblioteka-school.ru 2 2
+https://kinoindia.tv/triller/ 1 1
+https://t4k.info 3 3
+https://ritual.nars.su/pamyatniki-figurniye.html 1 1
+https://www.spokiy.com/vip-pokhorony.html 1 1
+https://h-h-auto.de/gmc/ 2 2
+https://bnax.com 1 1
+https://vmagazine.dn.ua 1 1
+https://salonshtor-spb.ru/shtory_blackout 2 2
+https://hardcs.ru/%D0%BA%D1%8116_%D1%81%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80 1 1
+https://voronezh-luxcleaning.ru 1 1
+https://idolstore.net/games/hotline-miami/ 1 1
+https://studio-mint.com.ua/uslugi-i-ceny/individualnoe-proektirovanie-domov-i-kottedzhey 1 1
+https://hdon.ge/filmebi/saaxalwlo/ 2 2
+https://by-law.ru/yuridicheskie_uslugi/yur-d-chjesk-m-l-cam/podgotovka-dokumjentov-soprovozhdayushch-h-prjedpr-n-matjelskuyu-djejatjelnost 1 1
+https://ooogms.ru 1 1
+https://turkru.lol/istoricheskie/ 1 1
+https://ua.velesritual.com.ua/transport.html 1 1
+https://tvzezda.ru 3 3
+https://anvilmarket.ru 1 1
+https://studio-mint.net.by/uslugi-i-ceny/remont-kvartir 1 1
+https://nieuweautos.com/mitsubishi/ 1 1
+https://cleaningservices.kiev.ua/tseni-na-uborku-kvartir 3 3
+https://realbase.com.ua 2 2
+https://hdon.ge/filmebi/mdzafr-siuzhetiani/ 1 1
+https://okrujaushiy-mir.ru 2 2
+https://moskva.studio-mint.ru 1 1
+https://citysmile.com.ua 1 1
+https://egida-chel.ru 2 2
+https://nomertaxi.top/slujba-taxi/yandeks-taksi 1 1
+https://www.acrilove.com 3 3
+https://rustrans.com.ua/uslugi/ritualnye-perevozki 3 3
+https://trailer.monster 1 1
+https://recepti-mami.ru 3 3
+https://xn--90agc8abcigou.xn--p1ai/category/tsifrovoe-tv/ 3 3
+https://altaywiki.ru 3 3
+https://h-h-auto.de/hyundai/ 1 1
+https://minecraft-mcpe.com/download-mcpe/minecraft-pe-1-8-0-14-apk/ 1 1
+https://motorsport-live.de/kawasaki/ 2 2
+https://by-law.ru/djetjekt-vnyje-uslug/chastnii-detectiv 1 1
+https://idolstore.net/mythology-amp-fantasy/ 1 1
+https://salonshtor-spb.ru/shtory_s_otdelkoi 1 1
+https://ua.velesritual.com.ua/coffins.html 2 2
+https://h-h-auto.de/land-rover/ 1 1
+https://rentcar123.ru 2 2
+https://banket-restoran.ru/shipping-and-payment 2 2
+https://vstrokax.net/category/istoriya/ 1 1
+https://potolki.kr.ua/%d1%81%d0%b0%d1%82%d0%b8%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%bf%d0%be%d1%82%d0%be%d0%bb%d0%ba%d0%b8/ 2 2
+https://ukavenue.ru 2 2
+https://motorsport-live.de/yamaha/ 1 1
+https://fores.lv/ru/dvernaya_furnitura 1 1
+https://volvogrupp-a.se/opel/ 1 1
+https://centurion-sport.com/kupit-sportivnoe-pitanie-v-donecke.html 1 1
+https://pamjatnik.com.ua/pamjatniki-korostishev 2 2
+https://vskrytie-zamka.by 1 1
+https://dezses-chl.ru 2 2
+https://conciergetravel.am/turi-v-armeniyu-i-arcax/ 1 1
+https://hdon.ge/filmebi/dokumenturi/ 1 1
+https://h-h-auto.de/skoda/ 1 1
+https://ivakon.ru/stellazhi/palletnye-frontalnye/ 1 1
+https://blr-allpans.by 1 1
+https://vsemfutbolki.ru 3 3
+http://ubuntulinux.ru 2 2
+https://prostoy-pereezd.ru 3 3
+https://potolki.kr.ua/vybor-cveta-potolka/ 1 1
+https://www.studyinvienna.ru 3 3
+https://studio-mint.pro/uslugi-i-ceny/dizayn-kottedzha 1 1
+https://wellcoinex.com 1 1
+https://medhelper.ua 1 1
+https://nieuweautos.com/dodge/ 2 2
+https://autobrezik.cz/tesla/ 1 1
+https://uglekislygaz.ru 2 2
+https://vskrytie-zamka.by/vskrytie-dverej/rossijskie/ 2 2
+https://by-law.ru/djetjekt-vnyje-uslug 1 1
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-kolpino 1 1
+https://voenmag.com.ua/g16437146-originalnyj-kamuflyazh-chehii 1 1
+https://www.evrovet.su/klinika/vrachi/ 1 1
+https://www.israelcelebs.co.il/\xd7\x94\xd7\x99\xd7\xaa\xd7\xa8\xd7\x95\xd7\xa0\xd7\x95\xd7\xaa-\xd7\xa9\xd7\x9c-\xd7\xa4\xd7\x99\xd7\xa8\xd7\x95\xd7\xaa-\xd7\xa7\xd7\xa4\xd7\x95\xd7\x90\xd7\x99\xd7\x9d/ 1 1
+https://autobrezik.cz/honda/ 1 1
+https://kinoindia.tv/god-2021/ 2 2
+http://ubuntulinux.ru/category/config/ 3 3
+https://deltacentr.com.ua/remont-i-obsluzhivanie-hodovoj-chasti/zamena-mosta/ 1 1
+https://euromc.ru 1 1
+https://kreditka.ru.com/zajm-pod-zalog/ 1 1
+https://sf-auto.jp/volkswagen/ 1 1
+https://xn--80aahcxmtfhmh.xn--p1ai/category/ovoschi/ 2 2
+https://kreditka.ru.com/mikrozajm/ 1 1
+https://ua.velesritual.com.ua/cremation.html 2 2
+https://www.evrovet.su/uslugi/laboratoriya/ 1 1
+https://volvogrupp-a.se/hyundai/ 1 1
+https://vstrokax.net/category/kultura/ 2 2
+https://lechenie-alkogolizma-moskva.ru/reabilitaciya-narkomanov/ 1 1
+https://banket-restoran.ru/products/banketnye-blyuda-prigotovlennye-tselikom 2 2
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-kuzmolovo 1 1
+https://idolstore.net/anime/death-note/ 1 1
+https://anvilmarket.ru/product/dekorativnye-kovannye-elementy/nakonechniki-i-navershiya/ 1 1
+https://turgunov.ru 2 2
+https://sf-auto.jp/tesla/ 1 1
+https://anvilmarket.ru/projects/mangaly-i-aksessuary 1 1
+https://cleaningservices.kiev.ua/uborka-domov-i-kottedjey-v-kieve 1 1
+https://oknogid.ru/reshenie-problem/ 1 1
+https://by-law.ru/djetjekt-vnyje-uslug/uslug-djetjekt-va 1 1
+https://t4k.info/genres 1 1
+http://rentcar123.ru 1 1
+http://ubuntulinux.ru/category/news/ 1 1
+https://xn--80aahcxmtfhmh.xn--p1ai 1 1
+https://fores.lv/specialas_durvis 1 1
+https://cleaningservices.kiev.ua/tseni-na-uborku-ofisov 3 3
+https://kinoindia.tv/boevik/ 1 1
+https://by-law.ru/yuridicheskie_uslugi/f-z-chjesk-m-l-cam/bankrotstvo-f-z-chjesk-h-l-c 1 1
+https://vorotaminska.by/katalog/avtomatika-dlya-vorot-shlagbaumyi/avtomatika-dlya-otkatnyix-vorot/ 4 4
+https://potolki.kr.ua/%d0%ba%d0%b0%d1%82%d0%b0%d0%bb%d0%be%d0%b3-%d1%84%d0%be%d1%82%d0%be%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d0%b8/ 1 1
+https://dominikshop.ru 3 3
+https://anvilmarket.ru/services/khudozhestvennaya-obrabotka-metalla/ 1 1
+https://studio-mint.net.by/dizayn-proekt 1 1
+http://gorkigorodofficial.ru 1 1
+https://ua.velesritual.com.ua 1 1
+https://midas-buy.shop 2 2
+https://lechenie-alkogolizma-moskva.ru/snyatie-pohmelnogo-sindroma/ 1 1
+https://potolki.kr.ua/%d0%ba%d1%80%d0%b8%d0%b2%d0%be%d0%bb%d0%b8%d0%bd%d0%b5%d0%b9%d0%bd%d0%b0%d1%8f-%d1%81%d0%bf%d0%b0%d0%b9%d0%ba%d0%b0/ 2 2
+https://xn--80aahcxmtfhmh.xn--p1ai/category/tsvety/ 2 2
+https://xn--b1adcgjb2abq4al4j.zp.ua 4 4
+https://salonshtor-spb.ru/rimskie_shtory 1 1
+https://voenmag.com.ua/g13317202-originalnyj-kamuflyazh-ssha 1 1
+https://minecraft-mcpe.com/download-mcpe/minecraft-pe-1-16-0-51-apk/ 1 1
+https://studio-mint.net.by 2 2
+https://potolki-konkurent.ru/natyazhnyye-potolki-v-sestroretske 1 1
+https://ivakon.ru/stellazhi/rulonnye/ 1 1
+https://kinoindia.tv/films/ 1 1
+https://kreditka.ru.com/news/servis-vybora-mfo-dlya-zajma-onlajn/ 1 1
+https://volvogrupp-a.se/tesla/ 1 1
+https://motorsport-live.de/honda/ 1 1
+https://sf-auto.jp 1 1
+https://avkbis.ru/zarabotok-bez-vlozheniy/kak-zarabotat-na-fotografiyah-v-internete 3 3
+https://hydraclubbioknikokex7jop.com 1 1
+https://tyaga.store/shop/kalyany1/ 4 4
+https://fores.lv/varti 1 1
+https://sf-auto.jp/mazda/ 2 2
+https://t4k.info/artists 1 1
+https://ivakon.ru 1 1
+https://turgunov.ru/treningi-prodazh/ 1 1
+https://rafjalousie.ru 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 791 640
+206 18 527309
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 162
+/contact_us/ 1 -
+/images/4_real_estate/bg.png 1 http://www.cttoastmasters.org.za/
+/images/8_ecourse/3.png 1 http://www.cttoastmasters.org.za/
+/default.asp 1 -
+/wp/ 1 -
+/bk/ 1 -
+/wp1/ 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/new-site/ 1 -
+/test_404_page/ 5 -
+/.env 2 -
+/license.txt 9 -
+/2018/ 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/aindex.php 1 -
+/wp-content/themes/theme52382/images/icons/facebook.png 1 -
+/index.php/component/users/ 1 -
+/main/ 1 -
+/images/Social_icons/twitter-hover.png 1 http://www.cttoastmasters.org.za/
+/guestbook 1 -
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/dev/ 1 -
+/images/9_ebook/bg.png 1 http://www.cttoastmasters.org.za/
+/images/Social_icons/facebook.png 1 http://www.cttoastmasters.org.za/
+/light.cgi 1 -
+/configindex.php 1 -
+/guestbook.php 2 -
+/xmlrpc.php 9 -
+/gastenboek.php 1 -
+/solutions/ 1 -
+/images/16_medical/img2.jpg 1 http://www.cttoastmasters.org.za/
+/wordpress/ 19 -
+/apps/guestbook 1 -
+/images/apple-touch-icon.png 4 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/phocadownload/as%20we%20were%20saying%20feb%20-%20%20final.pdf 1 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/images/3_app/bg.png 1 http://www.cttoastmasters.org.za/
+/8index.php 1 -
+/system/ueditor/net/controller.ashx 1 http://cttoastmasters.org.za/system/ueditor/net/controller.ashx
+/new/ 1 -
+/images/8_ecourse/1.png 1 http://www.cttoastmasters.org.za/
+/images/Social_icons/yt.png 1 http://www.cttoastmasters.org.za/
+/images/8_ecourse/2.png 1 http://www.cttoastmasters.org.za/
+/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/humans.txt 5 -
+/wp-content/uploads/alfacgiapi/perl.alfa 1 www.google.com
+/success-stories/ 3 -
+/images/7_shop_products/bg.png 1 http://www.cttoastmasters.org.za/
+/mt/mt-xmlrpc.cgi 1 https://www.google.com/
+/ads.txt 25 -
+/README.txt 9 -
+/demo/ 1 -
+/wp-content/plugins/ubh/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/seo-joy.cgi 1 -
+/yybbs.cgi 1 -
+/index.php/2014/09/12/education-learning-fact-training-mind/ 3 -
+/gb.php 1 -
+/test/ 1 -
+/images/apple-touch-icon-114x114.png 9 http://cttoastmasters.org.za/
+/web/ 1 -
+/images/15_party/bg.png 1 http://www.cttoastmasters.org.za/
+/robots.txt 224 -
+/images/main/11_Conference_1090.jpg 1 http://cttoastmasters.org.za/
+/wp/wp-login.php 1 http://cttoastmasters.org.za
+/haccess.php 1 -
+/v2/ 1 -
+/app-ads.txt 16 -
+/images/5_hotel/Bg.png 1 http://www.cttoastmasters.org.za/
+/sitemap.xml 14 -
+/bbs.cgi 1 -
+/wp-includes/wp-atom.php 1 www.google.com
+/vendor/.env 1 -
+/images/apple-touch-icon-72x72.png 4 -
+/.well-known/security.txt 1 -
+/2020/ 1 -
+/app/.env 1 -
+/public/.env 1 -
+/wp-content/plugins/ubh/alfacgiapi/perl.alfa 1 www.google.com
+/Guestbook.php 1 -
+/wp-content/uploads/2015/11/5_ClubMeetings-150x150.jpg 2 -
+/.well-known/pki-validation/alfacgiapi/perl.alfa 1 www.google.com
+/images/14_agency/bg.png 1 http://www.cttoastmasters.org.za/
+/.well-known/wcs-challenge/cttoastmasters.org.za 248 -
+/images/7_shop_products/3.png 1 http://www.cttoastmasters.org.za/
+/home.php 1 -
+/bbm8jwehubghue34whbdfsn5wuhiyxcwezg293.php 1 -
+/images/7_shop_products/2.png 1 http://www.cttoastmasters.org.za/
+/contact_us 1 -
+/images/main/hl-6.jgp 1 http://cttoastmasters.org.za/
+/aska.cgi 1 -
+/images/1_normal/home-bg.png 1 http://www.cttoastmasters.org.za/
+/wp-content/plugins/easy-wp-smtp 1 -
+/site/ 1 -
+/wp2/ 1 -
+/images/8_ecourse/bg.png 1 http://www.cttoastmasters.org.za/
+/images/20_construction/bg1.jpg 1 http://www.cttoastmasters.org.za/
+/images/18_elegant/Hero-Header.png 1 http://www.cttoastmasters.org.za/
+/home/ 1 -
+/benefits-of-toastmasters/ 1 -
+/.well-known/acme-challenge/alfacgiapi/perl.alfa 1 www.google.com
+/2019/ 1 -
+/guestbook.html 1 -
+/css/album.css 2 -
+/2index.php 1 -
+/wp-admin/setup-config.php 2 -
+/images/16_medical/bg2.jpg 1 http://www.cttoastmasters.org.za/
+/storage/.env 1 -
+/apple-touch-icon.png 3 -
+/old/ 1 -
+/CGI/guestbook 1 -
+/wp-content/uploads/2013/10/Toastmasters-Clubs.doc-.pdf 1 -
+/toastmastersmeeting/ 1 -
+/js/respond.min.js 6 -
+/images/Social_icons/facebook-hover.png 1 http://www.cttoastmasters.org.za/
+/contact-2/ 6 -
+/images/10_business/bg.png 1 http://www.cttoastmasters.org.za/
+/phocadownload/10 1 -
+/login/.env 1 -
+/v1/ 1 -
+/alfacgiapi/perl.alfa 3 www.google.com
+/blog/wp-login.php 1 http://cttoastmasters.org.za
+/wp-content/uploads/2015/11/3_ClubMeetings-150x150.jpg 1 -
+/temp/ 1 -
+/scarbook.php 1 -
+/wp-includes/alfacgiapi/perl.alfa 1 www.google.com
+/wordpress/wp-login.php 1 http://cttoastmasters.org.za
+/images/7_shop_products/1.png 1 http://www.cttoastmasters.org.za/
+/images/Social_icons/twitter.png 1 http://www.cttoastmasters.org.za/
+/index.php 4 -
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/g_book.cgi 1 -
+/backup/ 1 -
+/gaestebuch.php 1 -
+/.well-known/alfacgiapi/perl.alfa 1 www.google.com
+/wp-login.php 6 -
+/images/6_university/bg.png 1 http://www.cttoastmasters.org.za/
+/config/.env 1 -
+/installer.php 1 -
+/images/20_construction/construction-work-building-bg.jpg 1 http://www.cttoastmasters.org.za/
+/blog/ 1 -
+/apple-touch-icon-precomposed.png 3 -
+/src/app.js 1 -
+/about-us-2/ 1 -
+/cms/ 1 -
+/images/Social_icons/youtube-hover.png 1 http://www.cttoastmasters.org.za/
+/old-wp/ 1 -
+/bak/ 1 -
+/album.cgi 1 -
+/jax_guestbook.php 1 -
+/install/ 1 -
+/tmp/ 1 -
+/images/19_new_subscribe/pattern-subscribe.png 1 http://www.cttoastmasters.org.za/
+/old-site/ 1 -
+/js/html5shiv.js 5 -
+/j-stuff.feed 1 -
+/modules.php 1 -
+/ 5 -
+/member/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1221
+185.154.14.142 37 37 0 20220131025457
+185.253.7.227 35 35 0 20220131025456
+185.154.14.108 35 35 0 20220131025456
+185.253.7.224 35 35 0 20220131025456
+185.154.14.248 34 34 0 20220131025456
+185.253.7.223 34 34 0 20220131025456
+185.154.14.148 34 34 0 20220131025456
+185.231.68.36 32 32 0 20220131025456
+89.105.213.237 31 31 0 20220131025456
+89.105.213.182 31 31 0 20220131025456
+45.132.107.248 29 29 0 20220131025456
+45.88.79.149 29 29 0 20220131025715
+185.5.249.185 28 28 0 20220131031648
+194.67.207.94 28 28 0 20220131031648
+185.125.219.13 26 26 0 20220130071933
+194.67.210.77 25 25 0 20220130071933
+94.142.141.230 23 23 0 20220130071933
+178.168.220.14 23 23 596413 20220125105012
+193.124.188.83 20 20 0 20220130084620
+193.124.190.18 20 20 0 20220130071933
+194.67.207.9 20 20 0 20220130071933
+193.124.191.92 18 18 0 20220130071932
+92.124.29.244 18 18 466758 20220114203519
+92.38.136.69 15 15 388965 20220107170415
+91.193.128.55 12 12 311172 20220128200502
+134.35.84.109 1 1 25931 20220102002801
+217.78.61.148 1 1 25931 20220114000731
+181.215.176.140 2 2 51862 20220127115246
+189.218.168.86 3 3 77793 20220116221703
+45.43.71.31 1 1 25931 20220125103207
+27.157.226.196 1 1 25931 20220120003106
+91.226.212.67 1 1 25931 20220108035509
+120.25.105.189 2 2 51862 20220129042626
+40.78.87.199 1 1 25931 20220103005111
+52.36.31.18 1 1 25931 20220127194240
+120.24.183.17 1 1 25931 20220129080622
+103.117.103.223 2 2 51862 20220130071010
+111.240.213.3 2 2 51862 20220130231050
+176.214.159.75 1 1 25931 20220129063529
+112.66.181.81 1 1 25931 20220124182628
+36.110.211.66 0 2 6082 
+188.240.101.111 2 2 51862 20220106194751
+35.87.222.223 1 1 25931 20220127060701
+185.232.164.100 1 1 25931 20220128152140
+47.106.20.55 2 2 51862 20220130034038
+102.189.122.99 2 2 51862 20220109025321
+177.125.162.160 2 2 51862 20220106201729
+196.250.190.16 1 1 25931 20220104065709
+5.140.233.250 2 2 51862 20220105233117
+117.26.194.172 2 2 51862 20220128163422
+104.249.174.131 2 2 51862 20220106045225
+101.51.84.43 2 2 51862 20220119004601
+138.128.118.130 2 2 51862 20220115064305
+37.20.227.83 4 4 103724 20220117115651
+14.118.211.102 2 2 51862 20220110094428
+154.72.78.146 2 2 51862 20220127140511
+121.244.182.238 1 1 25931 20220126050520
+92.118.160.9 1 1 25931 20220129145207
+91.192.4.76 2 2 51862 20220110074253
+92.242.254.18 2 2 51862 20220117022221
+135.125.40.67 3 3 77793 20220106233631
+42.114.253.72 2 2 51862 20220108023925
+1.192.195.8 2 2 51862 20220127113931
+155.94.128.248 2 2 51862 20220126064042
+188.126.79.6 3 3 77793 20220104035432
+192.143.42.157 2 2 51862 20220130212838
+50.63.13.221 2 2 51862 20220114143658
+101.35.110.163 2 2 51862 20220116032803
+123.120.180.113 2 2 51862 20220131105608
+123.6.49.38 1 1 25931 20220130110636
+220.249.20.50 1 1 25931 20220125014730
+47.241.212.58 2 2 51862 20220108140251
+111.240.177.249 2 2 51862 20220105042956
+195.2.75.13 1 1 25931 20220121200116
+62.113.116.197 1 1 25931 20220128200019
+192.169.139.161 1 1 25931 20220121161222
+120.38.18.86 1 1 25931 20220115035634
+210.0.158.131 2 2 51862 20220115221146
+77.82.168.129 1 1 25931 20220108130303
+75.119.138.152 1 1 25931 20220129060754
+115.133.84.12 2 2 51862 20220111132318
+34.220.43.42 1 1 25931 20220126192553
+27.42.74.175 2 2 51862 20220112211409
+188.255.251.78 1 1 25931 20220102000505
+37.57.15.43 2 2 51862 20220106095701
+27.223.85.74 1 1 25931 20220130102543
+78.155.85.67 1 1 25931 20220114233621
+116.162.157.253 1 1 25931 20220131134325
+24.37.221.246 1 1 25931 20220128074255
+27.156.80.128 1 1 25931 20220104041239
+43.128.45.53 2 2 51862 20220122194200
+91.241.226.233 2 2 51862 20220125171017
+139.162.29.190 2 2 51862 20220130221703
+103.21.161.105 2 2 51862 20220127230457
+203.175.13.132 2 2 51862 20220127143037
+179.98.247.173 1 1 25931 20220101231033
+116.106.197.75 1 1 25931 20220115135148
+178.184.12.83 4 4 103724 20220117202432
+121.4.181.178 1 1 25931 20220119105042
+103.149.162.115 1 1 25931 20220108032318
+77.237.185.200 2 2 51862 20220125154922
+178.93.60.7 1 1 25931 20220129234500
+113.78.254.12 1 1 25931 20220127083730
+60.190.52.6 3 3 77793 20220117135018
+178.159.37.172 9 9 233379 20220128105439
+106.53.100.112 2 2 51862 20220130133108
+222.186.171.141 2 2 51862 20220123103903
+181.209.103.98 3 3 77793 20220112020157
+34.77.162.1 1 1 25931 20220129152637
+222.190.163.192 2 2 51862 20220109084906
+86.52.63.107 1 1 25931 20220130053816
+36.95.133.234 2 2 51862 20220109100003
+103.239.52.191 1 1 25931 20220115153046
+106.14.1.3 2 2 51862 20220128193503
+185.72.224.124 2 2 51862 20220118092224
+31.41.225.205 1 1 25931 20220121065204
+121.149.85.15 1 1 25931 20220123091522
+1.83.113.171 1 1 25931 20220130230707
+199.195.141.214 1 1 25931 20220119010522
+188.126.79.8 2 2 51862 20220118150433
+203.150.128.118 2 2 51862 20220111152119
+103.23.237.117 2 2 51862 20220117130239
+104.227.65.86 1 1 25931 20220110203908
+18.235.167.68 1 12 251139 20220114013956
+138.199.59.156 2 2 51862 20220127105105
+89.186.17.107 2 2 51862 20220129090239
+117.195.91.60 1 1 25931 20220115203549
+145.255.11.68 3 3 77793 20220123213802
+42.193.45.103 1 1 25931 20220109204804
+37.20.249.23 4 4 103724 20220118011637
+39.119.103.113 2 2 51862 20220128131446
+119.23.44.204 1 1 25931 20220128225252
+23.191.80.16 1 1 25931 20220121063937
+59.35.179.63 1 1 25931 20220113162303
+157.55.39.105 0 1 49460 
+54.245.217.70 1 1 25931 20220127191711
+101.51.105.217 2 2 51862 20220112201639
+183.156.120.131 2 2 51862 20220121213921
+80.253.187.26 1 1 25931 20220128021323
+154.65.86.2 1 1 25931 20220115104447
+103.140.205.138 2 2 51862 20220106055550
+14.207.82.238 2 2 51862 20220124212751
+217.27.149.190 2 2 51862 20220131001639
+101.35.108.214 2 2 51862 20220126221323
+121.5.219.20 1 1 25931 20220106000014
+162.142.125.193 1 1 25931 20220112180422
+116.209.59.38 2 2 51862 20220128152134
+14.251.196.169 2 2 51862 20220123194121
+221.195.49.232 1 1 25931 20220127010353
+46.161.11.8 1 1 25931 20220129090533
+177.159.210.163 1 1 25931 20220126134607
+82.103.70.227 1 1 25931 20220112213713
+154.72.65.138 1 1 25931 20220129015208
+103.208.12.38 1 1 25931 20220126040917
+197.245.40.107 2 2 51862 20220115214533
+135.181.48.42 3 3 77793 20220119065803
+172.94.122.132 3 3 77793 20220112052909
+180.183.226.125 2 2 51862 20220102115017
+178.184.91.4 4 4 103724 20220118034217
+195.78.247.28 1 1 25931 20220108150009
+209.203.44.176 1 1 25931 20220131004340
+158.46.181.209 1 1 25931 20220118192338
+218.89.51.225 2 2 51862 20220112131640
+54.200.79.70 1 35 3324827 20220122022345
+43.129.168.112 2 2 51862 20220115164439
+61.180.5.232 2 2 51862 20220106153540
+212.102.33.68 1 1 25931 20220129190718
+185.72.224.163 4 4 103724 20220131204152
+46.183.220.232 2 2 51862 20220124123117
+18.236.123.225 1 1 25931 20220126195106
+92.242.255.15 1 1 25931 20220113183532
+36.110.211.69 0 1 49460 
+5.188.62.76 2 2 51862 20220112094602
+121.5.147.119 2 2 51862 20220123214356
+110.78.147.184 2 2 51862 20220109100720
+47.101.201.15 1 10 882704 20220126215740
+41.205.16.139 2 2 51862 20220126044311
+203.175.13.16 2 2 51862 20220115172758
+34.77.162.5 1 1 25931 20220114003938
+34.219.3.85 1 1 25931 20220130192516
+42.3.19.119 2 2 51862 20220119071553
+194.156.95.254 3 3 77793 20220101063322
+115.238.99.174 1 1 25931 20220130023708
+154.51.131.142 4 4 103724 20220127093931
+193.169.87.194 2 2 51862 20220107101609
+146.70.52.62 2 2 51862 20220114222818
+103.47.219.125 2 2 51862 20220123182914
+35.87.131.69 1 1 25931 20220117192459
+187.144.138.195 1 1 25931 20220129112748
+113.128.40.98 2 2 51862 20220126054720
+101.34.182.125 2 2 51862 20220102061014
+198.12.64.42 1 1 25931 20220123031323
+114.46.222.114 2 2 51862 20220105040750
+91.134.13.237 3 3 77793 20220107110100
+202.96.186.86 2 2 51862 20220129124640
+14.162.141.59 1 1 25931 20220118120850
+183.88.29.116 1 1 25931 20220106092506
+122.50.6.44 1 1 25931 20220115043930
+124.77.95.167 2 2 51862 20220129212748
+101.18.122.83 1 1 25931 20220122185124
+45.145.91.88 1 1 25931 20220115190919
+18.191.92.160 2 2 51862 20220106050141
+27.155.221.42 4 4 103724 20220109104200
+125.253.125.138 2 2 51862 20220129222501
+186.211.97.62 1 1 25931 20220105025420
+213.230.109.175 2 2 51862 20220128233639
+40.77.167.18 0 5 36989 
+23.90.40.253 1 1 25931 20220115051333
+112.78.133.174 2 2 51862 20220127070404
+94.158.190.63 2 2 51862 20220106142138
+176.119.83.114 2 2 51862 20220120134412
+117.30.75.15 2 2 51862 20220129142608
+46.161.11.123 6 6 155586 20220128151918
+8.29.105.29 2 2 51862 20220119231957
+58.216.159.46 3 3 77793 20220115121631
+179.43.61.25 1 1 25931 20220111181349
+35.164.31.251 1 1 25931 20220116194622
+94.23.205.225 2 2 51862 20220117140234
+118.126.124.172 1 1 25931 20220122195006
+220.249.79.138 1 1 25931 20220127091137
+95.216.101.39 3 3 77793 20220114194423
+43.239.162.2 1 1 25931 20220129001140
+92.118.160.5 1 1 25931 20220109074314
+46.161.11.73 8 8 207448 20220128152445
+112.250.230.173 1 1 25931 20220129094825
+45.129.18.186 1 1 0 20220110125708
+123.252.116.23 2 2 51862 20220123090722
+54.202.0.255 1 1 25931 20220126192622
+92.242.255.13 2 2 51862 20220127123152
+111.76.161.132 2 2 51862 20220120195009
+220.249.195.130 1 1 25931 20220112210028
+110.74.198.42 2 2 51862 20220128203712
+81.201.63.13 2 2 51862 20220109021623
+94.253.41.32 2 2 51862 20220129112425
+110.77.232.143 2 2 51862 20220113165313
+95.179.249.135 2 2 51862 20220119073357
+185.176.27.152 2 2 51862 20220128151520
+213.6.68.94 1 1 25931 20220117150719
+178.159.37.24 3 3 77793 20220126124215
+49.229.32.173 1 1 25931 20220125084601
+125.78.227.138 2 2 51862 20220114103941
+46.28.101.194 2 2 51862 20220108233446
+182.84.145.89 1 1 25931 20220119075321
+107.150.31.20 2 2 51862 20220129102200
+31.23.166.102 2 2 51862 20220125052427
+89.22.152.32 1 1 25931 20220129015452
+175.44.42.135 1 1 25931 20220101074825
+101.109.176.145 2 2 51862 20220115212121
+34.96.130.27 1 1 25931 20220118110408
+175.143.169.39 2 2 51862 20220108144009
+37.131.134.90 1 1 25931 20220125170359
+165.22.43.8 3 3 77793 20220103162916
+31.8.116.56 2 2 51862 20220113053659
+190.149.55.214 1 1 25931 20220127052447
+68.235.38.154 1 1 25931 20220117225345
+221.219.183.42 1 1 25931 20220106153720
+109.194.243.36 9 9 233379 20220112135947
+31.134.125.80 1 1 25931 20220124095430
+103.142.140.241 1 1 25931 20220117072701
+103.47.238.149 2 2 51862 20220120043230
+45.129.18.62 1 1 0 20220112135755
+187.87.218.6 2 2 51862 20220113071917
+78.47.163.81 1 1 25931 20220105222804
+111.230.198.160 2 37 3354100 20220129193133
+185.76.11.23 5 5 129655 20220130170625
+213.166.80.8 2 2 51862 20220120202434
+182.119.162.113 1 1 25931 20220123222732
+125.87.83.139 2 2 51862 20220118134846
+187.94.211.60 1 1 25931 20220102004940
+124.88.135.164 2 2 51862 20220123173114
+101.32.128.47 1 1 25931 20220123175742
+120.24.193.93 1 1 25931 20220131231212
+62.210.80.33 3 3 77793 20220110060113
+91.236.157.57 1 1 25931 20220104112420
+176.58.20.226 2 2 51862 20220118100635
+125.135.98.94 2 2 51862 20220113223812
+154.13.1.21 3 3 77793 20220102165512
+190.96.73.170 2 2 51862 20220112160513
+191.97.33.191 2 2 51862 20220119110902
+23.105.195.240 1 1 25931 20220124162739
+40.134.10.174 2 2 51862 20220106103447
+129.146.18.152 1 1 25931 20220130123147
+82.142.147.174 1 1 25931 20220111083400
+46.98.107.0 1 1 25931 20220116215446
+103.153.142.3 1 1 25931 20220121233642
+181.177.121.10 2 2 51862 20220116142421
+178.184.12.5 4 4 103724 20220116213152
+218.87.108.231 1 1 25931 20220130225204
+51.15.7.157 3 3 77793 20220123134626
+103.47.238.211 1 1 25931 20220101162320
+195.246.120.171 3 3 77793 20220114082648
+212.200.198.48 2 2 51862 20220123190427
+180.183.11.182 2 2 51862 20220127070109
+161.49.230.114 2 2 51862 20220113194210
+45.43.71.24 1 1 25931 20220125154014
+118.126.124.141 1 1 25931 20220126222755
+38.128.156.64 1 1 0 20220122022319
+197.185.105.98 1 35 3324827 20220126230331
+27.156.80.244 2 2 51862 20220106205855
+102.65.40.192 2 38 3355253 20220128124959
+183.166.124.78 2 2 51862 20220109203020
+41.60.236.19 1 1 25931 20220106071212
+196.41.46.242 1 1 25931 20220108093658
+104.131.65.115 7 7 181517 20220131152946
+54.184.194.152 1 1 25931 20220127191615
+43.131.56.37 2 2 51862 20220104231428
+197.50.130.58 1 1 25931 20220109094232
+190.111.248.194 1 1 25931 20220101024759
+185.58.207.251 2 2 51862 20220112115738
+37.120.147.174 1 1 25931 20220131033526
+91.223.89.107 1 1 25931 20220108153958
+116.23.9.33 2 2 51862 20220103090933
+34.86.35.14 1 1 25931 20220122071931
+92.118.160.61 1 1 25931 20220108013814
+46.8.17.7 2 2 51862 20220103041737
+195.176.3.23 3 3 77793 20220120074204
+54.200.185.171 1 1 25931 20220129192548
+117.102.115.154 1 1 25931 20220113034141
+165.227.104.122 1 1 25931 20220119054558
+46.161.48.61 1 1 25931 20220117123704
+178.20.47.113 5 5 129655 20220125051059
+46.161.11.43 6 6 155586 20220128144251
+5.255.177.148 3 3 77793 20220131161006
+122.9.162.243 2 2 51862 20220130033636
+185.241.61.44 1 1 25931 20220126231821
+49.48.126.169 1 1 25931 20220119160729
+211.136.100.154 4 4 103724 20220130112523
+209.97.141.8 1 1 25931 20220102021921
+128.177.124.194 2 2 51862 20220104013148
+103.158.124.30 1 1 25931 20220102125545
+94.124.78.180 2 2 51862 20220107202642
+183.89.126.247 2 2 51862 20220105063514
+178.129.197.209 2 2 51862 20220110030643
+193.38.235.152 3 3 77793 20220131143444
+65.20.198.211 2 2 51862 20220123234655
+116.105.24.177 2 2 51862 20220108080859
+104.131.8.62 2 2 51862 20220128140732
+46.8.222.76 1 1 25931 20220121130944
+167.99.227.65 2 2 51862 20220112063804
+124.223.95.219 1 1 25931 20220123193330
+45.142.214.153 4 4 103724 20220113005318
+107.150.31.77 2 2 51862 20220126095851
+192.143.144.123 2 2 51862 20220106034204
+178.62.79.49 1 1 25931 20220119133622
+1.192.195.11 1 1 25931 20220101132055
+186.147.223.244 2 2 51862 20220115201826
+177.73.26.253 2 2 51862 20220112091936
+188.95.20.138 2 2 51862 20220127135031
+34.213.96.254 1 1 25931 20220128193344
+185.152.93.155 1 1 25931 20220112195943
+180.76.250.195 1 1 25931 20220119090905
+91.199.212.132 0 3 231 
+85.204.143.3 2 2 51862 20220129011356
+5.189.184.146 1 1 25931 20220122203225
+185.191.124.151 3 3 77793 20220109213622
+178.212.48.51 2 2 51862 20220123043819
+14.207.200.140 2 2 51862 20220128044835
+119.235.50.246 2 2 51862 20220104215328
+178.159.37.66 8 8 207448 20220124220702
+58.242.79.161 1 1 25931 20220131110940
+171.125.142.21 1 1 25931 20220128084705
+46.36.70.104 1 1 25931 20220110165634
+176.122.116.214 1 1 25931 20220121021115
+62.113.118.20 3 3 77793 20220126060328
+31.28.4.214 1 1 25931 20220129190207
+125.118.62.88 1 1 25931 20220121070926
+200.223.164.213 1 1 25931 20220101145016
+193.37.68.22 3 3 77793 20220127210634
+61.153.213.34 1 1 25931 20220107031714
+50.18.226.101 2 2 51862 20220120184203
+134.73.222.151 2 2 51862 20220124233419
+176.123.25.91 1 1 25931 20220103225158
+101.224.160.28 1 1 25931 20220109041048
+119.42.123.28 2 2 51862 20220108072237
+2.58.149.249 1 1 25931 20220124041051
+123.56.247.119 1 1 25931 20220121035228
+217.25.228.35 3 3 77793 20220128014232
+34.96.130.3 1 1 25931 20220124232138
+103.76.20.155 2 2 51862 20220127004405
+59.49.30.14 2 2 51862 20220119151128
+190.107.130.140 2 2 51862 20220117045814
+212.107.29.37 2 2 51862 20220101233848
+192.3.116.131 1 1 25931 20220119231506
+113.128.121.149 1 1 25931 20220120053222
+59.46.225.66 1 1 25931 20220118151850
+89.251.144.37 1 1 25931 20220120093439
+68.235.33.186 1 1 25931 20220120100257
+213.179.245.72 2 2 51862 20220129013138
+103.138.75.120 2 2 51862 20220103073515
+95.84.48.231 2 2 51862 20220115065530
+187.18.42.203 2 2 51862 20220104070343
+104.192.108.10 2 25 1295129 20220125121335
+110.78.152.174 2 2 51862 20220109103654
+43.225.71.120 1 1 25931 20220113215710
+43.224.8.124 1 1 25931 20220120182419
+79.142.77.59 2 2 51862 20220130164045
+1.169.68.199 2 2 51862 20220121120629
+36.81.76.237 2 2 51862 20220124171951
+152.89.107.127 2 2 51862 20220107090938
+109.174.124.182 2 2 51862 20220111061758
+27.156.81.178 1 1 25931 20220112144016
+37.120.183.91 1 1 25931 20220115210138
+194.226.60.107 2 2 51862 20220126231749
+88.147.152.69 2 2 51862 20220110060619
+192.252.208.67 1 1 25931 20220124190223
+159.223.24.219 2 2 51862 20220113041116
+185.122.170.78 2 2 51862 20220128180838
+178.239.151.144 1 1 25931 20220115213628
+94.103.81.70 3 3 77793 20220113015214
+177.138.30.93 1 1 25931 20220121163154
+204.101.61.81 2 2 51862 20220115233106
+123.54.224.194 2 2 51862 20220104230423
+46.161.11.63 6 6 155586 20220107074508
+43.155.97.111 2 2 51862 20220116074006
+110.42.163.208 1 1 25931 20220121033320
+217.114.148.111 2 2 51862 20220117085934
+20.126.28.186 3 3 77793 20220103101715
+124.113.216.53 1 1 25931 20220120040049
+166.111.50.90 1 1 25931 20220110102238
+182.52.131.210 2 2 51862 20220111161250
+175.175.59.95 2 2 51862 20220114103606
+203.150.113.70 2 2 51862 20220118122843
+14.207.27.175 2 2 51862 20220101233411
+121.62.60.178 2 2 51862 20220106203102
+194.226.4.243 1 1 25931 20220119034046
+122.254.85.187 1 1 25931 20220113043049
+159.69.119.121 1 1 25931 20220125194359
+23.105.211.183 2 2 51862 20220123112059
+212.102.33.80 1 1 25931 20220130043839
+41.239.219.223 2 2 51862 20220116175804
+46.242.13.46 3 3 77793 20220119094158
+77.82.214.120 1 1 25931 20220102012020
+101.51.235.75 2 2 51862 20220118193601
+177.128.62.188 1 1 25931 20220114235124
+47.107.108.14 2 2 51862 20220128172433
+197.245.105.180 2 2 51862 20220125005613
+109.194.255.225 8 8 207448 20220121182046
+61.90.7.57 1 1 25931 20220120085025
+218.65.221.24 1 1 25931 20220106190557
+193.169.253.97 2 2 51862 20220113034653
+159.192.84.204 2 2 51862 20220122143436
+188.93.67.194 4 4 103724 20220118231925
+87.248.146.167 1 1 25931 20220110090539
+106.52.234.87 2 2 51862 20220104064212
+195.246.120.153 3 3 77793 20220108085529
+189.51.118.15 1 1 25931 20220126074852
+194.32.122.10 2 2 51862 20220115140208
+51.159.23.22 1 1 25931 20220114183631
+171.5.163.162 2 2 51862 20220113020323
+180.253.53.5 1 1 25931 20220125125758
+196.216.12.21 3 3 77793 20220120182550
+195.246.120.149 2 2 51862 20220103195147
+103.248.42.88 1 1 25931 20220101140738
+1.160.129.9 2 2 51862 20220116184559
+78.38.67.80 2 2 51862 20220121051228
+178.159.37.8 3 3 77793 20220129063800
+109.236.52.113 1 1 25931 20220108145157
+108.166.201.80 2 2 51862 20220104230806
+101.6.61.134 1 1 25931 20220108212011
+59.35.179.216 1 1 25931 20220101132353
+204.199.73.101 2 2 51862 20220115051929
+27.156.80.80 2 2 51862 20220107130617
+207.180.204.70 1 1 25931 20220130045151
+120.38.70.230 2 2 51862 20220112050620
+14.102.101.254 1 1 25931 20220110181028
+5.180.78.6 1 1 25931 20220128220742
+119.29.221.234 1 1 25931 20220129153924
+109.162.235.80 2 2 51862 20220110235830
+103.21.163.76 3 3 77793 20220125041317
+161.117.10.233 2 2 51862 20220130232703
+103.15.240.248 1 1 25931 20220103054757
+173.249.2.31 2 2 51862 20220108134201
+148.153.2.34 1 1 25931 20220106224741
+41.215.100.91 2 2 51862 20220115210347
+111.201.210.119 1 1 25931 20220105175423
+179.191.15.110 1 1 25931 20220101002747
+103.143.8.122 2 2 51862 20220112202822
+83.151.4.172 2 2 51862 20220118102505
+188.163.46.154 12 12 311172 20220125144448
+1.117.140.203 1 1 25931 20220114114210
+175.110.193.10 2 2 51862 20220105004046
+176.48.69.140 4 4 103724 20220117021716
+107.145.24.181 2 2 51862 20220119133634
+37.152.180.224 1 1 25931 20220110073031
+146.70.52.203 2 2 51862 20220117144841
+121.5.226.36 1 1 25931 20220105015111
+81.12.124.249 2 2 51862 20220117160048
+41.72.214.14 1 1 25931 20220114120644
+188.126.73.217 1 1 25931 20220130225609
+156.146.50.73 1 1 25931 20220108052326
+58.17.6.9 2 2 51862 20220120221716
+185.247.21.167 5 5 129655 20220128004622
+84.232.247.54 4 4 103724 20220131113114
+188.163.18.30 2 2 51862 20220128033803
+184.178.172.13 1 1 25931 20220119032315
+47.100.115.31 1 1 25931 20220129083138
+42.3.18.231 2 2 51862 20220127031920
+103.156.248.31 2 2 51862 20220109145015
+176.102.195.19 2 2 51862 20220117153916
+84.236.158.133 1 1 25931 20220103122406
+83.169.216.166 1 1 25931 20220131032121
+202.84.46.107 2 2 51862 20220117075635
+172.82.128.203 1 1 25931 20220124041114
+195.181.161.9 2 2 51862 20220106100428
+161.117.9.99 2 2 51862 20220125065855
+5.9.117.84 1 1 25931 20220125194342
+68.183.156.20 2 2 51862 20220115133654
+178.184.4.87 4 4 103724 20220116190359
+5.165.129.139 5 5 129655 20220122180554
+27.14.80.58 1 1 25931 20220131130609
+134.236.16.114 2 2 51862 20220107095223
+150.129.151.42 1 1 25931 20220116104014
+34.77.162.14 1 1 25931 20220111160531
+194.32.107.161 3 3 77793 20220126073858
+182.86.191.127 2 2 51862 20220107100515
+113.121.23.185 1 1 25931 20220112161800
+89.28.207.237 2 2 51862 20220111173153
+198.54.128.243 1 1 25931 20220115055828
+98.162.25.4 2 2 51862 20220126044812
+8.210.232.17 1 1 25931 20220108145813
+103.89.253.207 2 2 51862 20220123143224
+34.220.225.93 1 1 25931 20220131192248
+45.129.18.28 1 1 0 20220109052243
+47.101.152.170 1 10 882704 20220112224211
+123.6.49.4 1 1 25931 20220119120737
+61.247.16.15 2 2 51862 20220129064055
+89.22.255.100 1 1 25931 20220126175853
+14.102.19.50 1 1 25931 20220101030449
+122.115.232.198 1 1 25931 20220126040913
+117.26.221.112 2 2 51862 20220106181721
+118.166.104.244 1 1 25931 20220107184211
+81.161.236.49 3 3 77793 20220128132736
+88.147.152.9 2 2 51862 20220105055111
+35.88.190.200 1 1 25931 20220115195430
+115.242.252.174 2 2 51862 20220110111933
+178.184.250.231 10 10 259310 20220119024618
+36.6.158.66 2 2 51862 20220119022610
+182.253.159.7 2 2 51862 20220130082345
+200.231.188.18 1 1 25931 20220128230957
+128.199.138.28 2 2 51862 20220128014236
+185.190.42.200 10 10 259310 20220126133341
+46.161.11.113 8 8 207448 20220128143656
+172.94.122.2 3 3 77793 20220126060429
+179.83.188.239 1 1 25931 20220102130443
+165.255.93.195 1 35 3324827 20220118211601
+81.163.52.199 2 2 51862 20220108142704
+105.213.124.114 1 1 25931 20220102123234
+154.0.172.230 0 261 16873 
+158.46.99.43 5 5 129655 20220108232218
+160.226.139.135 1 1 25931 20220118092933
+134.236.46.47 1 1 25931 20220124080005
+168.181.130.71 2 2 51862 20220128120604
+49.234.47.214 2 2 51862 20220126223930
+84.53.239.95 1 1 25931 20220119054611
+103.109.199.11 2 2 51862 20220117095956
+121.5.113.11 1 1 25931 20220108053218
+191.101.92.157 2 2 51862 20220111124050
+190.78.117.194 2 2 51862 20220123164431
+123.58.106.108 1 1 25931 20220123213742
+93.75.49.56 2 2 51862 20220115131850
+54.37.137.53 2 2 51862 20220128114233
+189.129.11.137 1 1 25931 20220101162027
+171.249.180.245 1 1 25931 20220129002411
+114.4.209.114 2 2 51862 20220115172621
+43.131.52.151 3 3 77793 20220105034137
+43.131.56.173 2 2 51862 20220103003141
+45.43.71.33 1 1 25931 20220125140131
+77.121.5.131 1 1 25931 20220113042914
+40.77.167.25 0 1 237 
+188.126.73.205 3 3 77793 20220125050701
+1.116.153.154 1 1 25931 20220124012114
+195.246.120.152 2 2 51862 20220131221810
+52.89.22.118 1 1 25931 20220125194406
+89.58.17.76 2 2 51862 20220131053332
+185.189.114.123 2 2 51862 20220128062910
+95.158.189.4 1 1 25931 20220105005656
+36.90.118.146 2 2 51862 20220102210554
+179.107.57.153 1 1 25931 20220128225649
+93.89.199.150 2 2 51862 20220131221138
+101.109.250.94 1 1 25931 20220119124545
+108.61.229.72 2 2 51862 20220106105800
+43.131.27.100 2 2 51862 20220104010557
+51.89.110.252 1 1 25931 20220113050428
+162.142.125.42 1 1 25931 20220115190913
+182.253.173.35 2 2 51862 20220102205653
+45.129.18.61 1 1 0 20220110023310
+178.184.47.61 4 4 103724 20220117225437
+91.121.67.43 2 2 51862 20220114072530
+106.5.208.206 1 1 25931 20220119114704
+123.150.95.142 1 1 25931 20220103111640
+188.163.73.203 4 4 103724 20220123025329
+164.132.128.23 3 3 77793 20220111044653
+138.99.93.62 2 2 51862 20220118131646
+105.213.64.190 2 2 51862 20220115192701
+182.253.232.128 2 2 51862 20220130094249
+178.20.43.117 1 1 25931 20220101122923
+101.108.182.167 1 1 25931 20220128123928
+131.221.233.179 1 1 25931 20220129022702
+47.254.254.47 2 2 51862 20220103093929
+193.169.255.43 3 3 77793 20220120235939
+92.249.201.186 1 1 25931 20220120200106
+119.235.53.245 1 1 25931 20220121013042
+159.8.56.38 1 1 25931 20220115202701
+182.52.42.16 2 2 51862 20220114052645
+200.73.131.162 1 1 25931 20220113155857
+134.35.46.176 1 1 25931 20220127164255
+117.43.4.71 1 1 25931 20220121230106
+165.22.223.82 1 1 25931 20220117092926
+103.241.227.106 1 1 25931 20220130112401
+64.246.178.34 1 1 25931 20220116042451
+45.119.88.87 3 3 77793 20220119083622
+41.147.0.113 0 1 9246 
+23.94.176.112 1 1 25931 20220118130830
+89.109.47.213 2 2 51862 20220129121601
+79.132.221.205 2 2 51862 20220105041902
+37.20.141.20 4 4 103724 20220117044042
+89.163.151.73 2 2 51862 20220107184644
+120.79.53.184 2 2 51862 20220128153441
+202.44.226.82 2 2 51862 20220123210138
+5.202.112.26 1 1 25931 20220101225622
+51.91.193.178 9 9 233379 20220126082054
+115.73.25.157 1 1 25931 20220116073623
+195.246.120.151 1 1 25931 20220128192239
+61.147.15.67 6 6 155586 20220131135710
+104.131.92.39 1 1 25931 20220123043840
+180.141.90.181 2 2 51862 20220106024931
+111.160.114.210 1 1 25931 20220103063613
+171.34.78.39 2 2 51862 20220129020937
+60.185.214.50 1 1 25931 20220129001850
+143.202.226.127 2 2 51862 20220112211112
+177.37.47.246 2 2 51862 20220119013516
+191.183.71.30 1 1 25931 20220129194247
+109.173.8.243 1 1 25931 20220130021543
+213.198.139.101 2 2 51862 20220127153844
+142.93.78.172 1 1 25931 20220108095453
+95.110.16.56 2 2 51862 20220106140000
+45.129.18.246 2 2 0 20220121061809
+110.83.154.75 2 2 51862 20220108170318
+182.84.145.80 1 1 25931 20220119102607
+120.157.50.94 2 2 51862 20220118234609
+178.184.122.60 4 4 103724 20220118060611
+37.120.235.151 2 2 51862 20220112171933
+92.118.160.13 1 1 25931 20220101052209
+49.70.33.119 2 2 51862 20220119204953
+185.125.20.237 1 1 25931 20220124165522
+58.210.110.29 1 1 25931 20220115222555
+40.77.167.5 0 1 4414 
+5.56.134.237 3 3 77793 20220106031823
+94.232.79.196 2 2 51862 20220128012130
+51.75.95.101 1 1 25931 20220102144643
+103.83.116.147 2 2 51862 20220113030216
+147.135.105.62 3 3 77793 20220101210546
+134.209.178.70 1 1 25931 20220124143518
+117.1.231.193 2 2 51862 20220128151451
+54.214.119.108 1 1 25931 20220123193607
+180.92.212.200 2 2 51862 20220120041259
+171.211.225.51 1 1 25931 20220119062809
+185.59.66.210 1 1 25931 20220127110233
+31.8.31.83 2 2 51862 20220127184517
+185.9.45.107 2 2 51862 20220129211121
+193.169.253.168 3 3 77793 20220125130917
+138.199.59.183 2 2 51862 20220122142650
+103.105.49.211 1 1 25931 20220119084959
+119.45.238.201 2 2 51862 20220121033405
+23.236.142.205 1 1 25931 20220131122922
+178.213.3.187 3 3 77793 20220125193213
+118.174.209.20 1 1 25931 20220115174821
+103.169.216.37 2 2 51862 20220123193801
+125.87.89.30 2 2 51862 20220105074635
+110.82.143.117 2 2 51862 20220129004635
+185.253.160.139 2 2 51862 20220120225442
+121.149.85.216 1 1 25931 20220123091105
+89.201.194.160 1 1 25931 20220123181105
+188.234.13.127 7 7 181517 20220130192730
+1.192.229.41 2 2 51862 20220108151031
+185.22.153.32 1 1 25931 20220126092353
+190.3.35.41 2 2 51862 20220109091024
+178.129.230.121 2 2 51862 20220122210250
+20.113.91.235 2 2 51862 20220112175915
+117.156.53.26 1 1 25931 20220114132400
+137.184.37.2 1 1 25931 20220126112230
+195.246.120.161 1 1 25931 20220119075722
+188.152.107.131 1 1 25931 20220130054217
+178.184.62.255 4 4 103724 20220117070624
+104.192.108.9 0 12 2081023 
+123.214.90.133 2 2 51862 20220121043847
+103.97.201.65 1 1 25931 20220130202547
+117.43.87.21 1 1 25931 20220114145539
+165.154.71.123 2 2 51862 20220111194120
+62.201.220.50 2 2 51862 20220109075610
+110.78.148.171 2 2 51862 20220118170033
+45.170.237.55 1 1 25931 20220113231613
+46.45.221.147 2 2 51862 20220128091136
+91.92.94.69 2 2 51862 20220107163022
+176.100.8.204 1 1 25931 20220114215229
+43.132.247.41 2 2 51862 20220117083613
+81.163.105.69 6 6 155586 20220116165202
+189.84.144.142 2 2 51862 20220113045201
+212.107.29.36 1 1 25931 20220130214944
+182.86.189.97 2 2 51862 20220114131301
+101.35.11.122 2 2 51862 20220102032600
+36.90.183.99 2 2 51862 20220107234824
+139.59.13.219 2 2 51862 20220120130035
+208.86.32.57 2 2 51862 20220121014437
+207.244.124.111 2 2 51862 20220126021242
+118.99.79.87 2 2 51862 20220106084506
+23.142.224.176 2 2 51862 20220126101414
+18.237.135.216 1 1 25931 20220124192636
+91.244.114.193 2 2 51862 20220107094804
+15.164.219.8 2 2 51862 20220131163808
+198.12.149.208 2 2 51862 20220123054744
+34.214.162.208 1 1 25931 20220130193255
+183.88.156.214 2 2 51862 20220117070406
+95.170.118.30 2 2 51862 20220123130027
+111.193.187.67 1 1 25931 20220119185118
+157.55.39.150 0 1 237 
+105.213.64.205 2 2 51862 20220113172821
+51.15.191.81 1 1 25931 20220102121745
+109.86.219.161 2 2 51862 20220129124432
+46.32.70.78 2 2 51862 20220118211940
+180.183.156.8 2 2 51862 20220131102652
+61.191.144.18 2 2 51862 20220127103443
+34.215.107.21 1 1 25931 20220131191344
+51.79.236.107 2 2 51862 20220118084923
+180.183.226.237 2 2 51862 20220128033144
+125.87.87.203 2 2 51862 20220116045202
+104.144.112.58 2 2 51862 20220110062225
+116.31.165.198 1 1 25931 20220128111340
+119.45.233.237 1 1 25931 20220116031413
+13.231.206.206 1 1 25931 20220110162646
+139.186.202.25 2 2 51862 20220103061610
+154.70.153.55 2 3 583264 20220108081527
+118.174.51.75 2 2 51862 20220104190703
+121.101.134.124 2 2 51862 20220105132151
+176.74.192.85 1 1 25931 20220123024315
+109.94.172.58 2 2 51862 20220108164518
+178.165.34.162 1 1 25931 20220127120929
+118.99.115.71 2 2 51862 20220128213436
+35.210.90.252 1 12 251139 20220115000307
+20.105.253.176 1 1 25931 20220124143438
+46.161.11.28 4 4 103724 20220108222629
+121.5.145.96 1 1 25931 20220130162721
+47.119.185.147 1 1 25931 20220107200203
+106.55.250.60 2 2 51862 20220119223019
+199.182.236.19 1 1 25931 20220111171248
+109.248.148.254 2 2 51862 20220121153343
+93.78.205.125 1 1 25931 20220128105359
+109.101.196.50 2 2 51862 20220123101442
+61.227.239.1 1 1 25931 20220128024608
+103.69.47.109 2 2 51862 20220130012411
+46.161.11.93 4 4 103724 20220107060602
+117.84.155.109 2 2 51862 20220131135239
+199.192.27.75 1 1 25931 20220108165940
+182.253.243.179 2 2 51862 20220111193558
+187.84.191.90 1 1 25931 20220109111822
+37.139.243.34 2 2 51862 20220106065649
+95.38.129.0 1 1 25931 20220105023409
+103.21.163.81 1 1 25931 20220128014720
+216.131.114.7 2 2 51862 20220120154751
+154.70.152.169 1 7 814551 20220104204454
+194.44.247.218 1 1 25931 20220123185830
+177.93.72.98 1 1 25931 20220111113718
+206.42.38.50 2 2 51862 20220128094304
+156.146.50.89 1 1 25931 20220125143954
+5.61.49.221 2 2 51862 20220115221959
+178.184.35.123 4 4 103724 20220116235519
+60.169.17.144 2 2 51862 20220119014159
+46.148.234.229 7 7 181517 20220130175515
+190.211.115.66 2 2 51862 20220105114706
+177.206.201.215 2 2 51862 20220111093142
+77.2.70.167 3 3 77793 20220121193925
+195.191.139.117 2 2 51862 20220118223852
+93.86.211.15 2 2 51862 20220120193842
+178.176.230.169 2 2 51862 20220125202642
+50.7.252.228 2 2 51862 20220115123651
+104.168.34.152 1 1 25931 20220125005418
+84.17.48.188 2 2 51862 20220118125212
+185.13.221.243 2 2 51862 20220117142430
+185.100.87.253 3 3 77793 20220120010124
+46.98.206.15 2 2 51862 20220125030209
+187.105.53.5 2 2 51862 20220116214130
+1.14.17.239 1 1 25931 20220118161846
+182.34.206.1 1 1 25931 20220128222726
+14.126.24.41 1 1 25931 20220126203432
+179.98.82.63 2 2 51862 20220111143224
+103.248.196.98 2 2 51862 20220117101752
+1.13.163.6 1 1 25931 20220108025606
+27.79.166.168 2 2 51862 20220108105536
+201.219.217.70 1 1 25931 20220112083400
+177.97.17.142 1 1 25931 20220112192813
+89.58.19.2 3 3 77793 20220109100209
+190.2.133.230 2 2 51862 20220127193411
+201.158.10.64 1 1 25931 20220110040214
+109.239.58.107 1 1 25931 20220119052253
+103.78.52.190 1 1 25931 20220102040357
+37.26.131.172 1 1 25931 20220117141513
+207.46.13.109 0 1 1200 
+34.77.162.10 2 2 51862 20220115061302
+94.228.192.197 1 1 25931 20220112071240
+213.21.201.6 4 4 103724 20220122110537
+93.100.129.140 1 1 25931 20220103164823
+92.118.160.37 3 3 77793 20220131025215
+210.140.45.79 2 2 51862 20220123162848
+203.12.200.32 1 1 25931 20220121161438
+185.27.99.143 3 3 77793 20220129170138
+40.78.143.19 0 1 88439 
+195.246.120.170 3 3 77793 20220113042315
+103.206.188.190 2 2 51862 20220123164810
+101.133.226.119 2 2 51862 20220129012036
+102.65.251.7 2 36 3346879 20220126112645
+1.192.192.4 2 2 51862 20220110111052
+134.35.171.32 2 2 51862 20220106123553
+1.204.66.29 2 2 51862 20220123190829
+178.129.234.48 1 1 25931 20220103224510
+64.233.172.67 1 1 25931 20220105235712
+84.236.174.80 2 2 51862 20220120013515
+176.113.157.149 2 2 51862 20220101022644
+5.160.13.82 2 2 51862 20220128043233
+101.18.113.189 2 2 51862 20220127073523
+104.244.73.169 1 1 25931 20220124013752
+58.64.156.55 1 1 25931 20220105050556
+193.106.240.82 3 3 77793 20220112034606
+45.129.18.242 1 1 0 20220112213633
+141.105.86.130 3 3 51862 20220110110254
+118.99.87.3 2 2 51862 20220117120126
+1.0.238.220 2 2 51862 20220131234002
+14.251.40.239 2 2 51862 20220115222225
+45.7.225.183 1 1 25931 20220119074925
+173.213.85.7 3 3 77793 20220125142001
+49.70.99.56 1 1 25931 20220115002611
+65.21.206.43 1 1 25931 20220110135339
+62.76.7.224 2 2 51862 20220120215745
+31.167.83.98 2 2 51862 20220103213558
+103.95.40.19 2 2 51862 20220108104324
+172.107.94.154 1 1 25931 20220128224001
+23.229.104.2 1 1 25931 20220117025814
+166.111.100.151 2 2 51862 20220114043019
+89.133.82.143 2 2 51862 20220121023813
+188.126.73.213 2 2 51862 20220108073630
+120.39.142.205 2 2 51862 20220108163211
+95.128.165.89 1 1 25931 20220126135706
+85.172.66.254 1 1 25931 20220123084010
+45.173.143.78 1 1 25931 20220127090211
+60.179.64.217 2 2 51862 20220104022949
+23.172.112.232 2 2 51862 20220111081409
+202.107.195.162 3 3 77793 20220117162727
+124.248.190.237 1 1 25931 20220114122730
+218.89.4.27 2 2 51862 20220121153743
+180.167.101.134 1 1 25931 20220127033411
+178.159.37.49 9 9 233379 20220130013245
+1.20.187.35 1 1 25931 20220115015115
+195.246.120.176 11 11 285241 20220130051958
+212.102.33.238 2 2 51862 20220105181520
+189.174.120.16 2 2 51862 20220109193303
+49.157.9.156 2 2 51862 20220111204432
+167.71.170.135 1 1 25931 20220112163923
+186.39.96.219 4 4 103724 20220120181146
+18.198.53.133 3 3 77793 20220123161322
+147.75.113.186 2 2 51862 20220107105104
+187.194.12.125 2 2 51862 20220120122845
+186.24.50.165 1 1 25931 20220108024326
+207.46.13.195 0 1 93639 
+105.225.210.3 2 53 3723369 20220125111341
+134.35.30.60 1 1 25931 20220112151612
+5.255.97.176 1 1 25931 20220128223839
+170.79.152.10 1 1 25931 20220108095209
+168.205.217.191 1 1 25931 20220129192401
+51.89.110.249 1 1 25931 20220113050830
+197.87.136.145 1 35 3324827 20220112154912
+104.223.93.151 2 2 51862 20220120153823
+1.2.223.75 2 2 51862 20220102070545
+78.83.194.186 2 2 51862 20220129111349
+178.168.202.240 3 3 77793 20220130112107
+168.138.165.229 2 2 51862 20220114152333
+189.150.247.242 2 2 51862 20220118114108
+149.56.150.107 1 29 1910984 20220119104004
+136.169.239.230 1 1 25931 20220109105104
+117.252.28.122 1 1 25931 20220108113958
+113.88.27.227 2 2 51862 20220105051929
+185.35.73.14 2 2 51862 20220122135940
+169.159.182.74 1 1 25931 20220111004517
+134.35.12.96 2 2 51862 20220108155730
+185.181.60.189 1 1 25931 20220126133233
+178.93.54.255 1 1 25931 20220115192431
+81.12.124.89 1 1 25931 20220109085003
+79.142.77.43 2 2 51862 20220123091241
+67.201.33.10 2 2 51862 20220119141416
+81.29.239.109 2 2 51862 20220105031948
+80.78.130.106 2 2 51862 20220124143544
+46.183.218.142 3 3 77793 20220108030326
+122.4.46.60 1 1 25931 20220105192057
+177.158.214.11 1 1 25931 20220111111812
+183.63.219.110 1 1 25931 20220127083530
+94.233.241.164 2 2 51862 20220130225941
+62.210.88.24 1 1 25931 20220120121420
+45.129.18.79 1 1 0 20220104093604
+178.17.183.36 2 2 51862 20220116163901
+42.192.11.192 1 1 25931 20220117062811
+46.161.11.133 6 6 155586 20220107054626
+91.221.66.52 4 4 103724 20220112023625
+72.49.49.11 2 2 51862 20220130004606
+185.237.8.249 1 1 25931 20220112153018
+105.186.64.195 1 35 3324827 20220126181147
+197.210.54.50 1 1 25931 20220115111202
+79.143.191.128 1 1 25931 20220111131943
+117.95.232.112 1 1 25931 20220120112059
+197.184.178.97 1 1 25931 20220125013909
+14.126.25.178 2 2 51862 20220113234839
+46.19.141.122 2 2 51862 20220120120303
+114.45.198.195 2 2 51862 20220109022318
+212.154.251.210 1 1 25931 20220116043556
+102.69.146.168 2 2 51862 20220112043102
+103.149.249.101 1 1 25931 20220124095652
+183.166.171.253 1 1 25931 20220103082535
+218.28.136.54 3 3 77793 20220129161910
+191.37.148.92 1 1 25931 20220103071020
+110.189.152.91 1 1 25931 20220110152438
+151.80.46.106 1 1 25931 20220102211058
+103.78.25.99 2 2 51862 20220102020741
+31.173.140.183 1 1 25931 20220126071150
+101.51.46.8 2 2 51862 20220122040429
+180.164.217.208 1 1 25931 20220129182528
+41.46.59.142 1 1 25931 20220116174309
+43.245.94.242 1 1 25931 20220108112153
+125.77.90.109 1 1 25931 20220109031244
+192.241.211.29 2 2 51862 20220119123102
+92.118.160.1 1 1 25931 20220110051511
+46.161.11.53 8 8 207448 20220128152136
+109.86.217.24 1 1 25931 20220118192738
+119.45.166.171 1 1 25931 20220102025304
+50.238.47.85 1 1 25931 20220128051503
+177.36.203.121 1 1 25931 20220126061024
+182.253.167.90 1 1 25931 20220115140813
+105.213.69.138 1 1 25931 20220119194637
+5.253.204.23 1 1 25931 20220130071502
+47.108.202.184 1 1 25931 20220123151109
+193.169.253.35 2 2 51862 20220120212312
+222.72.95.122 2 2 51862 20220112220015
+103.146.111.222 2 2 51862 20220105025126
+161.117.10.46 4 4 103724 20220129071650
+23.94.13.194 1 1 25931 20220131114117
+93.142.46.72 2 2 51862 20220106203704
+85.198.106.70 1 1 25931 20220106073127
+103.144.94.78 1 1 25931 20220123184033
+171.5.41.128 2 2 51862 20220104223929
+36.110.211.67 1 2 28606 20220125121451
+185.217.71.140 2 2 51862 20220111215303
+165.154.92.12 2 2 51862 20220118142738
+43.132.252.117 2 2 51862 20220105043215
+188.72.101.170 1 1 25931 20220128132645
+80.234.34.116 1 1 25931 20220108232200
+34.86.35.27 1 1 25931 20220130151031
+37.238.136.12 2 2 51862 20220105050548
+78.37.34.44 2 2 51862 20220102081406
+61.238.240.130 2 2 51862 20220101020900
+200.46.191.130 2 2 51862 20220117092741
+182.253.62.219 2 2 51862 20220115230726
+91.149.225.120 2 2 51862 20220102200646
+35.88.168.131 1 1 25931 20220114194138
+188.234.238.18 2 2 51862 20220122130343
+47.102.207.157 1 1 25931 20220129230834
+120.86.249.4 2 2 51862 20220113060820
+47.101.176.166 1 10 882704 20220112233211
+154.127.49.243 4 8 131872 20220107131538
+183.89.144.70 2 2 51862 20220122011840
+45.152.112.124 2 2 51862 20220102014850
+114.88.96.210 1 1 25931 20220114121610
+182.136.239.37 2 2 51862 20220101012557
+60.191.24.52 2 2 51862 20220127072213
+34.77.162.28 1 1 25931 20220121051114
+117.57.94.86 1 1 25931 20220121232125
+37.20.249.108 4 4 103724 20220117093420
+111.193.189.231 2 2 51862 20220114004117
+47.112.216.65 3 3 77793 20220131100916
+213.178.40.153 1 1 25931 20220117025113
+207.180.242.9 2 2 51862 20220106085058
+23.254.55.72 2 2 51862 20220108150441
+156.146.36.109 2 2 51862 20220112032813
+118.212.62.131 2 2 51862 20220120103741
+174.128.251.154 2 2 51862 20220128233736
+178.184.38.22 4 4 103724 20220118084944
+46.161.11.103 4 4 103724 20220107091116
+170.155.100.128 4 4 103724 20220126172217
+165.0.97.13 1 35 3324827 20220121153718
+92.118.160.41 1 1 25931 20220117211539
+133.18.201.197 1 1 25931 20220131165242
+218.190.226.3 4 4 103724 20220110225509
+39.108.104.232 2 2 51862 20220128143429
+192.111.135.18 2 2 51862 20220104063635
+45.41.141.139 2 2 51862 20220116144753
+107.173.140.199 2 2 51862 20220128133434
+178.129.248.123 2 2 51862 20220117214800
+54.255.203.186 2 2 51862 20220119144651
+185.186.142.34 3 3 77793 20220112194214
+178.129.228.19 2 2 51862 20220126070412
+103.149.162.113 1 1 25931 20220108031913
+176.48.30.125 2 2 51862 20220101055721
+109.226.36.78 1 1 25931 20220102004729
+34.212.251.229 1 1 25931 20220131193550
+88.201.141.106 1 1 25931 20220118234728
+45.156.26.166 2 2 51862 20220103045822
+31.146.167.114 1 1 25931 20220102030928
+117.26.221.163 1 1 25931 20220102215204
+89.113.98.251 1 1 25931 20220115034532
+191.97.36.188 2 2 51862 20220122203852
+116.232.100.247 3 3 77793 20220119110333
+190.2.132.155 2 2 51862 20220108144905
+39.106.112.184 2 2 51862 20220119092114
+191.209.127.193 1 1 25931 20220108224424
+47.104.68.94 2 10 479947 20220122201218
+103.123.86.63 1 1 25931 20220103095817
+178.159.37.159 8 8 207448 20220124031137
+222.92.218.34 1 1 25931 20220129174002
+47.75.126.42 1 1 25931 20220119170539
+46.161.11.18 6 6 155586 20220107080847
+185.255.47.48 2 2 51862 20220110084516
+72.255.9.84 2 2 51862 20220116181524
+203.184.131.25 2 2 51862 20220112132153
+105.242.35.168 4 4 103724 20220126084440
+46.38.247.22 3 3 77793 20220130114406
+43.154.143.161 2 2 51862 20220122163309
+62.201.212.194 1 1 25931 20220123112546
+175.19.208.197 2 2 51862 20220126110214
+59.94.133.160 2 2 51862 20220103113924
+117.65.1.100 2 2 51862 20220125120034
+164.90.197.8 1 1 25931 20220130043758
+43.135.170.79 1 1 25931 20220119213027
+45.43.71.28 1 1 25931 20220125101056
+188.126.94.233 2 2 51862 20220118225503
+34.77.162.30 2 2 51862 20220121025046
+46.173.158.178 3 3 77793 20220113204917
+1.32.59.217 1 1 25931 20220112094613
+54.69.142.141 1 1 25931 20220129191628
+177.125.204.15 1 1 25931 20220122154136
+101.132.133.241 1 1 25931 20220108210208
+223.29.254.47 2 2 51862 20220111094907
+200.73.171.11 2 2 51862 20220117080708
+34.96.130.29 2 2 51862 20220111022556
+138.122.148.208 1 1 25931 20220124204623
+95.37.31.212 2 2 51862 20220131214932
+88.135.253.196 2 2 51862 20220102205457
+90.150.172.238 2 2 51862 20220122052742
+203.190.149.143 2 2 51862 20220126020654
+47.242.252.47 2 2 51862 20220126105831
+116.233.142.15 2 2 51862 20220130070614
+183.0.200.5 1 1 25931 20220128135215
+183.89.164.232 1 1 25931 20220113080431
+110.77.248.40 1 1 25931 20220121110446
+45.236.154.10 1 1 25931 20220116022808
+59.152.96.96 2 2 51862 20220130003315
+103.84.209.142 1 1 25931 20220104031136
+103.57.222.220 2 2 51862 20220117225010
+37.98.224.164 1 1 25931 20220124175813
+49.0.44.42 1 1 25931 20220112033534
+185.51.134.195 3 3 77793 20220115135418
+60.20.200.147 1 1 25931 20220106061907
+202.59.133.62 1 1 25931 20220113222911
+203.169.27.149 1 1 25931 20220113233847
+180.167.238.98 2 2 51862 20220127094101
+175.162.211.42 1 1 25931 20220119202733
+185.193.18.50 4 4 103724 20220121233809
+106.52.74.70 1 1 25931 20220118133852
+176.9.47.122 1 12 251139 20220120161436
+144.217.135.195 3 3 77793 20220119103948
+156.146.50.40 2 2 51862 20220101145024
+82.102.24.254 3 3 77793 20220130095753
+83.220.239.30 1 1 25931 20220119214352
+193.233.34.16 1 1 25931 20220130020941
+45.133.245.201 2 2 51862 20220112092118
+139.186.201.122 2 2 51862 20220122100115
+177.102.1.24 2 2 51862 20220112221849
+101.18.124.86 2 2 51862 20220126033036
+77.73.90.196 2 2 51862 20220130231650
+199.217.105.248 1 1 25931 20220113053011
+168.138.240.168 1 1 25931 20220120122318
+202.62.60.45 2 2 51862 20220108140143
+183.166.149.176 2 2 51862 20220126085221
+188.165.254.122 2 2 51862 20220116010710
+37.252.86.97 1 1 25931 20220110093438
+58.219.160.59 2 2 51862 20220123170347
+23.191.80.17 1 1 25931 20220102040920
+37.120.147.168 2 2 51862 20220108031704
+161.35.90.232 1 1 0 20220112125356
+110.42.187.179 2 2 51862 20220122032224
+217.138.217.62 1 1 25931 20220111073658
+185.141.39.59 1 1 25931 20220101225600
+80.94.27.137 2 2 51862 20220113235610
+195.181.168.184 2 2 51862 20220128132009
+185.255.96.99 3 3 77793 20220123125443
+91.213.35.156 1 1 25931 20220117124013
+178.62.32.105 1 1 25931 20220128161413
+175.174.131.13 2 2 51862 20220119091731
+188.126.73.210 1 1 25931 20220130095930
+172.121.208.36 1 1 0 20220122022315
+190.109.2.83 1 1 25931 20220104033052
+61.7.138.212 1 1 25931 20220117070215
+42.248.127.67 1 1 25931 20220121223840
+177.53.146.54 2 2 51862 20220115204850
+58.57.36.46 2 2 51862 20220115133935
+18.236.196.191 1 1 25931 20220129194009
+61.175.158.78 2 2 51862 20220128090335
+187.0.54.41 1 1 25931 20220104013316
+201.62.70.4 1 1 25931 20220106092904
+114.222.247.109 1 1 25931 20220110183114
+45.78.50.160 1 1 25931 20220126230903
+188.122.82.146 4 4 103724 20220111221000
+144.76.224.49 1 1 25931 20220129072442
+193.169.254.146 2 2 51862 20220111064905
+185.209.31.169 3 3 77793 20220122134638
+171.224.81.50 2 2 51862 20220106083139
+134.35.247.165 2 2 51862 20220108171428
+47.102.126.61 1 1 25931 20220113010838
+123.207.68.178 1 1 25931 20220110160110
+103.30.84.195 1 1 25931 20220112081515
+138.88.243.129 1 1 25931 20220123033936
+183.63.47.22 2 2 51862 20220109132028
+95.105.124.60 1 1 25931 20220124011117
+120.24.174.94 2 2 51862 20220131094329
+62.16.2.78 2 2 51862 20220127004633
+186.248.87.211 1 1 25931 20220112041142
+204.44.112.136 1 1 25931 20220104022506
+167.57.33.107 2 2 51862 20220113225623
+72.13.46.5 1 1 25931 20220116151949
+24.74.26.164 2 2 51862 20220128015351
+61.90.112.100 1 1 25931 20220120085021
+54.171.140.171 1 1 25931 20220105033103
+45.129.18.187 1 1 0 20220101190109
+103.135.249.22 2 2 51862 20220114105514
+60.215.109.34 2 2 51862 20220127113645
+37.20.196.128 8 8 207448 20220118140648
+103.97.201.189 2 2 51862 20220123074451
+103.209.65.12 2 2 51862 20220130123031
+185.5.251.135 3 3 77793 20220110135019
+138.68.90.28 2 2 51862 20220114212927
+195.112.197.19 2 2 25931 20220115034238
+191.102.82.83 1 1 25931 20220107102021
+88.147.179.243 2 2 51862 20220123220159
+217.66.223.248 1 1 25931 20220116061805
+103.112.0.228 1 1 25931 20220121013124
+199.127.56.236 1 35 3324827 20220125201804
+177.36.208.55 1 1 25931 20220109112609
+92.118.160.57 5 5 129655 20220124223758
+45.81.227.224 1 1 25931 20220116133436
+178.159.37.84 2 2 51862 20220120054547
+115.213.56.222 1 1 25931 20220123170447
+185.240.80.2 2 2 51862 20220106150556
+212.102.33.69 1 1 25931 20220128203718
+88.147.152.246 1 1 25931 20220102193342
+173.212.196.147 2 2 51862 20220115201235
+213.231.39.65 1 1 25931 20220110053144
+111.241.126.212 2 2 51862 20220119103716
+110.77.191.49 1 1 25931 20220118125330
+190.15.247.231 2 2 51862 20220115161409
+81.89.69.37 1 1 25931 20220109194629
+193.189.100.200 2 2 51862 20220122180303
+103.146.184.39 1 1 25931 20220129202703
+176.31.69.35 2 2 51862 20220128063022
+182.151.212.156 1 1 25931 20220120102532
+103.102.58.245 1 1 25931 20220105095540
+37.57.38.133 2 2 51862 20220124003952
+107.172.71.98 2 2 51862 20220122090219
+102.132.193.184 2 36 3346879 20220116084437
+182.253.243.14 2 2 51862 20220129201413
+180.124.153.103 2 2 51862 20220128125402
+113.53.32.213 2 2 51862 20220128063821
+40.77.167.2 0 1 27540 
+202.51.103.154 2 2 51862 20220115202739
+205.185.214.221 1 1 25931 20220118162532
+114.43.153.82 1 1 25931 20220119195621
+14.115.107.240 2 2 51862 20220114004525
+93.87.74.222 2 2 51862 20220102124934
+45.74.35.63 3 3 77793 20220118160402
+96.9.80.36 2 2 51862 20220102003642
+115.211.228.209 2 2 51862 20220121161258
+110.78.145.120 2 2 51862 20220129174113
+134.73.227.38 2 2 51862 20220123063515
+62.169.91.206 1 1 25931 20220107061757
+165.73.248.245 2 36 3346879 20220106111846
+43.133.173.243 2 2 51862 20220117084243
+191.101.207.136 2 2 51862 20220117185232
+178.184.87.22 4 4 103724 20220116163703
+104.199.244.154 1 1 25931 20220106200849
+98.175.31.195 2 2 51862 20220127145222
+138.97.29.176 1 1 25931 20220111200219
+94.253.70.228 2 2 51862 20220129103206
+156.146.36.89 2 2 51862 20220124000341
+91.109.199.93 2 2 51862 20220117105804
+188.126.79.30 1 1 25931 20220109051621
+118.99.87.223 2 2 51862 20220127170951
+54.245.2.123 1 1 25931 20220130192116
+104.236.45.251 1 1 25931 20220128054737
+218.5.228.202 3 3 77793 20220123094505
+45.5.65.253 1 1 25931 20220122022358
+38.142.63.146 2 2 51862 20220125082855
+93.158.92.205 1 1 25931 20220106132539
+216.131.114.18 2 2 51862 20220116191107
+94.198.53.79 3 3 77793 20220115124106
+222.93.19.191 2 2 51862 20220115075626
+102.176.125.161 2 2 51862 20220131012200
+107.172.218.47 1 1 25931 20220116000948
+109.162.254.108 1 1 25931 20220128034647
+154.70.152.167 2 9 1307225 20220112135628
+80.191.248.2 2 2 51862 20220102154450
+43.131.58.11 2 2 51862 20220105005415
+190.93.176.21 1 1 25931 20220108020741
+45.118.132.247 2 2 51862 20220130043259
+52.4.104.152 1 1 25931 20220116164224
+149.56.44.70 1 1 25931 20220113022119
+47.115.10.253 1 1 25931 20220131010403
+157.90.38.9 1 1 25931 20220102200643
+154.17.0.225 2 2 51862 20220124084658
+123.231.136.59 2 2 51862 20220106140954
+125.166.142.137 1 1 25931 20220113011619
+177.38.5.224 1 1 25931 20220129075051
+188.240.114.238 1 1 25931 20220110113527
+187.122.105.181 1 1 25931 20220123181817
+122.9.154.34 1 1 25931 20220108025604
+180.180.158.239 1 1 25931 20220112083016
+222.84.233.243 1 1 25931 20220105190815
+186.212.168.24 2 2 51862 20220129031835
+182.253.93.4 2 2 51862 20220109002501
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220101 41 66 1048230 28
+20220102 82 90 1530441 64
+20220103 63 71 1141476 48
+20220104 61 75 2007889 39
+20220105 86 96 1735724 64
+20220106 95 142 5538458 62
+20220107 121 129 2619543 73
+20220108 97 106 2502670 74
+20220109 79 88 1478816 55
+20220110 74 82 1297062 59
+20220111 82 96 2309339 60
+20220112 110 173 7781003 78
+20220113 87 99 1835265 66
+20220114 73 92 1781580 53
+20220115 106 125 2507648 76
+20220116 99 141 5318147 64
+20220117 124 134 2727918 75
+20220118 105 147 5736922 59
+20220119 101 137 4037838 75
+20220120 82 101 1937166 59
+20220121 80 122 4803406 60
+20220122 88 139 5153935 67
+20220123 114 122 2308371 79
+20220124 83 91 1478579 64
+20220125 88 220 11883351 67
+20220126 114 267 16071608 90
+20220127 84 92 1711958 62
+20220128 129 139 2935210 88
+20220129 113 156 5688402 83
+20220130 100 108 2152785 72
+20220131 64 72 1297062 49
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 4
+2mn-5mn 218
+15mn-30mn 2
+5mn-15mn 7
+30s-2mn 57
+0s-30s 1724
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 2818 57022269 2009 2006
+/fonts/Flat-UI-Icons.woff 4 88208 0 4
+http://cttoastmasters.org.za/ 2 51862 2 1
+/pix_mail/new_contact.php 1 56 1 1
+END_SIDER

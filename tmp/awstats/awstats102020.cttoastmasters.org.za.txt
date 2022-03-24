@@ -1,0 +1,1738 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2697                
+POS_VISITOR 61209               
+POS_DAY 69943               
+POS_DOMAIN 3539                
+POS_LOGIN 4221                
+POS_ROBOT 4376                
+POS_WORMS 5163                
+POS_EMAILSENDER 5294                
+POS_EMAILRECEIVER 5437                
+POS_SESSION 70790               
+POS_SIDER 70992               
+POS_FILETYPES 5572                
+POS_DOWNLOADS 5784                
+POS_OS 5832                
+POS_BROWSER 6199                
+POS_SCREENSIZE 8006                
+POS_UNKNOWNREFERER 8080                
+POS_UNKNOWNREFERERBROWSER 8410                
+POS_ORIGIN 8599                
+POS_SEREFERRALS 8745                
+POS_PAGEREFS 8933                
+POS_SEARCHWORDS 50585               
+POS_KEYWORDS 50737               
+POS_MISC 2360                
+POS_ERRORS 50796               
+POS_CLUSTER 4077                
+POS_SIDER_404 50896               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101011936 80 18294 9440322594738
+FirstTime 20201001003341
+LastTime 20201031191253
+LastUpdate 20201101142240 80 0 79 0 0
+TotalVisits 1457                
+TotalUnique 210                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 228                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 15 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 48 50 432633 19 44 850338
+1 107 131 1286905 19 25 52582
+2 235 235 751999 88 118 741733
+3 195 198 607378 35 64 679220
+4 50 62 467043 30 50 395309
+5 23 34 666035 23 65 1159508
+6 20 20 337103 77 93 179263
+7 13 13 311172 10 25 264218
+8 20 89 7145685 45 62 393094
+9 21 92 7176111 14 30 420470
+10 24 93 7249409 51 71 340541
+11 9 20 406725 32 68 987648
+12 94 94 311172 81 105 353384
+13 53 109 4400930 18 63 1140399
+14 108 163 4480495 43 75 2120843
+15 116 150 3843447 51 74 866053
+16 110 178 7056792 80 98 644971
+17 76 145 7375185 20 43 296079
+18 80 91 733101 10 16 181517
+19 79 80 1130879 16 30 751096
+20 67 101 3943292 30 48 227520
+21 31 43 563920 16 35 184276
+22 32 32 259310 22 48 570791
+23 17 18 289655 78 90 161079
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+ru 916 916 4926890
+sa 329 329 0
+us 98 264 11896530
+ua 65 65 155586
+uz 64 64 0
+cn 24 46 1072760
+gb 20 90 7174958
+za 19 329 30219551
+in 17 28 510449
+id 13 47 3635999
+md 11 11 285241
+de 9 9 233379
+rs 4 4 103724
+ca 4 4 103724
+br 4 4 103724
+ma 3 3 77793
+ir 3 3 77793
+fr 2 2 51862
+ro 2 2 51862
+se 2 2 51862
+it 2 2 51862
+co 2 2 51862
+ve 2 2 51862
+bg 2 2 51862
+th 2 2 51862
+hn 1 1 25931
+pk 1 1 25931
+il 1 1 25931
+mu 1 1 25931
+ee 1 1 25931
+nl 2 2 51862
+my 1 1 25931
+kz 1 1 25931
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+Googlebot/ 278 7958118 20201031131735 0
+AhrefsBot/ 55 1565450 20201031114504 0
+bingbot/ 42 2789775 20201027163757 0
+spider 13 251139 20201008033619 0
+bot[\s_+:,\.\;\/\\-] 9 233379 20201022080021 0
+Applebot/ 5 129655 20201030184204 0
+360Spider 5 129655 20201018152812 0
+no_user_agent 4 99932 20201009082934 0
+Sogou[\x20]web[\x20]spider/ 3 77793 20201012131315 0
+DuckDuckGo\-Favicons\-Bot/ 3 77793 20201028232439 0
+java 2 51862 20201014062537 0
+crawl 2 51862 20201027203417 0
+MixrankBot 1 25931 20201001000233 0
+CCBot/ 1 25931 20201018032041 0
+MJ12bot/ 1 25931 20201002044026 0
+facebookexternalhit/ 1 191166 20201012193353 0
+robot 1 25931 20201003142617 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+ttf 1 15204 0 0
+js 255 5277837 0 0
+html 1622 11279985 0 0
+woff 4 88208 0 0
+png 50 1650766 0 0
+jpg 140 35166642 0 0
+php 1 56 0 0
+css 168 7747678 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+macosx 73 5
+macosx11 2 2
+winvista 1 1
+win2008 151 151
+macosx12 1 1
+linux 138 20
+win8 7 7
+winxp 18 18
+macosx8 1 1
+winnt 2 2
+winunknown 729 729
+ios_iphone 157 10
+Unknown 45 10
+winlong 160 160
+macosx10 1 1
+win2003 149 149
+macosx5 1 1
+win7 166 147
+linuxandroid 11 6
+macosx9 1 1
+win8.1 39 39
+win10 388 167
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 87
+chrome73.0.3683.90 1 1
+opera36.0.2130.32 1 1
+chrome86.0.4240.75 73 3
+safari 39 5
+chrome86.0.4240.80 35 1
+opera54.0.2952.71 12 12
+chrome66.0.3359.181 51 51
+opera54.0.2952.51 13 13
+msie4.00 199 199
+firefox81.0 1 1
+android 1 1
+mozilla 39 4
+edge14 1 1
+chrome34.0.1847.116 1 1
+chrome67.0.3396.79 18 18
+chrome26.0.1410.65 1 1
+chrome39.0.2171.95 6 0
+chrome37.0.0.0 2 1
+msie3.00 181 181
+netscape5.0 1 1
+chrome67.0.3396.62 2 2
+iphone 83 4
+chrome68.0.3440.84 25 25
+opera54.0.2952.54 6 6
+chrome65.0.3325.146 2 2
+firefox79.0 1 1
+firefox45.0 1 1
+firefox59.0 1 1
+firefox67.0 1 1
+chrome41.0.2228.0 2 2
+chrome59.0.3071.115 13 2
+opera54.0.2952.64 12 12
+chrome81.0.4044.129 6 6
+chrome84.0.4147.89 1 1
+edge16 4 4
+chrome85.0.4183.83 1 1
+chrome53.0.2785.49 4 0
+msie6.00 190 190
+msie7.00 221 221
+chrome84.0.4147.105 1 1
+chrome41.0.2272.89 1 1
+msie8.0 2 2
+safari12.1.2 38 4
+chrome67.0.3396.99 32 32
+chrome76.0.3809.132 3 3
+firefox30.0 3 3
+chrome85.0.4183.102 24 3
+msie5.00 212 212
+chrome68.0.3440.106 27 27
+chrome34.0.1847.137 1 1
+chrome66.0.3359.170 20 20
+firefox73.0 1 1
+chrome65.0.3325.181 70 8
+msie11.0 39 4
+msie2.00 181 181
+chrome68.0.3440.75 9 9
+chrome80.0.3987.117 1 1
+chrome50.0.2661.102 5 5
+chrome70.0.3538.102 36 1
+chrome35.0.1916.47 1 1
+chrome67.0.3396.87 16 16
+edge18 36 1
+chrome66.0.3359.66 1 1
+firefox80.0 1 1
+chrome78.0.3904.108 6 6
+chrome85.0.4183.121 39 5
+opera11.10 3 3
+chrome5.0.375.99 4 4
+opera55.0.2994.44 19 19
+msie9.0 15 2
+chrome45.0.2454.94 1 1
+chrome79.0.3945.88 3 3
+chrome41.0.2227.1 1 1
+Unknown 5 5
+chrome41.0.2225.0 2 2
+opera53.0.2907.99 13 13
+firefox58.0 1 1
+edge17 8 8
+chrome49.0.2623.112 5 5
+opera53.0.2907.106 4 4
+chrome33.0.0.0 1 1
+safari4.0 1 1
+chrome80.0.3987.149 37 2
+opera53.0.2907.68 14 14
+msie7.0 4 4
+firefox57.0 6 6
+chrome71.0.3542.0 36 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WhatsApp/2.2039.9_N 20201008155352
+Mozilla/5.0 20201009071129
+Go-http-client/1.1 20201005212209
+Mozilla/5.0_(compatible;_ips-agent) 20201016132148
+python-requests/2.24.0 20201020171448
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201023170418
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.24.0 20201020171448
+Go-http-client/1.1 20201005212209
+WhatsApp/2.2039.9_N 20201008155352
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 146 210
+From1 5 5
+From2 14 14
+From3 1206 1206
+From4 257 806
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google_com 10 10
+bing 1 1
+rr 1 1
+ecosia 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 810
+https://stravopys.com 9 9
+https://dapsi.com.ua/g61675226-salyuty-fejerverki 9 9
+https://darbe.ru 8 8
+https://www.bnkomi.ru/data/relize/117640/ 8 8
+http://artlife.rv.ua 8 8
+http://uzinform.com.ua/index.php 8 8
+https://ua.velesritual.com.ua 7 7
+https://www.tsekhovik.com.ua/memorialnaya-skulptura.html 7 7
+https://waysi.ru 7 7
+https://4pda.ru/forum/index.php 7 7
+https://www.business-gazeta.ru/article/480751 7 7
+https://muzyka-pesni.mobi 6 6
+https://pesni-online.xyz 6 6
+https://skachat-muzyka.mobi 6 6
+https://shop.avtomir35.ru 6 6
+https://www.gudzik.kiev.ua/rezinka-tekstilnaya 6 6
+https://allmusic.site 6 6
+http://oliaus.ru 6 6
+https://ritual.net.ua 6 6
+https://metaphysican.com 5 5
+https://ua.carivka.com.ua 5 5
+https://glavgeo.ru 5 5
+https://nahera.ru 5 5
+https://sekret.me/chto-zhdyot-menya-s-nim-gadanie-na-taro-onlayn/ 5 5
+https://dontimes.news 5 5
+https://ak-magnat.ru/category/uncategorized/ 2 2
+https://listmp3.mobi/genres/tango 1 1
+https://pravda-o-coronaviruse.ru/pravda-ili-lozh/vtoraya-volna-koronavirusa-poslednie-novosti 1 1
+https://www.web-site.com.ua/razrabotka-saytov/sayt-vizitka/ 1 1
+https://malinaexpert.ru 1 1
+https://pskov.dienai.ru/vazomaks-30/ 1 1
+https://spb-spravkin.com/sertificates/spravka-ot-ginekologa/ 1 1
+https://blog-invest.online/kak-zarabotat/ 1 1
+http://promefey.ru/tehnadzor4 1 1
+https://freelancehack.ru/articles/network_marketing 1 1
+https://friends-serial.com 3 3
+http://chopper.su/category/motocikly-kovrovec-i-vosxod 1 1
+https://freelancehack.ru 1 1
+https://studiomedia.ru/fotosyemka-novogodnego-korporativa/ 1 1
+https://service-masterov.ru 1 1
+https://yalta.dienai.ru/tag/maska-plenka-dlya-lica/ 1 1
+https://puzanet.net/category/pogovorit/raznoe/ 1 1
+https://promoiogorod.ru/vrediteli/ 1 1
+https://pskov.dienai.ru/tag/preparat-pri-miome/ 2 2
+https://24sport.pw/volleyball 1 1
+https://samara-comfort.ru/otradnyij 2 2
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-volos/kondicionery-dlya-volos/ 1 1
+https://star-cats.com/store/anthocyanin-110-v05-blueberry/ 1 1
+https://freelancehack.ru/articles/frilans 1 1
+https://kachai.xyz/genres/k-pop 1 1
+https://sciartel.ru/scientific-conference/ 2 2
+https://big-data.dev/cat/hadoop/ 2 2
+https://sciartel.ru 2 2
+http://best-rupesni.com 1 1
+https://aromagolik.kz/zhenskiy-parfyum/ 1 1
+http://musicboss.site/genres/kitajskaya-muzyka 1 1
+https://iv-teks.ru/podushki 1 1
+https://inzuro.ru/osago/ 1 1
+https://ivanovo.dienai.ru/tag/dlya-povysheniya-rabotosposobnosti/ 1 1
+https://nsk.lombardkorund.ru 3 3
+https://diaval.ru 2 2
+https://ocarsharinge.ru/other/rent-a-ride.html 1 1
+https://stalkermod.ru/MODYI/ 1 1
+https://collectinviolity.com 1 1
+https://falcoware.com/rus/match3_games.php 1 1
+https://imoby.su 2 2
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/krema-dlya-lica/krema-protiv-morshhin/ 1 1
+https://fandbox.ru 2 2
+https://yaroslavl.dienai.ru/tag/sredstva-zashchity-ot-koronavirusa/ 1 1
+https://spusk.com.ua/catalog/veniki 1 1
+https://kursy-ege.ru/english/35-tutor-english.html 1 1
+https://android-1.ru/programmy/instrumenty/ 1 1
+https://medicaltranslate.ru/category/novosti/ 2 2
+https://www.perevod24.com/notarialnyj-perevod 1 1
+https://spusk.com.ua/catalog/slavyanskie 1 1
+https://pskov.dienai.ru/tag/bad-dlya-zhenskogo-zdorovya/ 1 1
+https://www.gudzik.kiev.ua/pygovicu/kostiumnye 2 2
+https://ulyanovsk.dienai.ru/tag/tabletki-ot-parazitov-dlya-cheloveka/ 1 1
+https://club.exchange/customer/package/confirm_package/25 1 1
+https://www.beautips.ru 4 4
+https://lombardkorund.ru 1 1
+https://tula.dienai.ru/tag/dlya-ukrepleniya-sosudov-golovnogo-mozga/ 1 1
+https://ulyanovsk.dienai.ru/timeflow-70/ 1 1
+https://www.svoimi-rukamy.com/Sdelay/podelki/braslety 1 1
+https://xn----9sbbkeacwrd4e.xn--p1ai/vybrat-besedku/gril-domik-2.html 1 1
+https://pesni-mp3.site/genres/j-pop 1 1
+https://bet2much.ru 1 1
+https://orel.dienai.ru/category/preparaty-dlya-sosudov-golovnogo-mozga/ 1 1
+https://workez.ru 2 2
+http://telik.online/kinokhit.html 1 1
+https://spravki-profi.com 2 2
+https://tula.dienai.ru/tag/bad-pri-varikoze/ 1 1
+https://toyota-cars.info 1 1
+https://shanscasino1.ru 1 1
+http://www.diplom5-novosibirsk.ru/index/practical_works/0-102 1 1
+https://stalkermod.ru/Ustanovka-modov/ 1 1
+https://puzanet.net 1 1
+http://mp3kachat.com 1 1
+https://styleray.ru/krasnodarskij-kraj/ 1 1
+https://nurkassa.kz 1 1
+https://android-1.ru 1 1
+https://spusk.com.ua/catalog/kovry 1 1
+https://verstakdoma.ru 3 3
+http://pesnya.mobi/genres/so-vsego-mira 1 1
+https://otravleniya-yadi.ru/zashhishhaet-li-alkogol-ot-radiacii.html 1 1
+https://listmp3.mobi/genres/yuzhnaya-amerika 1 1
+https://mp3rus.xyz/genres/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://meinung.de/tags/liebe 2 2
+https://www.svoimi-rukamy.com/Sdelay/pashalnie-podelki 2 2
+https://startup.career/usa/cincinnati/ 1 1
+https://ulyanovsk.dienai.ru/tag/sredstva-vosstanovleniya-obmena-veschestv/ 1 1
+https://sochi.dienai.ru/tag/omolazhivayuschiy-krem-dlya-lica/ 1 1
+http://www.diplom5-novosibirsk.ru/index/enjoy_a_control_work_in_novosibirsk/0-44 2 2
+https://gadget-news.net 3 3
+https://freemp3.xyz 1 1
+http://best-rupesni.com/genres/%D1%80%D0%BE%D0%BA 1 1
+https://diaval.ru/magazin/zapornyie-klapanyi/ari-stobu/flanczevyie.html 1 1
+https://meinung.de/tags/gesundheit 1 1
+https://kuhni.co.il/product-category/kuhni/kuhni-evropejskogo-proizvodstva-2/kuhni-fabriki-kam/naklejki/ 1 1
+https://coffeetee.ru/2019/07/01/chem-otlichaetsja-kapuchino-ot-amerikano/ 1 1
+https://yaroslavl.dienai.ru/tag/preparaty-dlya-podjeludochnoy-zhelezy-i-pecheni/ 1 1
+https://zabor-shtaketnik.ru 4 4
+https://pesni-mp3.site/genres/%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://avtovykup-24.ru/vykup-unasledovannyx-avto/ 1 1
+https://mp3-mp3.mobi/genres/%D1%81%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA%D0%B8 1 1
+https://fitness-one.ru/service/delfinchiki/ 1 1
+https://velesritual.com.ua/cremation.html 3 3
+https://ifish2.ru/luchshie-platformy/ 1 1
+https://www.motiongraphicsbag.com/motion-graphics/revealer/corporate-templates 1 1
+https://surgut.dienai.ru/tag/krem-dlya-vek/ 1 1
+https://medicaltranslate.ru 2 2
+https://penza.dienai.ru/tag/preparaty-dlya-ukrepleniya-immuniteta/ 1 1
+https://stalkermod.ru/Patchi-Teni-CHernobyilya/ 1 1
+https://iv-teks.ru/kuhonnyj-tekstil 1 1
+https://openoblokah.ru/brands/ 1 1
+https://perspectiva-clinic.ru/alkogolizm/ 1 1
+https://prosklad.kz 4 4
+https://listmp3.mobi/genres/legkaya-muzyka 1 1
+https://diaval.ru/magazin/perepusknyie-klapanyi/ari-preso.html 1 1
+https://mp3-mp3.mobi/genres/%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0 1 1
+https://shmeleva-partners.ru/autsorsing/yuridicheskaya-kompaniya 1 1
+https://ua.carivka.com.ua/hotels.html 3 3
+https://listmp3.mobi/genres/nemeckij-pop 1 1
+https://damoney.ru/zoloto 1 1
+https://fandbox.ru/dom-i-ofis/ 2 2
+https://freemp3.xyz/genres/%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://diaval.ru/uslugi/proektirovanie-kotelnyix.html 1 1
+https://toyota-cars.info/2019/10/31/obzor-toyota-cami/ 1 1
+https://tver.dienai.ru 2 2
+https://kazan.dienai.ru/tag/gepaprotektornye-preparaty-dlya-pecheni-cena/ 1 1
+https://xn----9sbbkeacwrd4e.xn--p1ai 3 3
+https://puzanet.net/category/telo/odezhda/ 1 1
+https://ctocenter.kz/services/diskovod-dlia-noutbuka-dvdcd-sata-acer-toshiba-asus-hp-dell-leno 1 1
+https://assets.falco3d.com 1 1
+https://mp3mix.online/genres/avtory-ispolniteli 1 1
+http://best-rupesni.com/genres/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5 1 1
+https://mp3mix.online/genres/so-vsego-mira 1 1
+https://misoprostol.info 1 1
+https://yulna.ru 2 2
+http://oliaus.ru/category/pribylnye-strategii/ 2 2
+https://spusk.com.ua/catalog/shkatulki 1 1
+https://yalta.dienai.ru 2 2
+https://vesnavsadu.ru/sad/ 1 1
+http://musicboss.site/genres/dzhangl 1 1
+http://pesni-mp3.top/genres/islamskaya-muzyka 1 1
+https://meinung.de/tags/rezepte 2 2
+https://diz-kitchen.ru/%f0%9f%9a%bfchistota-i-uborka/xranenie 1 1
+https://orel.dienai.ru/tag/dlya-omolozheniya-organizma/ 1 1
+https://nizniynovgorod.dienai.ru/tag/krem-dlya-lica-posle-45/ 1 1
+https://enresurs24.ru/catalog/stroitelnoe_okrasochnoe_oborudovanie/ 3 3
+https://www.gudzik.kiev.ua/rezinka-shlyapnaya-art15107-cena-za-rulon-100-metrov-15107.html 1 1
+https://qwertysh.ru/catalog/setevoe-oborudovanie/brand-ubiquiti/ 1 1
+https://texkom.ru 4 4
+https://kazan.dienai.ru/tag/bad-dlya-zhenskogo-zdorovya/ 1 1
+https://surgut.dienai.ru/tag/kosmetika-posle-45-let/ 1 1
+http://www.diplom5-novosibirsk.ru/index/coursework_order_in_novosibirsk/0-890 1 1
+https://kuhni.co.il/product-category/jelektrotovary-dlja-kuhni/posudomoechnye-mashiny/ 1 1
+https://allfan.ru 1 1
+https://www.svoimi-rukamy.com/Sdelay/podelki/kukli 1 1
+https://xn--80akhjdecnjofu.xn--p1ai/catalog/vagonka-lipa 1 1
+https://pskov.dienai.ru/tag/luchshie-kremy-dlya-lica-posle-60-let/ 1 1
+https://sochi.dienai.ru/oftalma-30/ 1 1
+https://dienai.ru 1 1
+https://kupime.kz/detyam/ 1 1
+https://ivanovo.dienai.ru/tag/profilaktika-starenia/ 1 1
+https://zaokotak.ru/produkty/hraneniya-beze.html/ 1 1
+https://kupitoo.com.ua/mjagkie-igrushki 2 2
+https://habautostroy.ru/catalog/beton/beton-m250-b20/ 1 1
+https://aviabiilet.com 1 1
+https://yaroslavl.dienai.ru/kontakty/ 1 1
+https://zeusweb.ru 1 1
+https://freesmi.by 1 1
+https://dezcenternsk.ru/unichtozhenie-gryzunov-novosibirsk/ 2 2
+https://sf-vid.com 4 4
+https://damoney.ru/invest 1 1
+https://ulyanovsk.dienai.ru/broshyura-rezultaty-primeneniya-2017/ 1 1
+https://android-shark.ru/remont-meizu/ 1 1
+http://pesni-mp3.top/genres/fank 1 1
+https://spb-spravkin.com 2 2
+https://openoblokah.ru/goods/ 1 1
+https://mp3-mp3.mobi/genres/%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+http://vgoloveboli.net/bolit-makushka-golovy.html 1 1
+https://nizniynovgorod.dienai.ru/tag/vosstanovleniye-immuniteta-pri-onkologii/ 1 1
+https://startup.career/usa/san-jose/ 1 1
+https://memorial48.ru 3 3
+https://mosad.online/pochta-rossii-kak-uznat-otpravitelya/ 1 1
+http://tokshow.online 1 1
+https://pronashkomp.ru/muzyka 2 2
+https://aromagolik.kz/muzhskoy-parfyum/ 1 1
+https://penza.dienai.ru/tag/preparaty-hondropotektory-pri-gryzhe-pozvonochnika/ 1 1
+https://otravleniya-yadi.ru 1 1
+http://asupro.com 1 1
+https://cool-answers.ru 1 1
+https://appetitelove.ru/myzh_zdorov 2 2
+https://mp3fm.mobi/genres/blyuz 1 1
+http://www.diplom5-novosibirsk.ru/index/the_best_company_on_writing_of_diploma_and_course_works_in_novosibirsk/0-60 1 1
+https://mp3fm.mobi/genres/armenian 1 1
+https://myfairytaletown.com 1 1
+https://yaroslavl.dienai.ru/tag/bad-dlya-povysheniya-testosterona-u-muzhchin/ 1 1
+http://nipi-sp.ru/proektirovanie-ohrannoy-signalizacii/ 1 1
+http://znamenitosti.info 3 3
+https://www.perevod24.com/pismennyj-perevod 1 1
+https://puzanet.net/category/telo/ 1 1
+https://sciartel.ru/project-category/actual-conference/ 1 1
+https://saryarkatour.kz 2 2
+https://pronashkomp.ru 1 1
+http://polotsk-portal.ru 3 3
+https://ivanovo.dienai.ru 2 2
+https://avia.bet 3 3
+https://puzanet.net/category/eda/kalorii/ 1 1
+https://pprs.ru 2 2
+http://oliaus.ru/category/bez-rubriki/ 1 1
+https://ctocenter.kz/products/18314450 1 1
+https://blog-invest.online/internet-i-dengi/ 1 1
+https://xn-----6kcacs9ajdmhcwdcbwwcnbgd13a.xn--p1ai/index.php/uslugi/ortodontiya 1 1
+https://perelomanet.ru/perelomy/klassifikatsiya-i-lechenie-pereloma-nizhnej-chelyusti.html 1 1
+https://idolstore.net/cartoons/disney/ 1 1
+https://sirius-el.ru 3 3
+https://rfserials.online 2 2
+https://t-store.com.ua/t-shirt/ 1 1
+https://poltava.sq.com.ua 1 1
+https://www.gudzik.kiev.ua/lentu 4 4
+https://aquabuilding.ru/services/stroitelstvo-basseynov/ 1 1
+https://poshiv-iz-kozhi.ru 1 1
+https://help-insects.ru/poleznaya-informatsiya/dezinsektsiya-s-garantiey/ 1 1
+https://okeye.ru 3 3
+https://appetitelove.ru/zhen_zdorov 1 1
+https://velesritual.com.ua/funeral.html 3 3
+https://yalta.dienai.ru/tag/bezopasnye-preparaty-dlya-povysheniya-potencii-u-muzhchin/ 1 1
+https://t-store.com.ua 2 2
+http://musicboss.site 1 1
+https://startup.career/usa/ann-arbor/ 1 1
+https://elkivastane.kz/zelenye-elki 1 1
+http://l.facebook.com/l.php 1 1
+https://idolstore.net/anime/one-punch-man/ 2 2
+https://ryazan.dienai.ru/tag/ochischayuschaya-maska-dlya-lica/ 1 1
+https://freemp3.xyz/genres/%D1%85%D0%B0%D1%83%D1%81 1 1
+https://casino-x-now.ru 1 1
+https://perelomanet.ru/interesnoe/polza-dlya-zdorovya-ot-kataniya-na-gornyh-velosipedah.html 1 1
+https://novgorod.dienai.ru/tag/preparaty-dlya-povysheniya-testosterona-u-muzhchin/ 1 1
+https://mobiring.ru 4 4
+https://stalkermod.ru/Treneryi-STALKER/ 1 1
+http://worldtranslation.org/news/6-internet/ 2 2
+https://kachai.xyz/genres/%D1%82%D0%B5%D1%85%D0%BD%D0%BE 2 2
+https://spravki-profi.com/otricatelnyj-analiz-na-vich-kupit-v-spb-za-1-den/ 1 1
+https://diz-kitchen.ru/%f0%9f%a4%a6%e2%80%8d%e2%99%82remont/santexnika 1 1
+https://meinung.de 4 4
+https://parliament.group 3 3
+https://mistymag.ru/kitayskiy-goroskop-sovmestimosti/ 1 1
+https://xn----7sbaa0ahcw6asxi4k7a.xn--p1ai 1 1
+http://www.legal-novosibirsk.ru/index/blog/0-84 3 3
+https://samara-comfort.ru/novokujbyishevsk 1 1
+https://vesnavsadu.ru/udobrenija/ 1 1
+https://perelomanet.ru/perelomy/plechevoj-kosti.html 1 1
+https://ak-magnat.ru/o-vyezdnyh-nalogovyh-proverkah-vnp/ 1 1
+https://ryazan.dienai.ru/tag/preparat-dlya-zhenschin-posle-40-dlya-prodleniya-molodosti/ 1 1
+https://100remontov.ru 3 3
+https://samara-comfort.ru/balakovo 1 1
+https://ctocenter.kz/products/18370192 1 1
+https://habautostroy.ru/catalog/beton/beton-m400-b30/ 1 1
+https://coronavirus-covid.info/mogut-li-zhivotnye-zarazitsya-koronavirusom-kak-obezopasit-svoego-pitomtsa 1 1
+https://sochi.dienai.ru/tag/bad-dlya-sosudov-golovnogo-mozga/ 1 1
+https://priliv-new.com.ua 1 1
+https://elektrik-simferopol.ru/shtroblenie-sten-pod-provodku-simferopol/ 1 1
+https://sochi.dienai.ru/krem-dnevnoy-good-morning/ 1 1
+https://lodki-pvh.com.ua 2 2
+https://ocarsharinge.ru 1 1
+https://appetitelove.ru/uprazhneniya 2 2
+https://apple-tree.com.ua/ru/kitajskij-yazyk.html 3 3
+https://startup.career/portugal/lisbon/ 1 1
+https://mistymag.ru/taro-pochemu-on-propal-i-ne-zvonit/ 1 1
+https://yalta.dienai.ru/tag/preparaty-dlya-immuniteta-spisok/ 1 1
+https://xn--80aaeboem7becafaceliezo7p.xn--p1ai 3 3
+https://24rabota.kg/rabota_dlya_studentov.php 1 1
+https://spb-spravkin.com/sertificates/osvobozhdenie-ot-fizkultury/ 1 1
+https://elkivastane.kz/elki_vysotnye 1 1
+https://ritual.net.ua/uslugi/krematsiya.html 3 3
+https://novgorod.dienai.ru/tag/vosstanovleniye-pecheni-posle-gepatita/ 1 1
+https://pravda-o-coronaviruse.ru/fakty 1 1
+https://sciartel.ru/project-category/ceteris-paribus/ 1 1
+https://perelomanet.ru/travmy/travma-spinnogo-mozga.html 1 1
+http://musicboss.site/genres/saundtreki 1 1
+https://otravleniya-yadi.ru/otravleniya/pishhevye-otravleniya/otravlenie-yadovitymi-rasteniyami 1 1
+https://otravleniya-yadi.ru/kak-ochistit-organizm-ot-parazitov-v-domashnix-usloviyax.html 1 1
+http://www.ntk-novosibirsk.ru/index/automobile_cargo_transportation_from_novosibirsk/0-41 2 2
+https://samara-comfort.ru/volgograd 1 1
+https://spusk.com.ua/catalog/magnity 1 1
+https://www.svoimi-rukamy.com/Sdelay/valjanie-iz-shersti 2 2
+https://mp3mix.online/genres/eastern 1 1
+https://tvoidrug.com/health/bolezni/sudorogi.html 1 1
+https://blog-invest.online/pravila/ 3 3
+https://mosad.online/v-kakih-sluchayah-nalagaetsya-sudebnyy-zapret-na-priblizhenie/ 2 2
+https://yaroslavl.dienai.ru/tag/sredstva-dlya-ven-i-sosudov-na-nogah/ 1 1
+https://tvoidrug.com/breed/svojstva/koroleva.html 1 1
+http://pesnya.mobi/genres/tancevalnaya-muzyka 1 1
+http://uchinfo.com.ua 1 1
+http://oliaus.ru/category/rabota-brokera/ 1 1
+https://ulyanovsk.dienai.ru/tag/molochko-dlya-snyatiya-makiyazha/ 1 1
+https://startup.career/austria/ 1 1
+https://ulyanovsk.dienai.ru/tag/hondroprotectory-pri-artroze/ 1 1
+http://musicboss.site/genres/idm 1 1
+https://friends-serial.com/5s/ 1 1
+http://xn--80aaic9ahigbz7m.xn--p1ai 1 1
+https://100remontov.ru/remont-kvartir/remont-pod-kljuch/ 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/mylo-dlya-lica/ 1 1
+https://inzuro.ru/osago/%D0%BE%D1%81%D0%B0%D0%B3%D0%BE-%D0%B1%D0%B5%D0%B7-%D1%81%D1%82%D0%B0%D0%B6%D0%B0/ 1 1
+https://autolider42.ru 1 1
+https://cpstest.me 2 2
+http://musicboss.site/genres/tureckaya-muzyka 1 1
+https://arte.style/shop/instrumenty/valik-rullo-rong/ 1 1
+https://diaval.ru/sluzhebnyie-straniczyi/korzina.html 1 1
+https://penza.dienai.ru/superkaltsiy-30/ 1 1
+https://www.motiongraphicsbag.com/motion-graphics/interface-effects/nature-templates 1 1
+https://tula.dienai.ru/tag/khoroshie-vitaminy-dlya-immuniteta/ 1 1
+http://www.ntk-novosibirsk.ru/index/cargo_transportation_combined/0-36 1 1
+https://ak-magnat.ru/news/ 1 1
+https://profmetmontazh.ru 3 3
+http://worldtranslation.org/news/18-countries-travel/ 1 1
+https://stalkermod.ru/survarium-onlayn/ 1 1
+https://100chehlov.com.ua 1 1
+https://tula.dienai.ru/tag/tabletki-dlya-pecheni-spisok-i-ceny/ 1 1
+https://ulyanovsk.dienai.ru/tag/krem-dlya-vyravnivaniya-cveta-lica/ 1 1
+https://www.yrielt.com.ua/properties/1k-kvartira-v-zhk-terracotta-harkovskij-massiv-chernigovskaya-8/ 1 1
+https://givingbeauty.ru/9-lyogkih-masok-dlya-licza/ 1 1
+https://thatsomerset.com 1 1
+https://narkolog24.info 1 1
+https://nahera.ru/category/rossiya 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/krema-dlya-lica/nochnye-krema-dlya-lica/ 1 1
+https://www.motiongraphicsbag.com/motion-graphics/lower-thirds/miscellaneous-templates 2 2
+http://pesni-mp3.top/genres/deht-metall 1 1
+http://pupilby.net 3 3
+https://v-shature.ru 1 1
+http://promefey.ru/sroki-obsledovaniya-zdaniy1 1 1
+https://live-xbet.com 1 1
+https://spusk.com.ua/catalog/kartiny-na-dereve 1 1
+https://youlooks.ru/moda/ 2 2
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/ochishhayushhie-sredstva-dlya-lica/ 1 1
+https://thatsomerset.com/category/stories/ 1 1
+https://grandprint.com.ua 1 1
+https://penza.dienai.ru/tag/vitaminy-dlya-immuniteta-vzroslym/ 1 1
+https://friends-serial.com/3s/ 1 1
+https://spusk.com.ua/catalog/prihvatki-i-fartuki 1 1
+https://stalkermod.ru/MODYI-CHistoe-Nebo/ 1 1
+https://openoblokah.ru/services/ 3 3
+https://adrenalinebot.ru 1 1
+https://big-data.dev/cat/architect/ 1 1
+https://apple-tree.com.ua 2 2
+https://relaminat.ru 2 2
+http://varshavka45.ru 1 1
+https://idolstore.net/fruits-amp-plants/ 1 1
+https://freemp3.xyz/genres/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://www.yrielt.com.ua/action/zemelnye-uchastki/ 1 1
+https://novgorod.dienai.ru/bifizim-70/ 1 1
+http://e-book.digital/store/smm/ 1 1
+https://misoprostol.info/kupit-tabletki-mifepriston-i-mizoprostol-dlya-preryvaniya-ranney-beremennosti-v-Petropavlovske-Kamchatskom/ 1 1
+https://coronavirus-covid.info/angina-pri-koronaviruse 1 1
+https://100remontov.ru/remont-kvartir/remont-kvartir-kompleksnyj/remont-odnokomnatnyh-kvartir/ 1 1
+https://inzuro.ru/strahovanie-ipoteki/ 1 1
+https://daigo-uz.com/products/daigo-dent/ 1 1
+https://freemp3.xyz/genres/%D0%B4%D1%8D%D1%82-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB 1 1
+https://mistymag.ru 1 1
+https://medicaltranslate.ru/glavnaya/glossarij/ 2 2
+https://pravda-o-coronaviruse.ru/novosti/v-rossii-proydut-ispytaniya-vaktsiny 1 1
+http://telik.online/avto-plyus.html 1 1
+https://aquabuilding.ru/catalog/stroitelnaya-khimiya/ 1 1
+https://surgut.dienai.ru/tag/preparaty-dlya-chistki-sosudov-golovnogo-mozga/ 1 1
+https://styleray.ru 4 4
+https://star-cats.com/store/anthocyanin-230-g04-lime-green/ 1 1
+https://alcoshopnew.ru/podpolnaya-vodka 1 1
+http://pesni-mp3.top/genres/instrumentalnaya-muzyka 1 1
+https://pskov.dienai.ru/tag/bad-pri-varikoze/ 1 1
+https://coffeetee.ru 1 1
+https://shoustar.com/the-us-2020-election-who-will-win-trump-or-biden/ 1 1
+https://nebolitzhivot.ru 4 4
+https://autovteme.ru/cars-7-8-mest/ 1 1
+https://iv-teks.ru 2 2
+https://vikupauto96.ru 1 1
+https://24rabota.kg/rabota_bez_opita.php 2 2
+https://damoney.ru/dengi/rich 1 1
+https://kbarabas13.ru/barbershop-v-moskve.html 1 1
+https://muzyka-mp3.mobi 1 1
+https://misoprostol.info/kupit-tabletki-mifepriston-i-mizoprostol-dlya-preryvaniya-ranney-beremennosti-v-Tambove/ 1 1
+https://nizniynovgorod.dienai.ru/tag/sredstva-dlya-profilaktiki-grippa/ 1 1
+https://ocarsharinge.ru/other/karusel-karshering-promokod.html 1 1
+https://alcoshopnew.ru/svojstva-spirta-kvasa-i-chaya 1 1
+http://vgoloveboli.net/golovnaya-bol-posle-bani.html 1 1
+https://mp3-mp3.mobi/genres/%D1%85%D0%B0%D1%80%D0%B4%D0%BA%D0%BE%D1%80 1 1
+https://fandbox.ru/kosplej/ 1 1
+https://android-1.ru/programmy/platnye-prilozhenija/ 2 2
+https://pravda-o-coronaviruse.ru/pravda-ili-lozh/kipyatok-ubivaet-koronavirus-pravda-ili-lozh 1 1
+https://cpstest.me/click-test.html 2 2
+https://yalta.dienai.ru/tarkus-70/ 1 1
+https://mp3-muzyka.mobi 4 4
+https://nazvonok.info 4 4
+https://perelomanet.ru/ozhogi/kak-opredelit-ploshhad-ozhoga-pravilom-devyatok-i-ladoni.html 1 1
+http://mp3kachat.com/genres/k-pop 1 1
+https://priliv-new.com.ua/g36303625-iskusstvennyj-tik 1 1
+https://turvpolshu.ru/rubrika/raznoe/ 1 1
+https://kazan.dienai.ru 1 1
+http://xn--80aaic9ahigbz7m.xn--p1ai/item/782-dymogenerator-kholodnogo-kopcheniya-4-l 1 1
+http://pesnya.mobi/genres/ehlektronnaya-muzyka 1 1
+https://diz-kitchen.ru/%f0%9f%8d%bddekor/tekstil 1 1
+https://su48.ru 1 1
+https://startup.career/germany/hamburg/ 1 1
+https://android-shark.ru 1 1
+https://help-insects.ru/poleznaya-informatsiya/chto-takoe-barer-ot-tarakanov/ 1 1
+https://fitness-one.ru 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-volos/syvorotki-dlya-volos/ 1 1
+https://android-shark.ru/remont-apparatov/ 1 1
+https://sochi.dienai.ru/voda-alfa/ 1 1
+https://friends-serial.com/1s/ 1 1
+https://www.web-site.com.ua/reklama/ 1 1
+https://misoprostol.info/Kupit-tabletki-mifepriston-i-mizoprostol-dlya-preryvaniya-ranney-beremennosti-v-Ufe/ 1 1
+https://www.motiongraphicsbag.com/motion-graphics/miscellaneous/3d-object-templates 1 1
+http://promefey.ru 2 2
+https://startup.career/germany/munich/ 1 1
+http://m.facebook.com 1 1
+https://fandbox.ru/gadzhety-i-gikam/ 1 1
+http://mp3kachat.com/genres/francuzskaya-pop-muzyka 1 1
+https://android-shark.ru/vopros-otvet/ 1 1
+https://v45.ru 1 1
+https://promoiogorod.ru/frukti/ 2 2
+https://surgut.dienai.ru/tag/vitaminy-pri-khronicheskoy-ustalosti/ 1 1
+https://ax4.ru 1 1
+https://mistymag.ru/gadanie-na-runah-na-vstrechu-i-svadbu/ 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-volos/ampuly-dlya-volos/ 1 1
+https://tula.dienai.ru/venomaks-aksioma-10-kaps/ 1 1
+https://openoblokah.ru/foto/ 1 1
+https://laminat-profi33.ru/podgotovka-pola/ 2 2
+https://xn--80akhjdecnjofu.xn--p1ai/catalog/polok-lipa 1 1
+https://openoblokah.ru 2 2
+https://t-store.com.ua/ua/light-sweatshirt/ 1 1
+https://thatsomerset.com/category/motivation/ 1 1
+http://nipi-sp.ru/pozharnyj-audit/ 1 1
+https://malinaexpert.ru/rannjaja-malina-ljachka-ljashka/ 1 1
+http://telik.online/tochka-tv.html 1 1
+https://www.yrielt.com.ua/karta-metro-kieva/ 1 1
+https://novgorod.dienai.ru/ti-san-50/ 1 1
+https://novgorod.dienai.ru/tag/preparaty-pri-gelmintoze/ 1 1
+http://xn--80aaic9ahigbz7m.xn--p1ai/item/632-khmel-hull-melon-germaniya-50-g 1 1
+https://mp3mix.online 1 1
+https://mosad.online/kak-vosstanovit-trudovoy-stazh-instruktsiya/ 1 1
+https://orel.dienai.ru/tag/vitaminy-dlya-povysheniya-immuniteta/ 1 1
+https://big-data.dev/cat/analysis/ 1 1
+https://android-shark.ru/remont-xiaomi/ 2 2
+https://texkom.ru/catalog/inomarki/ 3 3
+https://diaval.ru/magazin/reguliruyushhie-klapanyi/ari-stevi-405.html 1 1
+https://misoprostol.info/kupit-tabletki-mifepriston-i-mizoprostol-dlya-preryvaniya-ranney-beremennosti-v-Nalchike/ 1 1
+https://spravki-profi.com/kupit-spravku-narkologicheskogo-dispansera/ 1 1
+https://elgreloo.com 1 1
+https://samara-comfort.ru/tolyatti 1 1
+https://arte.style 3 3
+https://star-cats.com/blog/ 1 1
+https://meinung.de/tags/psychologie 1 1
+https://ryazan.dienai.ru/tag/omolazhivayuschaya-kosmetika-dlya-lica/ 1 1
+https://vse-pro-bmw.info/istorija-i-harakteristiki-bmw-5-serii-v-kuzove-e34/ 1 1
+https://ifish2.ru/dopolnitelnyj-zarabotok-v-internete/ 1 1
+https://star-cats.com/store/anthocyanin-230-w01-tanning-brown/ 1 1
+https://www.yrielt.com.ua/properties/uchastok-zemli-v-vishenkah-borispolskij-rajon-15-sotok/ 1 1
+http://pesnya.mobi/genres/pop-muzyka 1 1
+https://pesni-mp3.site 1 1
+https://workez.ru/rgn27 1 1
+https://neoceramica.kz/products/smesitel-dlya-dusha-bravat-palace-f9172217cp-01-rus 1 1
+https://zaokotak.ru 1 1
+https://habautostroy.ru/catalog/beton/beton-m100-v75/ 2 2
+https://vashipodelki.ru 3 3
+https://big-data.dev/cat/development/ 1 1
+https://cpstest.me/click-counter.html 1 1
+https://malinaexpert.ru/yagoda-poxozhaya-na-malinu/#ezheviku-stoit-poprobovat 1 1
+https://sciartel.ru/publishing-house/ 1 1
+https://zaokotak.ru/sousy-spetsii/hranit-adzhiku.html/ 1 1
+https://orel.dienai.ru/tag/preparaty-dlya-zdorovya-zhenschiny/ 1 1
+https://aromagolik.kz 1 1
+https://autovteme.ru/cars-nedorogoe-obslyjivanie/ 1 1
+https://medicaltranslate.ru/russisches-ubersetzungsburo/ 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/otbelivayushhie-osvetlyayushhie-sredstva-dlya-kozhi-lica/ 2 2
+https://damoney.ru/bank/credit 1 1
+https://www.gudzik.kiev.ua 1 1
+https://mp3rus.xyz 2 2
+https://startup.career/uk/cambridge/ 1 1
+https://star-cats.com/store/anthocyanin-conditioner-300-ml/ 1 1
+https://yalta.dienai.ru/tag/maski-dlya-suhoi-kozhi-posle-50/ 1 1
+https://priliv.com.ua 2 2
+https://musicritm.mobi/genres/hardkor 1 1
+https://listmp3.mobi 1 1
+https://yalta.dienai.ru/tag/kupit-uvlazhnyayuschi-krem-dlya-lica/ 1 1
+https://workez.ru/rgn35 1 1
+http://oliaus.ru/category/banki/ 1 1
+https://xn----9sbbkeacwrd4e.xn--p1ai/vybrat-besedku/besedka-na-beregu-6.html 1 1
+https://kuhni.co.il/product-category/kuhni/kuhni-evropejskogo-proizvodstva-2/fabrika-fadome/premio/ 1 1
+http://mp3kachat.com/genres/raznoe 1 1
+https://otravleniya-yadi.ru/pomoshh/sorbenty-antidoty-lekarstva 1 1
+https://velesritual.com.ua 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-lica/losony-dlya-lica/ 1 1
+https://novgorod.dienai.ru/tag/profilaktika-grippa-i-orvi-preparaty/ 1 1
+https://www.svoimi-rukamy.com/Sdelay/podelki/samodelki-iz-pokrishek 1 1
+http://malinca.ru 1 1
+https://polimer-3d.ru 1 1
+https://apple-tree.com.ua/ru/nemetskij-yazyk.html 4 4
+https://freelancehack.ru/articles/zarabotat-v-internet 2 2
+https://sokolov.pl 1 1
+https://freelancehack.ru/articles/intervyu 3 3
+https://tver.dienai.ru/tag/piling-dlya-lica/ 1 1
+https://idolstore.net/jewelry-accessories/ 1 1
+http://chopper.su/category/motocikly-jawa-i-cz 2 2
+https://listmp3.mobi/genres/klassicheskaya-muzyka 1 1
+https://samara-comfort.ru/buzuluk 1 1
+https://enresurs24.ru/catalog/kraskopulty/ 2 2
+https://fandbox.ru/obuv-2/ 4 4
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-volos/losony-dlya-volos/ 1 1
+https://perspectiva-clinic.ru 1 1
+https://kupitoo.com.ua 2 2
+https://coronavirus-covid.info 2 2
+http://chopper.su 2 2
+https://dezcenternsk.ru/unichtozhenie-muravev-novosibirsk/ 2 2
+https://ekb.lombardkorund.ru 4 4
+https://kupime.kz/detyam/detskie-kolyaski/ 1 1
+https://www.svoimi-rukamy.com/Sdelay/konservatsii 1 1
+https://erikaretouch.com 2 2
+https://toyota-cars.info/2019/07/31/chto-luchshe-tojota-kamri-ili-korolla-sravnitelnyj-analiz-dvuh-modelej/ 1 1
+https://surgut.dienai.ru/tag/lifting-krem-dlya-zreloi-kozhi/ 1 1
+https://friends-serial.com/9s/ 1 1
+https://topvykup.com.ua 3 3
+https://musicritm.mobi 1 1
+https://blog-invest.online/novosti-finansov/ 1 1
+https://penza.dienai.ru/tag/uvlazhnyayuschaya-maska-dlya-kozhi-lica/ 1 1
+https://apple-tree.com.ua/ru/anglijskij-yazyk.html 1 1
+https://muzyka-mp3.mobi/genres/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://youlooks.ru/pricheski/ 2 2
+https://pravda-o-coronaviruse.ru/novosti/novaya-volna-koronavirusa 1 1
+https://nahera.site 2 2
+https://tvoidrug.com/caring/kormlenie/zlak.html 1 1
+https://mistymag.ru/goroskop-na-segodnya-po-znakam-zodiaka/ 1 1
+https://alcoshopnew.ru/obsuzhdenie-petitsii-o-zaprete-oktoberfest 1 1
+https://alcoshopnew.ru/peyte-na-zdorove-uchenye-dokazali-chto-alkogol-vse-taki-prodlevaet-zhizn 1 1
+https://autovteme.ru 2 2
+https://styleray.ru/vidy-otdyha/ 1 1
+https://tvoidrug.com/breed/svojstva/ne-layut.html 1 1
+https://mp3mix.online/genres/metal 1 1
+https://ifish2.ru/udalennyj-zarabotok-v-internete/ 3 3
+https://elgreloo.com/diet-nutrition/top-10-effektivnykh-diet-dlya-bystroy-poteri-vesa 1 1
+https://elkivastane.kz/golubye-elki 1 1
+https://tula.dienai.ru/tag/maski-posle-30/ 1 1
+http://www.ntk-novosibirsk.ru/index/cargo_transportation_from_novosibirsk/0-33 2 2
+https://yaroslavl.dienai.ru/tag/podagra-preparaty/ 1 1
+http://pesnya.mobi 1 1
+https://freemp3.xyz/genres/%D0%B0%D0%B7%D0%B8%D1%8F 1 1
+http://pesnya.mobi/genres/dzhangl 1 1
+https://daigo-uz.com 3 3
+https://studiomedia.ru/videomontazh-yubileya/ 1 1
+https://100remontov.ru/remont-kvartir/ 1 1
+http://www.ntk-novosibirsk.ru/index/shipping_from_novosibirsk_in_summer/0-30 1 1
+https://enresurs24.ru/catalog/sopla_bystrozamenyaemye/ 1 1
+https://mistymag.ru/kak-sny-sposobny-predskazyvat-buduschee/ 1 1
+http://makrab.news 3 3
+http://best-rupesni.com/genres/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB 1 1
+https://yulna.ru/services/perederzhka-sobak/ 1 1
+https://skupauto24.ru/vykup-avto-v-zaprete/ 2 2
+https://sochi.dienai.ru/tag/preparaty-dlya-podderzhaniya-pecheni/ 1 1
+https://big-data.dev/cat/beginners/ 1 1
+https://elektrik-simferopol.ru/montazh-elektroprovodki-simferopol/ 1 1
+https://ak-magnat.ru 1 1
+https://tver.dienai.ru/gel-dlya-lica-timeflow-s-extraktom-gotu-kola/ 1 1
+https://mp3fm.mobi/genres/azerbaijani 1 1
+https://kupime.kz/moda-i-stil/tovary-dlya-krasoty-zdorovya/parfyumeriya/ 1 1
+https://alcoshopnew.ru/surrogat-v-paketah 1 1
+https://mp3fm.mobi/genres/sport-i-aktivnyj-otdyh 1 1
+https://ifish2.ru/passivnyj-dohod-v-internete/ 1 1
+https://elektrik-simferopol.ru/raschet-stoimosti-elektromontazhnyh-rabot-v-kvartire-ploshhadyu-60-m2/ 1 1
+https://stalkermod.ru/AUDIOKNIGI/ 1 1
+https://mp3mix.online/genres/legkaya-muzyka 1 1
+https://habautostroy.ru 1 1
+http://e-book.digital 1 1
+https://sciartel.ru/project-category/cognitio-rerum/ 1 1
+https://sekret.me/gadanie-na-tsyganskih-kartah-chto-on-chuvstvuet-ko-mne/ 1 1
+https://kachai.xyz/genres/%D1%82%D1%80%D0%B0%D0%BD%D1%81 1 1
+https://orel.dienai.ru/tag/maski-dlya-suhoi-kozhi-posle-50/ 1 1
+https://elkivastane.kz/refund 1 1
+https://ak-magnat.ru/reutova-regina/ 1 1
+https://www.yrielt.com.ua/properties/odnokomnatnaya-kvartira-ryadom-s-metro-42-kv-m-zhk-lebedinyj-3-etazh/ 1 1
+https://www.gudzik.kiev.ua/pygovicu/paltovie 2 2
+https://spusk.com.ua/catalog/vazy 1 1
+https://spusk.com.ua/catalog/kukly 1 1
+https://givingbeauty.ru/nastoi-iz-trav-dlya-licza/ 1 1
+https://star-cats.com 1 1
+https://elektrik-simferopol.ru 2 2
+https://tula.dienai.ru/tag/dienai-sostav/ 1 1
+https://www.motiongraphicsbag.com/motion-graphics/overlays/kids-templates 1 1
+https://diaval.ru/magazin/membrannyie-klapanyi/ptfe.html 1 1
+https://pravda-o-coronaviruse.ru/novosti/vpervye-v-istorii-v-ssha-obyavlen-rezhim-krupnogo-bedstviya-po-vsey-strane 1 1
+https://shmeleva-partners.ru/finansy-i-pravo/reorganizatsiya-yuridicheskogo-litsa 1 1
+https://puzanet.net/category/pogovorit/novosti/ 1 1
+https://resnichkinn.ru 2 2
+https://stalkermod.ru/Patchi-CHistoe-Nebo/ 1 1
+https://puzanet.net/category/dnevnik/ 1 1
+https://kachai.xyz 1 1
+https://ulyanovsk.dienai.ru 2 2
+https://bahisgunceladresi.com 1 1
+https://spusk.com.ua/catalog/vyshivanki 1 1
+https://perelomanet.ru/interesnoe/5-sposobov-poluchit-vygodu-ot-obucheniya-prodazham.html 1 1
+https://24sport.pw 1 1
+http://pesni-mp3.top 2 2
+https://muzyka-mp3.mobi/genres/%D0%B3%D1%80%D0%B0%D0%BD%D0%B6 1 1
+https://ua.carivka.com.ua/restoran.html 1 1
+https://l.facebook.com 1 1
+https://nizniynovgorod.dienai.ru/tag/protivoopuholevye-sredstva/ 1 1
+https://pamjatnik.com.ua/ritualnaja-productsia/exclusive-memorial 3 3
+https://club.exchange/customer/package/confirm_package/20 2 2
+https://ryazan.dienai.ru/tag/omolazhivayuschiy-krem-dlya-lica/ 1 1
+https://stariy-baku.com/banketniy-zal/ 1 1
+https://gisexpert.ru 2 2
+https://carivka.com.ua/restoran.html 1 1
+http://worldtranslation.org/news/17-sport/ 2 2
+https://mp3-mp3.mobi 1 1
+http://www.ntk-novosibirsk.ru 1 1
+https://kuhni.co.il 3 3
+https://samara-comfort.ru 1 1
+https://blog-invest.online 2 2
+https://freelancehack.ru/articles 1 1
+http://pesni-mp3.top/genres/francuzskaya-pop-muzyka 1 1
+https://startup.career 2 2
+https://nizniynovgorod.dienai.ru/tag/preparaty-dlya-uluchsheniya-raboty-pecheni/ 1 1
+https://enresurs24.ru 2 2
+http://worldtranslation.org/news/14-education/ 1 1
+https://vesnavsadu.ru/cvety-sadu/ 1 1
+https://samara-comfort.ru/mezhdugorodnee-taksi-samara 1 1
+http://best-rupesni.com/genres/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%88%D0%B0%D0%BD%D1%81%D0%BE%D0%BD 1 1
+https://ua.carivka.com.ua/wellness-spa/47-basejn.html 1 1
+https://elkivastane.kz/services 2 2
+https://surgut.dienai.ru/tag/bad-dlya-zhencshin-posle-50-let/ 1 1
+https://cpstest.me/click-speed-test.html 1 1
+https://spusk.com.ua/catalog/aksessuary 1 1
+https://kuhni.co.il/product-category/kuhni/kuhni-evropejskogo-proizvodstva-2/kuhni-fabriki-kam/kamduo-ml/ 1 1
+https://cpstest.me/cps-counter.html 1 1
+https://sekret.me 3 3
+https://pesni-mp3.site/genres/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://mp3rus.xyz/genres/%D1%82%D1%80%D0%B0%D0%BD%D1%81 1 1
+https://qwertysh.ru/catalog/setevoe-oborudovanie/cisco/ 1 1
+https://club.exchange/investing 2 2
+https://belgorod.dienai.ru 1 1
+http://promefey.ru/tehnadzor5 1 1
+https://pravda-o-coronaviruse.ru/novosti/vladimir-putin-karantin-iz-za-koronavirusa-prodlen-na-mayskie-prazdniki 1 1
+https://www.gudzik.kiev.ua/pygovicu 2 2
+https://inzuro.ru/osago/%D0%BE%D1%81%D0%B0%D0%B3%D0%BE-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%83%D1%81%D0%BB%D1%83%D0%B3/ 1 1
+https://casinox-jp.com 1 1
+https://diz-kitchen.ru/konstruktor 2 2
+https://top-kasyna.com 1 1
+https://shmeleva-partners.ru 1 1
+https://iv-teks.ru/namatrasniki 1 1
+https://www.motiongraphicsbag.com/motion-graphics/overlays/corporate-templates 1 1
+http://mp3kachat.com/genres/arabskaya-muzyka 1 1
+https://sochi.dienai.ru/tag/luchshie-krema-ot-morschin-posle-35-let/ 1 1
+https://perelomanet.ru/ushiby/ushib-myagkih-tkanej.html 1 1
+https://belgorod.dienai.ru/tag/profilaktika-orvi-i-koronavirusa-preparaty/ 1 1
+https://zhd-online.ru/routes/moskva/astrahan/ 1 1
+https://idolstore.net/pop-culture/ 1 1
+https://styleray.ru/sochi/ 1 1
+https://inzuro.ru/osago/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%81-%D0%BE%D1%81%D0%B0%D0%B3%D0%BE/ 1 1
+https://www.boliachka.ru 3 3
+https://diz-kitchen.ru 1 1
+http://www.diplom5-novosibirsk.ru 1 1
+https://24rabota.kg 2 2
+https://www.affiliate-programs.biz/how-to-choose-a-site-niche/ 1 1
+https://idolstore.net/games/dark-souls/ 1 1
+https://xn-----7kcbtcaw9bbc6ayev7d.xn--p1ai 1 1
+https://www.gudzik.kiev.ua/kryzhevo 2 2
+http://oliaus.ru/category/platezhi-i-perevody/ 1 1
+https://surgut.dienai.ru/tag/antigelmintnye-preparaty/ 1 1
+https://v-shature.ru/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BA-%D0%B8-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%BE%D0%B2 1 1
+https://inzuro.ru/osago/%D0%BE%D1%81%D0%B0%D0%B3%D0%BE-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D1%81%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE-24-%D1%87%D0%B0%D1%81%D0%B0/ 1 1
+https://www.web-site.com.ua 1 1
+https://www.gudzik.kiev.ua/lentu/atlasnue 1 1
+https://logeksim.ru 2 2
+https://mosad.online/invalidam-kakoy-gruppy-polozhen-avtomobil/ 1 1
+https://dezcenternsk.ru/unichtozhenie-klopov-novosibirsk/ 1 1
+https://carivka.com.ua 3 3
+https://openoblokah.ru/firms/ 1 1
+https://ryazan.dienai.ru/tag/preparat-dlya-zhenschin-posle-45/ 1 1
+https://coffeetee.ru/2019/11/04/mozhno-li-kofe-kapuchino-kormyaschey-mame/ 1 1
+https://fandbox.ru/igry-i-konsoli-merch-atributika/ 1 1
+https://turvpolshu.ru/rubrika/strana/ 1 1
+http://www.diplom5-novosibirsk.ru/index/enjoy_a_diploma_in_novosibirsk/0-45 2 2
+https://habautostroy.ru/catalog/beton/beton-m200-b15/ 2 2
+https://itunes.apple.com 1 1
+https://pskov.dienai.ru/category/vosstanovlenie-obmena-veshchestv/ 1 1
+https://www.yrielt.com.ua/properties/prodazha-2-h-komnatnoj-kvartiry-na-6-etazhe-v-zhk-terracotta/ 1 1
+https://carivka.com.ua/hotels.html 3 3
+https://nizniynovgorod.dienai.ru/tag/bad-dlya-zhencshin-posle-50-let/ 1 1
+https://dezcenternsk.ru 3 3
+https://vse-pro-bmw.info/nedostatki-slabye-mesta-neispravnosti-bmv-3-serii/ 1 1
+https://www.yrielt.com.ua/properties/2-komnatnaya-kvartira-na-4-etazhe-zhk-lebedinyj-revuckogo-40v/ 1 1
+https://mp3fm.mobi 1 1
+http://best-rupesni.com/genres/j-pop 1 1
+https://yaroslavl.dienai.ru/tag/ochistka-organizma-ot-parazitov/ 1 1
+https://big-data.dev/cat/apache/ 1 1
+https://big-data.dev 2 2
+https://parliament.group/pomoshch-v-torgah-po-bankrotstvu/ 2 2
+https://freelancehack.ru/articles/services 1 1
+http://worldtranslation.org/news/24-psychology/ 3 3
+https://orel.dienai.ru/tag/gialuronovy-krem-dlya-lica/ 1 1
+https://girlpas.ru 3 3
+https://studiomedia.ru/fotosyemka-1-sentyabrya-tsena/ 1 1
+https://saryarkatour.kz/poisk-tura/ 1 1
+https://xn--24-6kcuxbmpuw7i.xn--p1ai/dlya-volos/toniki-dlya-volos/ 1 1
+https://youlooks.ru 3 3
+https://bboom.pro/service/prilozheniya/ 1 1
+https://vk.com/vozvrat.aviabiletov 2 2
+https://yaroslavl.dienai.ru 2 2
+https://ryazan.dienai.ru/tag/luchshie-preparaty-dlya-immuniteta/ 1 1
+https://mosad.online/otets-odinochka-pravovoy-status-posobiya-i-lgoty/ 1 1
+https://pamjatnik.com.ua/nolink/ritualnaja-productions-prices 1 1
+https://ocarsharinge.ru/yandex-drive/yandex-drive-v-kakih-gorodah.html 1 1
+https://yalta.dienai.ru/tag/preparat-dlya-ukrepleniya-setchatki-glaza/ 1 1
+https://arte.style/shop/fakturnaya-shtukaturka/dekorativnoe-teksturnoe-pokrytie-moma1/ 1 1
+https://appetitelove.ru 1 1
+https://vulkan-nadengi.ru 1 1
+http://www.ntk-novosibirsk.ru/index/shipping_in_a_container/0-47 1 1
+https://kuhni.co.il/product-category/kuhni-po-individualnomu-zakazu/ 1 1
+https://accs-store.ru 1 1
+https://misoprostol.info/kupit-tabletki-mifepriston-i-mizoprostol-dlya-preryvaniya-ranney-beremennosti-v-Krasnoyarske/ 1 1
+https://muzyka-mp3.mobi/genres/%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0 1 1
+https://dezcenternsk.ru/obrabotka-ot-kleshhej-novosibirsk/ 2 2
+https://star-cats.com/instruction-la-riche-directions/ 1 1
+https://pamjatnik.com.ua/nadgrobnye-pamyatniki-iz-granita-v-kieve 1 1
+http://wrmqf.shabatrip.com/view/69249015/profile/ 1 1
+https://coronavirus-covid.info/vakcina-i-novoe-lekarstvo-ot-koronavirusa-v-rossii-mire-i-evrope 1 1
+http://mp3kachat.com/genres/anime 1 1
+https://spb-spravkin.com/sertificates/spravka-ot-oftalmologa/ 1 1
+https://kbarabas13.ru 1 1
+https://otravleniya-yadi.ru/otravleniya-vyxlopnymi-gazami.html 1 1
+https://blog-invest.online/gramota/ 1 1
+https://midnight.im/store/chity-cs-1-6/ 1 1
+https://freering.ru 3 3
+https://skmaro.ru 1 1
+https://mp3-mp3.mobi/genres/%D1%80%D0%BE%D0%BA-%D0%BD-%D1%80%D0%BE%D0%BB%D0%BB 1 1
+https://qwertysh.ru/catalog/setevoe-oborudovanie/brand-mikrotik/ 1 1
+https://workez.ru/rgn81 1 1
+https://www.amandine.ru 3 3
+https://prestizh-ds.ru 1 1
+http://oliaus.ru/category/zarabotok-na-partnerkax/ 1 1
+https://t-store.com.ua/en/light-sweatshirt/ 1 1
+https://idolstore.net/mythology-amp-fantasy/ 1 1
+https://diz-kitchen.ru/posuda 3 3
+https://mosad.online/rozysk-lyudey/ 1 1
+https://stalkermod.ru/Rusifikatoryi-Stalker/ 1 1
+https://turvpolshu.ru/rubrika/znamenitosti/ 1 1
+https://www.doktorstress.ru 2 2
+https://cpstest.me/click-test-100-seconds.html 2 2
+https://youlooks.ru/interesnoe/ 1 1
+https://avtovykup-24.ru/vykup-avto-s-zapretom-registracionnyx-dejstvij/ 1 1
+https://diaval.ru/stati/primenenie-zapornyix-klapanov.html 1 1
+https://24sport.pw/forecasts 1 1
+https://avtovykup-24.ru 2 2
+https://mosad.online 2 2
+https://sciartel.ru/project-category/in-situ/ 1 1
+https://penza.dienai.ru/tag/sredstva-dlya-zhenschin-pri-klimakse/ 1 1
+https://kachai.xyz/genres/%D1%80%D1%8D%D0%BF 1 1
+https://aboutbeauty.net 1 1
+https://idolstore.net/games/starcraft/ 1 1
+https://skupauto24.ru/vykup-avto-v-zaloge/ 1 1
+https://tula.dienai.ru 2 2
+https://saryarkatour.kz/tury-iz-astany-v-tailand/ 1 1
+https://otravleniya-yadi.ru/kak-pochistit-pochki-v-domashnih-usloviyah.html 1 1
+https://www.web-site.com.ua/razrabotka-saytov/korporativnyj-sajt/ 1 1
+https://youlooks.ru/manikyur/ 2 2
+https://vesnavsadu.ru 4 4
+https://imoby.su/ringtones/latin/ 1 1
+https://shoustar.com 5 5
+https://openoblokah.ru/video/ 1 1
+https://mp3fm.mobi/genres/instrumentalnaya-muzyka 1 1
+https://mistymag.ru/tsyganskie-karty-kogda-ya-vstrechu-svoyu-lyubov/ 1 1
+https://samara-comfort.ru/kazan 1 1
+http://www.diplom5-novosibirsk.ru/index/high_quality_coursework/0-872 1 1
+https://xn----9sbbkeacwrd4e.xn--p1ai/vybrat-besedku/letnyaya-besedka-7.html 1 1
+https://saryarkatour.kz/iz-nur-sultana/ 1 1
+https://aquabuilding.ru 2 2
+https://freetones.info 3 3
+https://laminat-profi33.ru/ukladka-laminata/ 1 1
+https://belgorod.dienai.ru/tag/krem-dlya-lica-s-peptidami/ 1 1
+https://inzuro.ru/osago/%D0%BE%D1%81%D0%B0%D0%B3%D0%BE-%D1%81%D0%BE-%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%BE%D0%B9/ 1 1
+https://doorstyle48.ru 3 3
+https://pamjatnik.com.ua/pamjatniki-korostishev 2 2
+https://ravon-r2.ru 3 3
+https://xn--24-6kcuxbmpuw7i.xn--p1ai 2 2
+https://vikupauto96.ru/zapret 1 1
+https://ryazan.dienai.ru/maska-plenka-express-mask/ 1 1
+https://autovteme.ru/obslyjivanie-cars/ 1 1
+https://sciartel.ru/project-category/eo-ipso/ 1 1
+https://elkivastane.kz 2 2
+https://nissan-auto.in 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 10 233379
+404 983 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 259
+/wp-content/themes/radial-theme/style.css 1 http://www.google.com/
+/ba/login.php 1 -
+/wp-content/themes/deep-blue/style.css 1 http://www.google.com/
+/members/ 2 -
+/category/uncategorized/page/2/ 1 -
+/gsdd/login.php 2 -
+/cct/login.php 2 -
+/in-faucibus-orciluctus-et/mauris-posuere/ 2 -
+/robots.txt 181 -
+/photo-gallery/ 1 -
+/admin/.env 1 -
+/news/wp-includes/wlwmanifest.xml 3 -
+/apple-touch-icon.png 2 -
+/blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/site/xmlrpc.php 1 -
+/wp-content/themes/anthology/style.css 1 http://www.google.com/
+/dedecms/login.php 2 -
+/wp-content/uploads/2013/10/Toastmasters-Clubs.doc-.pdf 1 -
+/admin001/login.php 2 -
+/images/apple-touch-icon-114x114.png 10 -
+/laravel/.env 1 -
+/js/html5shiv.js 1 -
+/admindede/login.php 4 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/only/login.php 2 -
+/images/apple-touch-icon-72x72.png 6 -
+//wp-admin/install.php 1 -
+/wp-content/themes/OptimizePress/lib/admin/media-upload.php 1 http://www.google.com/
+/pass.php 1 -
+/e/admin/index.php 4 http://cttoastmasters.org.za/e/admin/index.php
+/component/content/article/18-home/37-home.html 1 -
+/wp/xmlrpc.php 1 -
+/blogs/ 1 -
+/dede123/login.php 7 -
+/wp-content/themes/famous/megaframe/megapanel/inc/functions.php 1 http://www.google.com/
+/wp-content/plugins/super-interactive-maps/js/docs.js 1 -
+/oldsite/xmlrpc.php 1 -
+/contact-us.html 2 -
+/index.php/questions/ 1 -
+/dede/login.php 9 -
+/about/ 1 -
+/web/wp-includes/wlwmanifest.xml 3 -
+/2014/ 1 -
+/js/login.php 2 -
+/images/apple-touch-icon.png 6 -
+/wp-content/themes/cubed_v1.2/style.css 1 http://www.google.com/
+/main/ 1 -
+//wp-test.txt 1 -
+/jian/login.php 7 -
+/2019/wp-includes/wlwmanifest.xml 3 -
+/dg/login.php 2 -
+/interviews/ 2 -
+/seo/login.php 2 -
+/sito/wp-includes/wlwmanifest.xml 3 -
+/js/index.js 3 -
+/wang/login.php 5 -
+/wp-content/themes/konzept/style.css 1 http://www.google.com/
+/wp-content/themes/Dandelion/style.css 1 http://www.google.com/
+/manager/login.php 4 -
+/wp1/wp-includes/wlwmanifest.xml 3 -
+/wp-content/themes/rayoflight-theme/css/style.css 1 http://www.google.com/
+/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/blog/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/2013/ 2 -
+/cfwb/login.php 2 -
+/wp-content/themes/Anthology/style.css 1 http://www.google.com/
+/toastmastersmeeting/ 1 -
+/backup/xmlrpc.php 1 -
+/wp-content/plugins/business-directory-plugin/vendors/jQuery-File-Upload/server/php/index.php 1 http://www.google.com/
+/index.php/2013/10/23/delivering-unprepared-speech/ 1 -
+/wp2/wp-includes/wlwmanifest.xml 3 -
+/wp-content/themes/Famous/style.css 1 http://www.google.com/
+/blog/robots.txt 2 -
+/index.php/2015/09/25/cttm-meeting-minutes-23-sept-2015-30th-anniversary/ 1 -
+/cg/login.php 3 -
+/testimonial-view/testimonial-3/ 1 -
+/wp-content/themes/dimension/style.css 1 http://www.google.com/
+/cms/login.php 1 -
+/wp/test/ 1 -
+/cms/ 1 -
+/////wp-content/uploads/Meuhy.php 1 -
+/2019/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/haian360/login.php 2 -
+/humans.txt 2 -
+/utility/convert/source/d7.2_x1.5/readme.txt 6 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 http://www.google.com/
+/old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-admin/sk.php 1 http://www.google.com/
+/wp-content/themes/kiddo/style.css 1 http://www.google.com/
+/tinyfilemanager.php 1 -
+/wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/css/album.css 4 -
+/wp-content/themes/sportimo-theme/style.css 1 http://www.google.com/
+/wp-content/themes/reganto-theme/style.css 1 http://www.google.com/
+/sitemap.xml 1 -
+/api/.env 1 -
+/new/ 1 -
+/wp-content/plugins/wp-file-manager/lib/files/ 1 http://www.google.com/
+/blog/.env 1 -
+/admin/login.php 10 -
+/component/content/article/17-roknewsrotator/52-glossary-of-tm-terms.html 1 -
+/about-us-2/ 1 -
+/j-stuff.feed 2 -
+/wp/ 2 -
+//vendor/phpunit/phpunit/phpunit.xsd 2 -
+/wp-admin/setup-config.php 2 -
+/password.php 1 -
+/statics/css/crop.css 3 -
+/index.php/2014/09/ 1 -
+/demo/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/system/.env 1 -
+/cms/wp-includes/wlwmanifest.xml 3 -
+/xmlrpc.php 5 -
+/wp-login.php 12 -
+/wordpress/wp-includes/wlwmanifest.xml 3 -
+/wp/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/qili_admin/login.php 2 -
+/caiyuan/login.php 8 -
+/wp-content/plugins/file-manager-advanced/application/library/php/connector.minimal.php 1 http://www.google.com/
+/wordpress/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/website/ 1 -
+/old/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/contact-2/ 3 -
+/wordpress/xmlrpc.php 1 -
+/en/ 1 -
+/js/common.js 2 http://cttoastmasters.org.za/js/common.js
+/site/ 1 -
+/wp-content/themes/rockstar-theme/style.css 1 http://www.google.com/
+/.well-known/wcs-challenge/cttoastmasters.org.za 248 -
+/site/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/new/xmlrpc.php 1 -
+/index.php/2015/09/09/minutes-of-meeting-09-sept-2015/ 1 -
+/wp-content/plugins/superstorefinder-wp/js/docs.js 1 -
+/public/.env 2 -
+/user/register/ 1 -
+/business-skills/ 1 -
+/index.php/2014/09/12/education-learning-fact-training-mind/ 1 -
+/new/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/website/wp-includes/wlwmanifest.xml 3 -
+/shop/wp-includes/wlwmanifest.xml 3 -
+/wordpress/ 2 -
+/config/AspCms_config.asp 1 -
+/router.php 2 -
+//wp-admin/admin-ajax.php 1 -
+/downloads.html 2 -
+/wp-content/themes/curvo/style.css 1 http://www.google.com/
+/wp-content/themes/qualifire/style.css 1 http://www.google.com/
+/vendor/.env 2 -
+/2020/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/data/admin/allowurl.txt 6 -
+/admindede888/login.php 2 -
+/include/dialog/select_soft_post.php 1 -
+/reset.php 1 -
+/htadmin/login.php 4 -
+/blog/xmlrpc.php 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 1 -
+/images/main/hl-6.jgp 1 http://www.cttoastmasters.org.za/
+/contact_us/ 1 -
+/test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/joomla/robots.txt 1 -
+/public/js/wind.js 1 http://cttoastmasters.org.za/public/js/wind.js
+/back/xmlrpc.php 1 -
+/old/index.asp../1.php 1 http://cttoastmasters.org.za/old/index.asp../1.php
+/facai/login.php 2 -
+/wp-admin/admin-ajax.php 1 -
+/team-view/chris-adlam/ 1 -
+/wp-content/themes/famous/style.css 1 http://www.google.com/
+/include/calendar/calendar-cn.js 2 http://cttoastmasters.org.za/include/calendar/calendar-cn.js
+/speaker's-tips/ 2 -
+/houtai/login.php 8 -
+/FCKeditor/fckconfig.js 1 -
+/js/respond.min.js 1 -
+/2019/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/public/router.php 2 -
+/wp-content/uploads/2013/10/3rd-Banner-640x395.jpg 1 -
+/dedeadmin/login.php 2 -
+/bob/login.php 2 -
+/888/login.php 2 -
+/phocadownload/as%20we%20were%20saying%20feb%20-%20%20final.pdf 1 -
+/ads.txt 4 -
+/wp-content/themes/optimizepress/lib/admin/media-upload.php 1 http://www.google.com/
+/chen/login.php 7 -
+/test/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/component/content/article/17-roknewsrotator/33-the-most-versatile-versatility-ever.html 1 -
+/wp-content/themes/dandelion/style.css 1 http://www.google.com/
+/dedea/login.php 8 -
+/tdcq/login.php 2 -
+/10-public-speaking-tips/ 2 -
+/apple-touch-icon-precomposed.png 2 -
+/e/data/js/ajax.js 7 -
+/2020/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/public/simpleboot/css/simplebootadmin.css 4 -
+/benefits-of-toastmasters/ 1 -
+/admin1/login.php 2 -
+/index.php/success-stories/ 2 -
+/shen/login.php 3 -
+/old/xmlrpc.php 1 -
+/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/web/xmlrpc.php 1 -
+/blog/wp-includes/wlwmanifest.xml 3 -
+/blog/administrator/index.php 1 -
+/d/txt/test.txt 1 http://cttoastmasters.org.za/d/txt/test.txt
+/features-mainmenu-27.html 1 -
+/wp-content/themes/Clockstone/style.css 1 http://www.google.com/
+/media/wp-includes/wlwmanifest.xml 3 -
+/sites/.env 1 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/v1/ 1 -
+/demo/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-admin/ 2 http://cttoastmasters.org.za/wp-admin/
+/2018/wp-includes/wlwmanifest.xml 3 -
+/wp-content/plugins/superlogoshowcase-wp/js/docs.js 1 -
+/speakers-tips/ 3 -
+/ueditor/net/controller.ashx 1 http://cttoastmasters.org.za/ueditor/net/controller.ashx
+/site/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/contact_us 1 -
+/asp/index.asp../1.php 1 http://cttoastmasters.org.za/asp/index.asp../1.php
+/home/ 2 -
+/8sunbet/login.php 2 -
+/cgsw/login.php 2 -
+/j-stuff.html 1 -
+/wp-content/themes/clockstone/style.css 1 http://www.google.com/
+/testimonial/chantel-full-time-mom/ 2 -
+/cy/login.php 2 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 21 http://cttoastmasters.org.za/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/wp-includes/wlwmanifest.xml 3 -
+/storage/.env 1 -
+/administrator/index.php 4 -
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php 2 www.google.com
+/v2/ 1 -
+/test/wp-includes/wlwmanifest.xml 3 -
+/shop/.env 1 -
+/xixi/login.php 2 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/services/services-3/category-2/ 1 -
+/www/ 1 -
+/uncategorized/cttm-meeting-minutes-23-sept-2015-30th-anniversary/ 2 -
+/manage/login.php 4 -
+/blog/wp-login.php 1 -
+/solutions/ 2 -
+/apple-touch-icon-120x120.png 2 -
+/login/login.php 2 -
+/blog/ 3 -
+/1689/login.php 2 -
+/wp/wp-includes/wlwmanifest.xml 3 -
+/wp-content/themes/highlight/style.css 1 http://www.google.com/
+/test/.env 1 -
+/xxxss 7 -
+/portfolio_tag/consectetur/page/3/ 1 -
+/.env 9 -
+/joomla/administrator/index.php 1 -
+/index.php/feed/ 1 -
+/wordpress/wp-content/plugins/ioptimization/IOptimize.php 1 www.google.com
+/guanli/login.php 7 -
+/js/comm.js 1 http://cttoastmasters.org.za/js/comm.js
+/index.php 15 -
+/wp-content/themes/project10-theme/style.css 1 http://www.google.com/
+/webadmin/login.php 2 -
+/hehe/login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 228
+185.125.219.13 67 67 0 20201031165929
+85.209.89.217 67 67 0 20201031164205
+85.209.89.205 67 67 0 20201031164045
+85.209.89.216 66 66 0 20201031164344
+85.209.89.224 65 65 0 20201031164206
+185.224.132.45 65 65 0 20201031164004
+85.209.89.241 64 64 0 20201031164345
+77.220.215.153 64 64 0 20201031164005
+194.67.210.77 63 63 0 20201031165811
+185.203.240.129 63 63 0 20201031164006
+193.124.190.18 62 62 0 20201031170427
+185.209.20.147 62 62 0 20201031165349
+193.124.188.188 61 61 0 20201031170148
+193.124.188.83 61 61 0 20201031165846
+212.86.109.31 59 59 0 20201031164006
+185.214.164.198 49 49 0 20201027033320
+194.67.207.94 45 45 0 20201027153345
+185.5.249.185 43 43 0 20201027153350
+193.124.191.92 43 43 0 20201031170506
+194.67.207.9 42 42 0 20201027153302
+5.188.84.242 40 40 1037240 20201012034656
+5.188.84.228 38 38 985378 20201011095419
+5.188.84.119 36 36 933516 20201010150234
+5.188.84.115 28 28 726068 20201011032318
+5.188.84.95 24 24 622344 20201010150520
+192.71.36.158 1 1 25931 20201005212209
+52.36.195.223 1 1 25931 20201002192107
+34.221.24.175 1 1 25931 20201001195532
+40.94.85.59 1 6 240428 20201020090422
+162.221.207.99 1 1 25931 20201004234143
+194.61.24.94 4 4 103724 20201027235906
+51.222.43.122 3 3 77793 20201023170357
+54.191.211.41 1 1 25931 20201011192232
+84.17.47.72 2 2 51862 20201007064650
+203.147.91.202 3 3 77793 20201008203720
+54.202.102.13 1 1 25931 20201010192618
+46.159.118.39 2 2 51862 20201029065938
+105.187.38.33 1 35 3324827 20201017083937
+34.219.175.177 1 1 25931 20201014192310
+49.12.126.16 1 12 251139 20201004213225
+37.120.217.69 2 2 51862 20201002021221
+37.113.188.247 9 9 233379 20201023172856
+51.91.218.49 1 36 3354100 20201023170417
+196.251.43.36 2 38 3355253 20201016094501
+54.70.96.110 1 1 25931 20201031190644
+31.28.199.240 2 2 51862 20201031172709
+103.205.5.251 2 2 51862 20201016025233
+101.89.239.120 1 1 25931 20201031182934
+104.144.66.111 1 1 25931 20201016203136
+58.22.95.194 1 1 25931 20201028072026
+40.94.85.38 0 5 345908 
+138.197.155.4 1 1 0 20201011012826
+45.228.178.92 2 2 51862 20201030175314
+207.46.13.3 0 1 1200 
+42.236.104.115 2 2 51862 20201026112130
+101.51.229.141 2 2 51862 20201031031433
+15.236.42.223 1 1 25931 20201012033012
+119.4.174.68 3 3 77793 20201031131930
+113.23.225.9 1 1 25931 20201006223534
+62.210.83.78 1 1 25931 20201006103134
+54.188.124.248 1 1 25931 20201027190631
+175.44.42.76 1 1 25931 20201001220548
+168.151.229.95 1 1 25931 20201001114824
+5.183.92.91 3 3 77793 20201009153554
+54.185.109.125 1 1 25931 20201020194000
+196.216.238.180 1 1 25931 20201007161120
+212.86.219.134 1 1 25931 20201012211223
+5.62.20.22 2 2 51862 20201022102714
+51.158.154.88 1 1 25931 20201005041609
+157.55.39.82 0 1 4414 
+79.124.72.67 2 2 51862 20201023153132
+94.102.50.152 1 1 25931 20201020012632
+154.70.210.58 1 36 3354100 20201015104804
+40.94.85.48 0 1 584866 
+8.129.109.42 2 37 3354100 20201031142817
+119.7.230.233 2 2 51862 20201013014049
+114.103.168.25 2 2 51862 20201012222639
+172.255.82.191 1 1 25931 20201025052355
+196.25.237.218 2 2 51862 20201013050155
+159.203.80.251 1 12 251139 20201024110343
+44.234.47.196 1 1 25931 20201025201505
+34.219.20.123 1 1 25931 20201018192427
+5.62.20.31 1 1 25931 20201028221346
+52.27.13.222 1 1 25931 20201008205258
+54.245.186.215 1 1 25931 20201030201235
+91.207.238.107 1 1 25931 20201013035644
+51.103.26.157 1 1 25931 20201020104904
+5.62.20.46 1 1 25931 20201022200832
+52.25.126.79 1 1 25931 20201025190321
+178.175.142.134 8 8 207448 20201027012557
+188.237.119.104 2 2 51862 20201030170911
+165.227.215.206 1 12 251139 20201010054649
+45.228.179.147 1 1 25931 20201030050423
+105.216.64.226 2 36 3346879 20201015204154
+179.97.245.199 1 1 25931 20201023015102
+157.55.39.231 0 2 49697 
+157.55.39.135 0 2 11131 
+34.210.93.26 1 1 25931 20201026191718
+54.218.247.119 1 1 25931 20201004190200
+46.116.231.241 1 1 25931 20201028154038
+52.177.121.220 2 2 51862 20201020171448
+109.245.236.109 2 2 51862 20201013032215
+5.189.147.43 2 2 51862 20201021193854
+117.212.93.163 1 1 25931 20201028215510
+34.221.101.175 1 1 25931 20201015192450
+143.110.157.90 2 2 51862 20201013002743
+54.200.183.129 1 1 25931 20201016192215
+103.122.98.195 2 2 51862 20201029203528
+139.99.134.195 1 1 25931 20201009023212
+187.87.204.202 2 2 51862 20201024195909
+161.35.124.51 1 1 25931 20201014044442
+179.178.122.182 1 1 25931 20201031191253
+101.89.239.232 1 12 251139 20201031182835
+175.103.40.69 1 1 25931 20201009025054
+34.215.157.84 1 1 25931 20201003190907
+18.237.236.66 1 1 25931 20201005190612
+199.187.211.105 1 1 25931 20201022103725
+122.112.212.15 2 2 51862 20201010092512
+109.162.248.159 1 1 25931 20201013020339
+54.38.190.109 2 2 51862 20201021015834
+213.239.193.124 1 1 25931 20201004064600
+175.111.119.42 2 2 51862 20201013022613
+54.188.196.114 1 1 25931 20201012194410
+184.94.240.92 1 1 25931 20201007080756
+34.219.138.213 1 1 25931 20201023194809
+95.153.31.88 1 1 25931 20201014202927
+128.199.77.88 1 1 25931 20201007104513
+34.220.64.3 1 1 25931 20201017192456
+45.10.232.51 1 1 25931 20201031134327
+216.145.14.142 1 1 25931 20201009164907
+77.82.231.81 2 2 51862 20201026025832
+52.24.96.170 1 1 25931 20201021192843
+5.62.62.55 1 1 25931 20201005095626
+36.91.187.250 2 2 51862 20201024185413
+72.13.62.26 1 1 25931 20201016132148
+198.57.247.199 1 1 25931 20201018160632
+210.2.144.109 1 1 25931 20201006025933
+200.69.105.194 2 2 51862 20201013161101
+159.65.47.146 1 21 685568 20201030015129
+64.211.66.246 2 2 51862 20201031163715
+185.225.137.62 1 1 25931 20201005143638
+157.55.39.191 0 1 4414 
+197.245.232.179 2 36 3350758 20201008155352
+45.132.107.248 6 6 0 20201031164443
+172.98.82.166 1 1 25931 20201030192334
+191.102.150.64 1 1 25931 20201026031354
+8.209.79.75 1 1 25931 20201012055544
+54.214.210.5 1 1 25931 20201024192907
+159.65.34.46 1 21 685568 20201005145709
+185.191.204.5 1 1 25931 20201020151212
+45.12.222.34 1 1 25931 20201015153156
+43.230.196.214 1 1 25931 20201013012517
+45.10.232.69 4 4 103724 20201023124033
+176.67.86.155 3 3 77793 20201009012839
+207.46.13.229 0 1 27540 
+40.77.167.18 0 2 187278 
+5.62.62.54 1 1 25931 20201014110652
+91.237.127.162 2 2 51862 20201023160235
+212.100.146.50 2 2 51862 20201027043248
+40.94.85.61 0 2 560675 
+156.146.56.119 3 3 77793 20201008202813
+3.17.177.183 3 24 761589 20201031133911
+142.93.70.155 1 1 25931 20201013015455
+40.94.85.11 0 4 138793 
+157.55.39.120 0 2 35919 
+5.62.20.23 1 1 25931 20201009075733
+123.129.107.213 1 1 25931 20201013050150
+51.75.95.101 1 1 25931 20201029081656
+159.69.29.32 1 1 25931 20201027005712
+93.87.119.115 2 2 51862 20201031024036
+36.67.53.153 1 1 25931 20201024080326
+5.62.60.54 1 1 25931 20201005003201
+202.75.97.82 2 2 51862 20201031102129
+40.94.85.76 0 6 202525 
+116.202.129.130 1 1 25931 20201009065302
+190.120.253.113 2 2 51862 20201017194234
+41.78.6.218 1 36 3354100 20201015084851
+129.88.46.51 1 1 25931 20201028205516
+40.94.85.64 0 1 583140 
+94.139.178.59 2 2 51862 20201013004926
+192.71.38.71 1 1 25931 20201003235347
+94.103.80.12 2 2 51862 20201006223814
+40.94.85.63 0 4 243353 
+105.209.138.78 8 110 10081772 20201006185904
+5.183.92.67 2 2 51862 20201028020224
+54.188.209.55 1 1 25931 20201028193455
+112.92.89.225 2 2 51862 20201031063038
+46.101.9.216 1 1 25931 20201030155308
+45.15.72.45 1 1 25931 20201006223813
+193.128.111.41 1 36 3354100 20201017130027
+52.43.206.214 1 1 25931 20201022191519
+111.177.117.51 2 2 51862 20201022083030
+207.46.13.11 0 1 1668 
+173.234.151.211 1 1 25931 20201006203126
+61.151.178.197 1 12 251139 20201023040957
+199.244.88.132 1 1 25931 20201023124624
+18.236.119.33 1 1 25931 20201007191625
+40.94.85.27 0 1 58919 
+103.241.178.10 2 2 51862 20201013014258
+13.54.205.81 1 1 25931 20201007101733
+36.79.214.147 2 2 51862 20201013030613
+159.203.24.155 1 1 0 20201011012825
+102.39.186.125 1 35 3324827 20201013104217
+52.34.226.40 1 1 25931 20201016122946
+104.197.141.11 1 1 25931 20201001194931
+34.70.49.158 2 2 51862 20201019174817
+40.94.85.44 0 6 395493 
+185.184.172.80 2 2 51862 20201025091041
+173.255.246.21 1 1 25931 20201010111656
+138.68.88.149 1 1 25931 20201031104636
+199.187.211.99 2 2 51862 20201002033425
+54.202.98.114 1 1 25931 20201013191736
+5.62.20.48 1 1 25931 20201028112653
+178.175.142.133 1 1 25931 20201031053836
+143.244.39.206 2 2 51862 20201010214218
+5.62.56.238 2 2 51862 20201006025923
+54.200.97.135 1 1 25931 20201009191458
+113.77.241.167 2 2 51862 20201012232725
+34.221.36.156 1 1 25931 20201029191109
+107.158.84.45 1 1 25931 20201028164753
+198.23.242.153 3 3 77793 20201030140450
+34.122.32.203 1 1 25931 20201013195709
+42.157.195.85 1 1 25931 20201009071129
+47.52.253.226 2 2 51862 20201031122410
+92.47.62.133 1 1 25931 20201013012756
+34.222.124.37 1 1 25931 20201006200940
+104.236.118.204 1 1 25931 20201021101447
+34.213.94.12 1 1 25931 20201019192005
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20201001 35 35 388965 29
+20201002 60 67 731031 48
+20201003 52 52 311172 46
+20201004 51 62 614173 44
+20201005 51 71 1256050 42
+20201006 82 187 11026476 59
+20201007 40 40 181517 39
+20201008 56 90 4336136 34
+20201009 86 86 959447 72
+20201010 72 83 821621 61
+20201011 75 76 482604 67
+20201012 50 51 286850 47
+20201013 63 97 4024964 54
+20201014 43 43 103724 43
+20201015 66 171 10111355 65
+20201016 42 78 3510839 40
+20201017 39 108 6756720 38
+20201018 36 36 51862 36
+20201019 36 36 77793 36
+20201020 41 76 3561548 39
+20201021 40 40 155586 38
+20201022 47 47 207448 46
+20201023 54 100 3994204 48
+20201024 44 55 406725 42
+20201025 54 54 155586 53
+20201026 62 62 207448 59
+20201027 49 49 207448 47
+20201028 46 46 233379 46
+20201029 39 39 155586 37
+20201030 55 75 970809 51
+20201031 62 129 4937310 51
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 2
+30s-2mn 1
+5mn-15mn 4
+0s-30s 1442
+30mn-1h 6
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 1621 11254054 1456 1453
+/fonts/Flat-UI-Icons.woff 4 88208 0 2
+/pix_mail/new_contact.php 1 56 0 1
+// 1 25931 0 1
+/fonts/Flat-UI-Icons.ttf 1 15204 1 0
+END_SIDER

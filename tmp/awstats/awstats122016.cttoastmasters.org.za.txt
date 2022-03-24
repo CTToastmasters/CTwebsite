@@ -1,0 +1,2323 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2698                
+POS_VISITOR 65378               
+POS_DAY 97514               
+POS_DOMAIN 3663                
+POS_LOGIN 5064                
+POS_ROBOT 5219                
+POS_WORMS 5796                
+POS_EMAILSENDER 5927                
+POS_EMAILRECEIVER 6070                
+POS_SESSION 98464               
+POS_SIDER 98675               
+POS_FILETYPES 6205                
+POS_DOWNLOADS 6495                
+POS_OS 6543                
+POS_BROWSER 6935                
+POS_SCREENSIZE 9393                
+POS_UNKNOWNREFERER 9467                
+POS_UNKNOWNREFERERBROWSER 10601               
+POS_ORIGIN 10919               
+POS_SEREFERRALS 11072               
+POS_PAGEREFS 11273               
+POS_SEARCHWORDS 64355               
+POS_KEYWORDS 64754               
+POS_MISC 2360                
+POS_ERRORS 64953               
+POS_CLUSTER 4920                
+POS_SIDER_404 65069               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101000445 94 18753 8403093321392
+FirstTime 20161201005532
+LastTime 20161231235729
+LastUpdate 20170101141125 94 0 93 0 0
+TotalVisits 2867                
+TotalUnique 718                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 861                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 248 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 149 222 4343977 118 185 1775253
+1 232 266 2878636 128 182 1335125
+2 121 222 5656438 133 180 1702774
+3 76 88 882275 152 188 1279606
+4 200 204 636204 130 159 999112
+5 150 199 3904073 143 269 4512994
+6 101 198 6271682 113 231 4130855
+7 201 257 3330171 94 140 1360674
+8 212 482 15629261 152 294 2774298
+9 187 454 15796160 183 345 3890256
+10 173 699 31152739 142 273 2869906
+11 134 517 22512686 125 229 2962107
+12 170 619 24075720 163 283 2104518
+13 194 517 18427934 84 165 1665701
+14 190 374 10957706 125 289 4344679
+15 295 943 34671137 204 533 10002296
+16 177 375 12381130 110 253 3148001
+17 194 359 8889058 136 230 2703639
+18 219 504 15284685 144 234 2499464
+19 187 415 14213516 115 217 2225589
+20 214 317 6763825 123 301 2552175
+21 231 526 15544100 148 287 3406960
+22 173 376 12148344 130 222 2112621
+23 175 424 14696898 178 293 2521074
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 82
+ru 1965 2092 7166259
+za 987 4642 209564046
+us 341 1294 48769148
+ua 142 151 1471947
+cn 99 174 5106743
+in 69 76 930531
+fr 60 60 806463
+de 57 90 2644724
+ro 36 36 355357
+br 35 92 3385325
+ph 30 30 271899
+sa 25 56 2027071
+ca 24 42 789532
+pl 21 21 248247
+dz 20 20 181035
+it 18 18 153899
+gb 18 62 2380230
+jp 17 17 271028
+pk 17 17 154053
+hu 16 16 154053
+nl 16 16 291451
+eg 15 15 135834
+rs 15 16 253647
+es 14 14 126532
+id 14 14 155949
+kr 9 9 169351
+sd 6 6 53964
+cz 6 6 54426
+bd 3 3 26982
+mx 5 5 45355
+cl 10 10 90402
+ae 8 8 72337
+mu 8 72 3674874
+lk 6 6 54195
+gr 10 10 90710
+be 8 8 72568
+ch 1 1 38334
+ve 7 7 63112
+pt 10 10 90710
+sm 3 3 27213
+no 3 67 3503586
+dk 9 41 1749612
+ke 2 2 18142
+zm 2 2 17988
+at 2 2 18142
+py 3 3 7080
+bh 3 3 27213
+ba 3 3 26982
+ir 3 3 27213
+sk 3 3 7080
+lb 3 3 27213
+tn 5 5 45355
+hr 2 2 18142
+om 3 3 26982
+bn 6 6 54426
+rw 2 34 1819295
+hk 6 6 54195
+np 2 2 18142
+mn 3 3 27213
+my 13 13 117923
+tt 2 2 18142
+tz 1 1 38334
+au 9 9 81100
+ge 2 2 18142
+ma 8 8 72568
+uz 3 3 27213
+mk 6 6 54426
+ml 2 2 17988
+pr 3 3 27213
+se 9 9 81177
+tr 8 8 72337
+si 3 3 27213
+lt 1 1 38334
+sg 8 8 72183
+fi 3 3 27213
+bg 3 3 26982
+al 3 3 26982
+il 12 12 108159
+bw 2 2 18142
+cm 4 4 36284
+nz 5 5 45124
+th 9 9 81639
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+googlebot 826 23333830 20161231161755 0
+bot[\s_+:,\.\;\/\\-] 816 22592690 20161231183816 0
+spider 273 8349716 20161231215152 0
+bingpreview 94 5013457 20161222050529 0
+googlebot\-image 66 102685 20161229220223 0
+php 39 6326580 20161230204243 0
+slurp 24 354483 20161231091028 0
+robot 20 452501 20161231210028 0
+no_user_agent 15 487124 20161231230727 0
+crawl 5 133047 20161225192752 0
+ruby\/ 3 115002 20161219231824 0
+checker 1 0 20161225033852 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+svg 14 587017 0 0
+jpg 893 106598314 0 0
+woff 199 19519536 0 0
+css 1674 72914290 0 0
+png 737 31079274 0 0
+js 1873 38865437 0 0
+gif 11 67652 0 0
+php 1698 14870242 0 0
+ttf 9 1024016 0 0
+html 2414 13572654 0 0
+eot 35 1949923 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+macosx9 101 23
+winnt 716 129
+win2003 249 240
+winlong 288 246
+ios_iphone 991 140
+Unknown 230 60
+linuxubuntu 1 1
+win7 2665 1078
+linuxandroid 1292 225
+macosx7 3 3
+win2008 278 278
+winunknown 1278 1278
+win98 3 3
+linux 117 21
+win16 470 470
+win8 7 7
+winphone 37 5
+macosx5 1 1
+winxp 198 68
+ios_ipad 180 32
+macosx 140 11
+win8.1 312 36
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 121
+chrome51.0.2704.106 6 1
+chrome42.0.2311.152 8 8
+msie 2 2
+firefox3.6.9 1 1
+chrome34.0.1788.0 1 1
+chrome53.11.2785.90 34 2
+chrome40.0.2214.109 44 11
+android 36 3
+chrome55.0.2883.95 81 10
+chrome44.0.2403.125 1 1
+firefox3.6.28 2 2
+chrome54.0.2840.85 250 51
+firefox48.0 8 8
+firefox2.0.0.15 2 0
+chrome36.0.1985.125 5 5
+firefox3.5.6 1 1
+chrome48.0.2564.109 1 1
+chrome41.0.2272.89 8 8
+firefox11.0 1 0
+safari10.0.1 34 2
+chrome17.0.1025.133 1 1
+chrome31.0.1650.57 2 2
+opera8.50 3 3
+chrome34.0.1847.131 21 10
+msie10.0 38 6
+chrome24.0.1284.0 3 3
+firefox34.0 2 2
+firefox23.0 2 2
+msie7.0 10 1
+chrome50.0.2661.89 79 14
+chrome51.0.2704.103 1 1
+chrome54.0.2840.99 1125 83
+chrome49.0.2623.112 34 2
+Unknown 28 19
+chrome47.0.2526.83 82 18
+firefox49.0.2 4 4
+chrome33.0.1750.154 1 1
+safari10.0.2 34 2
+firefox14.0.1 3 3
+safari5.0.2 35 3
+msie9.0 335 92
+firefox6.0.2 13 13
+firefox50.0 148 20
+chrome36.0.1985.97 2 2
+chrome44.0.2403.133 190 30
+firefox35.0 1 1
+netscape5.0 1 0
+lynx 1 1
+opera12.17 1 1
+firefox50.0.2 4 4
+chrome38.0.2125.111 7 1
+chrome29.0.1600.1 1 1
+chrome22.0.1229.94 3 3
+chrome54.0.2840.68 41 8
+firefox19.0 35 4
+msie2.00 329 329
+chrome39.0.2171.95 3 3
+chrome45.0.2454.93 120 73
+netscape 4 4
+chrome10.0.648.204 6 6
+firefox43.0 2 2
+chrome38.0.2125.122 1 1
+chrome34.0.1847.76 125 29
+chrome55.0.2883.75 59 4
+opera12.16 165 10
+firefox3.6 1 1
+msie6.00 348 348
+firefox28.0 46 13
+chrome42.0.0.0 36 4
+safari9.0 219 18
+msie7.00 318 318
+chrome49.0.2623.105 41 9
+opera36.0.2130.32 1 1
+chrome30.0.1599.66 5 5
+chrome49.0.2623.75 6 6
+firefox5.0 1 1
+chrome53.0.2785.116 35 3
+firefox24.0 7 7
+safari 788 526
+chrome36.0.1985.143 62 5
+safari8.0 23 6
+chrome38.0.1025.166 62 2
+msie6.0 8 8
+msie5.00 367 367
+wget 3 3
+chrome41.0.2228.0 15 15
+chrome52.0.2743.98 76 12
+firefox40.1 747 739
+safari7.0 35 3
+chrome34.0.1847.137 2 2
+firefox33.0 1 1
+msie3.00 348 348
+safari5.0.6 1 1
+firefox49.0 34 3
+firefox21.0 17 6
+msie8.0 99 36
+chrome55.0.2883.91 116 18
+safari9.1.3 1 0
+chrome23.0.1271.95 3 3
+msie11.0 193 32
+chrome52.0.2743.116 88 8
+chrome30.0.0.0 1 0
+chrome43.0.2357.130 1 1
+chrome38.0.2125.102 36 4
+mozilla 42 10
+firefox3.6.3 1 1
+opera20.0.1387.77 1 1
+chrome42.0.2311.90 6 1
+chrome54.0.2840.98 36 3
+chrome39.0.2171.71 1 1
+firefox29.0 9 9
+safari7.0.3 3 3
+msie4.00 320 320
+chrome40.0.2214.115 2 2
+chrome39.0.2171.99 2 2
+opera5269 1 1
+chrome55.0.2883.87 699 60
+safari10.0 479 82
+chrome53.0.2785.124 76 11
+chrome50.0.2661.75 23 23
+firefox25.0 34 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+Mozilla/4.0_(compatible;) 20161202100015
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20161211130336
+larbin_2.6.3_larbin2.6.3@unspecified.mail 20161223063618
+Mozilla/5.0_(Android_5.1.1;_Mobile;_rv:50.0)_Gecko/50.0_Firefox/50.0 20161217223438
+Opera/9.80_(Android;_Opera_Mini/7.5.33391/37.9178;_U;_en)_Presto/2.12.423_Version/12.16 20161231124405
+Visited_by_http://tools.geek-tools.org 20161205155822
+vebidoobot 20161212015229
+mitambot 20161225083130
+Mozilla/5.0_(Android_5.0.1;_Mobile;_rv:49.0)_Gecko/49.0_Firefox/49.0 20161213110949
+Mozilla/5.0_(Android_5.0.1;_Mobile;_rv:49.0.2)_Gecko/49.0.2_Firefox/49.0.2 20161213111013
+newspaper/0.1.7 20161221103550
+Mozilla/5.0_(Android_5.1.1;_Tablet;_rv:50.0.2)_Gecko/50.0.2_Firefox/50.0.2 20161204160901
+Mozilla/5.0_(Android_5.1.1;_Tablet;_rv:50.0)_Gecko/50.0_Firefox/50.0 20161204160850
+Softaculous 20161212024840
+M 20161225193017
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20161206200052
+Mozilla/5.0 20161231100110
+Mozilla 20161216145431
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+newspaper/0.1.7 20161221103550
+M 20161225193017
+mitambot 20161225083130
+Softaculous 20161212024840
+larbin_2.6.3_larbin2.6.3@unspecified.mail 20161223063618
+vebidoobot 20161212015229
+Visited_by_http://tools.geek-tools.org 20161205155822
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1621 1715
+From1 31 31
+From2 211 397
+From3 2020 2020
+From4 472 5394
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+baidu 1 1
+bing 1 1
+google 186 372
+alexa 15 15
+yandex 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 886
+https://pearlisland.ru 24 24
+https://www.rodivnizze.ru 23 23
+https://xchange.cc 23 23
+http://tiogusfunk.com 22 22
+https://heliairmonaco.ru 22 22
+https://villamala.ru 21 21
+http://scanmarine.info 21 21
+http://uhodzalijami.ru 20 20
+https://chalet24.ru 20 20
+http://scanmarine.ru.com 18 18
+http://xn--80aafb2a.xn--p1ai 17 17
+http://aviav.org 17 17
+http://profeservice.ru/index.php 17 17
+http://aviav.ru.com 17 17
+http://aviav.eu 17 17
+https://saintpierre.ru 16 16
+http://scanmarine.biz 16 16
+http://xn--80aayflfdwd.xn--p1ai 16 16
+http://aviav.fr 16 16
+http://aviav.co 16 16
+http://centernasledstva.ru 16 16
+https://ruschalet.ru 15 15
+https://myriazur.ru 15 15
+https://8gambetta.ru 15 15
+https://lookaboat.com 15 15
+http://glazki-zakryvai.ru/brand/garfild/ 1 1
+http://bororo.club 7 7
+http://maxfort.kiev.ua/gruzchiki.html 1 1
+http://www.matematikus.info/arifmetika/vzaimno_obratnye_chisla.php 1 1
+http://gift.in.ua 8 8
+http://storinka.com.ua/2016/07/kak-nachat-begat-5-sovetov-nachinayushhim/ 1 1
+http://abrekos.ru/news/kupit-iphone-6-deshevo-original-Ajfon-Magazin-Abrekos 1 1
+http://cleaningservices.kiev.ua 1 1
+http://fibroblok.ru/catalog/ogon/plazas 1 1
+http://ukrsmeta.ua/vnesennya-popravok-do-nayavnogo-koshtorisu/ 3 3
+https://leboard.ru/kz/talgar/nedvizhimost/prodazha/zemelnye_uchastki/prodam_zemelnyy_uchastok_2563330 1 1
+http://tonirovka-almaz.ru/nashi-raboti/bronirovanie-bmw-antigravijnoj-plenkoj/ 1 1
+http://letto.by/divani-krovati/priamie-divani/kniga/gotland 1 1
+http://intim-dosug.moscow/articles/ 1 1
+http://ukrsmeta.ua/news/montazhnye-raboty/ 1 1
+http://help-insects.ru/poleznaya-informaciya/udalenie-pleseni-v-kvartire 1 1
+http://bororo.us 6 6
+http://avtokor-23.ru/shop/porog-pravyj-kia-ceed-v-krasnodare-3/ 1 1
+http://autoua.top/auto1762.html 1 1
+http://storinka.com.ua/2016/07/gde-vzyat-dengi-na-otpusk/ 1 1
+http://www.avtobanrent.ru/otzivi/chevrolet-cruze/ 1 1
+https://24paybank.com/sberbank-to-perfectmoney-usd.html 1 1
+http://ukrsmeta.ua/konsultuvannya-z-pitan-koshtorisnogo-tsinoutvorennya/ 1 1
+https://leboard.ru/ru/novosibirsk/krasota_i_zdorove/drugoe/suhoe_moloko_som_stsm_gost_rb_31540 1 1
+http://storinka.com.ua/2016/09/dima-bilan-silno-poxudel-iz-za-bolezni-foto/ 1 1
+http://chitachok.ru/threads/9280/ 1 1
+http://mirperevozki.ru/passazhirskie_perevozki.html 1 1
+http://ukrsmeta.ua/koshtoris-na-elektromontazhni-roboti/ 2 2
+http://stbgroup.ru/fss.aspx 3 3
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t32-2015-g-v/obzor-nissan-x-trail-t32.html 1 1
+https://leboard.ru/ua/harkov/odezhda_obuv_i_aksessuary/zhenskiy_garderob/obuv/kedy_cheaploader_go_color_street_38_39_razmery_2527481 1 1
+http://grodfud.ru/myasnye-konservy/svinina-tushenaya/svinina-tushenaya-voyskovoy-spetcrezerv-525 1 1
+http://maxfort.kiev.ua/kvartira.html 1 1
+http://ukrsmeta.ua/podgotovka-smety-pered-remontom-v-kvartire/ 1 1
+http://storinka.com.ua/2016/05/mozhno-li-izbavitsya-ot-rastyazhek/ 1 1
+http://www.timer4web.com/domain/cttoastmasters.org.za 1 1
+http://snomer1.ru/gruzoperevozki50.php 1 1
+http://Certificate.Net/CCC-certificate 5 5
+http://ukrsmeta.ua/smeta-na-stroytelstvo-doma/ 1 1
+https://leboard.ru/ru/ufa/dlya_doma_i_dachi/mebel/shkaf_kombinirovannyy_alisa_2727186 1 1
+http://crashkino.net/films/0-1-4-0-16 1 1
+http://ukrsmeta.ua/skolko-stoyt-postroyt-dom/ 2 2
+http://ukrsmeta.ua/otstayvanye-ynteresov-fyrmy/ 2 2
+http://www.vipsiding.ru/products-page/cokolnyj-sajding-dolomit 3 3
+http://prokatavto93.ru/arenda-avto/hendaj-ix35/ 1 1
+http://tnomer1.ru/grejfer-manipulyator.php 1 1
+http://storinka.com.ua/2016/06/poyavilis-foto-beremennoj-ksenii-sobchak-2016/ 1 1
+http://best-23.ru/katalog/shkaf/shkaf-stil-551-550800240/ 1 1
+https://gantbpm.ru/proekty/analiz-zarubezhnogo-rynka/ 1 1
+https://it-sektor.ru/bresh-darwin-nuke-vyzyvaet-avariyinoe-zavershenie-raboty-apple-ustroyistv.html 1 1
+http://marblestyle.ru/stupeni-iz-travertina 7 7
+https://gamekeys.pro/sell/2090239 2 2
+http://relax-kapriz.ru/blogpost/ero-massage-v-moskve/ 1 1
+http://ukrsmeta.ua/garantiyi-na-roboti/ 2 2
+http://stomatolog-rayter.ru/rayon2/timiriazevskiy.html 1 1
+http://ukrsmeta.ua/smeta-na-remont-kvartiry-pod-klyuch/ 3 3
+http://ukrsmeta.ua/koshtoris-na-remont-kvartiri-pid-klyuch/ 1 1
+http://glazki-zakryvai.ru/category/detskoe-postelnoe-bele/pledy/ 1 1
+https://wolf-bavaria.ru/stati/zvukoizoljacija_proizvodstvennyh_pomeschenij.html 1 1
+http://indizz.ru/projects/26/ 1 1
+http://dividendo.ru/dividendnye-istorii-amerikanskih-kompaniy.html 1 1
+http://gameandroid.ru/oformlenie/vidzhety/93-switchpro-widget.html 1 1
+http://tnomer1.ru/ruchnye-zemlyanye-raboty.php 1 1
+http://denterum.ru 10 10
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-200-kvm/proekt-odnojetazhnogo-doma-s-4-spalnjami-gostinoj-i-terrasoj-20-207/ 1 1
+http://crashkino.net/filmy-pro-holod-zamerzanie-poholodanie 1 1
+http://xn--e1aialfecu4d.xn--p1ai/plate-s-relefami-vykrojka-i-master-klass.html 1 1
+http://ut-chel.ru 3 3
+http://dividendo.ru/tns-energo-yaroslavl/ 1 1
+http://storinka.com.ua/2016/09/7-produktov-kotorye-mogut-vas-ubit/ 1 1
+http://ukrsmeta.ua/shho-slid-vrahuvati-pri-skladanni-koshtorisu-remontu/ 1 1
+http://marblestyle.ru/podokonniki-iz-mramora 7 7
+http://proxtrail.ru/tuning/farkop-nissan-x-trail-t31.html 3 3
+http://ukrsmeta.ua/smety-na-remontnye-raboty/ 1 1
+http://avtokor-23.ru/pro-cat/kia/kia-sportage/zapchasti-dlya-to-kia-sportage/filtr-na-kia-sportage-v-krasnodare/ 1 1
+http://xn--j1at1a.xn--p1ai/instruktsija-abiturient-onlajn.html 1 1
+http://marblestyle.ru/price 9 9
+http://marblestyle.ru/stupeni-iz-oniks 5 5
+http://spb--servis.ru/remont-kompyuterov/ 2 2
+http://ukrsmeta.ua/rekonstruktsiya-privatnih-budinkiv/ 2 2
+https://www.facebook.com 1 1
+https://www.dna-sklad.ru/info/klinika-rezultaty.html 1 1
+http://dividendo.ru/129-novatek-dividendy-1-polugodie-2016.html 1 1
+http://ak2000.ru/legend/308 1 1
+http://balkanfarma.ru/blog/primobolan 1 1
+http://dengi-v-kredit.in.ua/kiev/ 1 1
+http://crashkino.net/filmy-pro-planety-zvezdy-solnce 2 2
+http://prokatavto93.ru/news/arenda-v-gorjachem-kljuche/ 2 2
+http://www.matematikus.info/arifmetika/smeshannye_chisla2.php 1 1
+http://ukrsmeta.ua/kompyuternaya-programma-inproekt-vipusk-koshtorisiv/ 2 2
+https://it-sektor.ru/vredonosnye-ssylki-dlya-pol-zovateleyi-ios.html 1 1
+http://xn--j1at1a.xn--p1ai/studencheskoe-nauchnoe-obschestvo.html 1 1
+http://ak2000.ru/polaris/417 1 1
+http://glazki-zakryvai.ru/brand/zveropolis/ 1 1
+http://best-23.ru/katalog/komplekti-mebeli/zerkalo-shkaf-stil-klassik-14-707018-1/ 1 1
+http://ukrsmeta.ua/vnesenye-popravok-k-sushhestvuyushhemu-sm/ 2 2
+http://xn--j1at1a.xn--p1ai/platnye-obrazovatelnye-uslugi.html 1 1
+https://leboard.ru/ua/odessa/odezhda_obuv_i_aksessuary/zhenskiy_garderob/odezhda/yubka_-casablanca-_dlina_70_sm-_5_tsvetov_2729852 1 1
+http://storinka.com.ua/2016/08/kak-sdelat-domashnee-mylo/ 1 1
+http://rccity.ru/portcat/dizajn-potolkov/ 1 1
+http://abrekos.ru/feedback 1 1
+http://marblestyle.ru/travertin 9 9
+http://ukrsmeta.ua/smeta-na-stroitelstvo-basejna/ 2 2
+http://xn----7sbfo9agcaeodvh.xn--p1ai/remont-otkatnykh-vorot-i-avtomatiki 1 1
+http://dividendo.ru/163-promezhutochnye-dividendy-vtb-2016.html 1 1
+http://www.domizem.ru/zemelnye-uchastki-v-tom-chisle-na-volge/zemelnyj-uchastok-derevnja-terehovo-5 1 1
+https://polmsk.ru/zalivka-pola-betonom 2 2
+http://svet93.ru/katalog/bra/bra-fiori-di-rose-w1121-lucia-tucci-italiya-fiori-di-rose-e27-belyiy/ 1 1
+http://avtokor-23.ru/shop/ventilyator-radiatora-ohlazhdeniya-chevrolet-spark-v-krasnodare/ 1 1
+https://bereg.fr 11 11
+http://www.avtobanrent.ru/news/leto-vot-vot-nastupit-bronirujte-avtomobili/ 1 1
+http://proxtrail.ru/modelnyj-ryad/sravnit-nissan-x-trail-i-toyota-rav-4-2015-goda.html 3 3
+http://abrekos.ru/news/Kupit-Ajfon-iPhone-6-Novyj-upakovan-Samovyvoz 1 1
+http://certificate.tw/CCC\xe8\xaf\x81\xe4\xb9\xa6 7 7
+http://www.domizem.ru/doma-dachi/dacha-moshkovskogo-zaliva-konakovskij-rajon 1 1
+http://ukrsmeta.ua/spetspropozitsiyi-vid-ukrsmyeta/ 2 2
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/ruze 1 1
+https://acoustic-services.ru/proekty-i-otzyvy.html 1 1
+http://fibroblok.ru/catalog/sss/pol 1 1
+http://indizz.ru/services/57/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/tormoznye-kolodki-nissan-x-trail-t31.html 2 2
+http://intim-dosug.moscow/articles/tak-pochemu-by-ne-oplatit-seks/ 1 1
+http://rccity.ru/category/art-salon/ 1 1
+http://proxtrail.ru/service/zamena-cepi-grm-nissan-x-trail.html 4 4
+http://glazki-zakryvai.ru/brand/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F+%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C+%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%85+%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85/ 1 1
+http://smb-spb.ru/catalog-tovarov-i-uslug/8-organizatsiya-predostavlyaet-tekhniku-v-arendu/22-areda-avtokrana-kamaz-25-tn 1 1
+http://san-elit.ru/santehnika/vanni-chugunnie/vanna-magliezza-julietta-bronza/ 1 1
+https://sureone.pro/en/services.html 1 1
+http://tnomer1.ru/rabota-vyvoz-grunta.php 1 1
+http://ukrsmeta.ua/vigidne-skladannya-koshtorisiv/ 1 1
+http://www.xme.ru/catalog/12/17131.php 1 1
+http://china-engine.ru/g11102083-zapchasti-dlya-avtogrejderov 1 1
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-ot-300-kvm/tipovoj-proekt-bolshogo-osobnjaka-30-003/ 1 1
+http://dengi-v-kredit.in.ua/uk/ 1 1
+https://gantbpm.ru/proekty/biznes-plan-razvitiya/ 1 1
+http://ukrsmeta.ua/kupit-smetu/ 1 1
+http://mirstroy.by/stroitelstvo_domov/ 1 1
+http://ukrsmeta.ua/koshtorisni-programi/ 3 3
+http://abrekos.ru/news/iphone-6-64gb-seryj-kosmos-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://ukrsmeta.ua/smeta-na-ventilyatsiyu/ 2 2
+http://rccity.ru/service/jeskiznij-arhitekturnij-proekt/ 1 1
+http://www.playpokeronline.dk/poker-om-rigtige-penge-mac.html 1 1
+http://ukrsmeta.ua/kak-sostavit-smetu-na-otdelochnye-raboty/ 1 1
+http://ukrsmeta.ua/koshtoris-na-budivnitstvo-basejnu/ 1 1
+http://ukrsmeta.ua/estimating-construction/ 1 1
+http://glazki-zakryvai.ru/brand/ehver_after_khaj/ 2 2
+http://storinka.com.ua/2016/05/poleznye-prilozheniya-dlya-iphone-i-android/ 1 1
+http://ukrsmeta.ua/smeta-na-elektromontazhnye-raboty/ 1 1
+http://chitachok.ru/threads/37785/ 1 1
+http://investzalog.ru/razdel.php 3 3
+https://gantbpm.ru/skram-metodologiya-elementy-chast-3/ 1 1
+http://Certificate.Net/EAC-certificate 6 6
+http://relax-kapriz.ru/blogpost/tajskij-massage-v-salone/ 1 1
+http://avtokor-23.ru/shop/petlya-kapota-pravaya-hyundai-ix-35-v-krasnodare/ 1 1
+http://www.domizem.ru/kottedzhnyj-poselok-derevnja-ploski/zemuchastok-15-sotok-50m-r-volga 1 1
+http://tonirovka-almaz.ru/nashi-raboti/tonirovka-far-plenkoj-mercedes-gl-350/ 2 2
+http://dividendo.ru/48-gruppa-kompaniy-pik-ne-budet-vyplachivat-dividendy-po-itogam-2015-goda.html 1 1
+https://24paybank.com/reviews/Pereveli-den-gi-za-obmen-za-5-6-minut.html 1 1
+http://rccity.ru/services/ 1 1
+http://ukrsmeta.ua/professionalnoe-sostavlenie-smet-na-ukladku-parketa/ 1 1
+http://ukrsmeta.ua/koshtoris-na-zovnishnye-osvitlennya-vulits/ 1 1
+http://stomatolog-rayter.ru/cities/vladymyr.html 1 1
+http://marblestyle.ru/podokonniki-iz-granita 7 7
+http://bazakanstovarov.com/products/razdeliteli-stranic-f2075142/ 1 1
+http://ukrsmeta.ua/koshtorisna-sprava-v-budivnitstvi/ 2 2
+http://investzalog.ru/uslugi.php 8 8
+http://chitachok.ru/forums/332/ 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/kaluzhskom-shosse 1 1
+http://grodfud.ru/myasnye-konservy/baranina-tushenaya/baranina-tushenaya-baltiyskaya-okhota-325-gr 1 1
+http://ukrsmeta.ua/profesiya-koshtorisnik-shho-potribno-znati/ 1 1
+https://24paybank.com/reviews/Spasibo-ogromnoe-obmenniku.html 1 1
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-150-kvm/tipovoj-proekt-nebolshogo-odnojetazhnogo-kottedzha-15-003/ 1 1
+http://cleaningservices.kiev.ua/moika-okon-jalyuzi-v-kieve 1 1
+http://marblestyle.ru 5 5
+http://ukrsmeta.ua/virtualne-konsultuvannya/ 1 1
+http://maxfort.kiev.ua/perevozka-holodilnika-kiev.html 1 1
+https://phonestar.msk.ru/katalog/vibrogasjaschie-opory.html 1 1
+https://gamekeys.pro/sell/1990839 3 3
+http://ukrsmeta.ua/news/stroytelnye-raboty/ 1 1
+http://san-elit.ru/santehnika/unitazi-podvesnie/unitaz-podvesnoj-bez-obodka-vitra-sento-rim-ex/ 1 1
+http://www.avtobanrent.ru/uslugi/korporativnoe-obsluzhivanie-organizacij/ 1 1
+http://ukrsmeta.ua/smeta-na-otdelochnye-raboty/ 1 1
+http://mirstroy.by 2 2
+http://prokatavto93.ru/uslugi-avtoprokata/avtoprokat-v-ajeroportu/ 1 1
+http://Certificate.Net/FSS-notification 4 4
+http://proxtrail.ru/service/to-nissan-x-trail.html 3 3
+http://bazakanstovarov.com/products/fotoramki-f3487736/ 1 1
+http://fibroblok.ru/ognemat-met 1 1
+http://proxtrail.ru/modelnyj-ryad/test-drajv-nissan-x-trail.html 2 2
+https://wolf-bavaria.ru 3 3
+http://ukrsmeta.ua/shho-vklyuchaye-v-sebe-remont-pid-klyuch/ 4 4
+http://marblestyle.ru/stairs 6 6
+http://bazakanstovarov.com/products/oblozhki-podlozhki-f1964611/ 1 1
+http://glazki-zakryvai.ru/category/domashnyaya-odezhda_1/ 1 1
+http://glazki-zakryvai.ru/brand/sojuzmultfilm/ 2 2
+http://stbgroup.ru/rst.aspx 1 1
+http://avtokor-23.ru/shop/filtr-salona-hyundai-elantra-v-krasnodare/ 1 1
+http://ukrsmeta.ua/profesijne-skladannya-koshtorisiv-na-ukladannya-parketu/ 1 1
+http://storinka.com.ua/2016/05/kak-vliyayut-emocii-na-cheloveka/ 1 1
+http://www.domizem.ru/kottedzhnyj-poselok-zelenyj-bor/dom-bezotdelki 1 1
+http://36.lockservice-pro.ru 8 8
+http://china-engine.ru/g10943624-dvigatel-cummins 1 1
+http://balkanfarma.ru/product/trenE_testE 1 1
+http://snomer1.ru/163.php 1 1
+http://letto.by/divani-krovati/uglovie-divani/ 2 2
+http://antigrav-zachita.ru/kontakti/ 1 1
+https://www.dna-sklad.ru/info/mens_health.html 1 1
+https://acoustic-services.ru/informatsija/izmerenija-vstroitelstve.html 1 1
+https://acoustic-services.ru/novosti/dogovor.html 1 1
+http://www.pinelandsdirectory.co.za/detailSubscriber.php 2 2
+https://gantbpm.ru/proekty/obzor-rynka-truda/ 1 1
+http://bororo.shop 3 3
+http://svet93.ru/katalog/podvesnie-svetilniki/podvesnoy-svetilnik-orion-hl-6-12151-mszug365-grun/ 1 1
+http://www.playpokeronline.dk/online-poker-pengeoverf%c3%b8rsler.html 1 1
+http://ukrsmeta.ua 4 4
+https://gantbpm.ru/upravlenie-proektami/ 1 1
+http://www.avtobanrent.ru/otzivi/mercedes-viano/ 1 1
+http://kotenok.shop 3 3
+http://dividendo.ru/118-prognoz-dividendov-tattelekom-2016.html 1 1
+https://gantbpm.ru/proekty/orakl-primavera/ 1 1
+http://ot-kuzi.ru/kursy-po-rospisi-pryanikov 1 1
+http://best-23.ru/katalog/stabilizatori-naprjazhenija/istochnik-bespereboynogo-pitaniya-pro-vision-black-2000nbspnovinka/ 1 1
+http://ak2000.ru/dsp/934 1 1
+http://smb-spb.ru/catalog-tovarov-i-uslug/item/1-truby-stalnye-ot-57-1420mm/12-truba-stalnaya-530-kh-8mm 1 1
+https://gantbpm.ru/diagramma-zavisimostej-svyazej/ 1 1
+http://ukrsmeta.ua/smeta-na-remont-podezda/ 1 1
+http://abrekos.ru/news/iphone-touch-6-Ajfon-Magazin-Abrekos 1 1
+http://www.xme.ru/catalog/1/16230.php 1 1
+http://indizz.ru/projects/24/ 1 1
+http://storinka.com.ua/2016/09/irina-dubcova-pokazala-kak-zhivet-na-rublevke-foto/ 1 1
+http://bazakanstovarov.com/products/bindery-f2085882/ 1 1
+http://ukrsmeta.ua/news/remontnye-raboty/ 3 3
+http://storinka.com.ua/2016/08/dieta-6-lepestkov-menyu-na-kazhdyj-den/ 1 1
+http://proxtrail.ru/service 1 1
+http://storinka.com.ua/2016/10/kak-bystro-vysushit-lak-na-nogtyax-v-domashnix-usloviyax/ 1 1
+http://help-insects.ru/poleznaya-informaciya/dezinfekciya-kvartir-posle-umershih 1 1
+https://24paybank.com/reviews/Stremitel-nyj-obmen-Sberbank-na-Perfect-Money.html 1 1
+https://acoustic-services.ru/informatsija 1 1
+http://kallekteka.com/item/moneta-poldollara-ssha-2006-g-kennedi-s-proof-1464229273.html 1 1
+http://ukrsmeta.ua/proverka-smet/ 2 2
+http://ukrsmeta.ua/smeta-na-santehnicheskie-raboty/ 2 2
+http://www.matematikus.info/arifmetika/smeshannye_chisla6.php 1 1
+http://prokatavto93.ru/uslugi-avtoprokata/zakaz-mashini-v-arendu/ 1 1
+http://ukrsmeta.ua/koshtoris-na-vodopostachannya/ 1 1
+https://sureone.pro/en/about_us.html 5 5
+http://xn--j1at1a.xn--p1ai/o-kolledzhe 1 1
+http://www.bororo.shop 3 3
+http://mirperevozki.ru/avtomobilnie_gruzoperevozki_avtoperevozki.html 2 2
+http://smb-spb.ru/catalog-tovarov-i-uslug/8-organizatsiya-predostavlyaet-tekhniku-v-arendu 2 2
+http://storinka.com.ua/2016/10/kakie-lekarstva-dolzhny-byt-v-domashnej-aptechke/ 1 1
+http://ot-kuzi.ru/eksklyuzivnyye-torty 4 4
+http://avtokor-23.ru/pro-cat/kia/kia-spectra/dvigatel-i-transmissiya-hyundai-accent-kia-spectra/porshen-na-kia-spectra-v-krasnodare/ 1 1
+http://stomatolog-rayter.ru/articles7/lm-aktivator.html 1 1
+http://ukrsmeta.ua/inzhener-smetchik/ 1 1
+http://intim-dosug.moscow/articles/hoolnqanf9-700x612/ 1 1
+http://popovinhotel.ru 10 10
+http://www.domizem.ru/zemelnye-uchastki-v-tom-chisle-na-volge/zemelnyj-uchastok-d-terehovo 1 1
+http://snomer1.ru/raschet.php 1 1
+http://www.domizem.ru/kottedzhnyj-poselok-derevnja-ploski/ploski-uchastok-15sot 1 1
+http://best-23.ru/katalog/komplekti-mebeli/zerkalnyiy-shkaf-belyiy-levyiy-roca-victoria-nord-60-sm-1/ 1 1
+http://www.vipsiding.ru/products-page/cokolnyj-sajding 5 5
+http://help-insects.ru/poleznaya-informaciya/skazhite-net-nasekomym 1 1
+http://bazakanstovarov.com/products/knigi-ucheta-kancelyarskie-knigi-f11941370/ 1 1
+http://dividendo.ru/fsk-yees/ 1 1
+http://storinka.com.ua/2016/07/johnsons-baby-massazh-dlya-novorozhdennogo/ 1 1
+http://help-insects.ru/poleznaya-informaciya/dezinfekciya-transporta-v-spb 1 1
+http://xn--j1at1a.xn--p1ai/gostinichnyj-serviskr.html 1 1
+http://www.mogilev.biz/news2/news2_4776.html 1 1
+https://gantbpm.ru/news/rosneft-primet-uchastie-v-proekte-solimojns/ 1 1
+https://vivatcoffee.ru/piala-neobjigaushaya-50ml.html 1 1
+http://xn--e1aialfecu4d.xn--p1ai/kak-ssit-yubky-karandash-s-baskoj-poshagovaya-instrukciya.html 1 1
+https://titan-clinic.ru/docs/lechenie-artroza.html 1 1
+http://ukrsmeta.ua/rekonstruktsiya-ofisa/ 1 1
+http://ukrsmeta.ua/poslugi/ 3 3
+http://indizz.ru/projects/23/ 1 1
+http://letto.by/divani-krovati/modulnie-systemi/ 1 1
+https://24paybank.com/news/Igrokov-Pokemon-Go-budet-strahovat-Sberbank.html 1 1
+https://freedom.co.ua/deco-bianca 1 1
+https://polmsk.ru/ukladka-nalivnogo-pola 1 1
+http://np-potolok.ru/portfolio/glyantsevye/studiya-mnogourovnevykh-potolkov 1 1
+https://sureone.pro 5 5
+http://stomatolog-rayter.ru/stb/ 1 1
+https://it-sektor.ru/trojan.iframe.dl.html 1 1
+http://china-engine.ru/g13793096-zapchasti-dlya-dorozhnyh 2 2
+http://www.xme.ru/catalog/2/17060.php 1 1
+http://maxfort.kiev.ua/pianino.html 2 2
+http://mirstroy.by/interior-doors/ 2 2
+http://marblestyle.ru/granit 13 13
+http://abrekos.ru/news/zamena-stekla-iphone-6-Ajfon-Magazin-Abrekos 1 1
+http://bazakanstovarov.com/products/plastilin-f1964219/ 1 1
+http://storinka.com.ua/2016/06/sudya-master-shef-tatyana-litvinova-vyshla-zamuzh/ 1 1
+http://ukrsmeta.ua/sostavlenye-smet-stroytelstva/ 1 1
+http://jcm-holding.ru/2016/09/19/%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%be/ 1 1
+https://gantbpm.ru/news/novatek-ekonomit-na-proekte-arktik-spg-2/ 1 1
+http://smb-spb.ru/catalog-tovarov-i-uslug/item/2-otvody-trojniki-perekhody-i-drugie-izdeliya/13-otvody-trojniki-perekhody-i-drugie-izdeliya-dlya-truboprovodov-sobstvennogo-proizvodstva 1 1
+http://dengi-v-kredit.in.ua/uk/lutsk/ 1 1
+https://gantbpm.ru/proekty/stroitelnyj-konsalting/ 1 1
+http://webpolet.ru/prodvijenie-saitov/ 1 1
+http://crashkino.net/filmy-pro-tsunami-navodneniya 1 1
+http://snomer1.ru/gruzoperevozki58.php 1 1
+http://sobervoditel.ru/uslugi/ 1 1
+http://ot-kuzi.ru 5 5
+http://prokatavto93.ru/arenda-avto/opel-astra/ 2 2
+https://gantbpm.ru/mify-o-konsaltingovyx-uslugax/ 1 1
+http://best-23.ru/katalog/rakovini-s-polupedestalom/rakovina-roca-dama-senso-compacto-48-s-polupedestalom-1/ 1 1
+http://acoustic-services.ru 3 3
+http://storinka.com.ua/2016/06/pogib-izvestnyj-gollivudskij-akter-anton-elchin/ 1 1
+https://titan-clinic.ru 3 3
+http://np-potolok.ru/stati/natyazhnoj-potolok-v-vannuyu-komnatu 1 1
+http://bororo.nl 7 7
+http://ak2000.ru 3 3
+http://crashkino.net/filmy-pro-globalnye-katastrofy 1 1
+http://ukrsmeta.ua/skolko-stoit-stroitelstvo-zabora-iz-profnastila/ 1 1
+https://www.dna-sklad.ru/info/ask_trombos.html 1 1
+http://grodfud.ru/myasnye-konservy/myasorastitelnye-konservy/golubtcy-lenivye-po-derevenski-bars-325-gr 1 1
+https://svetplast.ru 9 9
+http://ukrsmeta.ua/smeta-na-stroitelstvo-bani/ 1 1
+http://Certificate.Tw/EAC\xe8\xaf\x81\xe4\xb9\xa6 2 2
+http://tonirovka-almaz.ru/nashi-raboti/bronirovanie-avto-kia-sportage-antigravijnoj-plenkoj/ 1 1
+http://dividendo.ru/belon/ 1 1
+http://ukrsmeta.ua/yak-pravilno-pereviryati-koshtoris-pidryadnika/ 1 1
+http://ruletka.dota2expert.ru 12 12
+https://phonestar.msk.ru/spravochnaya-informaciya/vlijanie-shuma.html 1 1
+http://gutstart.ru 6 6
+http://china-engine.ru/g10924312-zapchasti-changlin 1 1
+http://dividendo.ru/83-rekordnye-dividendy-mostotresta-za-2015.html 1 1
+https://www.dna-sklad.ru/info/istoria_sozdania.htm 1 1
+http://help-insects.ru/poleznaya-informaciya/unichtozhenie-klopov-v-kvartire 2 2
+http://ukrsmeta.ua/koshtoris-ivk-zamoviti/ 1 1
+http://proxtrail.ru/service/remont-rulevoj-rejki-nissan-x-trail-t31.html 1 1
+http://avtokor-23.ru/shop/rychag-perednij-pravyj-hyundai-solaris-v-krasnodare/ 1 1
+http://proxtrail.ru/modelnyj-ryad/crash-test-nissan-x-trail.html 1 1
+http://svet93.ru/katalog/tochechnie-svetilniki-spoti/cpot-tochechnyiy-svetilnik-linea-light-conus-7257/ 1 1
+http://svetplast.spb.ru 9 9
+https://gantbpm.ru/upravlenie-proektami-kak-metod/ 1 1
+http://ukrsmeta.ua/services/ 1 1
+http://balkanfarma.ru/product/boldenon 1 1
+http://dividendo.ru/84-perspektivy-akciy-kompanii-raspadskaya-i-veroyatnye-dividendy-v-2016-2017-gg.html 1 1
+http://marblestyle.ru/stoleshnicy-iz-oniksa 3 3
+http://xn--e1aialfecu4d.xn--p1ai/vykrojka-i-poshiv-pryamogo-platya-s-kapelkoj-szadi.html 1 1
+http://gameandroid.ru/games/arkady-rannery-taymkillery/521-cooking-dash-2016-mod-mnogo-deneg.html 1 1
+http://kallekteka.com/item/nabor-iz-5-ti-monet-ssha-2015-g-rojdennyy-v-ssha-proof-1464232465.html 1 1
+http://ukrsmeta.ua/skladannya-koshtorisiv-budivnitstva/ 1 1
+http://volgawolga.ru/rechnye-kruizy-volgograd.html 3 3
+http://ukrsmeta.ua/news/ 1 1
+http://proxtrail.ru/modelnyj-ryad 5 5
+http://www.matematikus.info/arifmetika/smeshannye_chisla7.php 1 1
+http://dengi-v-kredit.in.ua/uk/uzhgorod/ 1 1
+http://ukrsmeta.ua/vygodnoe-sostavlenie-stroitelnyh-smet/ 1 1
+http://maxfort.kiev.ua/mebel.html 3 3
+http://www.vipsiding.ru/products-page/crystalit 1 1
+http://balkanfarma.ru/product/tren-miks 1 1
+http://storinka.com.ua/2016/08/nastya-kamenskix-prishla-na-svadbu-druzej-v-penyuare-foto/ 1 1
+http://abrekos.ru/news/smartfon-apple-iphone-6-16gb-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://smb-spb.ru/catalog-tovarov-i-uslug/item/8-organizatsiya-predostavlyaet-tekhniku-v-arendu/21-arenda-ekskavatora-pogruzchika-jcb-4cx-s-gidromolotom 2 2
+http://ukrsmeta.ua/skilki-koshtuye-proekt-budinku/ 1 1
+http://prokatavto93.ru/uslugi-avtoprokata/dolgosrochnaja-arenda-avtomobilja/ 1 1
+http://ukrsmeta.ua/smetnye-programmy/ 2 2
+http://china-engine.ru/g11108797-zapchasti-longgong 3 3
+https://polmsk.ru/polimernye-nalivnye--poly 1 1
+http://storinka.com.ua/2016/05/tatuirovka-mery-predostorozhnosti/ 1 1
+http://mirstroy.by/tumbi_tv/ 1 1
+http://proxtrail.ru/contacts 3 3
+http://ukrsmeta.ua/o-nas/ 1 1
+http://ukrsmeta.ua/smeta-na-puskonaladochnye-raboty/ 1 1
+http://xn--e1aialfecu4d.xn--p1ai/manishka-iz-flisa-na-lipuchke-vykrojka.html 1 1
+https://it-sektor.ru/obnaruzhena-uyazvimost-v-realizatscii-protokola-netbios.html 1 1
+http://proxtrail.ru/tuning/fara-na-nissan-x-trail-t31.html 2 2
+http://gameandroid.ru/programm/upravlenie-i-sinhronizaciya/142-ultimate-mouse.html 1 1
+http://storinka.com.ua/2016/08/dmitrij-shepelev-zakonchil-pisat-knigu-o-zhanne-friske/ 1 1
+http://www.xme.ru/catalog/5/2470.php 1 1
+http://stomatolog-rayter.ru/articles9/isprav-bez-breketov.html 1 1
+http://proxtrail.ru/tuning/kovriki-dlya-nissan-x-trail-2015.html 1 1
+http://zarabotokdengi.ru/eshhjo-neskolko-sposobov-zarabotat-na-sobstvennom-bloge.html 2 2
+http://bazakanstovarov.com/products/nozhnicy-nozhi-kancelyarskie-f1964329/ 1 1
+http://storinka.com.ua/2016/07/kak-obustroit-malenkuyu-kvartiru/ 1 1
+http://dividendo.ru/35-dividendy-vtb-za-2015-god-sostavyat-000117-rublya-na-obyknovennuyu-akciyu.html 1 1
+http://cleaningservices.kiev.ua/tseni-na-moyku-okon 1 1
+http://gameandroid.ru/programm/socialnye-seti-obscheniya-i-znakomstva/262-facebook.html 1 1
+http://xn--j1at1a.xn--p1ai/sobytija-nauchnoj-zhizni.html 1 1
+https://www.dna-sklad.ru/Katalog/dna-karma.html 1 1
+https://gantbpm.ru/news/zapushheno-samoe-severnoe-neftyanoe-mestorozhdenie/ 1 1
+https://titan-clinic.ru/docs/kak-my-lechim.html 1 1
+http://help-insects.ru/poleznaya-informaciya/aerozolnaya-obrabotka-kvartiry-ot-klopov 1 1
+http://bazakanstovarov.com/products/etiket-pistolet-f3489391/ 1 1
+http://dengi-v-kredit.in.ua/cherkassy/ 1 1
+http://prokatavto93.ru/uslugi-avtoprokata/uslovija-arendi-avtomobilja/ 1 1
+http://webpolet.ru/audit-sajta/ 2 2
+http://tnomer1.ru/maz-samosval.php 1 1
+http://www.matematikus.info/arifmetika/delenie2.php 1 1
+http://1-free-share-buttons.com 2 2
+http://ukrsmeta.ua/yak-vibrati-kompaniyu/ 1 1
+http://ukrsmeta.ua/smeta-na-ukladku-trotuarnoj-plytky/ 1 1
+http://www.avtobanrent.ru/news/prokat-avtomobilja-kia-rio/ 1 1
+http://ukrsmeta.ua/koshtoris-na-remont-kvartiri-v-novobudovi/ 2 2
+http://bazakanstovarov.com/products/raskraski-antistress-f3362044/ 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/remont-vorot 3 3
+http://ukrsmeta.ua/vybor-smetnoj-kompanii/ 1 1
+http://ot-kuzi.ru/raspisaniye 1 1
+https://izvestia.fr 4 4
+http://xn--j1at1a.xn--p1ai/operatsionnaja-dejatelnost-v-logistikepa.html 1 1
+http://storinka.com.ua/2016/07/kak-zabyt-byvshego-parnya/ 1 1
+http://xbox360c.com 8 8
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/obzor-2.html 1 1
+https://gantbpm.ru/proekty/sertifikaciya-proektnyj-menedzhment/ 1 1
+http://san-elit.ru/santehnika/dushevie-stojki-s-verhnim-dushem/dushevaja-stojka-jacob-delafon-eo-e11716-cp/ 1 1
+http://fibroblok.ru/catalog/266 1 1
+http://www.matematikus.info/arifmetika/smeshannye_chisla5.php 1 1
+http://dividendo.ru/173-invest-ideya-stoit-li-pokupat-akcii-afk-sistema.html 1 1
+http://ukrsmeta.ua/obosnovanye-metodyky-rascheta/ 1 1
+http://crashkino.net/filmy-pro-zombi-apokalipsis 1 1
+http://www.avtobanrent.ru/news/prokat-avtomobilej-volvo-s60-bez-voditelja/ 1 1
+http://ukrsmeta.ua/pidgotovka-koshtorisu-pered-remontom-u-kvartiri/ 2 2
+http://abrekos.ru/news/iphone-6-plus-64gb-cena-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://www.prestigehouse.ru/preimushchestva-tekhnologii 2 2
+http://ukrsmeta.ua/smeta-v-excel/ 3 3
+http://storinka.com.ua/2016/08/o-chem-govorit-na-pervom-svidanii/ 1 1
+http://chitachok.ru/tags/tank/ 1 1
+http://proxtrail.ru/kalkulyator-to 3 3
+http://jcm-holding.ru/2016/10/25/%d0%b2%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d1%83%d1%87%d0%b5%d1%82%d0%b0/ 1 1
+http://ukrsmeta.ua/koshtorisi-na-remontni-roboti/ 1 1
+http://ak2000.ru/sirius/433 1 1
+http://bazakanstovarov.com/products/prezentacionnoe-oborudovanie-f6078963/ 1 1
+http://np-potolok.ru/fotopechat 1 1
+https://sureone.pro/en/meet.html 5 5
+http://operatoro.ru/44-kak-ubrat-reklamu-na-ustroystvah-android.html 1 1
+http://Certificate.Net/RFC-certificate 6 6
+http://marblestyle.ru/projects 4 4
+http://proxtrail.ru/modelnyj-ryad/nedostatki-nissan-x-trail.html 2 2
+http://storinka.com.ua/2016/07/chto-delat-posle-uvolneniya-5-delnyx-sovetov/ 1 1
+https://gantbpm.ru/news/sovmestnoe-podrazdelenie-dlya-upravleniya-novym-proektom/ 2 2
+https://gantbpm.ru/proekty/vnedrenie-upravleniya-proektami/ 1 1
+http://stomatolog-rayter.ru/rayon3/izmailovo.html 1 1
+http://marblestyle.ru/flors 9 9
+http://best-23.ru/katalog/komplekti-mebeli/zerkalo-stil-pandora-105-oreh-1/ 1 1
+http://dengi-v-kredit.in.ua/borispol/ 1 1
+http://bazakanstovarov.com/products/tovary-dlya-tvorchestva-f1964607/ 1 1
+http://smb-spb.ru/catalog-tovarov-i-uslug/9-peskostrujnaya-obrabotka/20-peskostrujnaya-obrabotka-ot-kraski 1 1
+http://proxtrail.ru/modelnyj-ryad/sravnit-honda-sr-v-i-nissan-x-trail.html 3 3
+http://webpolet.ru/razrabotka-saitov/ 1 1
+http://tnomer1.ru/arenda-asfaltoukladchika.php 1 1
+http://antigrav-zachita.ru/nashi-raboti/antigravijnaja-zashhita-porshe-makan/ 1 1
+http://abrekos.ru/news/harakteristiki-iphone-6-i-iphone-7-Ajfon-Magazin-Abrekos 1 1
+https://24paybank.com/news/Banki-nachali-peremanivat-drug-u-druga-nadezhnyh-zaemcshikov.html 1 1
+https://gantbpm.ru/news/daunstrim-v-neftyanoj-otrasli/ 1 1
+http://marblestyle.ru/podokonniki-iz-oniksa 6 6
+https://vertolet.fr 10 10
+http://storinka.com.ua/2016/06/pochemu-rebenok-ne-igraet-s-drugimi-detmi/ 1 1
+http://dengi-v-kredit.in.ua/irpen/ 1 1
+http://help-insects.ru/poleznaya-informaciya/dezinfekciya-kvartiry 2 2
+http://dividendo.ru/lukoil/ 1 1
+http://dengi-v-kredit.in.ua/vinnitsa/ 2 2
+http://maxfort.kiev.ua/gruztaxi.html 1 1
+http://tnomer1.ru/stat.php 1 1
+http://operatoro.ru/31-snimaem-dengi-s-sim-karty-mts-nalichnymi.html 1 1
+http://help-insects.ru/uslugi/dezinfekciya 1 1
+http://proxtrail.ru/modelnyj-ryad/motornoe_maslo_dlya_nissan_x_trail_t31.html 1 1
+http://storinka.com.ua/2016/08/ivan-dorn-pobrilsya-nalyso-i-pokazal-pikantnoe-foto-s-obnazhennymi-muzhchinami/ 1 1
+http://dengi-v-kredit.in.ua/sumy/ 2 2
+http://storinka.com.ua/2016/04/sekciya-ajkido-fizicheskoe-i-psixicheskoe-zdorove-detej/ 1 1
+http://ukrsmeta.ua/smeta-na-rekonstruktsiyu/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/magnitola-dlya-nissan-x-trail-t31.html 3 3
+http://ukrsmeta.ua/smeta-na-vodosnabzhenie/ 2 2
+http://www.xme.ru/catalog/16/17256.php 1 1
+http://grodfud.ru/about 1 1
+http://fibroblok.ru/topping-aster-upk-kvarcevyj 1 1
+https://gamekeys.pro 4 4
+http://gameandroid.ru/games/azartnye-nastolnye-logicheskie/522-broken-lines.html 1 1
+http://webpolet.ru/otzyvy-o-vebstudii/ 1 1
+http://antigrav-zachita.ru/uslugi/bronirovanie-avto/ 2 2
+http://proxtrail.ru/modelnyj-ryad/klirens-nissan-x-trail.html 1 1
+http://www.avtobanrent.ru/news/prokat-avtomobilej-deawoo-nexia/ 1 1
+http://svet93.ru/katalog/podvesnie-ljustri/masiero-ola-s4-ov-100-bronze--podvesnoy-svetilnik-bronzo-opaco-italian-glass-h20d10013-cm-g9-860w/ 1 1
+http://tonirovka-almaz.ru/novosti/ 1 1
+http://marblestyle.ru/stupieni_iz_ghranita 3 3
+http://dividendo.ru/tns-energo-rostov-na-donu/ 1 1
+http://www.xme.ru/catalog/6/2601.php 1 1
+http://np-potolok.ru/portfolio 1 1
+http://ukrsmeta.ua/smeta-na-ventiliruemyj-fasad-zdaniya/ 1 1
+http://snomer1.ru/gruzoperevozki172.php 1 1
+http://proxtrail.ru/service/nadezhnost-variatora-nissan-x-trail.html 2 2
+https://gantbpm.ru/news/sistema-upravlenija-proektirovaniem-krymskogo/ 1 1
+http://mirperevozki.ru/kvartirniy_pereezd_ofisniy_pereezd.html 1 1
+http://help-insects.ru/poleznaya-informaciya/unichtozhenie-tarakanov-v-kvartire 1 1
+http://www.prestigehouse.ru/preimushchestva-tekhnologii/polusukhaya-styazhka-pola-zimoj 1 1
+http://fibroblok.ru/catalog/gidro 1 1
+http://cleaningservices.kiev.ua/tseni-na-uborku-kvartir 1 1
+http://svet93.ru/katalog/ulichnoe-osveshhenie/nastennyiy-ulichnyiy-svetilnik-orion-leuchten-al-11k405-alugrau/ 1 1
+https://24paybank.com/avangard-to-bitcoin.html 1 1
+https://www.dna-sklad.ru/Katalog/venomax.htm 1 1
+http://kallekteka.com/item/ferrari-312p20spyderc2a0-3428863073.html 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/golitsino 2 2
+https://titan-clinic.ru/reviews/251 1 1
+http://intim-dosug.moscow/articles/seks-za-dengi-yeto-takoy-zhe-tovar/ 1 1
+http://abrekos.ru/goods/Apple-iPhone-5c-32GB-pink 1 1
+http://letto.by/divani_v_nalichii/ 1 1
+http://xn--d1abiacj6bekg.xn--p1ai/index_view.php 4 4
+http://antigrav-zachita.ru/uslugi/semnaja-tonirovka/ 1 1
+http://oliphantskop.snowball.co.za 1 1
+https://www.dna-sklad.ru/Katalog/hondroprotectory.htm 1 1
+http://ukrsmeta.ua/skolko-stoit-postroit-dom-iz-penoblokov/ 1 1
+https://gantbpm.ru/ocenka-potrebnosti-v-resursax/ 1 1
+http://www.matematikus.info/arifmetika/nod2.php 1 1
+https://gantbpm.ru/proekty/iso-9001/ 1 1
+http://xn--j1at1a.xn--p1ai/objavlenija.html 1 1
+http://ukrsmeta.ua/smeta-po-montazhu-naruzhnogo-osveshheniya-dlya-ulits/ 1 1
+http://proxtrail.ru/modelnyj-ryad/peredniy-i-zadnij-bamper-nissan-x-trail-t31.html 2 2
+http://crashkino.net/filmy-pro-alpinistov-gory-i-laviny 1 1
+https://gantbpm.ru/proekty/investicionnyj-proekt/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/maslo-dlya-nissan-x-trail-t31-originalnoe.html 2 2
+http://glazki-zakryvai.ru/brand/cherepashki-nindzya/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/originalnye-chehly-na-nissan-x-trail-t31.html 2 2
+http://indizz.ru/services/55/ 1 1
+https://wolf-bavaria.ru/obekty/zvukoizoljacija_steny_potolka_.html 1 1
+http://best-23.ru/katalog/mebel-dlja-vannoj-komnati/mebel-dlya-vannoy-komnatyi-cersanit-mocca-60/ 1 1
+https://titan-clinic.ru/docs/chto-takoe-intellekt.html 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/remont-rolstavnej-i-rolvorot 1 1
+https://freedom.co.ua/halaty 1 1
+http://stbgroup.ru/sss.aspx 2 2
+http://chitachok.ru/forums/167/ 1 1
+http://cleaningservices.kiev.ua/yborka_posle_remonta 1 1
+https://24paybank.com/reviews/Bystryj-i-operativnyj-obmen.html 1 1
+https://polmsk.ru/ustroystvo-gruntovyh-osnovaniy-i-po 1 1
+http://letto.by/konstruktor 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-qashqai-ili-nissan-x-trail.html 4 4
+http://dividendo.ru/6-prognoz-po-dividendam-na-2017-god.html 1 1
+http://proxtrail.ru/modelnyj-ryad/hyundai-tucson-ili-nissan-x-trail.html 2 2
+http://storinka.com.ua/2016/08/svetlana-tarabarova-vyxodit-zamuzh/ 1 1
+http://snomer1.ru/146.php 1 1
+http://rccity.ru/izyashchnaya-klassika-v-dizayne-doma/ 1 1
+http://ot-kuzi.ru/konditerskiye-kursy 1 1
+http://proxtrail.ru/service/nissan-x-trail-shhetki-stekloochistitelya.html 3 3
+http://webpolet.ru/seo-prodvizenie-saitov/ 1 1
+http://stomatolog-rayter.ru/articles4/devochka.html 1 1
+http://ukrsmeta.ua/koshtoris-na-montazh-konditsionera/ 2 2
+http://www.domizem.ru/arenda-nedvizhimosti/arenda-ofisnogo-pomeschenija-ul-naberezhnaja-volgi 1 1
+http://and746.ru 10 10
+http://avtoshkola.me 5 5
+http://volgawolga.ru/rechnye-kruizy-tolyatti.html 2 2
+http://dividendo.ru/samaraenergo/ 1 1
+https://24paybank.com/faq/Iz-chego-sostoit-obychnyj-internet-bank.html 1 1
+https://gantbpm.ru/proekty/indeks-socialnogo-razvitiya/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/diski-nissan-x-trail-t31.html 1 1
+http://storinka.com.ua/2016/05/krasivye-dlinnye-nogi-kak-dobitsya-effekta/ 1 1
+http://marblestyle.ru/podokonniki-iz-travertina 6 6
+http://marblestyle.ru/marble 5 5
+http://ukrsmeta.ua/golovna/ 1 1
+http://snomer1.ru/mezhgorod8.php 1 1
+http://indizz.ru/services/ 1 1
+http://tnomer1.ru/arenda-grejfera.php 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/vnukovo 1 1
+http://dengi-v-kredit.in.ua/chernigov/ 2 2
+http://fibroblok.ru/catalog/dobavki/sdo 1 1
+http://avtokor-23.ru/shop/napravlyayushhaya-tsepi-maslyanogo-nasosa-levaya-hyundai-ix-35-v-krasnodare/ 1 1
+http://ak2000.ru/serija-md-i/1136 1 1
+http://www.prestigehouse.ru/styajka/tceny 1 1
+http://ukrsmeta.ua/smeta-na-landshaftnye-raboty/ 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/odintsovo 1 1
+http://rccity.ru/personal/pozdneeva-anastasija/ 1 1
+http://xn--e1aialfecu4d.xn--p1ai/sshit-plate-v-pol-svoimi-rukami-vykrojka-vechernego-platya.html 1 1
+http://proxtrail.ru/modelnyj-ryad/zashhita-zadnego-bampera-nissan-x-trail-t31.html 2 2
+http://tonirovka-almaz.ru/nashi-raboti/tonirovanie-zadnih-stekol-avtomobilja-ford-explorer/ 1 1
+http://ukrsmeta.ua/koshtoris-dlya-byudzhetu/ 2 2
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-100-kvm/tipovoj-proekt-odnojetazhnogo-doma-10-013/ 1 1
+http://best-23.ru/katalog/komplekti-mebeli/tumba-pod-rakovinu-akvaton-beatriche-105-slonovaya-kost-s-patinoy-1/ 1 1
+http://proxtrail.ru/service/zamena-masla-v-variatore-nissan-x-trail.html 8 8
+http://bazakanstovarov.com/products/kraski-guash-akvarel-akril-f1958920/ 1 1
+http://investzalog.ru/contact.php 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t32-2015-g-v 3 3
+https://wolf-bavaria.ru/sovety_po_zvukoizoljacii/zvukoizoljacija_kvartiry.html 1 1
+http://33kotenka.shop 6 6
+https://2000isola.ru 12 12
+http://chitachok.ru/threads/16958/ 1 1
+http://www.playpokeronline.dk/bwin-poker.html 1 1
+http://ukrsmeta.ua/konsultyrovanye-po-po-voprosam-smet/ 2 2
+http://storinka.com.ua/2016/10/ajza-anoxina-pokazala-figuru-na-5-den-posle-rodov-foto/ 1 1
+http://storinka.com.ua/2016/05/uxod-za-rukami-i-nogtyami/ 1 1
+http://stomatolog-rayter.ru/rayon7/ugnoportoviy.html 1 1
+http://antigrav-zachita.ru/uslugi/ 1 1
+https://vivatcoffee.ru/tea-china-imperatorskiy-puer-gun-tin-puer.html 1 1
+http://fibroblok.ru/ognebazalt-vent 1 1
+https://gantbpm.ru/konceptualnye-faktory-v-proektnom-upravlenii/ 1 1
+http://grodfud.ru/myasnye-konservy/myasorastitelnye-konservy/golubtcy-s-myasom-i-risom-bulgarconserv-540-gr 1 1
+http://asupro.com 4 4
+https://polmsk.ru/topping-poly 1 1
+https://phonestar.msk.ru/katalog/zvukoizoljacionnye-paneli-phonestar.html 1 1
+https://leboard.ru/ru/perm/nedvizhimost/arenda/nezhilye_pomescheniya/sdam_v_arendu_ofis_33304 1 1
+http://www.playpokeronline.dk/tips-for-professionelle-pokerspillere.html 1 1
+http://autoua.top 1 1
+http://indizz.ru/articles/vibor-materialov-dlya-otdelki-sten/ 1 1
+http://www.avtobanrent.ru/cars/toyota-corolla/ 1 1
+http://smelo-za-rul.ru 6 6
+https://24paybank.com/faq/Chto-delat-esli-platezhnaja-sistema-zakrylas-.html 1 1
+http://proxtrail.ru 1 1
+http://crashkino.net/filmy-pro-poezda-metro 1 1
+http://dividendo.ru/45-dividendy-giprospecgaz-za-2015-god.html 1 1
+http://snomer1.ru/19.php 1 1
+http://bazakanstovarov.com/products/mel-f1964333/ 1 1
+https://gantbpm.ru/proekty/konsalting-v-medicine/ 1 1
+http://ukrsmeta.ua/smeta-na-remont-ofisa/ 1 1
+http://svetplast.msk.ru 9 9
+http://smb-spb.ru/catalog-tovarov-i-uslug/9-peskostrujnaya-obrabotka 2 2
+http://operatoro.ru/14-perevod-deneg-s-mts-na-kartu-sberbanka.html 1 1
+http://volgawolga.ru/rechnye-kruizy-chaikovskii.html 1 1
+http://antigrav-zachita.ru/uslugi/tonirovka-far/ 1 1
+https://acoustic-services.ru/kontakty.html 1 1
+https://24paybank.com/reviews/Horoshij-operativnyj-obmennik.html 1 1
+http://xn--j1at1a.xn--p1ai/praktika-i-trudoustrojstvo/ 1 1
+http://24vacancy.ru/listtown.php 6 6
+http://help-insects.ru/poleznaya-informaciya/kak-izbavitsya-ot-myshey-v-dome 2 2
+http://balkanfarma.ru/blog/vosstanovlenie-posle-trenirovki 1 1
+http://avtokor-23.ru/shop/trapetsiya-stekloochistitelya-s-motorom-kia-ceed-v-krasnodare/ 1 1
+https://freedom.co.ua/polotenca 1 1
+http://prokatavto93.ru/arenda-avto/lada-granta-akpp/ 1 1
+http://marblestyle.ru/about 7 7
+http://proxtrail.ru/tuning 2 2
+http://storinka.com.ua/2016/06/originalnye-idei-dlya-letnej-svadby/ 2 2
+http://bazakanstovarov.com/products/izmeritelnye-prinadlezhnosti-f1956991/ 1 1
+http://ukrsmeta.ua/news/primery-smet/ 1 1
+http://crashkino.net/filmy-pro-zemletryaseniya 1 1
+http://www.domizem.ru/zemelnye-uchastki-v-tom-chisle-na-volge/zemel-uchastok 1 1
+http://business-kartoteka.ru 9 9
+http://chitachok.ru/forums/244/ 1 1
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-300-kvm/ 1 1
+http://storinka.com.ua/2016/07/oralnye-kontraceptivy-polza-i-riski/ 1 1
+http://jcm-holding.ru/2016/10/22/%d1%80%d0%b0%d0%b7%d0%b4%d0%b5%d0%bb-%d0%b8%d0%bc%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0/ 1 1
+https://gantbpm.ru/proekty/grafik-proizvodstva-rabot/ 1 1
+http://crashkino.net/filmy-pro-zhivotnyh-ubiits 1 1
+http://volgawolga.ru/rechnye-kruizy-saint-petersburg.html 2 2
+https://24paybank.com/sberbank-to-yandex-money.html 1 1
+http://ukrsmeta.ua/koshtoris-na-puskonalagodzhuvalni-roboti/ 1 1
+http://www.avtobanrent.ru/news/more-solnce-veter-i-avto/ 1 1
+http://www.domizem.ru/doma/dom-1-linija-ot-r-volga-250-kvm 1 1
+http://svet93.ru/katalog/podvesnie-ljustri/lyustra-sylcom-soffio-142063-k-necr/ 1 1
+http://www.playpokeronline.dk/contact 1 1
+http://fibroblok.ru 1 1
+http://antigrav-zachita.ru/uslugi/tonirovka-avto/ 1 1
+http://ukrsmeta.ua/koshtoris-na-remont-kvartiri/ 1 1
+http://ukrsmeta.ua/statti-ta-novini/remontni-roboti/ 1 1
+http://proxtrail.ru/modelnyj-ryad/raskhod_topliva_nissan_x_trail.html 1 1
+http://ukrsmeta.ua/koshtoris-na-ukladannya-trotuarnoyi-plitki/ 2 2
+http://xn--j1at1a.xn--p1ai/kak-s-nami-svjazatsja.html 1 1
+http://fibroblok.ru/catalog/dobavki/gfrez 1 1
+http://dividendo.ru/tsentralnyy-telegraf/ 1 1
+https://24paybank.com/news/Kriptovaljuta-nastojacshaja-nahodka-dlja-zajadlyh-ljubitelej-pokera.html 1 1
+http://prokatavto93.ru/arenda-avto/shevrole-kruz/ 1 1
+http://ukrsmeta.ua/kontakty/ 1 1
+http://bazakanstovarov.com/products/bumaga-cvetnaya-karton-cvetnoy-f1956983/ 1 1
+http://china-engine.ru/g14180001-zapchasti-dlya-dorozhnyh 1 1
+http://ukrsmeta.ua/perevirka-koshtorisiv-na-obyektivnist-i-vidpovidnist/ 1 1
+http://operatoro.ru/26-kak-na-mts-uznat-balans-na-telefone.html 2 2
+http://antigrav-zachita.ru/otzivi-klientov/ 2 2
+https://vivatcoffee.ru/coffee-zerno-kosta-rika.html 1 1
+http://proxtrail.ru/tuning/golovnoe-ustrojstvo-na-nissan-x-trail-t31.html 1 1
+https://gamekeys.pro/sell/1879051 2 2
+http://tonirovka-almaz.ru/uslugi/zashhita-kuzova-plenkoj-suntek/ 1 1
+http://nk-tour.ru 9 9
+http://stomatolog-rayter.ru/popularis/ 1 1
+http://fibroblok.ru/catalog/propitki/monolit 1 1
+https://titan-clinic.ru/reviews/542 1 1
+http://abrekos.ru/news/telefon-apple-iphone-6-16gb-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://crashkino.net/filmy-pro-rukotvornye-katastrofy 1 1
+http://svet93.ru/katalog/podvesnie-svetilniki/podvesnoy-svetilnik-lustrarte-contemporanea-oval-53189-ab/ 1 1
+https://24paybank.com/btc-e-usd-to-telebank.html 1 1
+http://glazki-zakryvai.ru/category/matrasy/ 1 1
+http://marblestyle.ru/stoleshnicy-iz-travertina 6 6
+http://china-engine.ru 1 1
+https://sureone.pro/en/philosophy.html 8 8
+http://snomer1.ru/gruzoperevozki39.php 1 1
+http://ukrsmeta.ua/skilki-koshtuye-pobuduvati-budinok/ 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/vorsino 1 1
+https://leboard.ru/ru/pskov/odezhda_obuv_i_aksessuary/zhenskiy_garderob/odezhda 1 1
+http://ukrsmeta.ua/koshtoris-na-budivelni-roboti/ 1 1
+http://certificate.tw/FSS\xe9\x80\x9a\xe7\x9f\xa5 6 6
+http://www.playpokeronline.dk/spil-freerolls-%e2%80%93-vind-rigtige-penge-gratis.html 1 1
+http://indizz.ru/projects/21/ 1 1
+http://dividendo.ru/tattelekom/ 1 1
+http://scanmarine.fr 4 4
+http://cleaningservices.kiev.ua/uborka-kvartir-v-kieve 2 2
+http://profeservice.ru 2 2
+http://abrekos.ru/news/smartfon-iphone-6-16gb-gold-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://sobervoditel.ru/taksi-trezvyiy-voditel/ 1 1
+http://storinka.com.ua/2016/09/byvshij-muzh-ugrozhaet-chto-delat/ 1 1
+https://phonestar.msk.ru 3 3
+https://vivatcoffee.ru/tea-china-puer-4-goda-05kg.html 1 1
+http://www.prestigehouse.ru/styajka/videogalereia 3 3
+http://cashalott.ru 11 11
+https://www.dna-sklad.ru/Katalog/oftalma.html 1 1
+http://marblestyle.ru/tools 7 7
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v 5 5
+http://help-insects.ru/poleznaya-informaciya/profilakticheskaya-dezinfekciya 1 1
+https://acoustic-services.ru/novosti/konferencia.html 1 1
+http://grodfud.ru/myasnye-konservy/govyadina-tushenaya/govyadina-tushenaya-slonim-338 1 1
+http://www.matematikus.info/arifmetika/reshenie_zadach2.php 1 1
+http://ukrsmeta.ua/dogovirna-tsina/ 2 2
+https://freedom.co.ua/bele-dlya-podrostkov 1 1
+http://mirstroy.by/vhodnie_dveri/ 2 2
+http://relax-kapriz.ru/blogpost/tajskij-eroticheskij-massage/ 3 3
+http://xn--33-8kctybug0b.xn--p1ai 6 6
+http://www.xme.ru/catalog/12/10122.php 1 1
+https://24paybank.com/news/Bitkoin-majner-opasna-li-eta-programma-i-kak-ee-udalit-.html 1 1
+http://crashkino.net/filmy-pro-kosmicheskie-katastrofy 1 1
+http://www.centrdebut.ru 6 6
+http://kallekteka.com/item/moneta-5-kopeek-rossii-1882-g-aleksandr-iii-serebro-nf-vf--1463908881.html 1 1
+http://tnomer1.ru/elektrostancii_voronezh.php 1 1
+http://san-elit.ru/santehnika/dushevie-stojki-s-verhnim-dushem/dushevaja-stojka-ideal-standard-a5686aa/ 1 1
+https://popugai-tut.ru 3 3
+http://spb--servis.ru 3 3
+http://balkanfarma.ru/product/trenbolona-a 1 1
+http://cleaningservices.kiev.ua/uborka-skladskih-pomescheniy-v-kieve 2 2
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/zvenigorode 2 2
+http://dengi-v-kredit.in.ua/uk/chernovtsy/ 1 1
+http://indizz.ru/articles/sovremennii-dizain-idei-dlya-doma/ 1 1
+http://storinka.com.ua/2016/10/beremennaya-dzhanet-dzhekson-silno-popravilas-foto/ 1 1
+http://chitachok.ru/threads/1007/ 1 1
+http://ukrsmeta.ua/skolko-stoit-proekt-doma/ 1 1
+http://volgawolga.ru/rechnye-kruizy-perm.html 2 2
+http://tonirovka-almaz.ru/uslugi/zashhita-lobovogo-stekla-plenkoj-clearplex/ 1 1
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/lobovoe-steklo-na-nissan-x-trail-t31.html 6 6
+http://xn----7sbfo9agcaeodvh.xn--p1ai/map/borovske 1 1
+http://crashkino.net/filmy-pro-postapokalipsis-budushee 2 2
+http://aviav.info 11 11
+http://ukrsmeta.ua/skilki-koshtuye-pobuduvati-budinok-z-gazobetonu/ 1 1
+http://glazki-zakryvai.ru/brand/printsessy-disneya/ 1 1
+http://storinka.com.ua/2016/06/kak-raznosit-obuv/ 1 1
+http://www.vipsiding.ru 4 4
+http://ukrsmeta.ua/chto-sleduet-uchest-pri-sostavlenii-smety-remonta/ 2 2
+http://marblestyle.ru/stoleshnicy-iz-mramora 5 5
+http://xn--e1aialfecu4d.xn--p1ai/yubka-trapeciya-vykrojka-i-poshiv.html 1 1
+http://kallekteka.com/item/50000-rubley-rossii-1995-g-xf-1463980791.html 1 1
+http://storinka.com.ua/2016/10/tatyana-litvinova-v-svadebnom-puteshestvii-nosit-veshhi-muzha-foto/ 1 1
+http://xn--j1at1a.xn--p1ai/pravo-i-organizatsija-sotsialnogo-obespechenija.html 1 1
+http://best-23.ru/katalog/dlja-rakovini-1/smesitel-dlya-rakovinyi-oras-1411f-polara/ 1 1
+http://storinka.com.ua/2016/05/poxudenie-s-pomoshhyu-obrucha-bystro-i-effektivno/ 1 1
+http://ukrsmeta.ua/shho-take-koshtoris/ 1 1
+http://storinka.com.ua/2016/09/kak-zastavit-sebya-poxudet/ 1 1
+http://proxtrail.ru/service/zamena-motorchika-pechki-nissan-x-trail.html 2 2
+http://ukrsmeta.ua/koshtoris-na-rekonstruktsiyu/ 2 2
+http://tendergrupp.ru 8 8
+http://storinka.com.ua/2016/10/natalya-ionova-zasvetila-grud-v-bluzke-foto/ 1 1
+http://dividendo.ru/dividendy-dalnevostochnoe-morskoe-parohodstvo-fesc/ 1 1
+http://zarabotokdengi.ru/kak-sozdat-sajjt-pod-ggl-birzha-ssylok-gogetlinks.html 3 3
+http://crashkino.net/filmy-pro-korabli-more-lodki 1 1
+http://www.domizem.ru/kottedzhnyj-poselok-zelenyj-bor/dom-bereg-volga 1 1
+http://indizz.ru 1 1
+http://smb-spb.ru/contact 1 1
+http://tonirovka-almaz.ru/nashi-raboti/bronirovanie-antigravijnoj-plenkoj-bmw-x6/ 1 1
+https://titan-clinic.ru/docs/sakroileit-i-boli-v-pojasnitse.html 1 1
+https://gantbpm.ru/news/v-irane-poyavitsya-aes-busher-2/ 1 1
+http://best-23.ru/katalog/tumba-pod-rakovinu/tumba-pod-rakovinu-roca-laks-100-belyiy/ 1 1
+https://leboard.ru/ru/moskva/dlya_doma_i_dachi/posuda_i_kuhonnye_prinadlezhnosti/bytovaya_himiya_optom_i_v_roznitsu_1732192 1 1
+http://np-potolok.ru/services/zhidkie-oboi 1 1
+https://wolf-bavaria.ru/sovety_po_zvukoizoljacii/zvukoizoljacija_svoimi_rukami.html 1 1
+http://chitachok.ru/categories/43/ 1 1
+http://www.avtobanrent.ru/news/6-prichin-zakazat-avtomobil-v-arendu-u-nas/ 1 1
+http://avtokor-23.ru/shop/filtr-vozdushnyj-hyundai-getz-v-krasnodare/ 1 1
+http://xn--e1aialfecu4d.xn--p1ai/pryamaya-klassicheskaya-yubka-kak-ssit-pramyu-ybky.html 1 1
+http://xn--d1abiacj6bekg.xn--p1ai/news.php 2 2
+http://hdsyst.ru/index.php 6 6
+http://www.xme.ru/catalog/1/11261.php 1 1
+http://ukrsmeta.ua/kak-chitat-smetu-sostavlennuyu-v-programme-naprimer-v-avk-ivk-stroitelnye-tehnologii-ili-kakoj-libo-drugoj/ 2 2
+http://best-23.ru/katalog/jelektricheskie-polotencesushiteli/polotentsesushitel-elektricheskiy-margroid-vid-9-lesenka-8060/ 1 1
+http://marblestyle.ru/onix 8 8
+http://marblestyle.ru/contacts 6 6
+https://phonestar.msk.ru/spravochnaya-informaciya/vibroizoljacionnye-materialy.html 1 1
+http://marblestyle.ru/catalog 5 5
+http://volgawolga.ru/rechnye-kruizy-moskva.html 2 2
+http://www.domizem.ru/news/zemlja-kak-obekt-nedvizhimosti 1 1
+https://phonestar.msk.ru/katalog/membrana-ps2.html 2 2
+https://palais-de-la-mediterranee-hotel.ru 14 14
+http://san-elit.ru/santehnika/shkafi-zerkalnie/zerkalnij-shkaf-aqwella-korsika-65/ 1 1
+https://polmsk.ru 4 4
+http://certificate.tw/RFC\xe8\xaf\x81\xe4\xb9\xa6 1 1
+http://xn----7sbfo9agcaeodvh.xn--p1ai/remont-raspashnykh-vorot-i-avtomatiki 2 2
+http://marblestyle.ru/podokonnik 5 5
+http://www.avtobanrent.ru/otzivi/ 1 1
+http://proxtrail.ru/service/shiny-na-nissan-x-trail-vybor-i-ekspluataciya.html 3 3
+https://gantbpm.ru/gramotnaya-razrabotka-teo-proekta/ 1 1
+https://wolf-bavaria.ru/otzyvy/mapper.html 1 1
+http://storinka.com.ua/2016/05/kak-podtyanut-zhivot-k-plyazhnomu-sezonu/ 1 1
+http://bazakanstovarov.com/products/kisti-f1957887/ 1 1
+http://indizz.ru/price/ 1 1
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-150-kvm/proekt-odnojetazhnogo-doma-s-3-spalnjami-gostinoj-i-terrasoj-15-223/ 1 1
+http://ukrsmeta.ua/news/ynzheneryya/ 2 2
+http://chitachok.ru/tags/onlajn-igra-startrek/ 1 1
+http://marblestyle.ru/iz-granita 5 5
+http://maxfort.kiev.ua/musor.html 5 5
+https://www.dna-sklad.ru/Chto_lechim/opistorhoz.htm 1 1
+http://mirperevozki.ru 1 1
+http://dividendo.ru/sollers/ 1 1
+https://wolf-bavaria.ru/kaliningrad/574 1 1
+http://storinka.com.ua/2016/07/ledi-gaga-i-tejlor-kinni-rasstalis-prichina-razryva/ 1 1
+https://samolet.fr 9 9
+http://san-elit.ru/santehnika/vanni-chugunnie/chugunnaja-vanna-roca-malibu-160/ 1 1
+http://ukrsmeta.ua/smeta-na-remont-kvartiry-v-novostrojke/ 1 1
+http://xn--j1at1a.xn--p1ai/promezhutochnaja-attestatsija/ 1 1
+http://zarabotokdengi.ru/zarabotok-na-arkhivakh.html 3 3
+http://kvtstroy.ru/proekti-domov/stroitelstvo-domov-do-200-kvm/proekt-2-jetazhnogo-doma-s-4-spalnjami-i-zimnim-sadom-20-194/ 1 1
+http://abrekos.ru/goods/iphone-6s-iphone-6s-iphone6s-64GB-gold-pink 1 1
+https://it-sektor.ru/obnaruzhennaya-uyazvimost-nulevogo-dnya-v-adobe-flash-player-pozvolyaet.html 1 1
+http://dengi-v-kredit.in.ua/uk/hmel-nitskij/ 1 1
+http://bororo.de 7 7
+http://zarabotokdengi.ru 1 1
+http://maxfort.kiev.ua/contact.html 1 1
+http://ukrsmeta.ua/smeta-na-remont-vannoj/ 2 2
+http://zarabotokdengi.ru/zarabotok-na-znakomstvakh.html 1 1
+http://dengi-v-kredit.in.ua/odessa/ 1 1
+http://www.matematikus.info/arifmetika/smeshannye_chisla3.php 2 2
+http://ukrsmeta.ua/skolko-stoit-postroit-dom-iz-gazobetona/ 1 1
+http://san-elit.ru/proizvoditeli/grohe/grohtherm-2000-new/ 1 1
+https://www.dna-sklad.ru/Katalog/supercalcii.html 1 1
+http://np-potolok.ru/eksklyuzivnye-faktury 2 2
+http://tnomer1.ru/predlagaem-arendu-spectexniki-voronezh.php 1 1
+http://kallekteka.com/item/albom-dlya-monet-sssr-230h270mm-3462635511.html 1 1
+http://ufsin-tula.ru 13 13
+http://crashkino.net/filmy-pro-kosmos-i-kosmonavtov 1 1
+http://dividendo.ru/afk-sistema/ 1 1
+http://marblestyle.ru/stoleshnicy 6 6
+http://tonirovka-almaz.ru/uslugi/polirovka-far/ 1 1
+http://dividendo.ru/pobedit/ 1 1
+http://abrekos.ru/news/apple-iphone-6-16gb-cena-Ajfon-Novyj-Magazin-Abrekos 1 1
+http://vine-nn.ru 3 3
+http://tnomer1.ru/dizelnyj-kompressor.php 1 1
+http://rccity.ru/portfolio/%d0%b4%d0%b8%d0%b7%d0%b0%d0%b9%d0%bd-%d0%be%d1%84%d0%b8%d1%81%d0%be%d0%b2-%d0%b4%d0%bb%d1%8f-%d1%8d%d0%ba%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b9-%d1%8e%d0%b3/ 1 1
+http://kallekteka.com/item/moneta-12-kopeyki-1909-g-nikolay-ii-spb-2-1463801338.html 1 1
+http://www.kotenok.shop 3 3
+http://proxtrail.ru/modelnyj-ryad/nissan-x-trail-t31-2007-2010-g-v/toplivnyj-filtr-nissan-x-trail-t31-benzin.html 1 1
+https://sureone.pro/en/ 4 4
+http://crashkino.net/filmy-pro-vtorzhenie-inoplanetyan 1 1
+http://tonirovka-almaz.ru/uslugi/pokritie-zhidkim-steklom/ 1 1
+http://ukrsmeta.ua/ochishhennya-stin-vid-emalevoyi-abo-vodoemulsijnoyi-farbi/ 1 1
+http://dengi-v-kredit.in.ua/zaporozh-e/ 2 2
+http://ukrsmeta.ua/statti-ta-novini/montazhni-roboti/ 1 1
+http://antigrav-zachita.ru/about/ 1 1
+http://zarabotokdengi.ru/kak-zarabotat-v-internete-na-napisanii-foto-receptov.html 2 2
+http://dalavia.ru 1 1
+http://www.vipsiding.ru/products-page/docke-r 1 1
+https://gamekeys.pro/cid/54 3 3
+http://storinka.com.ua/2016/05/modnye-solncezashhitnye-ochki-2016/ 1 1
+http://marblestyle.ru/kamin 6 6
+http://smb-spb.ru/catalog-tovarov-i-uslug/item/6-truby-stalnye-bu-ot-57-2220mm/10-truba-stalnaya-bu-1020kh11 1 1
+http://relax-kapriz.ru/blogpost/rasslablyayushhij-massage-msk/ 1 1
+http://ukrsmeta.ua/tehnicheskij-nadzor-v-stroitelstve/ 1 1
+http://china-engine.ru/g10943620-zapchasti-dlya-dvigatelej 2 2
+https://it-sektor.ru/v-seti-internet-poyavilsya-novyyi-bankovskiyi-troyan-trojan.neloweg.html 1 1
+http://storinka.com.ua/2016/08/sekrety-obayaniya/ 1 1
+http://bororo.asia 7 7
+http://sobervoditel.ru/kontaktyi/ 1 1
+http://grodfud.ru/myasnye-konservy/govyadina-tushenaya/govyadina-tushenaya-orshanskaya-vs-325 1 1
+http://abrekos.ru/goods/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D1%84%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82-Nikon-COOLPIX-AW130 1 1
+https://gantbpm.ru/proekty/sertifikat-sootvetstviya-iso/ 1 1
+http://ukrsmeta.ua/koshtoris-na-montazhni-roboti/ 1 1
+http://stomatolog-rayter.ru/voprosi5/zapis-vremia.html 1 1
+http://proxtrail.ru/pravila-polzovaniya-sajtom 1 1
+http://mirperevozki.ru/uslugi_gruzchiki.html 1 1
+http://fibroblok.ru/et-profil 1 1
+http://ak2000.ru/vega/772 1 1
+http://chitachok.ru/forums/242/ 1 1
+http://chitachok.ru/forums/321/ 1 1
+http://gameandroid.ru/games/strategii-i-tower-defense/452-legendary-warrior-mod-mnogo-deneg.html 1 1
+http://xn--j1at1a.xn--p1ai/virtualnyj-tur.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 9
+toastmasters+cape+town 5
+toastmasters+cape+town+southern+suburbs 1
+cape+town+toastmasters 1
+toastmasters+cape+town+milnerton 1
+toastmasters 1
+null 1
+public+speaking+courses+in+cape+town 1
+cttoastmasters.org.za 1
+public+speaking+course+cape+town 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 13
+town 10
+cape 10
+toastmasters 9
+speaking 2
+public 2
+southern 1
+courses 1
+cttoastmasters.org.za 1
+milnerton 1
+in 1
+null 1
+course 1
+suburbs 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 3223 0
+500 320 1223442
+206 9 257120
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 861
+105.227.96.132 232 232 1936152 20161211202014
+194.87.234.246 173 173 0 20161231230807
+193.124.131.168 173 173 0 20161231225339
+188.227.17.49 152 152 0 20161231121525
+5.200.53.136 150 150 0 20161231120719
+195.133.48.150 139 139 0 20161231225339
+195.133.147.6 138 138 38334 20161231230807
+185.158.153.23 134 134 0 20161231120744
+185.158.153.60 133 133 0 20161231120719
+185.158.153.84 121 121 0 20161231121753
+178.159.43.212 121 121 0 20161231201958
+185.158.153.28 121 121 0 20161231121752
+195.133.201.82 118 118 0 20161225222412
+195.133.48.121 105 105 0 20161231224233
+185.154.13.6 103 103 0 20161231201958
+188.227.16.218 69 69 0 20161231122753
+185.158.153.195 67 67 0 20161231122554
+41.13.212.149 33 33 296142 20161205090901
+105.185.12.119 33 33 298683 20161226150107
+41.162.74.18 23 87 1994245 20161202121840
+105.227.70.151 22 22 199122 20161222080817
+65.181.118.125 22 22 199122 20161229041543
+66.249.93.201 19 84 4614807 20161227102943
+66.249.93.199 19 89 3599850 20161227102935
+41.13.208.104 18 58 2098424 20161201180822
+204.79.180.81 0 1 27540 
+202.46.51.113 1 1 9071 20161217081633
+204.79.180.75 1 1 38334 20161211075125
+41.161.74.103 2 2 18142 20161216135707
+107.140.211.130 0 1 191166 
+46.175.254.19 4 4 153336 20161227224133
+5.231.237.78 1 1 38334 20161215105221
+202.46.49.67 1 1 0 20161208111116
+105.228.10.80 2 34 1819295 20161221183054
+202.46.52.107 0 1 97594 
+202.46.54.141 1 1 0 20161202135909
+79.24.34.134 3 3 27213 20161231223132
+114.160.4.74 3 3 27213 20161227054523
+69.58.178.59 2 2 47405 20161222040853
+144.76.224.111 7 7 209618 20161212015229
+105.184.105.52 6 38 1868329 20161208112935
+194.87.236.125 11 11 0 20161209093957
+202.46.55.151 0 1 93639 
+202.46.54.24 1 1 38334 20161224221001
+105.186.221.13 11 11 86139 20161229121421
+180.76.15.151 1 1 9051 20161219003639
+41.177.37.57 2 34 1819295 20161203122929
+104.236.65.117 3 3 56436 20161212051145
+220.181.108.109 0 1 34908 
+202.46.48.143 0 1 27540 
+204.79.180.241 0 1 24159 
+208.89.210.26 1 1 38334 20161206013230
+180.76.15.158 2 2 18065 20161227215153
+82.145.223.36 1 1 8994 20161204225629
+204.79.180.164 1 1 38334 20161212081457
+36.83.113.79 3 3 27213 20161230122156
+117.213.33.229 2 2 18142 20161228141529
+202.46.57.178 1 1 9071 20161217202119
+158.69.228.56 2 19 394055 20161216124055
+105.108.173.164 2 2 18142 20161227013226
+41.85.7.11 3 35 1854759 20161202130808
+199.182.234.59 1 1 9071 20161213034556
+190.153.129.119 3 3 26982 20161206012237
+41.13.204.116 1 1 22052 20161212102827
+176.47.27.121 6 37 1825998 20161204160901
+204.79.180.133 0 1 4414 
+204.79.180.4 0 1 8097 
+87.212.134.96 3 3 27213 20161229214038
+204.79.180.79 0 1 9843 
+197.86.169.129 3 35 1841347 20161201220441
+94.210.229.107 2 2 18142 20161223192558
+31.5.211.121 2 2 18142 20161217000705
+204.79.180.92 0 1 1200 
+148.251.176.212 2 2 0 20161204162522
+204.79.180.219 0 2 98920 
+41.114.221.11 7 40 1869713 20161230134638
+31.46.95.170 2 2 18142 20161226223141
+41.37.168.72 3 3 27213 20161214223424
+180.76.15.138 1 1 9071 20161217044648
+180.76.15.23 1 1 8994 20161211203333
+165.144.197.106 6 38 1868329 20161209075432
+220.181.108.144 0 1 26651 
+139.5.20.192 3 3 27213 20161229112826
+204.79.180.245 0 1 237 
+204.79.180.51 0 1 1668 
+90.164.6.2 3 3 27213 20161229160140
+204.79.180.135 0 3 104770 
+202.46.51.210 1 1 38334 20161224113459
+176.74.95.62 2 2 18142 20161213230311
+204.79.180.172 0 1 8456 
+78.51.200.237 3 3 27213 20161227052151
+217.17.240.45 3 3 27213 20161228011349
+104.15.154.185 2 2 18142 20161223122906
+41.13.238.32 4 37 1842500 20161201195853
+112.208.143.213 3 3 27213 20161230020820
+192.99.44.141 1 1 38334 20161217155245
+180.76.15.18 1 1 9071 20161222162246
+5.55.109.202 2 2 18142 20161229234620
+213.3.56.41 1 1 38334 20161211050914
+41.13.198.224 11 11 99561 20161222150819
+202.46.58.151 0 1 4414 
+93.65.86.34 2 2 17988 20161206021531
+202.46.49.91 0 1 27822 
+188.98.243.145 3 3 27213 20161225012331
+180.76.15.17 1 1 9071 20161227215155
+123.125.71.49 1 1 38334 20161217053632
+202.46.54.36 1 1 38334 20161221100637
+78.46.156.169 1 1 9071 20161230063825
+138.197.36.182 5 5 74578 20161229181229
+5.248.72.146 1 1 8994 20161203072347
+204.79.180.112 0 1 34908 
+88.148.187.160 3 3 27213 20161217075654
+190.207.231.44 2 2 18142 20161230165344
+202.46.49.199 1 1 8994 20161204164536
+197.229.10.162 7 38 1848358 20161213111013
+120.28.191.11 1 1 9071 20161230014508
+202.46.53.110 1 1 8994 20161206171441
+117.241.68.108 3 3 27213 20161226022051
+204.79.180.78 0 1 8097 
+87.15.128.208 3 3 27213 20161225123010
+84.109.73.13 3 3 26982 20161201015221
+94.63.96.189 3 3 27213 20161218203713
+110.34.5.214 2 2 18142 20161219142926
+5.37.142.215 3 3 26982 20161211234923
+204.79.180.68 1 1 8994 20161206155915
+5.70.26.89 2 2 18142 20161223182134
+204.79.180.69 1 1 8994 20161211075134
+204.79.180.251 0 1 9843 
+41.13.224.5 6 38 1868560 20161214213712
+41.13.200.52 3 35 1841347 20161203104556
+155.238.4.85 1 2 64985 20161201164353
+94.212.239.137 3 3 27213 20161212191843
+204.79.180.76 0 2 96314 
+123.125.71.82 1 1 38334 20161212133427
+5.206.86.245 1 1 38334 20161215183047
+89.74.136.28 2 2 18142 20161222060524
+204.79.180.248 0 1 2675 
+180.76.15.33 1 1 8974 20161207024950
+160.177.124.92 3 3 27213 20161226202804
+204.79.180.50 0 1 26651 
+202.46.49.60 0 1 49460 
+76.0.186.181 0 1 191166 
+202.46.58.16 0 1 49460 
+49.144.182.244 3 3 27213 20161229090310
+204.79.180.8 0 1 26651 
+89.98.201.155 3 3 27213 20161227205045
+176.31.39.23 5 5 45278 20161227122211
+41.13.208.48 2 2 22103 20161209203606
+202.46.57.39 0 1 2675 
+66.249.93.197 16 81 3376892 20161227102922
+138.197.36.95 5 5 74578 20161223214836
+123.125.67.156 1 1 9071 20161212211851
+175.136.216.163 3 3 27213 20161213120019
+31.215.100.132 3 3 26982 20161203010814
+66.249.83.223 0 18 668682 
+202.46.57.172 1 1 0 20161216105702
+202.46.58.137 1 1 38334 20161210060353
+204.79.180.10 0 1 6344 
+164.151.5.22 0 2 215407 
+176.192.216.78 1 33 1677275 20161210201056
+72.182.166.137 1 1 9071 20161231221837
+41.222.48.100 3 35 1854759 20161208111953
+204.79.180.84 0 1 8456 
+104.236.31.232 3 3 56436 20161226184635
+165.90.204.28 2 34 1819295 20161227151517
+197.86.169.71 1 11 497934 20161221234602
+204.79.180.246 0 2 235365 
+63.141.246.194 1 1 38334 20161217062248
+220.181.108.163 0 1 9246 
+213.239.205.118 5 5 74444 20161216050934
+39.53.141.57 2 2 17988 20161208005014
+202.46.52.112 0 1 26651 
+204.79.180.129 0 1 4414 
+89.136.31.118 2 2 18142 20161220091137
+183.82.251.42 3 3 27213 20161215142335
+180.248.70.211 2 2 47328 20161207103427
+105.228.212.108 1 2 64985 20161221213010
+105.228.38.32 2 34 1819295 20161205232717
+176.78.69.118 2 2 18142 20161221153515
+104.236.119.218 1 12 263542 20161226154356
+88.99.27.172 1 1 8994 20161203011716
+77.180.191.75 3 3 27213 20161217111021
+93.77.129.99 2 2 38334 20161209062559
+204.79.180.57 0 1 2675 
+202.46.52.177 1 1 806 20161204075734
+169.0.183.125 6 38 1855138 20161214175004
+141.0.13.140 1 34 1763780 20161231124357
+104.144.9.211 1 1 38334 20161226021541
+189.59.135.174 3 3 27213 20161222061303
+191.250.136.74 3 3 27213 20161225053330
+41.114.209.30 6 38 1868329 20161201203305
+59.93.42.121 3 3 27213 20161225182600
+144.5.60.10 3 35 1841347 20161213094521
+122.148.135.91 3 3 26982 20161210021142
+66.249.88.59 1 1 38334 20161221141802
+80.82.65.82 1 1 38334 20161209211348
+204.79.180.34 0 1 24159 
+202.46.56.202 1 1 9071 20161219074834
+41.148.69.62 3 36 1820448 20161222231459
+52.210.251.75 1 1 38334 20161222190823
+45.55.137.222 1 12 263542 20161223215902
+80.94.55.6 3 3 7080 20161229134653
+41.164.145.19 3 35 1834781 20161213154042
+41.13.232.171 11 11 98714 20161207073736
+93.87.53.203 3 3 27213 20161221233115
+220.181.51.87 1 1 9071 20161220205739
+41.114.175.11 4 36 1850418 20161221145522
+202.46.48.193 0 1 4414 
+168.167.106.60 2 2 18142 20161219122208
+78.20.209.5 3 3 27213 20161222195230
+202.46.57.171 1 1 8994 20161205044036
+164.132.208.4 1 1 0 20161225083130
+204.79.180.130 0 1 9246 
+42.236.10.72 1 12 486458 20161214230551
+105.185.10.196 11 11 99561 20161228150309
+61.6.235.240 3 3 27213 20161225222725
+147.110.251.86 3 34 1932042 20161219155720
+41.164.159.90 6 6 54306 20161223135131
+41.114.164.168 3 35 1841347 20161214222848
+200.111.11.70 3 3 27213 20161227174755
+46.143.48.164 3 3 27213 20161227234534
+202.46.53.141 0 1 9843 
+41.135.192.57 2 34 1819295 20161203120038
+196.14.255.110 3 35 1854759 20161205160425
+41.224.122.154 2 2 18142 20161229005022
+99.232.92.206 3 3 27213 20161231062540
+71.60.189.209 3 3 27213 20161227025504
+196.38.155.40 2 33 1790022 20161213093252
+92.40.248.214 3 3 27213 20161224175605
+120.28.191.13 1 1 9071 20161230014502
+41.13.216.144 11 11 98714 20161207133606
+41.222.224.90 2 35 1854203 20161219113809
+202.46.52.148 1 1 38334 20161209084438
+94.247.91.130 2 2 47405 20161212140716
+157.25.133.4 3 3 26982 20161203040348
+181.208.121.223 2 2 17988 20161209112722
+41.13.228.65 3 35 1841347 20161214182808
+169.1.101.227 6 38 1868329 20161209063529
+128.69.145.208 12 33 1139011 20161217215636
+198.23.228.236 1 1 38334 20161202184836
+220.181.108.178 0 1 9246 
+220.181.108.75 0 1 179397 
+164.151.5.24 0 3 100220 
+202.46.50.89 0 1 9246 
+197.104.78.64 4 68 3638590 20161224192359
+121.169.194.20 1 1 38334 20161223063618
+213.150.213.30 2 34 1819295 20161207100444
+14.142.64.3 4 4 153336 20161216145431
+204.79.180.181 0 1 6344 
+191.190.251.212 2 2 18142 20161213210127
+220.181.51.92 1 1 9051 20161225032538
+46.229.167.149 3 3 115002 20161226111339
+202.46.51.27 1 2 55968 20161206182138
+136.243.67.234 1 1 0 20161217085816
+204.79.180.204 0 1 55968 
+131.161.11.213 1 1 38334 20161209083706
+204.79.180.182 0 2 44154 
+66.249.93.159 4 14 1077567 20161230060117
+85.245.232.15 2 2 18142 20161226052054
+41.208.10.82 2 34 1819295 20161230104316
+196.35.33.52 3 37 1840626 20161202100017
+191.112.165.100 1 1 8994 20161207184246
+123.125.71.109 0 1 179397 
+66.249.93.157 2 10 367302 20161230060123
+79.166.254.189 3 3 27213 20161226200420
+197.208.131.131 3 3 26982 20161202103625
+202.46.50.199 1 1 8994 20161211203330
+179.110.185.246 3 3 27213 20161227173511
+41.113.27.196 8 41 1869533 20161203174531
+45.32.229.228 1 1 38334 20161209072230
+164.151.5.19 1 7 537115 20161209110732
+220.181.108.107 1 1 38334 20161203134927
+200.181.148.166 1 26 1211175 20161206025214
+204.79.180.142 0 1 4414 
+41.13.5.28 11 11 99561 20161212204846
+76.169.200.138 1 1 0 20161222133837
+103.208.237.207 3 3 27213 20161224171608
+86.125.86.43 3 3 27213 20161219211143
+62.210.215.114 5 5 45201 20161226001401
+204.79.180.152 0 1 8456 
+195.154.233.238 1 1 9051 20161223235849
+197.84.242.2 2 34 1819295 20161208112653
+41.215.130.190 2 2 18142 20161223120415
+202.46.55.85 0 1 1668 
+41.193.122.234 7 7 63497 20161214223255
+24.94.95.160 3 3 27213 20161212112349
+184.154.36.171 16 39 1124314 20161229153920
+197.2.254.21 3 3 27213 20161226170119
+202.46.54.210 1 1 0 20161212115841
+202.46.52.110 1 1 38334 20161224210401
+81.232.58.214 3 3 27213 20161214055338
+192.99.1.217 3 3 56476 20161217084851
+109.163.151.39 3 3 26982 20161211232425
+204.79.180.22 0 1 27822 
+204.79.180.184 0 1 1200 
+121.169.194.19 1 1 38334 20161223054114
+5.9.17.118 2 2 18065 20161231175222
+41.13.232.9 9 41 1895773 20161226223045
+109.86.195.115 1 1 38334 20161206222019
+105.248.174.24 11 11 98714 20161206104548
+202.46.52.204 0 1 93639 
+82.76.192.189 3 3 27213 20161225180803
+104.156.231.254 2 2 76668 20161222041319
+41.59.67.58 1 1 38334 20161207105925
+181.121.140.189 3 3 7080 20161214025802
+105.1.111.79 11 44 1905997 20161229090456
+204.79.180.5 0 2 34002 
+196.215.108.133 11 11 98714 20161204152504
+123.125.67.221 1 1 9071 20161231205541
+70.54.79.33 3 3 26982 20161201005539
+220.181.51.104 1 1 38334 20161206115339
+72.168.145.96 3 11 155950 20161215231205
+39.48.40.15 3 3 27213 20161213012705
+54.167.48.204 1 33 1780961 20161219231844
+82.145.222.28 2 46 2235248 20161208121231
+202.46.53.198 1 1 0 20161213022106
+49.205.72.16 3 3 26982 20161208093530
+204.79.180.31 0 1 26651 
+91.83.211.151 5 5 45124 20161228154134
+49.207.48.52 2 2 17988 20161207124640
+188.68.3.101 1 1 8974 20161202023022
+204.79.180.58 0 1 8097 
+165.4.7.100 2 34 1819295 20161208155329
+49.207.48.131 3 3 27213 20161223102156
+176.86.250.219 3 3 26982 20161209012245
+115.66.61.227 3 3 26982 20161205111120
+209.95.162.138 1 1 38334 20161217233832
+185.18.61.189 2 2 18142 20161227233214
+84.2.50.74 2 2 18142 20161214103224
+59.41.183.215 2 2 18142 20161220155505
+204.79.180.47 0 1 1200 
+190.93.84.203 2 2 18142 20161223120130
+38.100.21.69 1 10 441966 20161220033936
+202.46.53.199 1 1 38334 20161220135352
+204.79.180.207 1 1 8994 20161206155914
+196.25.211.41 0 1 93639 
+195.154.240.10 1 1 9051 20161228093509
+204.79.180.30 0 1 179397 
+220.181.108.142 0 1 97594 
+171.79.76.81 2 2 18142 20161231121155
+95.251.15.232 3 3 27213 20161228110603
+115.99.104.165 3 3 26982 20161209121331
+187.39.7.237 3 3 27213 20161218111514
+66.249.85.190 1 1 38334 20161214114227
+164.151.5.21 0 4 92073 
+164.151.5.18 0 8 168048 
+197.89.22.124 2 34 1819295 20161206101843
+197.89.132.201 3 35 1841347 20161213080925
+104.131.96.112 7 7 121923 20161229150337
+123.125.71.113 0 1 9843 
+148.85.241.40 3 35 1841347 20161218173350
+197.88.68.103 3 35 1841347 20161209101540
+201.33.22.54 1 1 38334 20161219131226
+104.131.57.71 3 3 56282 20161209140725
+165.255.180.129 2 34 1819295 20161214132625
+202.46.55.147 1 1 0 20161207072231
+202.46.52.205 1 1 806 20161220160751
+173.8.230.34 1 1 38334 20161201221805
+41.72.122.69 2 2 17988 20161203104250
+196.21.15.100 6 38 1868329 20161201191806
+36.72.187.86 3 3 27213 20161225202517
+204.79.180.141 1 1 38334 20161206143452
+204.79.180.148 0 1 55968 
+197.89.186.197 2 34 1819295 20161207232312
+200.54.168.155 3 3 27213 20161221201327
+117.232.101.43 3 3 27213 20161227122230
+89.137.191.213 1 1 38334 20161204223847
+178.223.135.65 3 3 27213 20161217185613
+137.97.114.205 3 3 27213 20161230121454
+129.232.178.58 4 4 23247 20161222132727
+123.125.71.116 0 1 9843 
+123.125.67.160 1 1 9071 20161217205228
+149.126.29.232 2 2 18142 20161213210810
+88.198.43.125 2 33 1790022 20161216233641
+116.75.75.220 4 4 36284 20161220183422
+202.46.56.194 1 1 38334 20161217001739
+188.24.77.30 3 3 26982 20161204052636
+202.46.51.176 0 1 24159 
+202.46.51.132 1 1 38334 20161220120747
+37.57.147.41 1 1 38334 20161203173733
+39.38.46.153 3 3 27213 20161225094913
+154.102.237.15 3 3 26982 20161201195719
+93.127.147.224 1 1 9071 20161220211531
+41.13.232.153 3 35 1841347 20161210124656
+196.215.74.206 2 34 1819295 20161207214912
+45.55.244.183 3 3 56436 20161218234243
+66.220.64.228 3 3 26982 20161206214514
+167.114.233.118 1 1 38334 20161218084619
+5.206.80.35 1 1 38334 20161214070448
+202.46.54.116 1 1 806 20161211190732
+202.46.50.123 1 1 38334 20161220195459
+41.164.178.180 2 34 1819295 20161215110605
+189.34.60.41 3 3 27213 20161227225314
+169.0.145.213 3 35 1841347 20161207155244
+202.46.57.27 1 1 0 20161215030454
+202.46.50.188 0 1 97594 
+80.179.36.120 3 3 27213 20161220112841
+105.185.6.22 11 11 99561 20161230082022
+107.172.97.111 2 2 17988 20161210135632
+197.211.217.77 1 1 9071 20161229232810
+180.76.15.10 1 1 9051 20161228012631
+92.137.15.87 2 2 18142 20161214005140
+202.46.57.126 0 1 9843 
+164.151.5.20 1 6 476294 20161209110736
+95.160.97.172 2 2 17988 20161205044130
+104.218.235.109 4 4 153336 20161227162456
+195.154.199.145 1 1 9071 20161212220822
+78.93.60.118 1 1 38334 20161201070209
+204.79.180.228 1 1 8994 20161206143503
+45.55.133.244 1 12 263542 20161229181601
+41.215.238.234 3 36 2017983 20161207193356
+66.133.109.36 8 8 71792 20161206200052
+204.79.180.144 0 1 1200 
+84.111.171.47 3 3 26982 20161208163509
+85.106.116.137 3 3 27213 20161231124637
+202.188.27.60 2 2 18142 20161224163214
+49.44.51.103 3 3 27213 20161223211515
+104.207.136.67 1 1 9071 20161231221832
+188.173.5.154 3 3 27213 20161226162157
+115.87.104.67 3 3 27213 20161228021753
+121.122.110.254 2 2 18142 20161230054028
+161.202.72.146 1 1 38334 20161224082528
+204.79.180.202 0 1 49460 
+176.44.58.36 4 4 35976 20161206114040
+202.46.51.17 1 1 38334 20161210043649
+122.62.94.161 2 2 18142 20161219111046
+169.0.142.45 3 35 1854759 20161202171634
+202.46.58.194 1 1 0 20161206203151
+95.185.131.49 2 2 18142 20161231151244
+5.158.51.75 3 3 27213 20161223211116
+152.111.232.24 6 45 1974277 20161201093833
+105.225.115.143 0 5 630476 
+204.79.180.65 0 1 97594 
+130.225.239.66 3 3 26982 20161211154458
+207.182.140.210 1 1 38334 20161225193017
+94.53.52.211 3 3 26982 20161204085153
+192.99.147.201 1 1 0 20161209200056
+63.249.239.144 1 1 8994 20161202182554
+154.73.187.28 2 34 1819387 20161212132131
+95.76.156.26 3 3 27213 20161220195108
+105.251.57.176 11 11 99561 20161212080641
+202.46.53.192 0 1 15490 
+88.4.194.109 3 3 26982 20161207225204
+220.181.108.106 1 1 38334 20161212133418
+78.158.11.226 1 1 38334 20161211130336
+95.85.147.155 0 1 117813 
+98.223.90.21 2 2 18142 20161226081526
+66.102.6.222 2 2 76668 20161205234242
+197.97.186.154 2 34 1819295 20161215102704
+41.13.198.91 5 5 45255 20161223135116
+175.141.82.57 3 3 27213 20161220114529
+109.147.117.182 3 3 27213 20161231235729
+138.197.10.82 5 5 74578 20161221011054
+198.167.137.116 1 1 38334 20161214192347
+202.46.51.187 1 1 38334 20161201011112
+195.154.191.64 1 1 9051 20161224103516
+38.140.43.238 0 1 191166 
+160.238.76.157 2 2 18142 20161215175935
+195.154.181.162 6 6 54272 20161224093535
+41.164.24.19 2 34 1819295 20161219105232
+123.125.67.163 1 1 8994 20161208205040
+93.44.109.210 2 2 17988 20161204205222
+212.54.196.128 2 2 18142 20161227020408
+202.46.51.30 0 1 237 
+45.55.135.225 1 12 263542 20161218024325
+41.13.70.243 2 34 1819295 20161219211246
+141.0.12.216 1 1 8994 20161210123101
+204.79.180.244 0 1 34908 
+204.79.180.211 0 1 9843 
+144.76.80.151 6 6 54172 20161228130716
+58.122.42.103 2 2 18142 20161216200234
+91.77.89.178 12 33 1139011 20161215115845
+164.151.5.25 0 4 230230 
+99.238.186.109 0 1 117813 
+129.232.192.98 2 9 143766 20161222132649
+180.76.15.139 1 1 9051 20161213005956
+216.19.213.30 1 1 38334 20161229135300
+178.207.31.157 3 3 26982 20161204140855
+204.79.180.177 0 1 26651 
+202.46.57.121 1 1 0 20161220072609
+91.123.212.200 2 2 47405 20161222123836
+197.88.179.87 4 68 3638590 20161214232533
+88.198.22.8 8 8 72334 20161228163304
+41.13.243.241 6 38 1868560 20161228135008
+220.181.108.143 1 1 141944 20161217053645
+157.48.164.26 3 3 27213 20161229141506
+202.46.48.27 0 1 15490 
+93.65.201.96 2 2 18142 20161221135433
+112.205.196.219 3 3 26982 20161209174039
+202.46.58.84 1 1 8994 20161202011747
+220.181.108.180 0 1 6344 
+202.46.52.14 1 1 38334 20161224033448
+216.19.213.148 1 1 38334 20161205043504
+66.249.83.222 0 17 441203 
+95.180.85.7 3 3 27213 20161223230627
+178.165.79.59 2 11 1016598 20161221103545
+188.32.215.71 1 33 1677275 20161227080843
+73.223.233.14 2 2 18142 20161228081402
+188.48.241.22 2 2 18142 20161219123758
+62.210.80.17 1 1 38334 20161206111152
+178.137.83.79 1 1 38334 20161201080230
+110.55.5.57 3 3 27213 20161228082320
+178.149.172.81 3 3 27213 20161222011306
+201.59.216.91 3 3 27213 20161226182924
+179.181.51.25 3 3 27213 20161223013858
+143.159.51.246 2 2 17988 20161211153631
+202.46.49.140 0 1 34908 
+87.117.185.32 3 3 27213 20161226231700
+58.94.76.174 3 3 26982 20161202123624
+70.45.47.165 3 3 27213 20161212034330
+188.178.63.190 2 2 18142 20161219180144
+59.178.207.21 3 3 27213 20161215105835
+73.176.71.43 3 3 27213 20161229105446
+105.28.114.100 2 34 1819295 20161207154351
+37.204.154.112 12 33 1139011 20161227081412
+165.255.75.168 2 34 1819295 20161205111833
+204.79.180.116 1 1 9071 20161212081509
+184.154.36.184 6 17 297313 20161228153335
+103.255.7.14 3 3 27213 20161224144622
+89.120.225.64 3 3 27213 20161222001933
+171.7.91.99 2 2 18142 20161216163412
+196.96.148.194 2 34 1819295 20161202231955
+213.167.196.148 1 1 38334 20161230012114
+73.192.206.78 3 3 26982 20161204230044
+202.46.58.136 1 1 8994 20161201040028
+23.105.157.139 1 1 9071 20161221101600
+193.162.26.15 1 33 1677275 20161201090451
+112.118.88.23 3 3 26982 20161204224850
+77.121.91.184 3 3 26982 20161211181908
+220.181.51.94 1 2 96965 20161215215837
+202.46.57.207 1 1 38334 20161207235829
+202.46.55.16 1 1 0 20161203081558
+180.76.15.154 1 1 9071 20161217044648
+197.88.161.166 2 34 1819295 20161214153107
+105.186.102.203 2 34 1819295 20161224215508
+41.79.193.87 5 38 2091162 20161228190112
+168.121.88.223 2 2 18142 20161223111455
+91.86.111.15 2 2 18142 20161219215715
+123.125.67.166 1 1 8994 20161201214656
+109.96.113.156 3 3 27213 20161219153741
+172.245.253.157 1 1 38334 20161202183711
+139.0.97.160 3 3 26982 20161210224448
+204.79.180.38 1 1 38334 20161206155901
+202.46.54.104 1 1 38334 20161203070301
+204.79.180.63 0 1 27540 
+31.28.202.240 1 1 38334 20161228051700
+105.224.96.108 2 34 1819295 20161206023601
+105.105.113.253 3 3 27213 20161230134427
+105.227.112.142 6 38 1868329 20161204221530
+104.196.166.116 3 3 56436 20161221185948
+77.68.251.98 3 3 27213 20161214110005
+90.9.186.57 2 2 18142 20161216223829
+204.79.180.209 0 2 36786 
+197.97.210.206 2 34 1819295 20161215082009
+202.152.92.210 3 3 27213 20161216072745
+204.79.180.113 0 2 125416 
+87.18.239.56 2 2 18142 20161224214705
+41.114.133.244 6 38 1868560 20161213220700
+196.21.74.34 2 34 1819295 20161208081929
+49.206.218.220 3 3 27213 20161222140939
+204.79.180.167 0 1 237 
+202.46.51.34 0 1 8097 
+105.229.24.245 2 35 1792966 20161227121215
+41.146.134.220 2 34 1819295 20161206024943
+195.154.255.131 3 3 27153 20161229073020
+220.181.51.122 1 1 8994 20161204213319
+72.10.155.68 3 3 27213 20161223200647
+202.46.48.198 0 1 93639 
+47.9.135.249 3 3 26982 20161206092259
+197.86.156.84 2 34 1819295 20161210123744
+203.215.120.80 2 2 18142 20161215091122
+195.154.199.140 2 2 18122 20161224134957
+81.43.165.84 3 3 27213 20161228212926
+220.247.238.15 3 3 26982 20161201084633
+113.59.214.240 3 3 27213 20161220132029
+46.99.59.176 3 3 26982 20161208234149
+202.46.53.44 1 1 9071 20161215053050
+88.85.102.26 3 3 27213 20161212075408
+202.46.51.192 1 1 38334 20161217044720
+178.33.217.31 7 7 63266 20161229085540
+105.228.240.61 4 36 1983291 20161203050502
+90.194.215.244 3 3 27213 20161217201513
+116.36.30.45 3 3 27213 20161222114038
+202.46.48.142 0 1 4414 
+198.54.223.106 4 37 1820499 20161214090248
+197.86.175.33 3 36 1820448 20161214154547
+41.13.24.211 11 11 99561 20161217160819
+204.79.180.186 0 1 237 
+41.13.200.45 8 41 1849649 20161205152731
+88.158.123.114 3 3 27213 20161229231618
+84.79.26.31 2 2 18142 20161217041922
+195.154.181.15 2 2 18142 20161225070659
+196.213.31.218 1 6 155532 20161201155335
+212.86.114.2 1 1 38334 20161225192025
+104.236.113.5 1 12 263542 20161229111052
+154.127.59.123 3 3 27213 20161212055512
+41.107.67.9 3 3 27213 20161230195359
+202.46.56.38 1 1 38334 20161215201403
+202.46.50.180 1 1 38334 20161215154756
+220.181.51.88 0 1 103273 
+123.125.71.17 0 1 55968 
+195.154.199.66 1 1 9071 20161223185012
+43.248.37.158 2 2 18142 20161226123121
+204.79.180.174 0 1 15490 
+204.79.180.32 0 2 77282 
+105.185.11.38 11 11 99561 20161228123412
+195.154.235.212 3 3 115002 20161231101035
+129.205.136.177 1 2 64985 20161209165527
+203.96.199.153 3 3 26982 20161203061216
+45.116.230.50 3 3 27213 20161228072542
+41.96.154.23 3 3 26982 20161209020552
+182.53.148.51 2 2 18142 20161220160227
+88.87.25.223 3 3 26982 20161204153127
+217.132.9.19 3 3 26982 20161205222905
+202.46.57.124 1 1 0 20161203164136
+202.46.58.72 1 1 0 20161213222615
+204.79.180.128 0 1 6344 
+178.2.190.16 3 3 27213 20161221224425
+158.222.2.63 1 1 38334 20161230074614
+196.26.220.67 2 34 1819295 20161229111904
+131.230.68.81 3 3 27213 20161212113941
+45.55.155.171 3 3 115002 20161229062102
+202.46.54.140 1 1 0 20161206085132
+172.245.71.69 1 1 38334 20161214191122
+88.102.190.250 3 3 27213 20161226002730
+106.220.38.52 1 8 139049 20161214153557
+179.236.97.100 3 35 1834423 20161205194700
+202.46.58.196 0 1 6344 
+122.179.60.55 2 2 47405 20161226152412
+123.125.71.57 0 1 34908 
+103.205.135.86 3 3 27213 20161226151555
+202.46.58.54 0 1 6344 
+204.79.180.117 0 1 9246 
+180.76.15.144 1 1 9071 20161222162244
+85.110.114.150 2 2 18142 20161226220920
+136.243.16.208 1 1 0 20161202100220
+198.57.247.199 4 4 153336 20161227170700
+105.226.128.62 4 36 1983291 20161213214256
+41.193.205.194 3 35 1854759 20161208084829
+41.13.232.122 2 34 1819295 20161207155208
+41.164.153.146 3 36 1820448 20161228150750
+204.79.180.7 1 2 30182 20161212081509
+68.203.206.223 3 3 27213 20161222070635
+195.154.167.219 1 1 38334 20161216084540
+129.232.178.66 2 34 1819295 20161222132449
+202.46.56.110 0 1 34908 
+41.13.200.231 11 11 99561 20161223092747
+204.79.180.249 0 1 97594 
+197.245.38.83 2 34 1819295 20161211120559
+184.154.36.185 14 41 901070 20161227153159
+111.125.110.124 3 3 27213 20161222011418
+209.222.100.48 1 1 9071 20161212045417
+182.69.40.116 3 3 27213 20161216115849
+204.79.180.110 1 2 188391 20161211075133
+123.125.71.46 0 1 24159 
+105.185.4.232 11 11 99561 20161229092308
+31.193.32.158 3 3 27213 20161230194703
+141.0.12.86 2 16 269390 20161228220113
+173.30.173.239 2 2 18142 20161223124537
+195.154.252.118 2 2 18102 20161231074448
+184.161.76.81 2 2 17988 20161205210328
+105.224.253.90 5 37 1998853 20161225063404
+204.79.180.215 0 1 1668 
+220.181.51.115 2 2 17988 20161210213519
+103.253.105.205 3 3 27213 20161215121402
+79.118.76.70 3 3 27213 20161229175257
+154.70.218.106 3 3 26982 20161202131544
+58.108.245.52 1 1 8994 20161204055030
+62.212.73.49 1 1 38334 20161222083154
+41.146.139.211 6 38 1868560 20161212143054
+113.35.251.98 3 3 115002 20161213073621
+193.77.43.164 3 3 27213 20161220052758
+14.199.219.160 3 3 27213 20161223070222
+83.9.226.239 3 3 27213 20161214213328
+202.46.56.14 0 1 26651 
+123.125.67.218 1 1 8994 20161209213405
+2.50.42.14 3 3 27213 20161227104620
+178.251.176.132 3 3 27213 20161231175606
+93.169.21.139 2 2 18142 20161223003730
+162.212.172.192 1 1 38334 20161202175813
+45.55.229.90 1 12 263542 20161214131125
+5.3.218.33 1 1 38334 20161202225725
+123.125.71.40 0 1 26651 
+220.181.51.119 1 1 9071 20161216211100
+196.14.255.189 3 35 1854759 20161230124837
+144.76.100.150 1 3 206546 20161205155822
+107.172.232.59 1 1 38334 20161209205133
+204.79.180.29 0 1 15490 
+204.79.180.226 0 1 93639 
+101.185.155.105 3 3 26982 20161209053424
+105.226.216.120 2 34 1819295 20161228193749
+123.125.67.157 1 1 9071 20161225210733
+202.46.48.144 0 1 97594 
+41.100.117.0 3 3 27213 20161229232217
+209.95.186.152 1 1 38334 20161207170818
+193.201.224.72 1 1 38334 20161209084010
+185.120.211.130 6 6 54195 20161228143734
+220.181.108.185 0 1 93639 
+195.154.194.116 1 1 9051 20161222094302
+210.213.88.30 3 3 27213 20161228041158
+41.114.227.185 6 38 1868329 20161201231717
+115.66.198.237 3 3 27213 20161213191551
+107.151.218.197 1 1 38334 20161229122536
+169.0.179.238 2 34 1819295 20161222143457
+213.230.75.53 3 3 27213 20161215202844
+105.186.93.59 4 37 2072490 20161227183557
+212.110.92.42 3 3 27213 20161220113005
+62.68.240.253 3 3 27213 20161226112742
+41.13.224.193 6 38 1868329 20161202091429
+41.164.6.244 2 24 1594087 20161205114045
+184.154.36.183 16 50 1212323 20161231153211
+103.229.120.217 3 3 27213 20161218185552
+204.79.180.139 0 1 93639 
+64.74.215.113 2 2 0 20161217063728
+189.157.162.29 2 2 18142 20161224170046
+105.229.228.44 5 37 2021625 20161214164248
+202.46.58.185 0 1 27822 
+41.13.204.223 11 11 98714 20161208105910
+202.46.49.200 1 1 38334 20161215045721
+41.44.63.181 3 3 27213 20161231060007
+202.46.52.154 0 1 26651 
+202.46.57.15 1 1 38334 20161216104454
+202.46.51.84 1 1 38334 20161203013553
+154.68.171.91 2 34 1819295 20161231120324
+77.114.59.166 3 3 26982 20161209160256
+169.1.9.5 2 34 1819295 20161212151120
+41.68.197.212 3 3 26982 20161201195220
+66.249.93.156 1 15 461965 20161222160045
+187.16.242.5 3 3 27213 20161225235733
+197.159.8.130 3 3 27213 20161228184411
+202.46.51.81 0 1 6344 
+78.66.201.43 3 3 26982 20161208023654
+200.199.34.59 3 3 27213 20161218081359
+105.186.98.212 3 35 1841347 20161222092542
+77.30.225.103 3 3 26982 20161205185045
+169.0.180.164 4 37 1855912 20161230093500
+220.181.108.152 0 1 97594 
+41.147.145.54 6 38 1868329 20161204183529
+5.107.79.207 2 2 18142 20161227072324
+154.0.172.230 5 5 103744 20161212024840
+54.225.5.207 1 1 38334 20161228191726
+202.46.55.140 0 1 55968 
+105.227.158.86 2 34 1819295 20161209130431
+204.79.180.36 0 2 27777 
+109.242.93.105 3 3 27213 20161215232354
+198.240.125.155 1 1 38334 20161212151115
+89.149.53.191 3 3 27213 20161230225838
+103.242.219.97 3 3 26982 20161210021915
+110.244.44.43 1 1 9071 20161215145919
+202.46.51.194 0 1 1668 
+121.108.62.25 2 2 18142 20161231092227
+123.125.67.151 1 1 38334 20161211125855
+39.46.50.136 3 3 27213 20161220190219
+49.206.124.188 2 2 47328 20161206045130
+204.79.180.66 0 1 24159 
+105.27.116.142 2 34 1819295 20161213100543
+165.255.196.241 8 47 1997008 20161230133233
+212.129.5.119 1 1 38334 20161219123323
+220.181.51.120 0 1 134243 
+204.79.180.106 0 1 6344 
+220.181.108.78 0 1 15490 
+123.125.67.162 1 1 9071 20161223210159
+112.5.234.44 1 1 2340 20161214020756
+80.12.87.249 3 3 27213 20161226182455
+41.164.50.226 4 37 1858782 20161206083009
+202.46.51.203 0 1 34908 
+195.154.194.179 3 3 27096 20161212124831
+94.226.67.107 3 3 27213 20161227234705
+85.194.4.46 3 3 26982 20161209124004
+180.248.184.86 3 3 27213 20161219203737
+41.13.200.22 13 46 1924139 20161217223438
+123.125.125.250 2 2 76668 20161208193110
+197.155.176.8 2 2 17988 20161207182433
+195.154.231.134 3 3 115002 20161231115749
+115.66.128.159 2 2 17988 20161204174358
+105.103.153.98 2 2 17988 20161206092759
+46.59.255.78 3 3 26982 20161205204934
+91.151.238.41 3 3 27213 20161217054630
+89.65.76.12 2 2 17988 20161210161653
+66.102.6.220 1 1 38334 20161215122848
+196.207.44.209 0 2 222157 
+185.26.180.152 1 1 9071 20161214231247
+54.191.186.117 1 1 38334 20161210003836
+202.46.52.152 0 1 27822 
+41.202.219.73 1 1 9071 20161226175908
+41.13.86.90 7 46 1987937 20161228000526
+202.46.48.200 0 1 1200 
+107.172.225.171 1 1 38334 20161213142651
+202.46.51.115 1 1 38334 20161202110828
+204.79.180.39 0 2 30980 
+197.89.19.89 3 48 729538 20161222184114
+154.66.206.164 3 35 1834781 20161208152629
+41.145.69.135 6 38 1868329 20161209002955
+202.46.51.190 0 1 9246 
+184.154.36.186 10 32 1030007 20161222153130
+41.69.122.13 3 3 27213 20161225172703
+202.46.53.114 1 1 0 20161209000358
+117.215.177.252 3 3 27213 20161220134730
+105.225.124.128 7 37 1725699 20161231101240
+204.79.180.151 0 1 34908 
+41.164.39.63 3 36 1820448 20161206153949
+204.79.180.37 1 2 106588 20161206143504
+202.46.55.67 1 1 38334 20161202015115
+41.13.92.143 11 11 99561 20161226213154
+204.79.180.2 0 1 1668 
+91.200.14.153 1 1 9051 20161226154115
+202.46.50.98 1 1 0 20161213092048
+120.28.191.4 1 1 9071 20161230014457
+203.133.170.105 2 2 47328 20161211094026
+190.198.31.3 3 3 26982 20161206000121
+197.76.184.42 3 35 1841347 20161228090612
+112.198.242.241 2 2 18142 20161221125806
+41.13.243.154 3 35 1841347 20161214184858
+204.79.180.193 0 1 4414 
+220.181.108.103 1 1 38334 20161203134914
+46.240.250.37 3 3 26982 20161204143542
+216.126.195.42 1 1 38334 20161218233842
+188.246.111.249 3 3 27213 20161217132745
+197.234.193.162 2 34 1819295 20161212141937
+88.191.12.140 3 3 26982 20161209174612
+31.184.194.91 2 2 47308 20161202215627
+99.240.49.14 2 2 18142 20161219100307
+204.79.180.221 0 1 179397 
+88.198.44.46 1 1 0 20161205211212
+39.40.176.203 3 3 27213 20161226212537
+189.128.114.87 3 3 27213 20161212064923
+87.109.171.251 5 5 45355 20161224114002
+185.26.180.145 2 66 3494515 20161227165554
+45.246.44.184 2 2 18142 20161220231647
+197.89.39.131 6 38 1868329 20161208120847
+88.244.180.175 3 3 26982 20161204233554
+204.79.180.155 0 1 8097 
+197.84.246.194 3 35 1854759 20161205154647
+209.95.166.185 1 1 38334 20161224075318
+41.96.83.220 4 4 36284 20161227215425
+66.249.83.193 2 27 2205736 20161212102759
+84.3.182.63 3 3 7098 20161205150946
+41.162.46.58 2 33 1790022 20161223131146
+220.181.51.93 3 4 218302 20161219212705
+176.101.223.204 3 3 26982 20161207195432
+105.228.89.31 11 11 99561 20161230231312
+114.151.92.98 3 3 27213 20161223064530
+204.79.180.83 1 1 9071 20161212081510
+204.79.180.176 0 1 1668 
+202.46.53.57 0 2 33884 
+89.191.131.243 1 1 38334 20161202185537
+117.213.22.195 3 3 26982 20161210102751
+45.244.224.246 3 3 27213 20161227210141
+54.92.163.37 4 68 1841347 20161206214346
+61.135.190.223 1 1 38334 20161208183537
+202.46.55.133 0 1 97594 
+169.0.252.250 1 33 0 20161204170812
+42.236.10.71 1 1 38334 20161212202417
+58.96.70.58 2 2 18142 20161218060055
+202.46.55.11 0 1 1200 
+112.207.211.7 2 2 18142 20161213090822
+41.13.44.193 1 1 38334 20161226061004
+77.252.179.142 3 3 27213 20161222142938
+165.255.45.38 2 34 1819295 20161220010251
+180.191.118.35 3 3 27213 20161216071257
+211.123.206.72 1 1 38334 20161225091619
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20161201 138 420 15979105 66
+20161202 134 374 12843336 72
+20161203 119 286 10109619 67
+20161204 101 232 6338997 37
+20161205 106 330 13643322 26
+20161206 147 447 15208239 97
+20161207 119 382 15514953 74
+20161208 133 437 17572356 83
+20161209 190 419 14323310 113
+20161210 121 223 6211493 86
+20161211 142 200 3336317 98
+20161212 173 434 14976589 112
+20161213 159 492 19299270 116
+20161214 169 551 21760371 123
+20161215 162 292 7378656 130
+20161216 130 192 3604057 113
+20161217 174 244 4581500 123
+20161218 116 164 2520301 102
+20161219 122 290 9733326 103
+20161220 133 182 3230586 98
+20161221 131 217 5708600 110
+20161222 176 362 9351360 121
+20161223 146 194 2932303 96
+20161224 106 205 6112391 90
+20161225 122 189 4426136 94
+20161226 166 213 3349905 84
+20161227 153 404 14788518 98
+20161228 148 369 12868882 84
+20161229 164 285 7157947 81
+20161230 139 313 10150185 81
+20161231 116 215 6036425 89
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 21
+5mn-15mn 15
+15mn-30mn 8
+30mn-1h 4
+1h+ 2
+0s-30s 2805
+2mn-5mn 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 2411 13570236 2382 2211
+/wp-admin/setup-config.php 1680 14869254 467 543
+/fonts/flatpack.woff 130 17894520 5 64
+/fonts/Flat-UI-Icons.woff 58 1234912 7 10
+/pix_mail/new_contact.php 18 988 1 14
+/fonts/lato/lato-regular-webfont.woff 11 390104 0 9
+/fonts/flatpack.eot 8 1136896 1 7
+/fonts/flatpack.ttf 7 993608 1 6
+/fonts/Flat-UI-Icons.eot 6 92364 0 0
+/stylesheets/ 3 2418 3 3
+/fonts/fontawesome-webfont.eot 3 168018 0 0
+/fonts/lato/lato-bold-webfont.eot 3 96168 0 0
+/fonts/lato/lato-bolditalic-webfont.eot 3 91020 0 0
+/fonts/lato/lato-light-webfont.eot 3 90348 0 0
+/fonts/lato/lato-italic-webfont.eot 3 89661 0 0
+/fonts/lato/lato-regular-webfont.eot 3 92934 0 0
+/fonts/lato/lato-black-webfont.eot 3 92514 0 0
+/fonts/Flat-UI-Icons.ttf 2 30408 0 0
+END_SIDER

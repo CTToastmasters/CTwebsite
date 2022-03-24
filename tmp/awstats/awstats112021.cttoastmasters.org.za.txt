@@ -1,0 +1,2422 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202111 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2697                
+POS_VISITOR 46074               
+POS_DAY 90416               
+POS_DOMAIN 3565                
+POS_LOGIN 5061                
+POS_ROBOT 5216                
+POS_WORMS 6176                
+POS_EMAILSENDER 6307                
+POS_EMAILRECEIVER 6450                
+POS_SESSION 91280               
+POS_SIDER 91472               
+POS_FILETYPES 6585                
+POS_DOWNLOADS 6780                
+POS_OS 6828                
+POS_BROWSER 7272                
+POS_SCREENSIZE 9789                
+POS_UNKNOWNREFERER 9863                
+POS_UNKNOWNREFERERBROWSER 10619               
+POS_ORIGIN 11102               
+POS_SEREFERRALS 11248               
+POS_PAGEREFS 11454               
+POS_SEARCHWORDS 42253               
+POS_KEYWORDS 42405               
+POS_MISC 2360                
+POS_ERRORS 42464               
+POS_CLUSTER 4917                
+POS_SIDER_404 42564               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211201003646 63 11347 3311547416948
+FirstTime 20211101000118
+LastTime 20211130233721
+LastUpdate 20211201145954 63 0 62 0 0
+TotalVisits 2203                
+TotalUnique 1111                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1137                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 14 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 99 100 2074717 14 27 207448
+1 157 191 5036273 15 29 268548
+2 257 320 5064796 10 42 330114
+3 300 300 1711446 10 18 177741
+4 67 67 1478067 18 53 922677
+5 75 97 2343617 15 31 531523
+6 57 57 1374343 64 76 312702
+7 87 87 2181016 24 37 315013
+8 71 105 5110187 18 30 528716
+9 87 134 4638850 14 28 562678
+10 90 145 6257800 10 18 230737
+11 67 67 1737377 14 93 4764096
+12 92 110 2511890 71 123 2483079
+13 127 161 4906618 12 26 156736
+14 93 94 1689929 16 21 207512
+15 122 156 5554893 21 35 270116
+16 152 152 2204135 73 107 728688
+17 87 87 1944825 49 67 931855
+18 163 198 5159647 20 105 4812189
+19 225 264 7351591 18 107 2128594
+20 88 90 1723701 21 98 4753818
+21 84 86 2150153 19 32 435863
+22 67 122 5668207 18 29 259310
+23 94 95 2050440 70 93 587144
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 88
+ru 949 949 5990061
+us 377 641 26034510
+in 192 192 3682202
+cn 178 219 6289000
+ua 108 108 2074480
+th 99 99 2518119
+sa 86 86 0
+nl 69 69 155586
+br 57 57 1478067
+id 54 91 4829590
+za 51 118 7857475
+se 37 37 959447
+gb 33 33 855723
+ca 33 33 855723
+uz 31 31 0
+ro 20 20 518620
+ir 20 20 492689
+vn 19 19 492689
+hk 16 16 414896
+tw 16 16 414896
+au 15 49 3687861
+co 15 15 388965
+bd 14 14 363034
+my 14 14 363034
+de 13 13 337103
+py 1 1 25931
+ht 2 2 51862
+ar 12 12 311172
+pl 12 12 311172
+hr 7 7 181517
+at 1 1 25931
+pr 2 2 51862
+al 2 2 51862
+kh 9 9 233379
+ba 6 6 155586
+sg 1 1 25931
+pt 4 4 103724
+rs 10 10 259310
+sy 1 1 25931
+bo 4 4 103724
+mu 7 7 181517
+jp 12 12 311172
+dk 4 4 103724
+es 6 6 155586
+mx 3 3 77793
+pe 8 8 207448
+tz 2 2 51862
+it 10 10 259310
+cl 12 12 311172
+il 11 11 285241
+lb 3 3 77793
+kz 2 2 51862
+eu 6 6 155586
+sc 4 38 3402620
+dm 2 2 51862
+ma 3 3 77793
+ng 5 5 129655
+lv 5 5 129655
+uy 2 2 51862
+ao 1 1 25931
+fr 12 12 311172
+kr 2 2 51862
+ps 2 2 51862
+gr 10 10 259310
+kg 3 3 77793
+tr 2 2 51862
+cz 4 4 103724
+bg 8 8 207448
+nz 1 1 25931
+by 12 12 311172
+am 6 6 155586
+cw 5 5 129655
+ly 2 2 51862
+mt 2 2 51862
+mn 2 2 51862
+np 3 3 77793
+ch 5 5 129655
+ke 3 3 77793
+ge 1 1 25931
+fi 2 2 51862
+ve 2 2 51862
+be 2 2 51862
+cd 1 1 25931
+pk 2 2 51862
+sk 2 2 51862
+iq 1 1 25931
+ec 2 2 51862
+hu 11 11 285241
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 150 4488802 20211130203755 0
+AhrefsBot/ 135 4263324 20211130124844 0
+baidu 106 8623536 20211128202252 0
+bingbot/ 101 3941662 20211130215910 0
+no_user_agent 37 933516 20211129071640 0
+robot 37 3380031 20211106111535 0
+spider 14 277070 20211121024717 0
+DotBot/ 5 129655 20211110171936 0
+DuckDuckGo\-Favicons\-Bot/ 5 129655 20211129212022 0
+bot[\s_+:,\.\;\/\\-] 4 103724 20211130063748 0
+Applebot/ 4 103724 20211124182241 0
+nutch 3 77793 20211120034513 0
+Dalvik/ 3 77793 20211128105514 0
+Apache\-HttpClient/ 3 77793 20211126055318 0
+Mail\.RU_Bot/ 2 51862 20211126041836 0
+BLEXBot/ 1 25931 20211107000113 0
+crawl 1 25931 20211107174445 0
+KomodiaBot/ 1 25931 20211111162256 0
+bingpreview 1 24159 20211108194723 0
+archive\.org_bot 1 25931 20211130200729 0
+MixrankBot 1 25931 20211123084514 0
+java 1 25931 20211121011349 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 151 6912716 0 0
+html 2805 46393371 0 0
+png 35 951636 0 0
+php 1 56 0 0
+woff 2 44104 0 0
+js 186 3623241 0 0
+jpg 105 23999394 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+win2008 112 112
+android 40 3
+winunknown 647 647
+win10 1225 1031
+winxp 22 22
+macosx 6 0
+androidoreo 13 1
+win2003 130 130
+ios_iphone 1 1
+macosx11 6 6
+androidlollipop 3 3
+winnt 8 8
+macosx9 2 2
+macosx13 13 7
+macosx15 32 5
+linux 172 61
+Unknown 58 32
+macosx12 1 1
+win7 428 413
+winlong 117 117
+win8 22 22
+macosx10 2 2
+androidpie 38 4
+win8.1 172 172
+androidmarshmallow 9 5
+macosx14 6 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 117
+opera8.54 4 4
+msie5.00 177 177
+chrome66.0.3359.181 34 34
+chrome90.0.4430.93 79 79
+firefox33.0 1 1
+chrome83.0.4096.0 26 26
+chrome91.0.4472.114 54 12
+chrome83.0.4098.0 48 48
+chrome45.0.2454.94 1 1
+chrome63.0.3239.84 1 1
+chrome71.0.3542.0 22 1
+chrome40.0.2214.93 1 1
+chrome57 2 2
+mozilla 31 5
+opera10.10 2 1
+firefox68.0 1 1
+chrome84.0.4147.105 3 1
+msie9.0 22 8
+chrome77.0.3835.0 22 1
+chrome41.0.2225.0 1 1
+msie3.00 168 168
+opera53.0.2907.68 1 1
+chrome95.0.4638.50 1 0
+chrome49.0.2623.112 2 2
+firefox82.0 1 0
+chrome90.0.4430.85 151 151
+chrome68.0.3440.106 36 1
+safari11.0 1 1
+chrome67.0.3396.99 2 2
+msie7.0 4 4
+msie8.0 1 1
+chrome83.0.4103.24 65 65
+chrome93.0.4577.63 1 1
+chrome79.0.3945.130 3 3
+chrome35.0.1916.47 2 2
+chrome85.0.4183.83 1 1
+lynx 1 1
+chrome90.0.4430.72 136 136
+msie6.0 7 7
+chrome81.0.4044.113 1 0
+chrome56.0.2924.87 1 1
+chrome83.0.4103.14 33 33
+msie7.00 169 169
+chrome80.0.3987.163 1 0
+firefox79.0 1 0
+opera55.0.2994.44 2 2
+chrome83.0.4102.0 33 33
+opera54.0.2952.51 1 1
+chrome88.0.4324.190 3 2
+chrome95.0.4638.54 69 2
+firefox78.0 1 0
+msie6.00 154 154
+opera53.0.2907.99 1 1
+chrome83.0.4103.61 407 407
+chrome66.0.3359.170 23 23
+chrome68.0.3440.75 1 1
+chrome47.0.2526.106 3 3
+opera11.00 1 0
+chrome90.0.4400.8 9 9
+msie10.0 1 1
+Unknown 26 26
+chrome83.0.4100.3 41 41
+chrome46.0.2490.80 2 2
+chrome53.0.2785.143 1 1
+chrome80.0.3987.87 2 0
+firefox57.0 1 1
+chrome66.0.3359.117 1 1
+chrome94.0.4606.61 35 1
+chrome90.0.4430.210 39 3
+chrome95.0.4638.69 70 2
+chrome89.0.4389.82 2 2
+chrome83.0.4087.0 49 49
+chrome90.0.4427.0 10 10
+firefox52.0 1 1
+opera7.60 4 4
+opera11.11 1 0
+chrome75.0.3765.0 13 1
+chrome80.0.3987.116 1 0
+netscape5.0 1 1
+chrome83.0.4103.97 50 50
+opera54.0.2952.71 2 2
+chrome86.0.4240.183 1 0
+chrome60.0.3112.90 1 1
+chrome90.0.4430.86 30 30
+chrome83.0.4089.0 29 29
+msie2.00 153 153
+chrome83.0.4093.3 73 73
+firefox73.0 2 1
+chrome83.0.4099.2 28 28
+chrome81.0.4044.138 9 5
+opera10.54 1 0
+firefox59.0 1 1
+chrome71.0.3578.98 2 2
+firefox92.0 36 2
+opera65.2.3381.61420 36 2
+opera69.0.3686.7 37 37
+chrome89.0.4389.128 6 1
+chrome83.0.4086.0 61 61
+chrome67.0.3396.62 2 2
+chrome79.0.3945.88 1 1
+chrome73.0.3683.90 1 1
+chrome50.0.2661.102 7 7
+chrome80.0.3987.106 1 0
+firefox81.0 1 0
+chrome83.0.4103.34 98 98
+chrome55.0.2883.87 1 1
+firefox85.0 1 0
+chrome75.0.3770.100 12 12
+chrome81.0.4044.122 1 0
+chrome83.0.4103.0 53 53
+chrome57.0.2987.133 1 1
+chrome74.0.3729.169 1 1
+msie4.00 185 185
+chrome81.0.4044.129 2 1
+msie11.0 1 1
+firefox86.0 1 0
+chrome83.0.4103.44 26 26
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_ips-agent) 20211116141651
+Mozilla/5.0_(compatible;_Dataprovider.com) 20211119094815
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211123153258
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20211105004716
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211130154953
+GuzzleHttp/7 20211124043538
+Ruby 20211125100741
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128201644
+colly_-_https://github.com/gocolly/colly/v2 20211120143136
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128201644
+Ruby 20211125100741
+GuzzleHttp/7 20211124043538
+colly_-_https://github.com/gocolly/colly/v2 20211120143136
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211130154953
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 243 289
+From1 3 3
+From2 7 8
+From3 1046 1046
+From4 1509 1939
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+duckduckgo 1 1
+amazon 4 4
+www_bing_com 2 2
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 632
+https://pemex.cc 11 11
+https://www.xn----7sbkgnercp0argnfc6jpa.kiev.ua 9 9
+https://xn--80adbtgauelj.xn--p1ai 8 8
+https://www.zarabot0k.online 8 8
+https://surrogatemoms.ru 8 8
+https://intelinvest.ru 8 8
+https://destiny-2.com 8 8
+https://autolider42.ru 8 8
+https://gosugrind.ru 8 8
+https://hd.1osfilm.cc 8 8
+https://perila-iz-nerzhavejki.ru 8 8
+https://nissan-auto.in 7 7
+https://xn--c1ac3a.xn--80aswg 7 7
+https://velesritual.com.ua 6 6
+https://coffeetee.ru/category/vidy-kofe/kapucheno/ 6 6
+https://rabota-trud.ru 6 6
+https://muskari.ru 6 6
+https://avtoservisy-porsche.ru 5 5
+https://avtoservisy-honda.ru 5 5
+https://avtoservisy-ford.ru 5 5
+https://avtoservisy-lexus.ru 5 5
+https://avtoservisy-toyota.ru 5 5
+https://avtoservisy-hyundai.ru 5 5
+https://avtoservisy-peugeot.ru 5 5
+https://avtoservisy-nissan.ru 5 5
+https://avtoservis-skoda.ru/rechnoy-vokzal 1 1
+https://medhelper.ua/lechenie-zashhemleniya-nerva/ 1 1
+https://avto-tekhpomosh.ru/goroda-podmoskoviya/uslugi-v-zvenigorode/otklyuchenie-signalizacii-v-zvenigorode/ 1 1
+https://vkladovke.com.ua/g4018716-lodki-naduvnye-pvh 1 1
+https://avtoservis-citroen.ru/remont-razdatochnoy-korobki-citroen 1 1
+https://avtoservis-hyundai.ru/zamena-masla-akpp-hyundai 1 1
+https://shopnaturgoods.com 1 1
+https://gosugrind.com 4 4
+http://stranger-site.com/sezon-1/11-glava-vosmaja-vverh-nogami.html 1 1
+https://avtoservis-citroen.ru/zamena-dveri-citroen 1 1
+https://flowercube.ru/podarki/podarochnyy-chay/ 1 1
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai 1 1
+https://traktorbook.com/traktor-dt-54/ 1 1
+https://www.irrigator.ru/zubnye-pasty-cat.html 1 1
+https://www.prjadko.kiev.ua/skulptura/sculptura-iz-mramora.html 2 2
+https://almest.ru/parkovka/kabel-kanaly 1 1
+http://www.riasamara.ru/rus/national_projects/public_health/ 1 1
+https://money-vsem.ru 3 3
+https://dveriokna.dp.ua 1 1
+https://malinaexpert.ru/category/malina-v-medicine/ 1 1
+https://perevozki24.com.ua/uslugi/ritualnye-perevozki 2 2
+https://avtoservis-suzuki.ru/ramenki 1 1
+https://priliv.com.ua/cats/zapchasti-k-lodkam/ 2 2
+https://jesusset.ru 3 3
+https://grandprint.com.ua/uk/uslugi/pechat-interernaya/ 1 1
+https://avtoservis-kia.ru/zamena-pyilnika-shrusa-kia 1 1
+http://stranger-site.com/sezon-3/26-glava-shestaja-e-pluribus-unum.html 1 1
+https://grandprint.com.ua/uk/uslugi/pechat-nakleek/ 1 1
+https://sochi.yug-cleaning.ru 1 1
+https://www.prjadko.kiev.ua/ritualnye-uslugi/krematsiya.html 3 3
+http://stranger-site.com/personazhi/39-maksin-mjejfild.html 1 1
+https://moskowlife.com 2 2
+https://www.prjadko.kiev.ua/pamyatniki/pamyatniki-iz-mramora.html 1 1
+https://dvmarket.com.ua/g102170759-darsonvali 1 1
+https://artroliga.ru 1 1
+https://express-doki1.com/allspravki/kupit-spravku-o-pokupke-valyuty/ 2 2
+https://avto-tekhpomosh.ru/metro/auto-help-metro-vodnyj-stadion/ 1 1
+https://one-ses.ru/unichtozhenie-myshej/ 1 1
+https://flowercube.ru/neobychnye-bukety/bukety-iz-sukhotsvetov/ 1 1
+https://obogrevateli.kr.ua 2 2
+https://kinogo.onl/53757-17nov2021-vechnye.html 1 1
+https://grandprint.com.ua/uslugi/shirokoformatnaya-pechat/ 1 1
+https://www.homeadore.ru/./brands/schlittler 1 1
+https://ritual.net.ua/krematorij-kiev.html 1 1
+http://stranger-site.com/sezon-2/12-glava-pervaja-bezumnaja-maks.html 1 1
+https://clatronic.com.ua/bytovaya-tekhnika-melkaya/tovary-po-ukhodu-za-domom-i-odezhdoj/otparivatel-parovoj-utyug 2 2
+https://avtoservis-volkswagen.ru/remont-ventilyatora-ohlajdeniya-dvigatelya-volkswagen 1 1
+https://www.ruselectronic.com/category/skhemy-dlya-nachinayushhikh/ 1 1
+https://gruzovo.com/shaanxi-f3000-shacman-f3000.html 1 1
+https://toyota-cars.info/category/modeli/ 4 4
+https://flowercube.ru/podarki/otkrytki/ 1 1
+https://medhelper.ua/ultrazvukovaya-terapiya/ 1 1
+https://hatlmakl.ru 1 1
+https://melenim.com/women-style 1 1
+https://ritual.net.ua/moshennicheskie-skhemy.html 1 1
+https://trailer.monster/multfilm/ 1 1
+https://avtoservis-peugeot.ru/ustanovka-avtosignalizatsii-peugeot 1 1
+https://dobrodom-pansion.ru 1 1
+https://www.ruselectronic.com/category/rjemontirujem-sami/ 1 1
+https://ortopedicheskij-matras-krivoj-rog.kr.ua 1 1
+https://emerald-inv.com 1 1
+https://unistroycom.ru/p/305633022-ograzhdenie-dlya-parkovochnogo-mesta/ 1 1
+https://mining-wikipedia.com 1 1
+https://zolotoff-online.ru 2 2
+https://avtoservis-nissan.ru/remont-turbinyi 1 1
+https://maslomotors.ru 1 1
+https://salonshtor-spb.ru/shtory_na_luversah 2 2
+https://comfort.kr.ua 1 1
+https://rustrans.com.ua/uslugi/gruz-200 2 2
+https://avtoservisy-bmw.ru 1 1
+https://allflow.ru/cena/ot-3000-4000/ 1 1
+https://avtoservis-mitsubishi.ru/zamena-zadnego-salnika-kolenvala-mitsubishi 1 1
+https://swit.ua/kuxonnye-prinadlezhnosti-i-aksesuary/izmelchiteli-i-presy 1 1
+https://www.homeadore.ru/brands/monbento 1 1
+https://avtoservis-skoda.ru/kaluzhskaya 1 1
+https://allflow.ru/prazdnik/novyy-god/ 1 1
+https://avtoservis-hyundai.ru/zamena-rulevoy-tyagi-hyundai 1 1
+https://kottedzh-den-rozhdeniya.tilda.ws 2 2
+https://www.gudzik.kiev.ua/tesmu/lampassi 1 1
+https://malinaexpert.ru 1 1
+https://interlavka.su 2 2
+https://salonshtor-spb.ru/rimskie_shtory 1 1
+https://gruzovo.com/zil-4334.html 1 1
+https://flowerbiz.ru/gift/otkrytki/ 1 1
+https://avtoservis-mazda.ru/6 1 1
+https://ua.velesritual.com.ua/improvement.html 1 1
+https://mirtentov.ru/burovye-ukrytiya.html 1 1
+https://medicalclub.store/product/Ultrazvukovaya_diagnostika/Apparaty_UZI/samsung-hs40-apparat-uzi/ 1 1
+https://blinders-online.ru/season-4/27-4-sezon-5-serija-dujel.html 1 1
+https://potolki.kr.ua 1 1
+https://prjadko.com.ua/sculptura_statui/statuja_iz_mramora.html 1 1
+https://allflow.ru/bukety/bukety-iz-tyulpanov/ 1 1
+https://flowerbiz.ru/prazdnik/14-fevralya/ 1 1
+https://rupolitshow.ru/bolshaya-igra 1 1
+https://fixtext.ru/oboyti_antiplagiat.html 2 2
+https://di7.ru/body/ 1 1
+https://avtoservis-citroen.ru/zamena-radiatora-ohlajdeniya-citroen 1 1
+https://msk-spravki.ru 1 1
+https://avtoservis-volkswagen.ru/remont-gidrobloka-volkswagen 1 1
+https://www.pechnoydom.ru/catalog/kaminy-dlya-doma 1 1
+https://di7.ru/eyes/ 1 1
+https://inform.click/category/razvlekatelnaja-programma/ 1 1
+https://avto-tekhpomosh.ru/goroda-podmoskoviya/uslugi-v-volokolamske/snyatie-sekretok-v-volokolamske/ 1 1
+https://inform.com.de 3 3
+https://melenim.com/women/zhenskie-sumki 1 1
+https://inform.click/category/prichudlivyj/ 2 2
+https://almest.ru/parkovka/stolbiki-parkovochnye-metallicheskie 1 1
+https://vadstudio.biz/region/rumyniya/ 1 1
+https://spb-spravki8.com/sertificates/akademicheskij-otpusk/ 1 1
+https://medicalclub.store 2 2
+https://fullzdumps.cc 2 2
+https://avto-tekhpomosh.ru/metro/auto-help-metro-timiryazevskaya/zamena-akkumulyatora-timiryazevskaya/ 1 1
+https://express-doki1.com 1 1
+https://melenim.com/women/zhenskaya-odezhda 1 1
+https://www.gruz200.com.ua/blog/34-zakaz-ritualnogo-transporta.html 1 1
+https://avtoservis-volkswagen.ru/diagnostika-check-volkswagen 1 1
+https://avtoservis-volkswagen.ru/diagnostika-generatora-volkswagen 1 1
+https://flowercube.ru/aktsii/ 1 1
+https://milfassporn.com 1 1
+https://flowerbiz.ru/bukety/monobukety/ 1 1
+https://coffeetee.ru 1 1
+https://dveri-krivoj-rog.kr.ua 1 1
+https://idolstore.net/games/counter-strike-csgo/ 1 1
+http://stranger-site.com/sezon-2/15-glava-chetvertaja-uill-mudrec.html 1 1
+https://avtoservis-skoda.ru/remont-katalizatora-skoda 1 1
+http://peaky-site.com/sezon-5/33-5-sezon-6-serija-mister-dzhons.html 1 1
+https://henessy042.ru 2 2
+https://vseznanija.com 2 2
+https://vadstudio.biz/region/ssha/ 1 1
+https://www.ruselectronic.com/category/stati/ 1 1
+https://inform.click/category/zdorove/ 1 1
+https://salonshtor-spb.ru 1 1
+https://pamjatnik.com.ua/ritualnaja-productsia/elite-memorial 2 2
+https://zolotoyvek-nnov.ru 2 2
+https://mediadoma.com/category/domashnie-smi 1 1
+https://avtoservis-renault.ru/lermontovskiy-prospekt 1 1
+https://avtoservis-volkswagen.ru/zamena-remnya-grm-volkswagen 1 1
+https://flowerbiz.ru/list/orkhidei/ 1 1
+https://avtoservis-nissan.ru/ustanovka-parktronikov 1 1
+https://salonshtor-spb.ru/shtory_v_gostinyu 2 2
+https://avtoservis-mazda.ru/prospekt-mira 1 1
+https://lider-specialistov.ru 2 2
+https://flowerbiz.ru/bukety/avtorskie-bukety/ 1 1
+https://avtoservis-kia.ru/metro-hovrino 1 1
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai/products/category/traktor-t-150 1 1
+https://gruzovo.com/kamaz-65222.html 1 1
+https://whitehills.msk.ru 2 2
+http://hannainstr.ru/portativnye-kolorimetry.html 1 1
+https://avtoservis-kia.ru/metro-okruznaa 1 1
+https://avtoservis-nissan.ru/zamena-datchika-holostogo-hoda 1 1
+https://allnatural.space 1 1
+https://xn--90acau6ackhj2gf.xn--p1ai/vyvoz-musora-v-leningradskoy-oblasti/ 3 3
+http://1rucloud.ru 3 3
+https://rustrans.com.ua/uslugi/svadby 2 2
+https://salonshtor-spb.ru/bizunes_shtory 2 2
+https://flowerbiz.ru/prazdnik/den-uchitelya/ 1 1
+https://tuvaonline.ru/person/ 1 1
+https://herbcart.ru/category/magaziny/ 1 1
+https://sheyko.de/catalog/roboty/ 1 1
+https://perevozki24.com.ua/uslugi/ekskursii 1 1
+https://vadstudio.biz/sobytiya/predstavlyaem-vashemu-vnimaniyu-proekt-vadstudio-business/ 2 2
+http://www.riasamara.ru 2 2
+https://pechibani.com 3 3
+https://webtechsurvey.com/website/cttoastmasters.org.za 1 1
+https://vse-pro-bmw.info/category/otzyvy/ 2 2
+https://avtoservis-renault.ru/andronovka 1 1
+https://spb-spravki8.com/sertificates/spravka-dlya-zabega/ 1 1
+https://avtoservis-citroen.ru/zamena-rezonatora-citroen 1 1
+https://ua.velesritual.com.ua/vif.html 1 1
+https://prjadko.com.ua/uslugi.html 2 2
+https://carivka.com.ua/articles/224-kuda-poekhat-na-novyj-god-nedorogo.html 4 4
+https://blinders-online.ru/season-1/6-1-sezon-2-serija.html 1 1
+https://grandprint.com.ua/uk/uslugi/pechat-na-setke/ 1 1
+https://avtoservis-suzuki.ru/zamena-tormoznoy-jidkosti-suzuki 1 1
+https://www.omskptb.ru/lic/37-lic.html 1 1
+https://tancev.kr.ua 1 1
+https://ritual.net.ua/tovary/venki.html 1 1
+https://chemforum.info 1 1
+https://www.gudzik.kiev.ua/nitki/nitki-arena-120-250metrov/zelenaya-gamma-nitki 1 1
+https://torg-opt.store 1 1
+https://www.irrigator.ru/otbelivanie-cat.html 1 1
+https://avtoservis-mitsubishi.ru/zamena-masla-v-dvigatele-mitsubishi 1 1
+https://loyalty-platform.cloud 4 4
+https://avtoservis-mitsubishi.ru/zamena-oporyi-dvigatelya-mitsubishi 1 1
+https://www.press-store.net/publ/afishi/2 1 1
+https://zolotoyvek-voronezh.ru 1 1
+https://flowerbiz.ru/list/ 1 1
+https://remonter.com.ua 3 3
+https://xn--90acau6ackhj2gf.xn--p1ai/vyvoz-musora-pavlovsk/ 1 1
+https://meblistico.com.ua 1 1
+https://rustrans.com.ua 1 1
+https://express-doki1.com/allspravki/kupit-spravka-s-mesta-raboty/ 2 2
+https://avtoservis-suzuki.ru/zamena-svechey-zajiganiya-suzuki 1 1
+https://grandprint.com.ua/uslugi/press-wall/ 1 1
+https://avtoservis-chevrolet.ru/volokolamskaya 1 1
+https://avtoservisy-audi.ru 5 5
+https://blinders-online.ru/season-1/7-1-sezon-3-serija.html 1 1
+https://vkladovke.com.ua/g91764793-bombery 1 1
+https://dez-infekciya.ru/unichtozhenie-borshhevika/ 1 1
+https://avtoservisy-suzuki.ru 5 5
+https://avtoservis-mazda.ru/zamena-stoyki-perednego-stabilizatora-mazda 1 1
+https://uzvo.ru/catalog/vesy_dlya_emkostey_i_bunkerov/ 1 1
+https://balkon.dp.ua/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%B1%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD/ 2 2
+https://avtoservisy-ford.ru 1 1
+https://uzvo.ru/montazh-vesov/ 1 1
+https://kinogo.onl/53772-zhena-oligarkha-1-sezon-17-seriya.html 1 1
+https://uzvo.ru/catalog/konveyernye_vesy/ 1 1
+https://www.omskptb.ru/contact/8-kontaktnaya-informaciya.html 1 1
+https://www.press-store.net/publ/dokumenty/12 1 1
+https://unistroycom.ru/products/parkovochnye-barery-f14822394/ 1 1
+http://peaky-site.com/sezon-3/20-3-sezon-5-serija.html 2 2
+https://carivka.com.ua/corporative/kalendarnye-prazdniki/novij-god.html 4 4
+https://mmoboost.pro/destiny-2/ 4 4
+https://konstruktiv.kiev.ua 1 1
+https://express-doki1.com/allspravki/spravka-s-mesta-raboty-v-uchebnoe-zavedenie-kupit/ 1 1
+https://zaokotak.ru/category/produkty/ 2 2
+https://swit.ua/kuxonnye-prinadlezhnosti-i-aksesuary/nozhnitsy 1 1
+https://credit-zaym.ru 4 4
+https://avtoservis-renault.ru/zamena-tormoznoy-jidkosti-renault 1 1
+https://vkladovke.com.ua/g90675410-stabilizatory-napryazheniya-eleks 1 1
+https://kermixino.ru/category/novosti 1 1
+https://tuvaonline.ru/crime/ 1 1
+https://yur-gazeta.ru/category/obshhestvo 1 1
+https://smmroot.com/blog/prodvizhenie-kompanii-i-raskrutka-sajta-cherez-soc-seti 1 1
+https://www.gudzik.by 2 2
+https://avtoservisy-infiniti.ru 5 5
+https://allflow.ru/bukety/bukety-iz-roz/ 1 1
+https://toyota-cars.info 2 2
+https://grandprint.com.ua/uk/uslugi/pechat-na-akrile/ 1 1
+https://sberbit.spb.ru/obmen-kriptovalyutyi-v-chelyabinske 1 1
+https://lm.facebook.com 1 1
+https://darkmoney.ac/probiv-informacii-122/pegas-bankovskii-probiv-fns-i-ne-tol-ko-243021/ 1 1
+https://led.kr.ua 2 2
+https://almest.ru/blagoustrojstvo-zhkkh/skamejki 2 2
+https://rupolitshow.ru/polnyj-kontakt 1 1
+https://vusadebke.com/uchastok/obustroystvo-uchastka 1 1
+https://www.xn----7sbkgnercp0argnfc6jpa.kiev.ua/pominalnye-obedy.html 2 2
+https://www.probenzo.com.ua/mototehnika/motocikly/enduro-mototsiklyi 2 2
+https://avtoservisy-infiniti.ru 1 1
+https://herbcart.ru/category/obzory/ingredienty-kosmetiki/ 2 2
+https://coffeetee.ru/category/vidy-kofe/amerikano/ 2 2
+https://polar-wolf.com/sushenosti/ 1 1
+https://www.pechnoydom.ru/catalog/mangaly-grili-barbekyu 1 1
+https://zapovit.org/krematsiya.html 4 4
+https://idolstore.net/anime/naruto/ 1 1
+https://avtoservisy-bmw.ru 5 5
+https://howhealth.space 1 1
+https://avtoservis-suzuki.ru/zamena-glavnogo-tormoznogo-tsilindra-suzuki 1 1
+https://vkladovke.com.ua/g25039018-palatki 1 1
+https://swit.ua 1 1
+http://1nvestor-pro.ru 3 3
+https://beautysalon.academy/upravlenie 3 3
+https://msk-cpravki.ru 1 1
+https://arendaautobalti.md/ro/ 5 5
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai/products/category/separatory-zerna 1 1
+https://melenim.com/lux 1 1
+https://allflow.ru/cena/ot-2000-3000-r/ 2 2
+https://turserial.online 1 1
+http://estet-auto42.ru/pokraska-diskov 3 3
+https://idolstore.net/anime/angel-beats/ 1 1
+https://ritual.net.ua/uslugi/ritualnye-perevozki.html 1 1
+https://game-lands.ru 1 1
+http://kottedzh-den-rozhdeniya.tilda.ws 1 1
+https://avtoservis-suzuki.ru/domodedovskaya 1 1
+https://gribkovlegal.ru 1 1
+https://avtoservis-mitsubishi.ru/zamena-remnya-grm-mitsubishi 1 1
+https://swit.ua/kuxonnye-prinadlezhnosti-i-aksesuary/nozhi-nozhnitsy 1 1
+https://avtoservis-hyundai.ru/remont-gidrotransformatora-hyundai 1 1
+https://www.gudzik.kiev.ua/ua/knopki/prishivnue 1 1
+https://ajour-studio.ru 2 2
+https://kinogo.onl/filmy/multfilmy 2 2
+https://grandprint.com.ua/uk/uslugi/pechat-na-oboyah/ 1 1
+https://mirtentov.ru/shtory-dlya-besedok-i-verand.html 1 1
+https://avtoservis-skoda.ru/zamena-pyilnika-narujnogo-shrusa-skoda 1 1
+https://sevastopol.krymmedtrans.ru 1 1
+https://www.pechnoydom.ru/catalog/biokaminy 2 2
+https://avtoservis-peugeot.ru/diagnostika-elektrooborudovaniya-peugeot 1 1
+https://mmoboost.pro/diablo-2-resurrected/ 2 2
+https://www.omskptb.ru 1 1
+https://medhelper.ua/miofasczialnyj-relizing/ 1 1
+https://avtoservis-suzuki.ru/zamena-radiatora-ohlajdeniya-suzuki 1 1
+https://gruzovo.com/category/proizvoditeli/kamaz 1 1
+https://www.probenzo.com.ua/mototehnika/kupit-moped 2 2
+https://sheyko.de/catalog/spetspredlozheniya/ 1 1
+https://www.press-store.net/publ/listovki/24 1 1
+https://sheyko.de/catalog/illig/ 1 1
+https://sheyko.de/catalog/windsor/ 1 1
+https://salonshtor-spb.ru/news 1 1
+https://www.irrigator.ru/aksessuary-i-komplektuyushchie-cat.html 1 1
+https://avtoservisy-mitsubishi.ru 1 1
+https://rustrans.com.ua/price 1 1
+https://techblog.sdstudio.top/category/wordpress-temy/generatepress/ 1 1
+https://vse-pro-bmw.info/category/bez-rubriki/ 2 2
+https://validccshop.online 1 1
+https://avtoservis-chevrolet.ru/lermontovskiy-prospekt 1 1
+https://vadstudio.biz/region/francziya/ 1 1
+https://tennis-gambling.com 1 1
+https://avtoservisy-citroen.ru 1 1
+https://trust-otzyvy.com 3 3
+https://avtoservis-chevrolet.ru/zamena-turbinyi-chevrolet 1 1
+https://gorkigorod-official.ru/nomera/ 4 4
+https://uzvo.ru 1 1
+https://detox-academy.ru 2 2
+https://vkladovke.com.ua/g3904592-tovary-dlya-dachi 1 1
+https://express-doki1.com/allspravki/kupit-vypisku-iz-banka-o-sostoyanii-scheta/ 1 1
+https://hiv-forum.ru 1 1
+https://techblog.sdstudio.top/category/it/ 1 1
+https://kp-inform.ru 1 1
+https://avtoservis-mazda.ru/perovo 1 1
+https://avtoservis-mitsubishi.ru/zamena-radiatora-konditsionera-mitsubishi 1 1
+https://fixtext.ru 5 5
+https://avtoservis-hyundai.ru/zamena-lyambda-zonda-hyundai 1 1
+https://travelto.top 1 1
+https://avtoservis-citroen.ru/dezinfektsiya-konditsionera-citroen 1 1
+https://unistroycom.ru/products/kolesootboyniki-f25899099/ 2 2
+https://idolstore.net/marvel-comics/captain-america/ 1 1
+https://almest.ru/ograzhdeniya/setka-plastikovaya-signalnaya 1 1
+https://matras.pp.ua 1 1
+https://dark-light.net 1 1
+https://swit.ua/kuxonnye-prinadlezhnosti-i-aksesuary/razdelochnyye-doski 2 2
+https://www.prjadko.kiev.ua/pamyatniki.html 1 1
+https://melenim.com/muzhchinam%20/muzhskaya-odezhda/muzhskaya-verhnyaya-odezhda/muzhskie-kurtki/muzhskie-kozhanye-kurtki-i-kosyhi 1 1
+https://avtoservis-hyundai.ru/zamena-rulevogo-nakonechnika-hyundai 1 1
+https://gruzovo.com/howo-a7-xovo-a7.html 1 1
+https://vkladovke.com.ua/g84050598-lodki-grif-boat 1 1
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai/products/category/traktor-mtz 2 2
+https://polar-wolf.com/kosmetika/ 4 4
+https://unistroycom.ru/p/342203865-brus-kvadratnyy-plastikovyy-50-50-2000-ch/ 1 1
+https://ninamag.ru 3 3
+https://psiholog-lebedeva.com 5 5
+https://flowerbiz.ru/price/ot-3000-do-5000-rub/ 1 1
+https://dvmarket.com.ua 1 1
+https://henessy142.ru 2 2
+https://rupolitshow.ru/itogi-nedeli 1 1
+https://eurochistca.ru 1 1
+https://gorkigorod-official.ru 2 2
+https://mirtentov.ru/gibkie-okna-dlya-terrasy.html 1 1
+https://salonshtor-spb.ru/price 1 1
+https://www.pechnoydom.ru/catalog/pechi-dlya-dachi 1 1
+https://malinaexpert.ru/category/sorta/ 3 3
+https://avtosalony.kz/jac-s3/ 1 1
+https://xn----8sbeqkgfec3aivdftd.xn--p1ai/products/category/pochvenaya-freza 1 1
+https://ritual.net.ua/uslugi/muzyka.html 1 1
+https://avtoservisy-skoda.ru 5 5
+https://avtoservis-peugeot.ru/promyivka-forsunok-peugeot 1 1
+https://www.omskptb.ru/napravlenia-deiat/26-ekolog-bezopasn.html 1 1
+https://avtoservis-mitsubishi.ru/zamena-sajevogo-filtra-mitsubishi 1 1
+https://priliv-new.com.ua/articles 5 5
+https://jantar.kiev.ua/kartiny-iz-yantarya.html 4 4
+https://avtoservisy-mercedes.ru 1 1
+https://idolstore.net/art/ 1 1
+https://di7.ru/hair/ 1 1
+https://clatronic.com.ua/bytovaya-tekhnika-melkaya/prigotovlenie/svch_duhovki 1 1
+https://zaokotak.ru/category/sousy-spetsii/ 2 2
+https://avtoservis-mazda.ru/remont-tormoznogo-tsilindra-mazda 1 1
+https://www.gruz200.com.ua/blog/36-dostavka-gruza-200-iz-norvegii-v-ukrainu.html 1 1
+https://rupolitshow.ru/pravda-s-grigoriem-kvasnyukom 1 1
+https://avtoservis-nissan.ru/zamena-masla-v-variatore 1 1
+https://henessy42.ru 2 2
+https://www.xn----7sbkgnercp0argnfc6jpa.kiev.ua/gruz-200.html 1 1
+https://avtoservis-renault.ru/zamena-ohlajdayuschey-jidkosti-renault 1 1
+https://priliv.com.ua/cats/sport-i-otdyh-na-vode/ 4 4
+https://avtoservis-volkswagen.ru/zamena-tsepi-grm-volkswagen 1 1
+https://avtoservis-chevrolet.ru/shod-razval-chevrolet 1 1
+https://avtoservis-renault.ru/zamena-saylentblokov-zadney-balki-renault 1 1
+https://avtoservis-mazda.ru/zamena-privodnogo-remnya-mazda 1 1
+https://avtoservis-skoda.ru/octavia 1 1
+http://free-games-download.falcoware.com 1 1
+https://malinaexpert.ru/category/uxod/ 1 1
+https://dvmarket.com.ua/g96554506-eholoty-gps 1 1
+https://mmoboost.pro 2 2
+https://avtoservis-peugeot.ru/remont-forsunok-peugeot 1 1
+https://vusadebke.com/uchastok/doroghki 1 1
+https://avtoservis-peugeot.ru/zamena-pompyi-i-termostata-peugeot 1 1
+https://gruzovo.com 2 2
+https://www.irrigator.ru/tonometry-cat.html 3 3
+https://www.gudzik.kiev.ua/ua/pygovicu/natural-gudzik 1 1
+https://uzvo.ru/avtomatizaciya_vesov/ 1 1
+https://vkladovke.com.ua/g91764795-shuby 1 1
+https://blinders-online.ru/season-1/8-1-sezon-4-serija.html 1 1
+https://avtoservisy-honda.ru 1 1
+https://allflow.ru/bukety/miksbukety/ 1 1
+https://avtoservis-chevrolet.ru/zorge 1 1
+https://flowercube.ru/bukety/bukety-iz-alstromerii/ 1 1
+https://mirtentov.ru/myagkie-okna-dlya-besedok.html 1 1
+https://hotevershop.com 1 1
+https://almest.ru/blagoustrojstvo-zhkkh 1 1
+https://dvmarket.com.ua/g102126350-irrigatory-zubnye-elektricheskie 2 2
+https://herbcart.ru/category/obzory/analogi-lekarstv/ 1 1
+https://kermixino.ru/category/istoriya 2 2
+https://zetflliks.app 2 2
+https://traktorbook.com/motoblok-neva-s-dvigatelem-subaru-7-5/ 1 1
+https://zaokotak.ru/category/ovoschi-zelen/ 1 1
+https://mediadoma.com/category/potokovoe-televidenie 1 1
+https://kittboats.ru 1 1
+https://vadstudio.biz/rekomendaczii/razdel-kataloga-vadstudio-biznes-gorod-belczy/ 1 1
+https://herbcart.ru 1 1
+http://peaky-site.com/sezon-4/22-4-sezon-1-serija-petlja.html 1 1
+https://avtoservis-citroen.ru/zamena-supporta-tormoznogo-citroen 1 1
+https://www.omskptb.ru/info/7-o-filiale.html 1 1
+https://zaokotak.ru/category/frukty-yagody/ 1 1
+https://avtoservis-kia.ru/metro-ulitsa-gorchakova 1 1
+https://avtoservis-mazda.ru/zamena-salnika-privoda-mazda 1 1
+https://priliv-new.com.ua 4 4
+https://pharmfriend.site 1 1
+https://tuvaonline.ru/culture/ 2 2
+https://okim.az 1 1
+https://www.press-store.net/publ/reestry/57 1 1
+http://hannainstr.ru/id/hi98509-checktemp-1-termometr-karmannyy-496.html 1 1
+https://www.omskptb.ru/zakazchik/36-zakazchik.html 1 1
+https://blinders-online.ru/season-3/20-3-sezon-4-serija.html 1 1
+http://peaky-site.com/sezon-4/27-4-sezon-6-serija-kompanija.html 1 1
+https://avtoservis-mitsubishi.ru/remont-radiatora-ohlajdeniya-mitsubishi 1 1
+https://avtoservisy-chevrolet.ru 5 5
+https://avtoservisy-kia.ru 5 5
+https://kupi-elektriku.ru 1 1
+https://toyota-cars.info/category/obzory-i-testy/ 3 3
+https://traktorbook.com/traktor-t-40/ 1 1
+https://sheyko.de/catalog/tft/ 1 1
+https://livedbet.online 1 1
+http://hannainstr.ru/id/hi801-02-spektrofotometr-230-vac-iris-154.html 1 1
+https://babaliza.ru 1 1
+https://fixtext.ru/kak_povysit_antiplagiat.html 1 1
+https://avtoservis-peugeot.ru/remont-generatora-peugeot 1 1
+https://vkladovke.com.ua/g5154674-tovary-dlya-rybalki 1 1
+https://smamibo.com/blog-ru 1 1
+https://express-doki1.com/allspravki/kupit-spravku-ob-obuchenii-v-shkole-s-ocenkami/ 1 1
+https://avtoservis-skoda.ru/remont-startera-skoda 1 1
+https://vkladovke.com.ua/g4106260-kvadrotsikly-aksesuary-kvadratsiklam 1 1
+https://avtoservis-nissan.ru/remont-forsunok-dizelnyih-dvigateley 1 1
+https://m-playstation.store 1 1
+https://melenim.com/women/zhenskaya-obuv 1 1
+https://traktorbook.com 5 5
+https://allflow.ru/podarki/suveniry/ 1 1
+http://www.riasamara.ru/rus/samara/spravka/ 1 1
+https://spb-spravki8.com/sertificates/prodlenie-meditsinskoj-knigi/ 1 1
+https://vusadebke.com/sadovodstvo/plodovye-derevyya 1 1
+http://1tvcup.ru 3 3
+https://avtoservis-kia.ru/remont-raspredvala-kia 1 1
+https://swit.ua/posuda-dlja-prigotovlenija/kovshi-soteyniki-gusyatnitsy 1 1
+https://unistroycom.ru/p/221026077-skameyka-dlya-razdevalok/ 2 2
+https://avtoservisy-opel.ru 1 1
+https://trailer.monster/anime-serial/ 2 2
+https://swit.ua/posuda-dlja-prigotovlenija/kastryuli-i-zharovni 1 1
+https://centerkadrov.ru 1 1
+https://www.homeadore.ru/./brands/hestan 1 1
+https://di7.ru/poleznoe/ 2 2
+https://trailer.monster 1 1
+https://avtoservis-renault.ru/zao 1 1
+https://matras-emm.kr.ua 1 1
+https://polar-wolf.com/dobavki/ 4 4
+https://avtoservis-kia.ru/zamena-raspredvala-kia 1 1
+https://avtoservisy-mazda.ru 1 1
+https://avto-tekhpomosh.ru/metro/auto-help-metro-rostokino/diagnostika-avto-rostokino/ 1 1
+https://www.prjadko.kiev.ua/ritualnye-uslugi.html 1 1
+https://idolstore.net/movies/lord-of-the-rings/ 1 1
+https://almest.ru/parkovka/kolesootbojniki-metallicheskie 1 1
+https://grandprint.com.ua/uk/uslugi/pechat-fotozona/ 1 1
+https://easybreezy.ru 2 2
+https://priliv-new.com.ua/g95429269-lodochnye-motory-dlya 1 1
+https://kermixino.ru 1 1
+https://sheyko.de/catalog/ 1 1
+https://hd.losfilm.cc 2 2
+https://melenim.com/muzhchinam%20/muzhskaya-odezhda 1 1
+https://avtoservis-nissan.ru/zamena-generatora 1 1
+https://www.ruselectronic.com 1 1
+https://zaokotak.ru/category/krupy-zerno/ 2 2
+https://avtoservis-citroen.ru/belokamennaa 1 1
+https://avtoservis-renault.ru/to-4-renault 1 1
+https://blinders-online.ru/season-5/30-5-sezon-2-serija-chernye-koty.html 1 1
+https://avtoservisy-kia.ru 1 1
+https://dvmarket.com.ua/g96554511-kofry-dlya-kvadrotsiklov 1 1
+https://yur-gazeta.ru 1 1
+https://kermixino.ru/category/politika 1 1
+https://vusadebke.com/lunnyy-kalendary 1 1
+https://vadstudio.biz 1 1
+https://perevozki24.com.ua/park 2 2
+https://pansionat-istok.by 2 2
+https://avtoservisy-mercedes.ru 5 5
+https://kinogo.onl/filmy/serialy 2 2
+https://spb-spravki8.com/sertificates/spravka-o-kodirovanie-ot-alkogolizma/ 1 1
+https://avtoservisy-lexus.ru 1 1
+https://ua.velesritual.com.ua/ritual-agent.html 1 1
+https://www.probenzo.com.ua/mototehnika/motocikly/pitbayki 5 5
+https://melenim.com/muzhchinam%20/muzhskaya-obuv 1 1
+https://spb-spravki8.com 1 1
+https://di7.ru/express/ 2 2
+https://priliv.com.ua 2 2
+https://osago-24.online/kasko 1 1
+https://pamjatnik.com.ua/nadgrobnye-pamyatniki-iz-granita-v-kieve 4 4
+https://www.omskptb.ru/napravlenia-deiat/29-negos-expertiza-proektnoy-documentacii.html 1 1
+http://hannainstr.ru/checker.html 1 1
+https://avtoservis-mazda.ru/medvedkovo 1 1
+https://rustrans.com.ua/uslugi/ekskursii 1 1
+https://avtoservis-skoda.ru/belyaevo 1 1
+https://avto-tekhpomosh.ru/goroda-podmoskoviya/uslugi-v-krasnogorske/izgotovlenie-klyuchej-v-krasnogorske/ 1 1
+https://uzvo.ru/service/ 1 1
+https://www.gudzik.kiev.ua/ua/beika/beyka-hb 1 1
+https://grandprint.com.ua/uslugi/pechat-interernaya/ 1 1
+https://mining-bios.com 1 1
+https://mediadoma.com/category/sabvufer 1 1
+https://vtonirovke.ru 2 2
+https://avtoservisy-volkswagen.ru 5 5
+http://estet-auto42.ru 4 4
+https://rupolitshow.ru/ot-2-do-5-s-evgeniem-satanovskim 1 1
+https://vkladovke.com.ua/g84586701-pizhamy-popozhamy-zhenskie 1 1
+https://avtoservis-chevrolet.ru/zamena-reduktora-chevrolet 1 1
+https://idolstore.net/games/minecraft/ 1 1
+https://avtoservisy-hyundai.ru 1 1
+http://www.riasamara.ru/rus/review/at_leisure/ 1 1
+https://www.prjadko.kiev.ua/pamyatniki/pamyatnik-na-odnogo.html 1 1
+https://www.prjadko.kiev.ua/skulptura/sculptura-iz-granita.html 1 1
+https://yur-gazeta.ru/category/ekonomika 2 2
+https://avtoservis-nissan.ru/micra 1 1
+https://avtoservisy-renault.ru 5 5
+https://vse-pro-bmw.info/category/models/ 1 1
+https://www.probenzo.com.ua//mototehnika/motocikly/%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5 2 2
+https://www.gudzik.kiev.ua/ua/nitki/dzhinsovye-nitki-arena-30-30 1 1
+https://flowercube.ru/bukety/den-rozhdeniya/ 1 1
+https://www.gruz200.com.ua/blog/21-vstrecha-gruza-200-v-aeroportu-borispol-kiev.html 1 1
+http://stranger-site.com/sezon-1/6-glava-tretja-rozhdestvenskie-ogni.html 1 1
+https://di7.ru 1 1
+https://avtoservis-kia.ru/metro-sviblovo 1 1
+https://avtoservisy-audi.ru 1 1
+https://avtoservis-volkswagen.ru/remont-dizelnyih-turbin-volkswagen 1 1
+https://zhar-i-par.ru 1 1
+http://peaky-site.com/sezon-3/21-3-sezon-6-serija.html 1 1
+https://pansionat-dobrodom.ru 1 1
+https://avtoservis-suzuki.ru/zamena-radiatora-pechki-suzuki 1 1
+https://vse-pro-bmw.info/category/obzory/ 2 2
+https://traktorbook.com/zil-5301/ 1 1
+https://avto-tekhpomosh.ru/goroda-podmoskoviya/uslugi-v-fryazino/vskrytie-avtomobiley-v-fryazino/ 1 1
+http://www.riasamara.ru/rus/samara/regional_projects/ 1 1
+https://avtoservisy-nissan.ru 1 1
+https://dvmarket.com.ua/g102170762-aksessuary 2 2
+https://coffeetee.ru/category/sorta-kofe/ 1 1
+https://gosugrind.com/buy-diablo-2-resurrected-items/ 4 4
+https://www.press-store.net 1 1
+https://avto-tekhpomosh.ru/metro/auto-help-metro-yasenevo/diagnostika-avto-jasenevo/ 1 1
+https://beautysalon.academy/blog 1 1
+https://beautysalon.academy 1 1
+https://travms.ru 2 2
+https://www.press-store.net/publ/tetradi/60 1 1
+https://progearph.com 1 1
+https://rupolitshow.ru/pozner 1 1
+https://ammokote.com 1 1
+https://velacoin.pw 1 1
+https://www.homeadore.ru/brands/blackblum/servirovka-stola-blackblum 1 1
+https://avtoservis-hyundai.ru/to-3-hyundai 1 1
+https://avtoservis-peugeot.ru/zamena-sajevogo-filtra-peugeot 1 1
+https://facetopay.com 2 2
+https://www.gudzik.kiev.ua/ua/pygovicu/zhenskie/polunozhka10072018 1 1
+https://www.omskptb.ru/napravlenia-deiat/28-zashita-terrytori-naselenia.html 1 1
+https://avtoservis-chevrolet.ru/remont-stsepleniya-chevrolet 1 1
+https://avtoservis-hyundai.ru/uzao 1 1
+https://zaokotak.ru/category/myaso-ryba/ 1 1
+https://idolstore.net/action-figures-amp-statues/ 1 1
+https://ritual.net.ua/kak-vesti-sebya-na-pokhoronakh.html 1 1
+https://grandprint.com.ua/uk/uslugi/pechat-bannerov/ 1 1
+https://yakimal.com 1 1
+https://avtoservisy-opel.ru 5 5
+https://trailer.monster/trailers-2021/ 2 2
+https://www.ruselectronic.com/category/mikrokontrollery-avr/avr/ 2 2
+https://malinaexpert.ru/category/vyrashhivanie/ 3 3
+https://vusadebke.com/ogorod/sornyaki 1 1
+https://rupolitshow.ru/zheleznaya-logika 1 1
+https://www.gudzik.kiev.ua/beika 1 1
+https://kermixino.ru/category/sport 1 1
+https://www.pechnoydom.ru/catalog/raspredelenie-tepla 1 1
+https://gruzovo.com/kamaz-45143-selxoznik.html 1 1
+https://perevozki24.com.ua/o-kompanii 3 3
+https://xn--90acau6ackhj2gf.xn--p1ai 2 2
+https://almest.ru/ograzhdeniya/sektsionnye-profilya 2 2
+https://flowercube.ru/tsena/tsenoy-ot-5000r/ 2 2
+https://tuvaonline.ru/economy/ 1 1
+https://vusadebke.com/ogorod/gryadki 1 1
+https://avtoservisy-mazda.ru 5 5
+https://nomertaxi.top 3 3
+https://okna-service64.ru 3 3
+https://uzvo.ru/tehnicheskoe_obsluzhivanie_vesov/ 1 1
+https://swit.ua/posuda-dlja-prigotovlenija/kryshki 1 1
+https://plyshki.com.ua 3 3
+https://techblog.sdstudio.top/category/wordpress/vse-dlja-htaccess/ 1 1
+https://beautysalon.academy/otkrytie 2 2
+https://pamjatnik.com.ua/productions 2 2
+https://perevozki24.com.ua/uslugi 1 1
+https://www.irrigator.ru/manualnye-shchetki-cat.html 1 1
+https://rustrans.com.ua/uslugi 1 1
+https://avtoservisy-citroen.ru 5 5
+https://avtoservisy-chevrolet.ru 1 1
+https://www.sexfreefuck.com 1 1
+https://balkon.dp.ua 1 1
+https://grandprint.com.ua/uslugi/pechat-nakleek/ 1 1
+https://nissan-auto.in/category/sravnenie-modelej/ 3 3
+https://www.pechnoydom.ru 1 1
+https://avtoservisy-mitsubishi.ru 5 5
+https://gruzovo.com/category/proizvoditeli/kraz 1 1
+https://templatewp.ru 2 2
+http://www.blognet.top 1 1
+https://vse-pro-bmw.info 2 2
+https://lordsfilm2.net 1 1
+https://www.gudzik.kiev.ua/ua/nitki/nitki-arena-120-1000m/rose-arena-120-1000 1 1
+https://dvmarket.com.ua/g96558076-plyushki-attraktsiony-naduvnye 1 1
+https://www.instagram.com/gorillazz.pizza.tarasovka/ 3 3
+https://tuvaonline.ru 1 1
+https://onetickets.ru 2 2
+https://unistroycom.ru/products/blagoustroystvo-i-maf-f17357039/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 664 400
+206 2 51862
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 116
+/2018/ 1 -
+/Articles/tabletopics.htm 1 -
+/dev/ 1 -
+/index.php/interviews/ 1 -
+/wp-admin/css/ 2 binance.com
+/2019/ 1 -
+/contact-2/ 6 -
+/wp2/ 1 -
+/delivering-unprepared-speech/feed/ 2 -
+/category/uncategorized/feed/ 1 -
+/index.php/category/public-speaking/ 1 -
+/js/respond.min.js 7 -
+/about/ 3 -
+/wp1/ 1 -
+/apple-touch-icon-precomposed.png 2 -
+/index.php/2015/09/ 1 -
+/e/data/html/postinfo.js 1 http://cttoastmasters.org.za/e/data/html/postinfo.js
+/web/ 1 -
+/v1/ 1 -
+/speakers-tips/feed/ 1 -
+/toastmastersmeeting/ 4 -
+/robots.txt 208 -
+/programmes.htm 1 -
+/js/html5shiv.js 7 -
+/comments/feed/ 1 -
+/index.php/2015/09/24/hello-world/ 1 -
+/wordpress/ 16 -
+/index.php/speakers-tips/www.cttoastmasters.org.za/contact/ 1 -
+/new/ 1 -
+/test/ 1 -
+/speakers-tips/ 1 -
+/ads.txt 10 -
+/images/apple-touch-icon-114x114.png 3 -
+/sites/default/files/ 1 binance.com
+/members/%20 1 -
+/downloads/category/1-tools-and-tips.html 3 -
+/10-public-speaking-tips/feed/ 1 -
+/wrapper-mainmenu-8.html 1 -
+/delivering-unprepared-speech/ 1 -
+/security.txt 2 -
+/license.txt 5 -
+/data/admin/allowurl.txt 2 -
+/backup/ 1 -
+/speaker's-tips/ 2 -
+/files/ 1 binance.com
+/index.php/2013/10/23/delivering-unprepared-speech/ 2 -
+/contact/ 1 -
+/uploads/ 1 binance.com
+/blog/ 1 -
+/success-stories/ 3 -
+/admin/controller/extension/extension/ 1 binance.com
+/apple-touch-icon-152x152-precomposed.png 2 -
+/typography-mainmenu-33.html 3 -
+/component/content/article/17-roknewsrotator/52-glossary-of-tm-terms.html 1 -
+/old-site/ 1 -
+/feed/ 1 -
+/2020/ 1 -
+/images/apple-touch-icon-72x72.png 2 -
+/downloads/category/4-general.html 1 -
+/contact_us/ 1 -
+/ 5 http://cttoastmasters.org.za/
+/wordpress/wp-login.php 3 http://cttoastmasters.org.za/wordpress/wp-login.php
+/site/ 1 -
+/interviews/ 1 -
+/demo/ 1 -
+/index.php/comments/feed/ 2 -
+/category/uncategorized/ 1 -
+/images/main/11_Conference_1090.jpg 1 -
+/humans.txt 6 -
+/j-stuff.feed 2 -
+/bk/ 1 -
+/images/apple-touch-icon.png 2 -
+/.aws/credentials 1 -
+/wp-login.php 9 http://cttoastmasters.org.za/wp-login.php
+/downloads.html 1 -
+/tmp/ 1 -
+/features-mainmenu-27.html 1 -
+/success-stories/interviews/ 1 -
+/wp/ 1 -
+/success-stories/feed/ 1 -
+/temp/ 1 -
+/old-wp/ 1 -
+/xmlrpc.php 2 -
+/js/user.js 1 http://cttoastmasters.org.za/js/user.js
+/10-public-speaking-tips/ 1 -
+/wp-content/uploads/2013/10/Toastmasters-Clubs.doc-.pdf 3 -
+/.well-known/security.txt 2 -
+/apple-touch-icon-152x152.png 2 -
+/blog/wp-login.php 3 http://cttoastmasters.org.za/blog/wp-login.php
+/images/main/hl-6.jgp 1 http://www.cttoastmasters.org.za/
+/education-learning-fact-training-mind/ 1 -
+/wp-content/uploads/2013/10/IMG_2755-Medium.jpg 1 -
+/.git/config 2 -
+/index.php/success-stories/ 1 -
+/index2.php 2 -
+/new-site/ 1 -
+/bak/ 1 -
+/index.php 2 -
+/wp/wp-login.php 3 http://cttoastmasters.org.za/wp/wp-login.php
+/home/ 1 -
+/.env 2 -
+/apple-touch-icon.png 2 -
+/tutorials-mainmenu-34.html 1 -
+/app-ads.txt 1 -
+/wp-content/contact-2/ 1 -
+/install/ 1 -
+/v2/ 4 -
+/old/ 1 -
+/www.facebook.com/Cape-Town-Toastmasters-428849990552163/ 1 -
+/category/public-speaking/ 2 -
+/questions/ 2 -
+/.well-known/wcs-challenge/cttoastmasters.org.za 232 -
+/phocadownload/as%20we%20were%20saying%20feb%20-%20%20final.pdf 1 -
+/sitemap.xml 3 -
+/cms/ 1 -
+/main/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1137
+185.5.249.185 48 48 0 20211130192951
+45.132.107.248 47 47 0 20211130184616
+194.67.210.77 47 47 0 20211130192312
+194.67.207.9 46 46 0 20211130185450
+185.125.219.13 46 46 0 20211130185450
+194.67.207.94 46 46 0 20211130185904
+94.142.141.230 45 45 0 20211130192312
+193.124.190.18 45 45 0 20211130192318
+193.124.188.83 43 43 0 20211130192312
+193.124.191.92 43 43 0 20211130192401
+185.231.68.36 34 34 0 20211130184615
+185.253.7.224 34 34 0 20211130230649
+185.253.7.227 34 34 0 20211130184615
+45.88.79.149 33 33 0 20211130185755
+185.253.7.223 33 33 0 20211130230649
+89.105.213.237 33 33 0 20211130185116
+185.209.20.147 32 32 0 20211118234159
+77.220.215.153 31 31 0 20211118124022
+89.105.213.182 30 30 0 20211130184615
+185.203.240.129 29 29 0 20211118124128
+212.86.109.31 28 28 0 20211118123908
+185.154.14.248 22 22 0 20211130230649
+185.154.14.142 21 21 0 20211130230649
+185.154.14.148 21 21 0 20211130230649
+185.154.14.108 19 19 0 20211130230649
+217.25.229.134 1 1 25931 20211120100204
+104.248.75.7 1 1 25931 20211103050239
+193.218.118.231 1 1 25931 20211126065822
+185.232.21.147 2 2 51862 20211117165430
+101.83.46.160 2 2 51862 20211109030714
+181.129.62.2 1 1 25931 20211113003315
+80.87.194.199 1 1 25931 20211124161450
+36.90.42.206 2 2 51862 20211113140339
+106.110.35.75 2 2 51862 20211118201259
+41.193.244.9 2 2 51862 20211123071819
+188.126.73.215 1 1 25931 20211116040513
+45.80.189.230 2 2 51862 20211128092128
+182.253.232.175 1 1 25931 20211120131031
+195.242.111.13 2 2 51862 20211123053843
+1.169.59.210 4 4 103724 20211124101314
+84.247.48.3 2 2 51862 20211119000734
+37.112.147.114 2 2 51862 20211125095759
+188.126.79.10 2 2 51862 20211127050605
+177.125.207.242 2 2 51862 20211114140832
+171.13.14.75 0 1 55968 
+176.123.56.58 2 2 51862 20211115052456
+187.62.191.3 1 1 25931 20211121221022
+46.8.16.155 2 2 51862 20211127105622
+138.99.93.224 1 1 25931 20211128222312
+123.6.49.4 2 2 51862 20211114144132
+110.83.153.1 2 2 51862 20211122001600
+201.221.157.162 2 2 51862 20211109144806
+54.244.205.247 1 1 25931 20211119194833
+202.44.228.212 2 2 51862 20211109000509
+80.122.144.182 1 1 25931 20211110203222
+117.254.57.182 1 1 25931 20211102134754
+103.118.116.213 1 1 25931 20211119021230
+187.102.54.40 2 2 51862 20211128173510
+34.86.35.19 1 1 25931 20211120075437
+125.25.89.35 2 2 51862 20211103153504
+18.237.156.226 1 36 3354100 20211108191838
+128.90.61.90 2 2 51862 20211105220733
+94.179.191.214 1 1 25931 20211115064923
+117.252.22.26 1 1 25931 20211104153500
+94.139.179.168 2 2 51862 20211125135124
+178.253.201.11 2 2 51862 20211104195420
+125.26.37.152 1 1 25931 20211110215053
+77.77.215.94 2 2 51862 20211114200937
+156.146.50.47 2 2 51862 20211125095325
+177.92.43.82 2 2 51862 20211113081459
+150.158.79.239 2 2 51862 20211130210641
+223.176.35.56 1 1 25931 20211129153907
+103.250.157.43 2 2 51862 20211101142924
+118.173.18.96 1 1 25931 20211115071759
+103.53.110.45 1 1 25931 20211107130715
+23.236.146.162 1 1 25931 20211119214915
+91.126.138.135 1 1 25931 20211113065335
+176.8.0.10 2 2 51862 20211117113311
+171.13.14.23 0 1 179397 
+190.239.24.70 4 4 103724 20211113020742
+195.246.120.162 1 1 25931 20211116035440
+183.23.75.63 2 2 51862 20211109090252
+1.169.99.137 4 4 103724 20211127014640
+185.112.82.239 3 3 77793 20211117225215
+47.9.169.142 2 2 51862 20211117061252
+41.60.234.157 2 2 51862 20211113080728
+153.122.172.195 2 2 51862 20211113181005
+103.200.112.158 2 2 51862 20211103062523
+134.35.47.57 1 1 25931 20211127180228
+136.169.243.209 1 1 25931 20211116202904
+200.233.253.37 1 1 25931 20211115185956
+46.227.162.15 2 2 51862 20211109075238
+185.255.96.99 4 4 103724 20211130075105
+193.9.44.16 2 2 51862 20211129041828
+144.202.125.45 1 1 25931 20211102214516
+180.174.50.87 1 1 25931 20211113141514
+168.138.198.222 2 2 51862 20211117121545
+175.140.148.178 2 2 51862 20211118073532
+118.99.97.48 2 2 51862 20211115032416
+92.207.253.226 1 1 25931 20211112153437
+185.125.122.237 2 2 51862 20211115171450
+191.242.193.246 1 1 25931 20211113203437
+185.27.99.137 1 1 25931 20211130042635
+118.99.87.16 2 2 51862 20211121225543
+37.255.228.6 2 2 51862 20211114153102
+52.35.161.113 1 1 25931 20211106193300
+196.61.105.234 1 35 3324827 20211117135508
+138.199.36.201 3 3 77793 20211111163724
+192.3.117.133 2 2 51862 20211115044222
+179.162.18.131 1 1 25931 20211115165748
+118.173.179.219 1 1 25931 20211115183735
+34.220.2.26 1 1 25931 20211121190920
+34.217.116.106 1 1 25931 20211105200853
+213.175.167.3 1 1 25931 20211121160902
+144.217.135.147 3 3 77793 20211119094757
+42.105.129.179 2 2 51862 20211130082447
+37.152.180.224 1 1 25931 20211115142850
+70.48.130.228 2 2 51862 20211115004536
+192.42.116.20 3 3 77793 20211106202313
+47.74.152.79 2 2 51862 20211113003140
+105.9.191.164 2 36 3346879 20211109085827
+37.152.171.166 1 1 25931 20211115081206
+42.193.8.97 1 1 25931 20211118181451
+34.209.209.27 1 1 25931 20211120193708
+117.99.222.180 1 1 25931 20211125055804
+136.228.128.51 2 2 51862 20211111024850
+180.241.231.120 2 2 51862 20211119195453
+183.89.152.111 1 1 25931 20211125193957
+54.38.123.225 3 3 77793 20211117223700
+77.46.146.6 2 2 51862 20211115234648
+36.37.94.199 1 1 25931 20211118061947
+179.108.89.243 1 1 25931 20211101011235
+121.4.163.148 2 2 51862 20211113132524
+156.155.116.71 1 1 25931 20211124093132
+138.118.38.59 2 2 51862 20211118212020
+103.135.248.128 1 1 25931 20211125102715
+105.209.42.84 2 2 51862 20211121103108
+34.218.81.90 1 1 25931 20211102190916
+47.104.68.94 2 23 735658 20211126050554
+47.106.226.220 1 1 25931 20211115030728
+202.183.155.242 2 2 51862 20211122064602
+144.168.163.207 1 1 25931 20211104125139
+92.118.160.41 1 1 25931 20211114101312
+203.176.176.130 1 1 25931 20211127202404
+1.192.195.5 1 1 25931 20211121010614
+37.19.223.99 1 1 25931 20211104004030
+54.190.107.174 1 1 25931 20211128195046
+183.89.194.49 2 2 51862 20211115045139
+167.71.236.147 2 2 51862 20211129151554
+176.214.31.15 2 2 51862 20211115162627
+94.198.41.121 1 1 25931 20211113063405
+181.191.37.2 2 2 51862 20211103151756
+103.231.91.142 1 1 25931 20211121152914
+27.147.155.21 1 1 25931 20211112082602
+95.106.221.22 1 1 25931 20211127172217
+52.24.251.113 1 1 25931 20211110192835
+88.201.141.106 2 2 51862 20211129235943
+93.158.92.237 1 1 25931 20211127042644
+18.181.146.180 2 2 51862 20211105141209
+178.168.197.118 3 3 77793 20211105111957
+94.198.41.123 1 1 25931 20211112083210
+1.2.229.105 2 2 51862 20211115152032
+52.43.219.31 1 1 25931 20211112192018
+45.71.185.42 1 1 25931 20211123101317
+31.180.194.26 2 2 51862 20211128135831
+154.51.131.142 3 3 77793 20211123102355
+182.253.246.81 2 2 51862 20211129152431
+40.77.167.24 0 1 8097 
+181.214.206.33 2 2 51862 20211119102533
+171.35.136.108 1 1 25931 20211119070303
+42.192.11.192 2 2 51862 20211113051727
+103.205.5.82 2 2 51862 20211111075543
+103.239.100.185 1 1 25931 20211130123232
+46.116.162.246 2 2 51862 20211110155730
+190.28.71.53 2 2 51862 20211116004224
+82.77.139.228 1 1 25931 20211116191843
+186.236.28.153 2 2 51862 20211110102200
+223.186.187.86 1 1 25931 20211125144858
+114.239.0.122 1 1 25931 20211102045245
+81.17.20.50 2 2 51862 20211115193648
+184.22.210.183 1 1 25931 20211122025253
+92.118.160.61 1 1 25931 20211122010017
+154.86.159.242 1 1 25931 20211109100204
+18.236.236.10 1 1 25931 20211124195608
+39.101.140.2 2 2 25931 20211101140240
+220.160.63.68 2 2 51862 20211121191518
+5.62.23.14 1 1 25931 20211113063603
+37.120.203.83 2 2 51862 20211125162453
+211.136.100.154 2 2 51862 20211113102257
+36.75.37.180 2 2 51862 20211103055234
+185.171.126.111 3 3 77793 20211110213710
+190.104.26.227 1 1 25931 20211119175740
+186.226.151.108 1 1 25931 20211106060738
+91.213.119.246 1 1 25931 20211128031602
+68.146.101.21 2 2 51862 20211117023220
+109.94.13.142 2 2 51862 20211125182230
+58.82.225.151 1 1 25931 20211124181416
+189.68.193.176 1 1 25931 20211127130243
+117.69.231.139 2 2 51862 20211115043428
+91.211.88.127 2 2 51862 20211128215806
+103.241.227.98 1 1 25931 20211111165743
+89.164.41.137 2 2 51862 20211109022824
+113.161.237.84 2 2 51862 20211130112848
+193.189.100.195 2 2 51862 20211112002920
+105.213.187.30 2 2 51862 20211120150534
+177.52.76.171 1 1 25931 20211129022700
+103.83.116.147 2 2 51862 20211104024720
+52.89.51.61 1 1 25931 20211110192401
+47.11.37.94 2 2 51862 20211122122750
+18.232.89.176 1 25 25931 20211106021151
+171.13.14.76 0 6 177873 
+178.130.108.127 2 2 51862 20211102034401
+35.166.142.153 1 1 25931 20211115192531
+161.117.5.252 4 4 103724 20211121182513
+46.148.234.229 7 7 181517 20211128104112
+129.205.196.242 2 2 51862 20211115140434
+223.196.174.10 1 1 25931 20211125162217
+34.221.251.251 1 1 25931 20211123191316
+34.77.162.22 1 1 25931 20211117021702
+192.111.129.145 2 2 51862 20211122092811
+217.64.46.114 2 2 51862 20211112044921
+125.231.75.78 1 1 25931 20211115050746
+37.19.223.249 1 1 25931 20211130092133
+35.165.63.147 1 1 25931 20211126195034
+115.151.156.121 2 2 51862 20211106234201
+200.89.158.14 1 1 25931 20211115190051
+103.230.230.226 2 2 51862 20211112133439
+118.127.125.34 3 3 77793 20211112195038
+85.209.89.216 17 17 0 20211112183540
+182.136.237.148 1 1 25931 20211120093542
+34.221.123.212 1 1 25931 20211114192320
+85.209.89.241 17 17 0 20211113133044
+34.86.35.1 1 1 25931 20211123024303
+116.0.121.254 2 2 51862 20211121183843
+43.135.95.75 2 2 51862 20211109050813
+37.120.194.164 2 2 51862 20211117051831
+36.65.201.173 1 1 25931 20211112135846
+34.215.167.20 1 1 25931 20211110191612
+195.64.241.240 4 4 103724 20211115110707
+223.188.142.106 2 2 51862 20211115155049
+54.149.217.240 1 1 25931 20211103195948
+200.3.173.140 2 2 51862 20211109172748
+176.100.169.171 5 5 129655 20211127020305
+167.114.36.197 2 2 51862 20211127105320
+69.61.200.104 2 2 51862 20211111223904
+176.9.111.189 1 1 25931 20211121195136
+34.220.0.189 1 1 25931 20211122201220
+189.41.22.165 2 2 51862 20211112182106
+134.236.55.213 2 2 51862 20211127133818
+134.35.163.123 2 2 51862 20211110173333
+58.177.151.62 2 2 51862 20211119171843
+157.55.39.69 0 1 237 
+195.46.190.111 2 2 51862 20211125164614
+2.57.150.206 3 3 77793 20211125044118
+45.119.88.71 2 2 51862 20211115141533
+45.156.186.44 2 2 51862 20211118071550
+134.236.114.129 1 1 25931 20211128191023
+129.18.180.224 2 2 51862 20211117043503
+157.55.39.91 0 1 4414 
+82.117.215.98 2 2 51862 20211116001122
+1.0.136.201 2 2 51862 20211129192001
+94.28.30.93 1 1 25931 20211109031141
+213.149.156.87 2 2 51862 20211104201511
+113.128.24.219 1 1 25931 20211128101736
+45.201.154.13 2 2 51862 20211104034257
+54.201.70.36 1 1 25931 20211129200649
+52.13.159.242 1 1 25931 20211105194653
+134.236.242.161 2 2 51862 20211116155346
+103.78.13.187 1 1 25931 20211121091323
+187.250.55.216 2 2 51862 20211113033754
+61.131.161.84 2 2 51862 20211115010652
+41.60.237.41 1 1 25931 20211126204527
+183.172.61.247 1 1 25931 20211115183651
+104.153.249.254 2 2 51862 20211115173044
+13.229.224.118 1 1 25931 20211113161350
+93.190.111.173 1 1 25931 20211109173426
+66.251.168.195 2 2 51862 20211115053503
+121.205.216.67 2 2 51862 20211107003933
+103.163.119.162 1 1 25931 20211109075658
+135.125.217.112 2 2 51862 20211121175955
+103.142.141.160 2 2 51862 20211118122702
+101.109.175.149 2 2 51862 20211115152435
+195.246.120.163 1 1 25931 20211125125532
+41.215.100.184 2 2 51862 20211106080411
+34.218.64.58 1 1 25931 20211107192520
+149.129.233.179 2 2 51862 20211101032254
+178.168.223.243 3 3 77793 20211117235611
+180.108.121.22 2 2 51862 20211113013813
+188.126.73.211 1 1 25931 20211123150047
+189.2.164.165 2 2 51862 20211130143742
+184.101.164.153 2 2 51862 20211122105251
+104.227.92.128 2 2 51862 20211128062350
+45.11.21.178 1 1 25931 20211112151347
+183.89.187.17 2 2 51862 20211103155344
+223.241.77.251 1 1 25931 20211123081611
+213.231.37.11 2 2 51862 20211115170604
+94.26.213.200 2 2 51862 20211119122305
+171.5.160.59 2 2 51862 20211104234755
+101.51.105.85 2 2 51862 20211115181449
+61.154.21.163 1 1 25931 20211127182719
+175.100.19.247 2 2 51862 20211127165049
+136.228.128.159 1 1 25931 20211117050202
+171.6.119.11 1 1 25931 20211127134958
+116.58.239.35 1 1 25931 20211115211921
+143.244.46.133 1 1 25931 20211130233721
+61.227.62.191 1 1 25931 20211127183232
+82.200.81.4 2 2 51862 20211117042425
+89.249.222.218 1 1 25931 20211119095744
+31.40.210.31 1 1 25931 20211129035920
+128.90.101.181 1 1 25931 20211106222357
+103.21.163.76 1 1 25931 20211111165515
+178.22.49.219 1 1 25931 20211119082223
+20.210.42.63 2 2 51862 20211111113148
+95.67.127.70 1 1 25931 20211114142453
+116.66.205.50 2 2 51862 20211120014043
+150.129.151.62 1 1 25931 20211109230350
+92.124.163.215 2 2 51862 20211117091119
+105.213.146.104 2 2 51862 20211114070723
+13.52.79.176 1 1 25931 20211113113427
+115.243.111.42 2 2 51862 20211128120003
+34.217.194.114 1 1 25931 20211130193310
+5.190.138.26 1 1 25931 20211104204216
+18.237.128.130 1 1 25931 20211113194258
+188.126.73.216 2 2 51862 20211130081640
+98.170.57.231 1 1 25931 20211121235954
+85.209.89.224 19 19 0 20211113132825
+171.5.165.15 2 2 51862 20211121215931
+117.210.209.59 1 1 25931 20211118041934
+186.47.47.50 2 2 51862 20211103082044
+5.202.47.29 1 1 25931 20211128110906
+47.242.14.172 2 2 51862 20211130045647
+54.190.8.242 1 1 25931 20211129203228
+202.62.44.209 2 2 51862 20211129095247
+157.32.18.254 1 1 25931 20211118041726
+37.252.66.240 2 2 51862 20211113101054
+82.202.167.196 1 1 25931 20211107221034
+113.53.106.230 2 2 51862 20211115194303
+184.22.6.36 2 2 51862 20211124085004
+36.110.211.69 0 2 4343 
+103.114.26.67 1 1 25931 20211102212615
+27.36.229.210 2 2 51862 20211110164202
+34.221.68.14 1 1 25931 20211101194021
+47.240.112.199 2 2 51862 20211115153405
+54.218.119.242 1 1 25931 20211127191437
+103.250.166.12 2 2 51862 20211121101637
+223.205.219.186 2 2 51862 20211121192935
+45.172.177.146 1 1 25931 20211128075952
+34.77.162.8 1 1 25931 20211130154953
+120.35.51.1 2 2 51862 20211117021206
+113.68.63.78 2 2 51862 20211120190729
+159.224.243.185 2 2 51862 20211109111307
+180.183.73.226 2 2 51862 20211103122853
+113.128.34.161 2 2 51862 20211114172951
+188.126.79.29 1 1 25931 20211106145130
+34.125.96.109 2 2 51862 20211108174150
+43.132.196.66 2 2 51862 20211111032355
+147.139.162.118 2 2 51862 20211103090357
+125.78.224.169 2 2 51862 20211118232340
+195.181.161.9 2 2 51862 20211109081846
+84.224.215.222 2 2 51862 20211130231045
+61.7.131.173 2 2 51862 20211115013221
+27.122.59.100 3 3 77793 20211121173911
+89.28.200.122 1 1 25931 20211119001926
+103.241.227.106 1 1 25931 20211105160644
+207.46.13.147 0 1 27540 
+66.220.149.40 0 2 1168006 
+101.33.117.12 2 2 51862 20211104211529
+177.38.245.106 1 1 25931 20211129092720
+54.200.188.193 1 1 25931 20211109191423
+66.220.149.36 0 3 40333 
+105.212.59.124 1 1 25931 20211112070228
+177.124.184.72 1 1 25931 20211128220716
+185.241.53.154 4 4 103724 20211126102319
+27.65.59.115 2 2 51862 20211120055215
+1.194.129.248 2 2 51862 20211130072618
+160.20.68.2 1 1 25931 20211120005130
+34.219.244.177 1 1 25931 20211112191954
+52.53.235.50 1 1 25931 20211106223118
+72.223.168.73 1 1 25931 20211112110445
+103.76.201.118 2 2 51862 20211122214437
+185.223.5.159 2 2 51862 20211115002041
+202.5.54.70 1 1 25931 20211109070022
+207.46.13.188 0 1 27822 
+37.57.15.43 2 2 51862 20211110114631
+43.224.8.124 2 2 51862 20211110124258
+103.138.4.246 1 1 25931 20211130044616
+200.37.200.187 2 2 51862 20211113005723
+47.24.41.226 2 2 51862 20211128184218
+168.90.196.98 4 4 103724 20211114005008
+219.137.113.44 2 2 51862 20211104203505
+41.190.232.36 1 1 25931 20211123045208
+105.213.161.184 2 2 51862 20211115172131
+81.23.3.237 1 1 25931 20211123144653
+91.123.22.23 4 4 103724 20211129215853
+188.130.218.21 1 1 25931 20211127145010
+105.213.112.20 2 2 51862 20211114142436
+54.187.2.177 1 1 25931 20211118190148
+185.127.131.3 1 1 25931 20211102004403
+67.201.33.10 2 2 51862 20211107151351
+191.101.31.148 2 2 51862 20211125182456
+114.104.142.156 1 1 25931 20211108102915
+89.187.168.75 1 1 25931 20211106103103
+35.162.175.34 1 1 25931 20211126193736
+103.48.186.173 1 1 25931 20211115130712
+5.160.111.56 2 2 51862 20211106071956
+94.253.189.81 4 4 103724 20211115160446
+131.221.66.82 2 2 51862 20211124205238
+46.214.153.223 1 1 25931 20211115174211
+196.53.110.141 2 2 51862 20211117025911
+85.91.221.111 1 1 25931 20211115005523
+173.196.246.10 2 2 51862 20211115161936
+180.122.204.132 1 1 25931 20211103051028
+185.5.249.189 3 3 77793 20211127215055
+20.79.195.150 3 3 77793 20211128161305
+182.253.232.44 2 2 51862 20211104034129
+14.192.221.136 2 2 51862 20211114080913
+109.191.158.31 2 2 51862 20211111165619
+183.88.131.208 2 2 51862 20211112104445
+103.94.1.98 2 2 51862 20211109143727
+194.110.84.18 2 2 51862 20211125231959
+34.96.130.17 1 1 25931 20211127062803
+34.222.212.166 1 1 25931 20211115193016
+5.62.23.11 1 1 25931 20211111173904
+185.224.132.45 16 16 0 20211112025734
+72.223.168.67 1 1 25931 20211129050606
+178.168.201.46 3 3 77793 20211112034405
+203.202.245.216 1 1 25931 20211114033507
+80.79.66.82 1 1 25931 20211114113032
+207.199.250.156 2 2 51862 20211115233358
+175.204.249.246 1 1 25931 20211114063456
+182.71.146.148 2 2 51862 20211114000853
+203.205.29.108 2 2 51862 20211104014248
+107.189.10.143 1 1 25931 20211119214752
+186.182.120.140 2 2 51862 20211103122848
+185.209.31.169 2 2 51862 20211128175342
+185.206.80.208 1 1 25931 20211116174023
+180.167.101.134 1 1 25931 20211113102246
+213.6.15.194 2 2 51862 20211106160225
+209.97.148.182 1 1 0 20211127043736
+183.91.26.189 1 1 25931 20211106100729
+180.248.39.165 2 2 51862 20211109015804
+168.90.15.78 1 1 25931 20211116171709
+185.209.228.224 1 1 25931 20211123190649
+171.5.163.119 4 4 103724 20211130023427
+119.128.112.206 2 2 51862 20211106142816
+34.85.240.164 2 2 51862 20211115191507
+190.186.216.196 1 1 25931 20211111002329
+147.139.200.226 2 2 51862 20211102121853
+23.229.104.2 1 1 25931 20211104184408
+176.38.108.6 2 2 51862 20211115035006
+77.82.189.76 1 1 25931 20211125115845
+157.55.39.68 0 1 237 
+54.201.147.21 1 1 25931 20211113195336
+110.78.146.216 2 2 51862 20211115101254
+105.213.123.170 2 2 51862 20211123091745
+103.84.39.86 2 2 51862 20211102054417
+195.181.175.123 1 1 25931 20211117182549
+35.220.143.135 2 2 51862 20211109121404
+34.217.194.120 1 1 25931 20211116191103
+134.202.32.21 2 2 51862 20211121194910
+18.118.93.193 3 24 761589 20211116090615
+95.117.122.153 1 1 25931 20211118215146
+129.205.145.154 2 2 51862 20211115150158
+103.87.170.61 2 2 51862 20211115074842
+45.153.160.140 3 3 77793 20211126022355
+103.216.82.18 3 3 77793 20211106202509
+196.202.210.109 1 1 25931 20211121094252
+217.29.223.112 1 1 25931 20211116231658
+114.222.247.114 1 1 25931 20211128105302
+77.65.118.57 1 1 25931 20211105162556
+213.59.118.168 1 1 25931 20211124221510
+183.88.129.24 2 2 51862 20211105173157
+149.129.227.84 2 2 51862 20211103070331
+183.23.72.47 2 2 51862 20211124160404
+92.118.160.37 2 2 51862 20211128201644
+118.67.216.94 3 3 77793 20211120062130
+118.113.212.221 1 1 25931 20211112172224
+183.23.75.113 1 1 25931 20211109013226
+147.139.194.22 2 2 51862 20211103160322
+41.180.80.110 1 1 25931 20211123091636
+31.59.1.165 1 1 25931 20211110222200
+189.106.62.102 2 2 51862 20211109071402
+120.38.68.90 1 1 25931 20211105183257
+217.138.218.105 1 1 25931 20211109135245
+77.7.139.92 2 2 51862 20211126000614
+105.209.41.123 2 2 51862 20211119072022
+192.144.31.160 2 2 51862 20211114090925
+5.56.134.237 1 1 25931 20211117020407
+37.20.197.47 2 2 51862 20211104071221
+117.95.115.190 2 2 51862 20211115232306
+85.15.176.25 2 2 51862 20211112144359
+18.237.96.251 1 1 25931 20211130193241
+5.62.43.124 1 1 25931 20211111081243
+47.9.185.211 1 1 25931 20211130042854
+98.121.196.170 2 2 51862 20211122074007
+103.253.25.167 1 1 25931 20211106204242
+113.120.38.103 2 2 51862 20211112170413
+181.209.113.234 2 2 51862 20211124144509
+103.221.253.242 3 3 77793 20211109024641
+195.158.109.248 2 2 51862 20211119104051
+195.246.120.176 1 1 25931 20211117115217
+62.113.118.20 2 2 51862 20211120061032
+45.129.18.201 1 1 0 20211106132344
+147.139.207.37 2 2 51862 20211101191312
+217.138.194.119 1 1 25931 20211119132725
+103.245.205.142 1 1 25931 20211118221349
+125.25.89.72 2 2 51862 20211109100348
+47.11.80.45 2 2 51862 20211124112434
+156.146.59.173 1 1 25931 20211118004121
+81.17.29.6 1 1 25931 20211120174200
+116.206.19.174 2 2 51862 20211124103115
+109.168.35.230 2 2 51862 20211113153323
+52.41.239.157 1 1 25931 20211119193559
+123.200.9.30 2 2 51862 20211103130439
+125.27.183.44 2 2 51862 20211121210513
+95.87.81.6 2 2 51862 20211112203311
+198.144.182.38 1 1 25931 20211107060352
+185.206.224.210 1 1 25931 20211120093319
+34.96.130.20 1 1 25931 20211109053158
+137.59.102.12 2 2 51862 20211130035122
+203.115.123.164 2 2 51862 20211103125145
+190.128.208.206 1 1 25931 20211120035036
+41.60.235.115 1 1 25931 20211125150005
+52.13.114.126 1 1 25931 20211129203206
+105.213.160.105 2 2 51862 20211115073652
+18.237.175.247 1 1 25931 20211130193245
+177.142.35.63 2 2 51862 20211128133456
+78.83.242.229 2 2 51862 20211110080258
+113.162.231.194 2 2 51862 20211117211159
+5.62.23.8 1 1 25931 20211117125446
+206.130.133.8 4 4 103724 20211128061052
+46.116.186.50 4 4 103724 20211125002957
+203.218.252.167 2 2 51862 20211123064906
+36.84.101.235 1 1 25931 20211128024824
+134.236.147.59 2 2 51862 20211110045440
+110.243.3.78 2 2 51862 20211123194244
+34.223.227.146 1 1 25931 20211111193347
+194.110.114.197 3 3 77793 20211123021535
+113.195.23.246 1 1 25931 20211109181049
+89.132.207.88 2 2 51862 20211115082819
+81.12.124.26 1 1 25931 20211130014611
+60.190.137.194 2 2 51862 20211106090419
+35.163.230.76 1 1 25931 20211104191303
+42.194.202.145 2 2 51862 20211103002641
+185.2.28.73 2 2 51862 20211123054402
+54.201.0.220 1 1 25931 20211121190149
+123.200.15.218 1 1 25931 20211108091739
+66.42.224.229 1 1 25931 20211129030032
+102.182.190.209 3 39 3377305 20211113190203
+18.236.215.214 1 1 25931 20211115192900
+91.144.142.19 3 3 77793 20211123014722
+72.223.74.127 1 1 25931 20211120143136
+124.244.111.167 2 2 51862 20211114192617
+113.195.166.73 2 2 51862 20211117010647
+159.223.85.16 2 2 51862 20211115141620
+111.196.189.114 3 3 77793 20211115193709
+93.89.103.203 1 1 25931 20211104121150
+34.213.180.59 1 1 25931 20211104193434
+199.188.237.238 2 2 51862 20211112053519
+66.220.149.35 0 4 65573 
+105.213.142.135 1 1 25931 20211114053315
+24.91.215.5 2 2 51862 20211120133705
+103.149.249.3 4 4 103724 20211115194652
+103.141.217.242 1 1 25931 20211115170132
+185.220.102.241 2 2 51862 20211126081246
+2.92.197.125 2 2 51862 20211130142404
+223.242.223.114 2 2 51862 20211108195033
+103.109.56.73 1 1 25931 20211128041043
+178.167.78.149 2 2 51862 20211113080423
+180.183.211.90 1 1 25931 20211115111529
+91.206.4.50 2 2 51862 20211103150334
+185.2.28.84 1 1 25931 20211117164511
+185.189.135.13 1 1 25931 20211118181156
+176.120.32.135 3 3 77793 20211115192615
+104.180.90.1 2 2 51862 20211119100200
+203.150.136.34 2 2 51862 20211106060712
+187.75.209.247 2 2 51862 20211121134948
+45.173.196.95 2 2 51862 20211101194116
+103.216.82.153 3 3 77793 20211107091740
+85.29.129.140 2 2 51862 20211112134536
+186.97.233.58 1 1 25931 20211106105906
+138.99.6.80 1 1 25931 20211115150244
+46.39.95.244 3 3 77793 20211101220607
+188.234.10.250 2 2 51862 20211116005300
+103.143.24.58 2 2 51862 20211123075448
+200.58.181.218 2 2 51862 20211101101504
+185.122.44.218 2 2 51862 20211123125347
+128.71.181.162 3 3 77793 20211121010226
+178.184.152.229 1 1 25931 20211120193534
+78.134.216.155 1 1 25931 20211104110418
+34.212.135.234 1 1 25931 20211116191612
+207.46.13.20 0 1 237 
+51.159.23.22 6 6 155586 20211129084211
+223.205.241.53 2 2 51862 20211121200712
+34.96.130.22 1 1 25931 20211113060759
+117.234.169.231 2 2 51862 20211130055446
+27.64.218.84 1 1 25931 20211129094712
+157.55.39.176 0 1 49460 
+185.180.143.12 1 1 25931 20211112234829
+185.250.39.37 1 1 25931 20211130003923
+177.42.113.124 1 1 25931 20211115124004
+81.199.14.17 2 2 51862 20211109153630
+179.185.177.72 2 2 51862 20211121212533
+156.146.41.211 4 4 103724 20211122163821
+1.192.195.11 1 1 25931 20211114115221
+89.34.198.253 1 1 25931 20211129114006
+178.164.173.50 1 1 25931 20211115192750
+157.35.23.229 2 2 51862 20211123005459
+105.213.179.54 2 2 51862 20211101163001
+178.165.34.162 8 8 207448 20211127235911
+140.250.150.223 1 1 25931 20211118132244
+195.181.166.143 1 1 25931 20211105191358
+54.202.149.238 1 1 25931 20211124195538
+84.39.112.85 1 1 25931 20211119155518
+114.226.162.8 1 1 25931 20211121174154
+5.228.32.101 2 2 51862 20211119222550
+14.203.194.111 1 35 3324827 20211105022612
+54.203.116.145 1 1 25931 20211110191912
+201.236.185.14 2 2 51862 20211124082855
+59.97.196.6 1 1 25931 20211120163211
+1.65.139.243 2 2 51862 20211118163012
+103.216.82.22 3 3 77793 20211113013910
+171.13.14.25 0 2 34002 
+170.247.203.3 2 2 51862 20211112162422
+110.78.155.10 2 2 51862 20211115172358
+102.176.160.70 1 1 25931 20211125075624
+222.252.49.71 1 1 25931 20211129133410
+84.17.59.72 3 3 77793 20211101180717
+119.123.102.167 2 2 51862 20211113045157
+103.169.130.26 2 2 51862 20211109232706
+5.62.23.4 1 1 25931 20211116220846
+69.27.150.166 2 2 51862 20211114093043
+92.38.136.69 2 2 51862 20211130035847
+61.154.21.174 1 1 25931 20211122180736
+184.82.54.1 1 1 25931 20211113133731
+42.3.19.103 2 2 51862 20211107163453
+45.61.185.114 2 2 51862 20211130014544
+1.192.192.8 1 1 25931 20211119174818
+110.83.155.84 2 2 51862 20211124225624
+135.181.109.238 1 1 25931 20211124205432
+1.55.189.151 2 2 51862 20211126072536
+223.240.230.37 2 2 51862 20211109103553
+46.98.212.222 4 4 103724 20211110004336
+47.254.253.212 2 2 51862 20211129041340
+92.119.114.118 2 2 51862 20211122163856
+45.160.160.11 3 3 77793 20211128031521
+52.37.249.164 1 1 25931 20211110192855
+61.147.15.67 3 3 77793 20211128105842
+105.213.146.134 2 2 51862 20211109020509
+103.90.231.93 1 1 25931 20211118080925
+188.241.121.204 2 2 51862 20211109140018
+46.98.212.204 4 4 103724 20211116073354
+183.89.39.99 2 2 51862 20211115174732
+52.27.208.68 1 1 25931 20211112191647
+24.44.102.197 2 2 51862 20211120091015
+2.95.215.201 1 1 25931 20211116085333
+105.112.135.41 1 1 25931 20211129235253
+103.141.109.46 2 2 51862 20211109122803
+198.12.255.100 2 2 51862 20211103072200
+129.205.244.158 1 1 25931 20211112053240
+34.222.49.179 1 1 25931 20211104193343
+54.149.190.112 1 1 25931 20211111193921
+178.159.37.7 3 3 77793 20211121092929
+80.107.69.182 2 2 51862 20211112125557
+188.126.73.199 1 1 25931 20211128104100
+81.163.43.198 2 2 51862 20211114225501
+150.129.54.111 1 1 25931 20211109095820
+45.176.182.7 1 1 25931 20211110192944
+14.207.207.107 2 2 51862 20211116230952
+31.40.129.203 3 3 77793 20211127150907
+207.46.13.163 0 1 1668 
+203.210.84.198 1 1 25931 20211125115901
+36.65.185.97 2 2 51862 20211109181142
+35.161.110.170 1 1 25931 20211102192552
+194.85.154.110 2 2 51862 20211115153837
+34.212.135.157 1 1 25931 20211119194801
+46.19.141.122 2 2 51862 20211116193650
+34.86.35.29 1 1 25931 20211112061059
+177.154.55.114 2 2 51862 20211119012024
+117.93.127.71 1 1 25931 20211115034156
+103.149.249.222 2 2 51862 20211120075438
+94.46.13.219 2 2 51862 20211106112618
+121.206.9.175 1 1 25931 20211130214412
+123.6.49.6 2 2 51862 20211114115140
+46.185.51.20 2 2 51862 20211115212951
+188.126.73.200 1 1 25931 20211111203528
+85.228.41.238 1 1 25931 20211115114149
+45.128.124.15 2 2 51862 20211128190002
+60.169.94.94 2 2 51862 20211118052305
+52.27.104.221 1 1 25931 20211106193100
+189.38.218.208 1 1 25931 20211110032004
+202.166.207.55 2 2 51862 20211115131606
+185.201.140.11 1 1 25931 20211130003730
+107.181.191.153 2 2 51862 20211121035523
+199.127.56.236 1 35 3324827 20211120224211
+92.118.160.17 1 1 25931 20211113045815
+110.77.236.144 2 2 51862 20211122061112
+46.98.106.134 1 1 25931 20211111194134
+138.199.36.189 1 1 25931 20211128070401
+200.125.40.38 2 2 51862 20211120071006
+35.211.210.203 1 1 25931 20211105090818
+103.105.167.252 1 1 0 20211123152447
+5.62.23.10 1 1 25931 20211118135000
+49.64.209.99 2 2 51862 20211123225652
+182.34.63.32 2 2 51862 20211115011547
+103.149.249.84 2 2 51862 20211104124137
+5.42.158.106 1 1 25931 20211118210236
+61.140.126.79 1 1 25931 20211105223751
+189.100.205.19 2 2 51862 20211113053757
+94.103.81.70 4 4 103724 20211123094001
+176.114.190.126 3 3 77793 20211121112219
+13.57.7.137 1 1 25931 20211113113552
+200.1.183.140 2 2 51862 20211128232438
+167.94.138.59 1 1 25931 20211123153258
+192.169.139.161 7 7 181517 20211116211157
+132.148.155.205 1 1 25931 20211124164729
+186.208.65.114 1 1 25931 20211103140248
+79.132.221.240 2 2 51862 20211127113824
+167.172.75.54 1 1 25931 20211109221240
+72.13.46.3 1 1 25931 20211116141651
+113.190.135.154 2 2 51862 20211106094005
+114.99.2.181 1 1 25931 20211105192142
+101.108.30.132 2 2 51862 20211115164239
+5.62.23.7 1 1 25931 20211115175823
+182.34.18.72 2 2 51862 20211112114803
+77.120.163.103 1 1 25931 20211119061425
+189.51.118.15 2 2 51862 20211106100726
+45.87.212.60 1 1 25931 20211117224012
+125.164.6.138 1 1 25931 20211130070546
+205.185.124.200 1 1 25931 20211119214738
+59.63.117.248 1 1 25931 20211129150545
+37.120.204.36 3 3 77793 20211130170938
+106.52.156.254 2 2 51862 20211129072452
+52.88.82.225 1 1 25931 20211116192225
+187.85.151.122 1 1 25931 20211122224001
+36.90.63.224 2 2 51862 20211117144810
+47.243.167.156 2 2 51862 20211112145251
+220.246.124.39 2 2 51862 20211129085903
+177.67.245.84 2 2 51862 20211112003223
+180.104.67.83 1 1 25931 20211109013011
+149.129.215.208 1 1 25931 20211117230312
+36.94.8.19 1 1 25931 20211107170613
+36.37.139.2 1 1 25931 20211124184204
+134.236.53.143 2 2 51862 20211115181301
+159.203.44.38 2 2 51862 20211113193115
+27.54.166.212 1 1 25931 20211129091045
+165.22.227.108 2 2 51862 20211113201000
+122.116.29.68 1 1 25931 20211114224959
+54.186.246.239 1 1 25931 20211103200007
+110.232.87.139 1 1 25931 20211126214602
+185.237.8.61 1 1 25931 20211115144126
+85.209.89.217 16 16 0 20211113132842
+213.136.82.77 1 1 25931 20211130015907
+14.162.33.65 1 1 25931 20211107054126
+181.214.206.40 2 2 51862 20211108210756
+117.27.200.173 2 2 51862 20211122183507
+54.245.166.191 1 1 25931 20211106193029
+91.90.122.157 2 2 51862 20211130150621
+124.158.167.171 1 1 25931 20211123004920
+23.225.61.18 1 1 25931 20211123021156
+223.184.124.195 1 1 25931 20211119091823
+37.160.175.68 1 1 25931 20211125142817
+118.166.227.142 1 1 25931 20211122053522
+188.126.73.206 2 2 51862 20211106022344
+43.224.8.14 1 1 25931 20211105065044
+119.15.89.87 1 1 25931 20211117012450
+54.188.92.47 1 1 25931 20211111193404
+121.196.193.162 1 1 25931 20211103015822
+85.209.89.205 17 17 0 20211113132817
+89.187.171.228 1 1 25931 20211105043632
+79.98.131.43 1 1 25931 20211102174337
+176.102.51.82 2 2 51862 20211128091818
+54.185.22.100 1 1 25931 20211109192134
+58.53.40.123 1 1 25931 20211123000852
+185.42.158.134 2 2 51862 20211112094612
+181.143.69.227 1 1 25931 20211130094425
+157.33.237.186 2 2 51862 20211117074328
+113.121.39.161 2 2 51862 20211113174142
+134.236.115.89 1 1 25931 20211129104603
+114.99.14.226 1 1 25931 20211122195533
+34.245.218.37 1 22 709727 20211103101526
+43.228.112.27 2 2 51862 20211115163158
+50.197.210.138 1 1 25931 20211123165455
+139.0.21.236 1 1 25931 20211130101958
+188.124.15.238 1 1 25931 20211106162631
+147.139.136.40 2 2 51862 20211103115559
+34.210.133.5 1 1 25931 20211102190841
+37.205.81.41 2 2 51862 20211103132810
+37.34.75.18 1 1 25931 20211116022732
+195.246.120.178 1 1 25931 20211114082950
+188.251.243.48 2 2 51862 20211128052605
+195.39.249.178 2 2 51862 20211102233133
+208.105.123.219 2 2 51862 20211116183543
+54.185.87.232 1 1 25931 20211109191508
+172.105.221.11 1 1 25931 20211106073606
+185.27.99.135 1 1 25931 20211104131010
+51.75.171.158 2 2 51862 20211127181113
+88.210.25.199 1 1 25931 20211125082727
+31.13.191.71 2 2 51862 20211102042356
+222.78.65.197 1 1 25931 20211107122800
+196.201.230.54 2 2 51862 20211120110701
+178.168.201.244 3 3 77793 20211128193020
+183.23.73.79 2 2 51862 20211103110411
+138.199.18.64 1 1 25931 20211123232932
+147.139.207.115 2 2 51862 20211103034914
+180.211.179.82 2 2 51862 20211108114138
+144.91.106.14 2 2 51862 20211126023947
+182.253.175.8 2 2 51862 20211114110843
+212.34.239.253 2 2 51862 20211123025043
+83.12.174.202 2 2 51862 20211110085308
+1.192.195.8 1 1 25931 20211121010603
+188.68.220.86 2 2 51862 20211113174100
+149.56.150.40 1 27 1724988 20211119094810
+190.120.250.172 2 2 51862 20211129213847
+105.213.118.219 2 2 51862 20211111232834
+104.144.105.114 3 3 77793 20211128012347
+34.217.147.125 1 1 25931 20211124194832
+34.209.244.37 1 1 25931 20211118190700
+158.46.99.43 8 8 207448 20211130225751
+54.202.60.10 1 1 25931 20211126193808
+85.112.70.190 1 1 25931 20211109134500
+186.211.187.26 1 1 25931 20211111120025
+3.144.85.209 1 1 25931 20211116025126
+113.119.109.43 1 1 25931 20211115165047
+45.250.65.188 2 2 51862 20211109072340
+163.172.31.249 1 1 25931 20211116103220
+52.43.209.45 1 1 25931 20211101194037
+103.144.148.85 2 2 51862 20211104213344
+116.96.82.211 1 1 25931 20211114112055
+78.131.111.226 2 2 51862 20211108212159
+147.139.205.34 1 1 25931 20211103123639
+36.57.71.182 1 1 25931 20211121163907
+85.55.167.178 2 2 51862 20211116234211
+185.72.224.190 1 1 25931 20211129223937
+177.43.212.24 1 1 25931 20211109040309
+121.205.214.212 1 1 25931 20211114233044
+124.41.240.203 1 1 25931 20211130033759
+34.212.230.127 1 1 25931 20211113195349
+91.227.157.238 2 2 51862 20211113172910
+223.241.54.14 2 2 51862 20211122012100
+190.85.65.52 2 2 51862 20211123184914
+110.90.220.91 2 2 51862 20211116002228
+36.71.203.53 2 2 51862 20211115124922
+103.149.249.91 1 1 25931 20211115094623
+3.110.139.165 1 1 25931 20211127123523
+121.5.103.58 0 1 88439 
+118.116.15.98 1 1 25931 20211125082223
+45.142.212.189 2 2 51862 20211121160238
+193.218.118.147 2 2 51862 20211121232242
+103.247.22.70 1 1 25931 20211129050933
+92.124.161.56 4 4 103724 20211123172155
+185.255.135.83 3 3 77793 20211106051416
+180.253.128.221 2 2 51862 20211106053527
+52.10.150.103 1 1 25931 20211128193620
+52.91.182.84 1 1 25931 20211117010805
+213.33.232.142 1 1 25931 20211115132457
+124.156.161.186 4 4 103724 20211117203416
+13.125.147.172 2 2 51862 20211103075243
+65.21.206.43 2 2 51862 20211128164223
+147.135.114.12 2 2 51862 20211112023506
+156.67.107.145 1 1 25931 20211115191502
+34.86.35.10 1 1 25931 20211109020627
+188.126.79.25 1 1 25931 20211104090422
+167.172.88.95 1 1 25931 20211117030943
+35.86.104.233 1 1 25931 20211102192122
+52.12.210.45 1 1 25931 20211121190830
+34.215.54.178 1 1 25931 20211114190316
+31.186.53.218 1 1 25931 20211127210630
+185.83.161.174 2 2 51862 20211106083035
+95.188.9.186 1 1 25931 20211130132642
+43.252.9.182 2 2 51862 20211126012131
+34.211.124.40 1 1 25931 20211110191739
+192.169.137.166 2 2 51862 20211129231017
+5.166.175.84 2 2 51862 20211115090210
+218.82.158.12 1 1 25931 20211118044016
+89.228.128.216 2 2 51862 20211101234034
+150.129.201.30 1 1 25931 20211113083505
+105.213.109.226 2 2 51862 20211123033715
+110.78.147.61 2 2 51862 20211115105506
+43.132.247.120 2 2 51862 20211105212546
+157.245.61.195 1 1 25931 20211117031345
+185.164.59.118 1 1 25931 20211121220412
+182.253.117.114 2 2 51862 20211117163437
+135.181.222.189 2 2 51862 20211113233722
+152.32.170.236 1 1 25931 20211130161124
+134.35.18.232 2 2 51862 20211113070633
+103.149.194.13 1 1 25931 20211119113303
+220.175.182.118 1 1 25931 20211125022703
+112.232.247.199 1 1 25931 20211120170730
+185.93.207.51 2 2 51862 20211109043826
+190.2.130.167 2 2 51862 20211118104813
+176.74.192.85 1 1 25931 20211110082016
+93.158.92.231 1 1 25931 20211117071412
+45.76.153.154 1 1 25931 20211122190540
+35.87.11.120 1 1 25931 20211117195101
+132.154.102.92 1 1 25931 20211121232844
+113.73.132.35 1 1 25931 20211109162551
+189.19.115.55 1 1 25931 20211129034949
+213.149.9.80 2 2 51862 20211115210131
+118.116.15.84 1 1 25931 20211125081817
+178.20.43.117 1 1 25931 20211116052836
+175.110.11.62 1 1 25931 20211114013014
+194.113.106.76 5 5 129655 20211130203157
+77.83.6.126 2 2 51862 20211120141713
+47.9.173.189 2 2 51862 20211122071438
+190.115.255.106 2 2 51862 20211105134502
+41.13.208.158 1 34 3265908 20211108100601
+114.99.6.163 1 1 25931 20211109112245
+5.202.41.127 1 1 25931 20211121180558
+185.204.85.22 2 2 51862 20211129101800
+113.53.201.203 2 2 51862 20211114073033
+185.108.164.150 1 1 25931 20211126004943
+207.46.13.13 0 2 2912 
+45.5.66.48 1 1 0 20211123152457
+138.128.118.130 1 1 25931 20211111170049
+190.89.89.157 3 3 77793 20211125053511
+41.242.30.228 2 2 51862 20211104182525
+177.99.87.96 2 2 51862 20211115061211
+54.202.36.57 1 1 25931 20211101194612
+220.136.51.205 2 2 51862 20211122010141
+54.187.230.164 1 1 25931 20211108191859
+5.188.211.13 6 6 155586 20211109151433
+124.167.248.230 1 1 25931 20211111234100
+146.70.16.247 1 1 25931 20211121042001
+188.126.73.214 2 2 51862 20211106181223
+110.78.149.72 2 2 51862 20211121221536
+186.208.115.6 1 1 25931 20211125064009
+104.172.231.177 2 2 51862 20211101185101
+45.129.18.40 1 1 0 20211119180237
+5.202.159.116 1 1 0 20211127182234
+46.161.238.254 1 1 25931 20211103050237
+89.187.168.92 1 1 25931 20211127204824
+184.178.172.28 1 1 25931 20211129072709
+103.131.117.90 1 1 25931 20211115144225
+202.5.36.215 1 1 25931 20211123083856
+183.23.72.51 2 2 51862 20211103222027
+179.182.18.63 1 1 25931 20211103084352
+66.220.149.25 1 10 1031966 20211106015702
+128.75.140.206 3 3 77793 20211124172621
+43.129.213.136 2 2 51862 20211113220858
+46.185.50.161 2 2 51862 20211105203423
+185.245.182.106 2 2 51862 20211114151321
+115.87.99.170 1 1 25931 20211115122023
+82.207.37.180 2 2 51862 20211103124004
+18.237.228.49 1 35 3324827 20211123152500
+138.0.239.9 1 1 25931 20211130151809
+54.189.23.227 1 1 25931 20211109192057
+117.210.208.154 1 1 25931 20211128130421
+101.109.62.16 1 1 25931 20211128175619
+54.153.92.210 1 22 709727 20211106223125
+62.77.231.164 2 2 51862 20211115163944
+134.236.111.218 2 2 51862 20211113121720
+46.116.170.191 2 2 51862 20211117070310
+183.23.75.41 2 2 51862 20211115003815
+41.72.214.14 1 1 25931 20211128163401
+112.67.177.172 2 2 51862 20211113060755
+170.246.199.209 2 2 51862 20211104153553
+125.138.129.101 1 1 25931 20211119042241
+104.237.245.130 1 1 25931 20211123152513
+58.32.17.79 1 1 25931 20211115093752
+34.77.162.28 1 1 25931 20211126205207
+18.236.106.67 1 1 25931 20211102191658
+103.106.242.159 1 1 25931 20211119061326
+209.127.181.145 1 1 25931 20211125114805
+218.79.221.178 2 2 51862 20211126202627
+14.207.75.45 2 2 51862 20211115002930
+84.17.52.81 2 2 51862 20211119000828
+34.219.196.60 1 1 25931 20211128195117
+60.168.207.77 2 2 51862 20211123112017
+47.15.15.17 2 2 51862 20211125222635
+52.13.31.87 1 1 25931 20211118190218
+197.255.253.7 2 2 51862 20211103094958
+103.109.168.36 1 1 25931 20211123121055
+184.94.240.92 1 1 25931 20211127213113
+113.117.194.153 2 2 51862 20211112082334
+192.111.130.2 2 2 51862 20211108104256
+52.11.143.37 1 1 25931 20211107190737
+64.246.165.50 1 1 25931 20211116015324
+82.131.184.10 2 2 51862 20211103140440
+102.222.181.86 0 1 129804 
+85.194.250.24 1 1 25931 20211110122637
+87.239.255.122 2 2 51862 20211122003037
+185.190.42.200 12 12 311172 20211130130415
+31.173.80.110 1 1 25931 20211109031442
+103.209.65.12 1 1 25931 20211107091811
+223.196.172.53 1 1 25931 20211125162213
+116.19.127.87 2 2 51862 20211119233124
+186.225.45.13 1 1 25931 20211101000118
+117.28.218.25 1 1 25931 20211113214304
+103.247.216.19 1 1 25931 20211106135856
+178.72.163.47 2 2 51862 20211112014155
+34.123.146.201 2 2 51862 20211125100742
+70.39.92.41 4 4 103724 20211130223002
+146.70.52.69 2 2 51862 20211114213606
+66.220.149.30 0 16 1018949 
+106.66.3.35 2 2 51862 20211121201505
+103.219.141.7 1 1 25931 20211119224308
+176.114.43.42 2 2 51862 20211115161816
+188.24.40.117 2 2 51862 20211116010547
+202.21.116.210 2 2 51862 20211106083330
+207.46.13.58 0 1 237 
+112.78.164.13 2 2 51862 20211117010112
+109.175.11.249 2 2 51862 20211121094645
+37.113.62.111 1 1 25931 20211129211755
+212.21.150.120 2 2 51862 20211115134324
+193.36.118.246 3 3 77793 20211114123108
+105.213.111.230 2 2 51862 20211106193758
+34.219.196.67 1 1 25931 20211103195903
+77.245.215.131 5 5 129655 20211123102723
+185.72.224.85 2 2 51862 20211125070748
+206.42.34.239 2 2 51862 20211116221031
+118.122.194.18 1 1 25931 20211125122655
+172.245.33.28 2 2 51862 20211120125813
+167.99.98.65 1 1 25931 20211105004716
+122.15.156.179 1 1 25931 20211108094759
+121.4.181.178 0 2 274541 
+186.10.127.170 2 2 51862 20211110004658
+185.138.123.178 1 1 25931 20211130045601
+194.85.154.150 2 2 51862 20211115025908
+45.142.166.51 1 1 25931 20211115085035
+194.32.122.44 2 2 51862 20211124112029
+41.242.66.187 2 2 51862 20211105171418
+81.2.47.181 1 1 25931 20211130171439
+118.174.109.74 2 2 51862 20211105043941
+166.62.123.35 6 6 155586 20211129033226
+34.212.135.117 1 1 25931 20211125193927
+95.156.189.8 2 2 51862 20211115033252
+123.179.43.35 2 2 51862 20211130210053
+54.241.67.79 2 2 25931 20211106223127
+167.99.127.159 1 1 25931 20211102185358
+5.62.43.107 1 1 25931 20211110180826
+201.159.101.58 1 1 25931 20211130131659
+36.110.211.66 1 3 79805 20211125122703
+124.248.184.103 1 1 25931 20211116181013
+138.97.192.168 1 1 25931 20211129160604
+54.189.124.207 1 1 25931 20211105194257
+121.5.226.36 0 1 33896 
+170.245.201.181 2 2 51862 20211129185949
+40.77.167.43 0 1 93639 
+47.75.125.46 1 1 25931 20211105205446
+203.159.80.220 2 2 2812 20211116072526
+109.195.102.115 1 1 25931 20211115063705
+94.181.44.79 3 3 77793 20211130110519
+5.62.43.109 1 1 25931 20211105102314
+46.183.218.152 3 3 77793 20211110235756
+105.213.95.185 2 2 51862 20211117154125
+34.209.40.41 1 1 25931 20211123191245
+206.168.44.220 2 2 51862 20211109215154
+110.78.150.236 2 2 51862 20211115162929
+192.82.253.112 1 1 25931 20211106204244
+113.161.53.135 1 1 25931 20211116011543
+94.180.207.5 3 3 77793 20211122191057
+203.83.175.18 2 2 51862 20211106120112
+103.231.91.141 1 1 25931 20211122033240
+87.121.49.238 2 2 51862 20211117104945
+111.241.167.196 2 2 51862 20211108100059
+203.114.108.46 1 1 25931 20211114123831
+110.83.12.214 1 1 25931 20211128061741
+45.160.221.161 2 2 51862 20211102065311
+101.108.188.222 1 1 25931 20211109085258
+91.247.220.24 1 1 25931 20211128151443
+46.99.177.91 2 2 51862 20211116003033
+46.98.212.41 1 1 25931 20211104091117
+92.118.160.57 1 1 25931 20211127170344
+163.53.209.8 1 1 25931 20211103222418
+154.72.91.22 2 2 51862 20211118050537
+5.62.43.123 1 1 25931 20211105230449
+182.160.127.236 2 2 51862 20211113024238
+200.106.203.132 1 1 25931 20211122065829
+87.103.204.97 1 1 25931 20211106062549
+185.241.52.68 14 14 0 20211112025917
+110.78.81.107 2 2 51862 20211121171926
+54.244.42.85 1 1 25931 20211108191834
+119.235.50.5 2 2 51862 20211123104756
+157.43.208.165 1 1 25931 20211125145303
+85.254.72.221 2 2 51862 20211106054639
+103.103.124.226 2 2 51862 20211123004840
+192.71.42.108 1 1 25931 20211115014348
+134.35.250.156 1 1 25931 20211114013054
+186.1.206.158 2 2 51862 20211115154419
+187.87.12.81 2 2 51862 20211115072851
+23.94.186.132 2 2 51862 20211108232253
+103.21.163.70 4 4 103724 20211113083428
+105.213.157.47 1 1 25931 20211122021530
+188.72.101.145 1 1 25931 20211121163229
+176.31.115.13 6 6 155586 20211122203400
+112.78.175.140 1 1 25931 20211125134509
+194.44.255.9 2 2 51862 20211130093349
+13.229.79.168 1 1 25931 20211113161357
+85.91.98.226 2 2 51862 20211128022544
+157.55.39.183 0 1 237 
+175.44.42.228 1 1 25931 20211102142513
+95.104.54.227 1 1 25931 20211130073017
+103.156.248.31 2 2 51862 20211123001239
+27.76.240.155 1 1 25931 20211114112108
+170.150.101.190 2 2 51862 20211110090802
+3.83.43.119 2 2 51862 20211114202944
+154.159.246.2 1 1 25931 20211110150330
+109.121.26.28 2 2 51862 20211119032439
+192.252.211.197 2 2 51862 20211110152322
+202.142.159.204 1 1 25931 20211128234930
+94.181.165.3 12 12 311172 20211128140214
+103.246.144.45 4 4 103724 20211128125347
+178.207.236.63 1 1 25931 20211116152127
+156.146.37.120 1 1 25931 20211125104154
+105.242.35.168 6 6 155586 20211124043538
+94.23.83.149 2 2 51862 20211115001407
+37.152.172.127 2 2 51862 20211103044851
+187.87.198.217 2 2 51862 20211117184702
+51.255.142.232 2 2 51862 20211115121151
+109.92.84.32 2 2 51862 20211123205321
+91.208.197.96 1 1 25931 20211129022753
+103.241.227.114 2 2 51862 20211106232356
+139.5.71.243 2 2 51862 20211126211330
+181.225.65.106 1 1 25931 20211123234116
+149.28.66.163 2 2 51862 20211113090508
+34.220.53.134 1 1 25931 20211114192002
+185.2.28.74 2 2 51862 20211130070944
+36.90.164.211 2 2 51862 20211105215916
+34.77.162.17 1 1 25931 20211119032330
+45.229.193.8 1 1 25931 20211115103035
+34.96.130.3 1 1 25931 20211116143721
+80.242.38.20 2 2 51862 20211102153956
+45.142.214.153 4 4 103724 20211110062410
+188.163.64.206 3 3 77793 20211126234015
+193.239.84.215 1 1 25931 20211122220250
+113.53.98.53 1 1 25931 20211114222739
+190.84.31.74 2 2 51862 20211119052928
+81.202.130.175 1 1 25931 20211123011806
+58.17.6.9 1 1 25931 20211122023434
+61.187.147.14 2 2 51862 20211117160457
+160.202.42.132 1 1 25931 20211109084340
+109.201.133.100 1 1 25931 20211126065924
+171.13.14.21 1 3 139015 20211125122855
+78.154.32.252 2 2 51862 20211122081602
+183.88.36.160 1 1 25931 20211115021156
+35.86.249.37 1 1 25931 20211123193337
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20211101 52 52 726068 41
+20211102 64 65 959596 55
+20211103 107 128 2473035 79
+20211104 43 44 1063408 29
+20211105 85 119 4439860 73
+20211106 118 199 5982879 93
+20211107 48 49 690052 43
+20211108 49 117 7320145 40
+20211109 111 146 5629044 79
+20211110 77 77 1452136 57
+20211111 70 71 834206 63
+20211112 101 101 1529929 79
+20211113 139 176 5685401 104
+20211114 120 120 1944825 94
+20211115 222 222 4667580 153
+20211116 102 123 2190606 85
+20211117 101 136 5140234 73
+20211118 87 87 1011309 76
+20211119 87 114 3153868 70
+20211120 80 114 4595446 65
+20211121 96 97 1945062 69
+20211122 85 86 1762693 62
+20211123 93 129 5293463 70
+20211124 84 84 1140964 68
+20211125 98 118 2207932 83
+20211126 78 99 1643243 65
+20211127 82 82 985378 72
+20211128 114 115 1955471 90
+20211129 107 107 1555860 89
+20211130 108 108 1944825 84
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 2
+0s-30s 2077
+30mn-1h 1
+2mn-5mn 88
+30s-2mn 35
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 2803 46390559 2202 2200
+/fonts/Flat-UI-Icons.woff 2 44104 0 1
+/pix_mail/new_contact.php 1 56 0 1
+/images/ 1 2017 0 1
+/.well-known/ 1 795 1 0
+END_SIDER

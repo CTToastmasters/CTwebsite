@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id IM1wEDZTtmCWwAIAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Tue, 01 Jun 2021 17:33:10 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Tue, 01 Jun 2021 17:33:10 +0200
+Received: from spe7.ucebox.co.za ([197.242.157.101]:52338)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1lo6OE-000mDI-5f
+	for cttoaqzb@elrond.aserv.co.za; Tue, 01 Jun 2021 17:33:10 +0200
+Received: from Debian-exim by spe13.ucebox.co.za with local (Exim 4.92)
+	id 1lo6OD-0002XT-4Y
+	for cttoaqzb@elrond.aserv.co.za; Tue, 01 Jun 2021 17:33:09 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe13.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1622561589-eximdsn-1348495032
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1lo6OD-0002XT-4Y@spe13.ucebox.co.za>
+Date: Tue, 01 Jun 2021 17:33:09 +0200
+
+--1622561589-eximdsn-1348495032
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [66.102.1.26]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 Unauthenticated email from yahoo.co.uk is not accepted due to
+    550-5.7.26 domain's DMARC policy. Please contact the administrator of
+    550-5.7.26 yahoo.co.uk domain if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. f16si3739817wrj.87 - gsmtp
+
+--1622561589-eximdsn-1348495032
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe13.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.co.uk is not accepted due to
+ 550-5.7.26 domain's DMARC policy. Please contact the administrator of
+ 550-5.7.26 yahoo.co.uk domain if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. f16si3739817wrj.87 - gsmtp
+
+--1622561589-eximdsn-1348495032
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe13.ucebox.co.za with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1lo6O4-0002FW-F6
+	for capetowntoastmasters@gmail.com; Tue, 01 Jun 2021 17:33:07 +0200
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.94.2)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1lo6O4-000lq5-2C
+	for capetowntoastmasters@gmail.com; Tue, 01 Jun 2021 17:33:00 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 169.0.250.33
+From: taariqbehardien@yahoo.co.uk
+Reply-To: taariqbehardien@yahoo.co.uk
+X-Mailer: PHP/5.6.40
+Message-Id: <E1lo6O4-000lq5-2C@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Tue, 01 Jun 2021 17:33:00 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.47)
+X-Recommended-Action: accept
+X-Filter-ID: Pt3MvcO5N4iKaDQ5O6lkdGlMVN6RH8bjRMzItlySaT9+7afxi86C6hvkXWpDFwbcPUtbdvnXkggZ
+ 3YnVId/Y5jcf0yeVQAvfjHznO7+bT5y8C21t3rlvjC8CpohUmD1pY/hJweNuHzBZHZJy8XXpaMws
+ Fkh0+CAGkxpML+6MObhDQieQmqX/xlFHqufuyza0VrkVq5D4oaud2KgHdRDTahYBR9XwOqE2UQOv
+ l5ZMjv6rv3g6PnQla5+ymlw8ju8yb9HNBh+wLyxGZ+jOkNcVhVuK3WmBQn08nxJVBvvW8QYeiIxn
+ Uip+miPaV5cd7IUM1SYrtHte9oHWA6B8Wr6wE188XXEhDheWYI3cKVbHzJvXQmIHIK/N+clYykGQ
+ OoSS9S4jBwsUXs72WhTq1FYfMzarOfbYO5tUkCybRQKR4etChHMQHCMEWTX9HEhwSP4/MSl+mev0
+ M9cO0xP2892D0Q34G5cWfCk+FMJS1vpwJtnmRO2CcIQVgm9T5haIwTso17NirEYyqwqMBGrw8ELi
+ qAzMEIjaRAnOjXpbg+JjGv9WJgx3iPXVOkatt/JF2AvijS7UkVihpqIaIpf9QIiqPrZIF8ronaI7
+ xIN6o34ogH/74O4hBSz/kkmPgL+fgIgu6EwptjAfFw3jmgkIg62YTfW9/MA9Daz4rf8gmBVhSD5W
+ z2YcLoBYa3SrkzkAWm9s/ILFfkjfJzySyKwNj3kyonUJhSXRAakmleLBKBEz70gqM56VVlcswDb0
+ N8Su4voNiwQzKw+6v3CaIMG6s7LqJJx86f7mdu7W87yUuDRIdNk2rJQ3sHfUr7gRDK8ZqpLoUwsL
+ grU9qXg5RxakQQCSC232vCmqyqPIwpNjpNOJ54mD/sZs2LQVhwKEUxrKhsQgOSlpLFq0C/coDh0f
+ cSZB1fUf9oDBqtClgM5jH/om1Q44zB2tiGFavaXL8KeUwAxiwyFFEpaxygFbO+0kDcrSr5NR1PPg
+ HrwaDsnnq6AdIb6C30gVIBQfo0Y1A0UrMD7mb6LTGVwjtW9PKXpAFWQp5CY+F96hV+0M11hhoWii
+ vTcIAuNtgk9UC4EgZ0OyscLN
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: Taariq Behardien -  
+email: taariqbehardien@yahoo.co.uk -  
+message: Hi Maria, trust this message finds you well. I was enquiring and hoping you can confirm if meetings are still taking place monthly and how it works if I was to join. Regards -  
+
+
+--1622561589-eximdsn-1348495032--

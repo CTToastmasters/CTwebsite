@@ -1,0 +1,1967 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201906 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2698                
+POS_VISITOR 69670               
+POS_DAY 83692               
+POS_DOMAIN 3603                
+POS_LOGIN 4274                
+POS_ROBOT 4429                
+POS_WORMS 5593                
+POS_EMAILSENDER 5724                
+POS_EMAILRECEIVER 5867                
+POS_SESSION 84545               
+POS_SIDER 84736               
+POS_FILETYPES 6002                
+POS_DOWNLOADS 6205                
+POS_OS 6253                
+POS_BROWSER 6583                
+POS_SCREENSIZE 8423                
+POS_UNKNOWNREFERER 8497                
+POS_UNKNOWNREFERERBROWSER 9307                
+POS_ORIGIN 9809                
+POS_SEREFERRALS 9954                
+POS_PAGEREFS 10172               
+POS_SEARCHWORDS 32182               
+POS_KEYWORDS 32654               
+POS_MISC 2361                
+POS_ERRORS 33033               
+POS_CLUSTER 4130                
+POS_SIDER_404 33143               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190701002928 94 22620 99368070786083
+FirstTime 20190601011150
+LastTime 20190630233908
+LastUpdate 20190701142831 94 0 93 0 0
+TotalVisits 932                 
+TotalUnique 279                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 390                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 63 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 35 172 9739905 83 143 1483806
+1 29 50 1021250 61 102 438053
+2 21 48 1778220 57 138 1943245
+3 86 116 2181617 179 258 2138000
+4 119 151 1246458 65 102 812872
+5 88 88 77874 50 84 632432
+6 53 58 2212566 162 265 3146832
+7 20 51 1222299 86 135 1463175
+8 23 169 11194983 40 95 1024174
+9 26 104 8023654 128 214 2123937
+10 24 220 11754367 147 217 1335665
+11 19 132 8161379 64 84 836360
+12 29 194 12792719 172 267 2134381
+13 14 83 3090013 44 107 1153564
+14 21 143 8212968 61 145 1214104
+15 34 227 15068168 54 226 4359399
+16 38 186 14686498 79 185 1758935
+17 61 174 11199328 33 103 2463995
+18 59 68 1627611 132 228 4215940
+19 56 112 4300756 38 60 134390
+20 69 190 8656211 148 195 1221627
+21 41 147 6986262 100 179 1925028
+22 39 115 4878613 72 97 526205
+23 40 112 3627083 145 222 2105342
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+ru 319 319 519160
+sa 194 194 0
+us 178 629 35437823
+ua 109 109 1920892
+cn 92 836 36271058
+za 44 565 48520766
+uz 34 34 0
+ca 18 90 4402561
+gb 13 48 3513128
+de 7 7 103832
+fr 4 38 3250233
+sc 4 40 3254701
+nl 4 4 103832
+cz 3 3 77874
+id 3 72 6399949
+br 2 2 51916
+ro 2 2 51916
+cl 1 1 25958
+se 1 1 25958
+rs 1 1 25958
+bd 1 35 3172359
+tr 1 1 25958
+mu 1 36 3201632
+kr 1 1 25958
+ph 1 36 3201632
+jp 1 1 25958
+pl 1 1 25958
+my 1 1 25958
+at 1 1 25958
+ng 1 1 25958
+hk 1 1 25958
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+bingpreview 625 21801114 20190630224959 0
+Googlebot/ 173 4999132 20190630230108 0
+Python\-urllib/ 110 5044468 20190628003129 0
+(firefox/)([0-9]\.|[0-1][0]\.) 41 3069751 20190623181020 0
+bingbot/ 38 882572 20190630224902 0
+Uptimebot/ 35 77874 20190626032553 0
+360Spider 29 752782 20190630232819 0
+Baiduspider/ 19 103832 20190630002933 0
+YandexBot/ 18 467244 20190628032037 0
+no_user_agent 16 363412 20190627123712 0
+Apache\-HttpClient/ 15 389370 20190607111353 0
+Sogou[\x20]web[\x20]spider/ 15 51916 20190630142056 0
+facebookexternalhit/ 10 710035 20190628114111 0
+Exabot/ 6 0 20190628053312 0
+bot[\s_+:,\.\;\/\\-] 5 51916 20190630130528 0
+Applebot/ 5 129790 20190626001817 0
+crawl 4 103832 20190630125543 0
+DuckDuckGo\-Favicons\-Bot/ 3 77874 20190626083528 0
+CCBot/ 1 25958 20190612153119 0
+MegaIndex\.ru/ 1 25958 20190616072957 0
+DotBot/ 1 3653 20190624055718 0
+SemrushBot/ 1 25958 20190630021053 0
+Wget/ 1 25958 20190629123645 0
+YandexImages/ 1 31399 20190613070102 0
+Cliqzbot/ 1 25958 20190610052558 0
+curl 1 0 20190614113418 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpg 349 83678367 0 0
+php 3 168 0 0
+html 1031 10357242 0 0
+css 685 31224653 0 0
+png 202 11092052 0 0
+js 830 17167800 0 0
+woff 10 220520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+macosx9 6 6
+win8.1 14 14
+macosx10 3 3
+winnt 3 3
+macosx 52 18
+win2003 56 56
+winxp 35 35
+win8 30 30
+win2008 74 74
+win7 918 109
+win10 475 81
+ios_iphone 226 22
+linuxandroid 122 17
+ios_ipad 35 1
+linux 463 46
+winunknown 371 371
+macosx12 1 1
+winlong 66 62
+Unknown 160 95
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 90
+chrome70.0.3538.77 1 1
+opera36.0.2130.32 1 1
+iphone 36 2
+firefox64.0 1 1
+edge12 3 1
+chrome55.0.2883.75 1 1
+firefox67.0 106 3
+chrome63.0.3239.132 16 16
+chrome67.0.3396.79 5 5
+chrome65.0.3325.181 185 13
+edge17 110 4
+chrome72.0.3626.121 1 1
+safari12.1 72 4
+firefox65.0 1 1
+chrome61.0.3163.128 37 2
+chrome69.0.3497.100 1 1
+firefox28.0 3 3
+safari12.0 8 8
+opera53.0.2907.99 2 2
+chrome74.0.3729.157 37 2
+chrome68.0.3440.84 5 5
+chrome74.0.3729.169 147 6
+firefox59.0 1 1
+chrome26.0.1410.63 1 1
+opera54.0.2952.54 3 3
+chrome73.0.3683.86 1 1
+chrome70.0.3538.110 1 1
+firefox52.0 2 2
+chrome66.0.3359.117 1 1
+chrome56.0.2924.87 1 1
+msie7.00 106 106
+firefox29.0 6 6
+opera53.0.2907.106 3 3
+chrome71.0.3578.98 1 1
+safari11.0 36 2
+msie5.5 3 3
+firefox53.0 1 1
+chrome41.0.2227.1 1 1
+chrome65.0.3325.146 4 4
+chrome69.0.3497.92 2 2
+opera54.0.2952.51 6 6
+chrome67.0.3396.99 15 15
+msie6.00 99 99
+firefox37.0 1 1
+chrome66.0.3359.181 12 12
+chrome47.0.2526.80 1 1
+chrome74.0.3729.131 2 2
+chrome68.0.3440.106 261 16
+chrome50.0.2661.102 1 1
+chrome67.0.3396.87 4 4
+msie9.0 17 17
+firefox17.0 1 1
+chrome49.0.2623.112 2 2
+opera55.0.2994.44 1 1
+msie7.0 4 0
+chrome71.0.3578.99 37 2
+chrome75.0.3770.100 78 3
+firefox40.1 4 4
+opera54.0.2952.71 3 3
+chrome45.0.2454.94 1 1
+opera54.0.2952.64 3 3
+chrome66.0.3359.170 2 2
+opera54.0.2952.60 1 1
+opera53.0.2907.68 5 5
+msie6.0 33 33
+chrome69.0.3451.0 1 1
+msie10.0 28 28
+chrome41.0.2272.89 7 7
+chrome53.0.2785.104 1 1
+firefox42.0 1 1
+edge16 1 1
+chrome49.0.2623.75 5 5
+safari10.0 35 1
+msie5.00 98 98
+chrome68.0.3440.75 1 1
+Unknown 88 88
+chrome70.0.3538.102 1 1
+mozilla 98 33
+android 9 9
+firefox43.0 772 32
+chrome67.0.3396.62 6 6
+chrome34.0.1847.116 1 1
+msie4.00 67 67
+msie2.00 94 94
+netscape5.0 2 2
+safari12.1.1 109 7
+msie11.0 38 2
+safari11.1.2 1 1
+chrome47.0.2526.111 1 1
+msie3.00 98 98
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+python-requests/2.21.0 20190604232601
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190624210420
+ltx71_-_(http://ltx71.com/) 20190613181729
+}__test|O:21:\ 20190623043403
+Scrapy/1.6.0_(_https://scrapy.org) 20190623083042
+HTTPing_v2.5 20190630121253
+ia_archiver 20190627085343
+Mozilla/5.0_(Nintendo_3DS;_U;_;_en)_Version/1.7412.EU 20190618094458
+Go-http-client/1.1 20190630184036
+Python/3.7_aiohttp/3.5.4 20190630220646
+Mozilla/5.0_(compatible;_ips-agent) 20190613104535
+Visited_by_http://tools.geek-tools.org 20190622175332
+Mozilla/4.0_(compatible;) 20190626083533
+python-requests/2.9.1 20190613130828
+python-requests/2.22.0 20190630141502
+Mozilla/5.0_(compatible;_Go-http-client/1.1;__centurybot9@gmail.com) 20190624160148
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+python-requests/2.21.0 20190604232601
+}__test|O:21:\ 20190623043403
+ltx71_-_(http://ltx71.com/) 20190613181729
+python-requests/2.22.0 20190630141502
+python-requests/2.9.1 20190613130828
+Python/3.7_aiohttp/3.5.4 20190630220646
+Go-http-client/1.1 20190630184036
+Scrapy/1.6.0_(_https://scrapy.org) 20190623083042
+HTTPing_v2.5 20190630121253
+ia_archiver 20190627085343
+Visited_by_http://tools.geek-tools.org 20190622175332
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 254 514
+From1 0 0
+From2 37 37
+From3 623 623
+From4 130 1936
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+t_online_catchall 4 4
+baidu 31 31
+www_google_co_za 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 468
+https://xn-----6kcaabbafhu7cskl7akvongwpo7hvjj.xn--p1ai 12 12
+http://bisnes-sodeistvie.ru 6 6
+https://kabinet-gosuslugi.ru 5 5
+https://kabinet-tinkoff.ru 5 5
+https://lk-gosuslugi.ru 5 5
+https://kabinet-tricolor.ru 5 5
+https://kabinet-my-pochtabank.ru 5 5
+https://sberbanki-onlajn.ru 5 5
+https://megafonguru.ru 5 5
+https://proverka-shtrafov-gibdd.ru 5 5
+https://baltgazservice.ru/market/acsessuary/baxi/nabor_dlya_centrovki_trub_diam_60_mm_5_sht/ 5 5
+https://kabinet-my-beeline.ru 4 4
+https://profiplast.org 4 4
+http://meblevozka.kiev.ua 4 4
+https://kabinet-lk-megafon.ru 4 4
+https://prodatauto.kz/prodazha-avtomobilya 4 4
+https://spinelli.store/collections/dolce-gabbana 4 4
+https://cabinet-pfrf.ru 4 4
+https://vk.com/artwork.muse 4 4
+https://profiplast.org 4 4
+https://vhodnye-dveri.kr.ua 4 4
+https://pgu-mos.su 4 4
+https://lichnyj-cabinet-nalogoplatelshchika.ru 4 4
+https://business-online-sberbank.ru 4 4
+https://kabinet-mts.ru 3 3
+https://mdamadam.ru/materinstvo/ 1 1
+http://norwaylife.net/history/ 1 1
+https://money-partner.ru/ethereum/ 1 1
+https://kabinet-ttk.ru 2 2
+http://solius.ru/autos 1 1
+https://metaphysican.com/sport/ 1 1
+https://doors-bravo.ru/arki-i-portaly 1 1
+https://rozaomsk.ru/category/tsvety/irisy/ 1 1
+http://pstut.ru 1 1
+https://ru-lk-rt.ru 1 1
+https://credits-on-line.ru/zajmy-cherez-contact/ 2 2
+https://pamjatnik.com.ua/nolink/ritualnaja-productions-prices 2 2
+http://mifepriston.info/clauses/issledovaniya--preryvaniya-beremennosti-na-rannikh/ 1 1
+http://www.tsatu.edu.ua 2 2
+http://samara-comfort.ru/samara 1 1
+https://www.astromeridian.ru/sonnik/2/2031.html 1 1
+http://vushuvanka.com.ua/hend-meyd/ 1 1
+https://dontabak.com.ua/53-chashi-dlya-kalyanov 1 1
+https://bestwinsoft.ru/559-dr-web-live-usb.html 1 1
+http://vetvitus.ru/detskaya-medicina 1 1
+https://protifofas.ru/category/dom-i-semya/ 2 2
+https://www.wallbeauty.ru/vinilovye-nakleyki-na-stenu/serdca/ 1 1
+https://povodok-shop.ru/catalog/tovary-dlya-loshadei 1 1
+http://chtokak.ru/category/computers/ 1 1
+https://topical-news.com/category/funny-news/ 1 1
+https://belokna31.ru/arochnye-okna-pvh/ 1 1
+https://stranica-vkontakte.ru 2 2
+http://pupilby.net 1 1
+http://sp.tsatu.edu.ua 1 1
+http://tokshow.online/category/tok-show/lednikovyj-period-vse-vypuski/ 1 1
+http://artlife.rv.ua 1 1
+https://russkaja-skazka.ru/starik-iz-steklyannoy-goryi/ 1 1
+https://www.archidizain.ru/p/blog-page_30.html 1 1
+https://arsenalavto.com/polzovatelyam/gde-kupit-amortizatory-v-moskve.html 1 1
+https://credits-on-line.ru/rating-mfo/ 2 2
+http://pupilby.net/misterios/ 2 2
+https://www.zubnoy.kiev.ua/kak-stat-obladatelem-prekrasnoj-i-bezuprechnoj-ulybki/amp/ 1 1
+https://taxi-sova.kiev.ua/info/taksi-pochasovo/ 2 2
+http://l.facebook.com/l.php 1 1
+https://xn----dtbalmxqcnlo.xn--p1ai 1 1
+http://luchshie-filmy.online/collections/ 1 1
+http://ovle.ru/category/kulinariya/ 1 1
+https://xn----dtbalmxqcnlo.xn--p1ai/category/%d0%b4%d0%b0%d1%87%d0%b0/ 1 1
+https://vseprobrak.ru/kak-postupit-esli-k-muzhu-pyanitse-sploshnaya-nenavist 1 1
+https://kazuki.su/salaty/ 1 1
+http://newtvnews.ru/world/ 1 1
+https://klumba55.ru/aktsiya-i-skidki/ 1 1
+https://www.vipdepot.ru/fragrance/ellen-tracy/ 1 1
+https://www.archidizain.ru 1 1
+http://iseekmate.com/articles/interesting/ 3 3
+http://solius.ru/zametki 1 1
+http://happy-galla.ru/gostinitsa-ryadom-s-posolstvom-ssha 1 1
+http://skazka-1001noch.ru/kulinariya 1 1
+http://newtvnews.ru/politics/ 1 1
+https://ahos.me/catalog-ahos/ahos-home/ahos-original-1000 1 1
+http://skazka-1001noch.ru/video 1 1
+http://vmemoriz.ru/category/prazdniki 1 1
+https://perper.ru/index.php 1 1
+http://xn----8sbprkbljnil.xn--p1ai 1 1
+http://yur-gazeta.ru/category/ekonomika 1 1
+https://malinaexpert.ru/kak-poxudet-pomoshhyu-yagod-maliny/ 1 1
+http://vushuvanka.com.ua/lyalki-motanki/ 1 1
+http://nsk-kinno.ru/filmy-pro-prizrakov/ 1 1
+https://credits-on-line.ru/zaymy/bez-procentov/ 1 1
+https://mir-peska.com.ua 2 2
+http://ladyrf.ru/zdorove-i-medicina 1 1
+http://klining55.ru/uslugi/4-generalnaya-uborka-ofisov-kvartir-i-domov.html 2 2
+https://dverimegapolis.ru/category/dveri-pvkh/ 1 1
+https://s-stolov.ru/katalog-stolov-i-stulev/obedennye-stol.html 2 2
+https://allcredits.com.ua/besprotsentnyi-kredit/ 1 1
+http://bukmekers.net/tennis/ 2 2
+https://allcredits.com.ua 2 2
+https://hofaber.com/vibrat/chto-vybrat-dlya-ochistki-vody-iz-skvazhiny/ 1 1
+http://feb.tsatu.edu.ua 1 1
+https://www.indiway.com/en/prod/korea-eden-valley-ski-snowboard-lesson-shuttle-bus-package 1 1
+https://l-digital.ru/services/seo/ 1 1
+http://bukmekers.net/futbol/ 1 1
+https://www.vipdepot.ru/fragrance/remy-latour/ 1 1
+http://b60.com.ua/stiralnaya-mashina-ne-vypolaskivaet-bele/ 1 1
+https://xn----7sbbaahsc2fmmq1b6ki.xn--p1ai/nasha-produktsiya.html 1 1
+https://www.kdoors.com.ua 2 2
+http://chtokak.ru/category/relationship/ 1 1
+https://dvk-service.ru/smeta 1 1
+https://metalloy.ru/obrabotka/termo 1 1
+https://klumba55.ru/prazdniki/novyy-god/ 1 1
+https://optstroy.kz/kirpich/ 1 1
+http://beregynya.org/66/225 1 1
+http://apec2012ceosummit.ru/routes 1 1
+https://xn--80ah0ad8a.xn--p1acf/product-category/silovaya-tehnika/ 1 1
+http://flash-games.kz 1 1
+http://updowntoday.com/en/sites/facebook.com 2 2
+http://ladyrf.ru/salon 1 1
+http://layf.info/prikoly 1 1
+https://cng.su/catalog/zapchasti-yuchai/ 1 1
+https://xn--80aaif8aencbo2d9a.xn--p1ai/catalog/ 1 1
+https://kiwicasino-online.com 1 1
+https://getclean.guru/himchistka.html 1 1
+http://mifepriston.info/clauses/farmabort/ 1 1
+http://rupolitshow.ru/exo-moskvy-osoboe-mnenie-2016.html 1 1
+http://norwaylife.net/tips/ 1 1
+http://beregynya.org/69/239 1 1
+http://vetvitus.ru/prostudnye-zabolevaniya 1 1
+https://rvd.center 1 1
+https://www.zubnoy.kiev.ua/chto-delat-esli-bolit-zu-posle-oplombirovaniya/ 1 1
+https://allflow.ru/category/prazdnik/den-materi/ 1 1
+https://kontrol.kiev.ua/akustika/ 1 1
+http://v-okne.by 1 1
+https://credits-on-line.ru/zaymy/ 1 1
+https://www.wallbeauty.ru/vinilovye-nakleyki-na-stenu/dekor-dlya-vyklyuchateley/ 1 1
+https://destagadgets.com/smartphone-accessories/ 1 1
+https://raitman.ru/otzyvy/ 1 1
+http://victory-moda.ru/groups 1 1
+https://mhp.su/catalog/olaparib 1 1
+http://rezlink.ru/kontakty.html 1 1
+https://mfc-site.ru/kak-poluchit-spravku-ob-otsutstvii-sudimosti 1 1
+http://kubiq.ru/portfolio/ 1 1
+https://erdiscachi.ga/la-lagartija-pis-spanish-edition.html 1 1
+http://chtokak.ru/category/pleasure/ 1 1
+https://video-potok.ru/2019/03/ 2 2
+http://karyerborisovo.ru/scheben.html 1 1
+http://kubiq.ru 1 1
+https://kabinet-mosenergosbyt.ru 2 2
+https://www.albion.biz.ua/ru/product-category/tehnika/posevnaya-tehnika/ 1 1
+https://www.facebook.com 1 1
+https://rehabfenix-tolyatti.ru/vyvod-iz-zapoya/ 1 1
+https://lm.facebook.com 3 3
+http://torexbelgorod.ru/dir/ultimatum-next/ 1 1
+https://kazuki.su/shashlyk/ 1 1
+http://rupolitshow.ru/voennaya-tajna-s-igorem-prokopenko-poslednij-vypusk.html 1 1
+https://taxi-sova.kiev.ua/info/taksi-biznes-i-premium-klass/ 1 1
+https://kabinet-tele2.ru 2 2
+https://metaphysican.com/deti/ 1 1
+http://victory-moda.ru/moda-i-stil 1 1
+https://russkaja-skazka.ru/byil-o-golubom-pesce-diafilm-1962/ 1 1
+https://laminatkd.ru/catalog/vinilovye_poly/ 1 1
+http://lifespeaker.ru/semya 1 1
+http://ren.kiev.ua 3 3
+https://malinaexpert.ru/zheltaja-remontantnaja-malina-sort-utrennjaja-rosa/ 1 1
+https://www.albion.biz.ua/ru/category/novosti/ 1 1
+http://rezlink.ru/rezak.html 2 2
+https://ashdodrus.com 1 1
+https://animals.wiki/tenrecs/ 1 1
+http://rupolitshow.ru 1 1
+http://skazka-1001noch.ru 1 1
+https://dverimegapolis.ru/category/steklyannye-dveri/ 1 1
+https://russkaja-skazka.ru/velikan/ 1 1
+https://express-vyvoz.ru/pogruzka-ruchnaya.html 1 1
+http://luchshie-filmy.online/semejnye/ 1 1
+http://bukmekers.net/bonus/ 1 1
+https://carivka.com.ua 2 2
+http://vzyatkredit.com/bezprotsentov/ 1 1
+https://krevetok.net/goods/borneowild_minerum.html 1 1
+http://znatprovse.ru/category/polezno-znat 3 3
+http://www.ladycrystal.net/publ/moda_i_stil/moda_osen_zima_2017_2018/3 1 1
+https://taxi-sova.kiev.ua 1 1
+http://vetvitus.ru/clinic 1 1
+https://www.zubnoy.kiev.ua/zubnaja-implantacija/ 1 1
+http://silastroy.com/category/uchastki/vodoem 1 1
+https://russkaja-skazka.ru/na-dalnem-vostoke/ 1 1
+https://domati.ru/otoplenie 1 1
+https://bannyi-den.ru/poleznye-sovety/ 1 1
+https://chistoastana.kz/home/chistomebel/pufik/ 1 1
+http://znatprovse.ru/category/kak-pohudet 1 1
+https://donbass.sq.com.ua/rus/news/novosti/ 3 3
+https://dontabak.com.ua/tabak-fumari-100-gramm/668-tabak-fumari-krasnye-mishki-gammi-red-gummi-bear-100-gramm.html 1 1
+http://vsepaseki.ru/vladimirskaya-oblast/prodazha-inventarya-dlya-paseki/ 1 1
+https://dontabak.com.ua/tabak-adalya/3592-tabak-adalya-smert-la-muerte-50-gr.html 1 1
+http://karyerborisovo.ru 1 1
+https://kontrol.kiev.ua/skud/komp-kod/ 1 1
+https://onlinewot.ru/bt-sv/ 1 1
+https://allflow.ru/category/bukety/ 1 1
+http://rupolitshow.ru/voskresnoe-vremya 1 1
+https://www.kdoors.com.ua/vhodnie-dveri/modern-so-vstavkami/ 1 1
+https://proapril.ru 1 1
+https://testbot.ru/promotion/ 1 1
+https://www.esc.lviv.ua/vidnosyny/ 1 1
+https://s-stolov.ru 3 3
+https://destagadgets.com/new-arrivals/ 1 1
+https://cabinet-mts.ru 1 1
+https://www.grand-ritual.kiev.ua/memorialnie-kompleksi.html 1 1
+https://chistoastana.kz 1 1
+https://rozaomsk.ru/category/podarki/ 1 1
+https://okventin.ru/kadastrovye-uslugi/kadastrovyj-inzhener-v-moskve-i-moskovskoj-oblasti/ 1 1
+https://tvoiznaniya.com/geometriya/ 1 1
+https://belokna31.ru/product-category/plastikovye-okna/ 1 1
+http://yur-gazeta.ru/centr-konsultacij 1 1
+https://taxifbr.com.ua/rabota-v-taxi-bez-priezda/ 1 1
+http://xn---24-edd4a2ahb1ak.xn--p1ai/ru 1 1
+https://vosstanovim.by/category/vost/s-flesh-nakopitelya/sony 1 1
+https://www.vipdepot.ru/fragrance/montale/ 1 1
+https://bannyi-den.ru/stroitelstvo-bani/basseyny-i-kupeli/ 1 1
+http://gotovim.mybloge.net/prazdnechnoe_menu/ 1 1
+https://mb-plus.ru/services/remont-akpp 1 1
+https://arsenalavto.com/polzovatelyam/avtomobilnye-filtry-kupit-v-moskve.html 1 1
+http://vozbujdenie.com/sving-s-zhenoj-obmen-zhenami-sving-semejnyx-par-kak-ugovorit-pervyj-raz.html 1 1
+http://xn--80aaic9ahigbz7m.xn--p1ai 1 1
+https://mdamadam.ru/zdorove/lechenie/ 1 1
+http://vozbujdenie.com/seks-s-zhenoj-druga-chto-delat-pochemu-xochetsya-stoit-li-priznatsya.html 1 1
+https://fuzion-tires.com/about.html 1 1
+https://falco3d.com 1 1
+http://uzinform.com.ua/index.php 1 1
+https://allflow.ru/category/prazdnik/23-fevralya/ 1 1
+https://a-to-z-interiors.com 1 1
+https://povodok-shop.ru/catalog/tovary-dlya-reptilij 1 1
+https://naobumium.info/planimetriya/geometr_ponyatiya.php 1 1
+http://vetvitus.ru/psihosomaticheskie-zabolevaniya 1 1
+http://updowntoday.com/en/sites/yahoo.com 2 2
+http://carlines.ru/modules/news/index.php 1 1
+http://pstut.ru/goroda-i-kurorty 1 1
+http://layf.info/kategorii/rekordy-ginnessa 1 1
+https://kabinet-mos.ru 2 2
+https://kidstime.net.ua/collection/pizhamy 1 1
+https://pamjatnik.com.ua 1 1
+https://destagadgets.com/action-cameras-accessories/ 1 1
+https://profit-x.ru/payeer-koshelek.html 1 1
+https://yaroslavl.tk-chernozem.ru/geography/to-krim/ 2 2
+https://www.wallbeauty.ru/dekorativnye-nakleyki/dlya-kuhni/ 1 1
+https://www.grand-ritual.kiev.ua/elitnie-kompleksi.html 2 2
+https://krevetok.net/goods/aquayer_test_gh.html 1 1
+https://express-vyvoz.ru/zony-obsluzhivaniya/vyvoz-musora-v-svao/vyvoz-musora-lobnya.html 1 1
+https://www.esc.lviv.ua/skilki-koshtuye-stvoriti-internet-magazin/ 1 1
+https://doors-bravo.ru/vhodnye-dveri 1 1
+http://greenshop.su 1 1
+https://originalusa.ru/category/cinch-jeans/ 1 1
+http://tokshow.online/category/tok-show/zhit-zdorovo-vse-poslednie-vypuski/ 1 1
+http://beregynya.org/259 1 1
+https://www.beton-area.com/konsolnie-nasosi.html 1 1
+https://1kreditzaim.ru 1 1
+https://dontimes.news/obshhestvo/ 1 1
+https://newpressa.pro/zdorovie/ 1 1
+https://mdamadam.ru/otnosheniya/ 1 1
+http://tokshow.online/category/tok-show/tajny-chapman-poslednie-vypuski/ 1 1
+https://malyshariki.com.ua/collection/odezhda-na-vypisku 1 1
+https://zlatoust.med24.online/landing/narkolog_na_dom/ 1 1
+http://vushuvanka.com.ua/eko-sumka/ 1 1
+https://www.rodecs.com.ua/product-details/alveus-am30 1 1
+https://trubyda.ru/vodoprovodnye 1 1
+https://originalusa.ru/category/kozhanye-kurtki_g1/ 1 1
+http://klining55.ru/uslugi/7-himicheskaya-chistka-myagkoy-mebeli.html 1 1
+http://apec2012ceosummit.ru/mirovaya-ekonomika 2 2
+https://sharestory.me/apizoom-image/ 1 1
+https://metaphysican.com/zhiznennyie-istorii/ 1 1
+https://www.astromeridian.ru/699.php 1 1
+https://protivpota.ru/category/antiperspiranti 1 1
+https://domati.ru/mebel 1 1
+https://taxifbr.com.ua/vstrecha/ 1 1
+https://mhp.su/contact 1 1
+https://es-pfrf.ru 1 1
+https://www.esc.lviv.ua/genitalnij-gerpes-likuvannya-i-zapobigannya-pri-vagitnosti-shho-treba-znati-pro-genitalnij-gerpes/ 1 1
+http://psy-dm.ru/online.html 1 1
+http://regiser.ru/reklama-i-pr 1 1
+http://postelminsk.by/catalog/ortopiedichieskie-podushki 1 1
+https://russkaja-skazka.ru/proshhanie-s-letom/ 1 1
+https://dontimes.news/dobryie-novosti/ 1 1
+https://express-vyvoz.ru/vyvoz-stroitelnogo-musora/vyvoz-shifera.html 1 1
+http://torexlipetsk.ru/o-nas/sert/ 2 2
+https://dverimegapolis.ru/category/vladimirskie-dveri/ 1 1
+https://money-partner.ru 1 1
+http://silastroy.com/category/oborudovanie/santehnika 1 1
+http://luchshie-filmy.online/multfilmy/ 1 1
+https://www.astromeridian.ru/sonnik/4090.html 1 1
+https://postroitbanju.ru/vnutrennyaya-otdelka 1 1
+https://domati.ru/remont 1 1
+https://lucem.fund 3 3
+https://cng.su 1 1
+http://lifespeaker.ru/priroda 1 1
+https://www.indiway.com/en/prod/korea-seoul-gyeonggi-do-gangwon-do-cherry-blossom-tour 1 1
+http://vmemoriz.ru/category/health 1 1
+https://mosfilter.ru/result/skvazhinnye-nasosy.html 1 1
+http://torexbelgorod.ru/dir/snegir/ 1 1
+https://mialoan.com/microloans/ 1 1
+https://metalloy.ru/obrabotka/shtampovka 2 2
+https://donbass.sq.com.ua/rus/news/energonezavisimost/ 1 1
+http://mercenaries.pw 3 3
+https://taxi-sova.com.ua/taxi-kyrier/ 1 1
+http://worldtranslation.org/news/17-sport/ 1 1
+https://chistoastana.kz/home/kover/polypropilen/ 1 1
+http://torextambov.ru/dveri/delta/ 1 1
+http://skazka-1001noch.ru/catalog 1 1
+http://postelminsk.by/catalog/puhovoe-odeyalo 1 1
+http://b60.com.ua/remont-stiralnyh-mashin-zerowatt/ 1 1
+https://taxifbr.com.ua/tarif-taxi-kiev/ 1 1
+https://buildnw.ru/stroitelstvo-zaborov/ 1 1
+https://fiksn.ru/uslugi/dokumenty-proverka-sostavlenie-sbor/ 1 1
+https://www.grand-ritual.kiev.ua 1 1
+https://www.canadabestslots.com 1 1
+https://cipark.ru/parkovochnyj-pod-jomnik-underlift 2 2
+https://carivka.com.ua/hotels.html 2 2
+https://www.astromeridian.ru/sonnik/394.html 1 1
+https://belgorod.med24.online/landing/narkolog_na_dom/ 2 2
+https://testbot.ru/married/ 1 1
+http://pstut.ru/turfirms 1 1
+https://metaphysican.com/kulinariya/ 1 1
+https://www.kdoors.com.ua/furnitura-dvernaja/ 1 1
+https://dvk-service.ru/service/electro_vikl 1 1
+http://regiser.ru/vacance 2 2
+https://kiwicasino-online.com/casino-bonuses/ 1 1
+https://dvk-service.ru/service/santeh_radiator 1 1
+https://cipark.ru 1 1
+http://solius.ru/obzory-avtomobiley 1 1
+https://kabinet-pfrf.ru 3 3
+https://www.vintasoftinc.com 1 1
+https://xn--80aaif8aencbo2d9a.xn--p1ai 1 1
+https://webtop.co.ua/landing 1 1
+https://mirtonometrov.ru/products/manzheta-k-tonometru-firmennaya-a-d-22-32-sm/ 1 1
+https://originalusa.ru/category/dzhinsy-round-house/ 1 1
+https://xn--80aaif8aencbo2d9a.xn--p1ai/catalog/sistemy-tochnogo-zemledeliya/ 2 2
+http://ladyrf.ru/kosmetika-i-procedury 1 1
+https://profit-x.ru/top-birzh-kriptovalyut-na-russkom.html 1 1
+https://www.xpert.com.ua/soloni-pomidoru-na-zumy-v-bankah.html 1 1
+https://protifofas.ru/category/instrument/ 1 1
+http://imoto.su/motonews/ 1 1
+https://vosstanovim.by/category/vost/s-telefona/htc 1 1
+http://solius.ru/autoservice 1 1
+https://taxi-sova.com.ua/tarify/ 1 1
+https://mhp.su/catalog/entekavir 1 1
+https://naobumium.info/arifmetika/vvedenie_v_matematiku.php 1 1
+https://webtop.co.ua/technology 1 1
+http://vmemoriz.ru/category/sport 1 1
+https://povodok-shop.ru 2 2
+https://webtop.co.ua/visitca 1 1
+https://mostszh.ru/poverka-gazovogo-schetchika/ 1 1
+https://allcredits.com.ua/kredity-dlya-pensionerov/ 1 1
+https://postroitbanju.ru/sad-i-ogorod 1 1
+https://mdamadam.ru/figura/ 1 1
+https://doors-bravo.ru/skladnye-dveri 1 1
+https://www.astromeridian.ru/sonnik/1482.html 1 1
+https://naberezhnye-chelny.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 1 1
+https://malyshariki.com.ua/collection/vse-dlya-krescheniya 2 2
+https://www.astromeridian.ru/sonnik/3902.html 1 1
+https://trubyda.ru/fitingi 1 1
+https://pronashkomp.ru 1 1
+http://b60.com.ua/remont-stiralnyh-mashin-electrolux/ 1 1
+https://xn----7sbbaahsc2fmmq1b6ki.xn--p1ai/ob-ekty.html 1 1
+https://lianamebel.ru/shkafyi/ 1 1
+http://artlife70.ru/kosmetika/ 1 1
+https://arsenalavto.com/polzovatelyam/o-kompanii-arsenalavto.html 1 1
+https://cipark.ru/parkovochnyj-pod-jomnik-metro 1 1
+https://kabinet-rostelekom.ru 1 1
+http://www.avtoimporter.ru 1 1
+http://flowerspeterburg.ru 1 1
+http://amberbeach.info/213-tarif-dnya-moskva-kazan-1399-rubley-u-rzhd.html 1 1
+http://bukmekers.net 1 1
+http://postelminsk.by/catalog/podushki 1 1
+https://nashkomp.ru/chem-chistit-materinskie-platyi 1 1
+https://nedorogo.by/leto/ 1 1
+https://newpressa.pro/nauka/ 1 1
+http://vozbujdenie.com/mozhno-li-zaberemenet-c-prezervativom-i-esli-on-vdrug-porvalsya.html 1 1
+https://postroitbanju.ru/pechi-bani 1 1
+http://regiser.ru/banks 1 1
+https://l.facebook.com 1 1
+https://getclean.guru/full.html 2 2
+https://expochange.com 1 1
+https://www.astromeridian.ru/goroskop/pogoda_13_14_ld.html 1 1
+https://kontrol.kiev.ua/videonab/komp-video32/ 1 1
+http://torextambov.ru/service-and-warranty/delivery/ 1 1
+https://magicaccessories.ru/kreditnitsy/kartxolder/ 3 3
+http://ovle.ru/category/sovety-xozyayushkam/ 1 1
+https://rozaomsk.ru/category/prazdniki/novyy-god/ 1 1
+https://dontabak.com.ua/serbetli-50-gramm/876-tabak-serbetli-rotana-rotana-aromali-50-gramm.html 1 1
+https://mhp.su/catalog/imatinib 1 1
+https://dontabak.com.ua/143-chashi-solaris 1 1
+https://vseprobrak.ru/pochemu-postoyanno-muzh-buhaet-otvet-psihologa 1 1
+https://ahos.me/catalog-ahos/ahos-home/ahos-olympic-low-750 1 1
+https://dontimes.news/prochee/ 1 1
+https://mir-peska.com.ua/pesok/ 1 1
+https://mb-plus.ru/remont/audi-a5 1 1
+https://klumba55.ru/podarki/otkrytki/ 1 1
+http://silastroy.com/category/interer/mebel 1 1
+https://savit.by/catalog/proekty-sovremennyh-domov 1 1
+http://mifepriston.info/clauses/prezhdevremennoe-preryvanie-beremennosti-/ 1 1
+http://magia-mozaiki.ru/catalog/15x15-mm 1 1
+http://pstut.ru/hotels 1 1
+https://online-raiffeisen.ru 1 1
+https://login-tinkoff.ru 1 1
+https://yaroslavl.tk-chernozem.ru/geography/ 1 1
+https://echoua.com/industries/travel-hospitality-software-development/ 1 1
+http://yur-gazeta.ru/category/press-relizy 1 1
+https://www.wallbeauty.ru/dekorativnye-nakleyki/akciya-nakleyki-za-100-rubley/ 1 1
+http://rupolitshow.ru/vesti-v-23-00.html 1 1
+https://zerkalo31.ru/product-category/elektrozerkala/ 1 1
+http://yur-gazeta.ru/category/novosti 1 1
+http://znamenitosti.info/category/zapadnyj-shou-biznes/ 1 1
+http://vozbujdenie.com/kak-dovesti-zhenu-do-orgazma-i-ponyat-chego-ona-xochet-v-posteli.html 1 1
+https://anna-ahmatova.su 1 1
+http://silastroy.com 1 1
+https://www.magik.vn.ua/canon 1 1
+https://originalusa.ru/category/rubashki-i-futbolki/ 1 1
+https://getclean.guru/uborka-pomeshhenij-sankt-peterburg.html 1 1
+https://russkaja-skazka.ru/pichugin-most-diafilm-1960/ 1 1
+http://b60.com.ua/posledstviya-ne-pravilnoj-ekspluatatsii-ili-kak-stirat-pravilno-chast-1/ 1 1
+https://arsenalavto.com/polzovatelyam/preimuschestva-kompanii-arsenal-avto.html 1 1
+https://mosfilter.ru/result/brand-pedrollo_19/nasosy-vihrevye.html 1 1
+https://destagadgets.com 1 1
+https://ahos.me/catalog-ahos/ahos-home/ahos-olympic-1000-low 1 1
+https://magicaccessories.ru/ryukzaki/rjukzaki-muzhskie/ 1 1
+http://prognozhit.net/bonus/ 1 1
+https://savit.by/dizajn-proekt 1 1
+https://fiksn.ru 1 1
+https://prodatauto.kz 2 2
+https://pronashkomp.ru/category/kadrirovanie 1 1
+http://b60.com.ua/remont-stiralnyh-mashin-indesit/ 1 1
+https://ps-spb.com/uslugi/pozharnaya-signalizaciya.html 1 1
+https://pamjatnik.com.ua/ritualnaja-productsia/exclusive-memorial 1 1
+http://victory-moda.ru/video 2 2
+http://xn--80aaic9ahigbz7m.xn--p1ai/item/262-bochka-dubovaya 1 1
+https://kontrol.kiev.ua/domofony/domofoncam/ 1 1
+https://originalusa.ru/category/xelement/ 1 1
+http://imoto.su/motovesti/ 1 1
+https://doors-bravo.ru/specialnye-dveri 1 1
+https://mostszh.ru/proverit-kontragenta-po-inn/ 1 1
+http://gotovim.mybloge.net/sousy-2/ 1 1
+https://www.vipdepot.ru/fragrance/diesel/ 1 1
+https://winnersnicknames.com/tag/funny 2 2
+https://kontrol.kiev.ua/skud/komp-ucet/ 1 1
+https://mb-plus.ru/services/remont-pnevmopodveski/ 2 2
+https://www.facebook.com 1 1
+https://kontrol.kiev.ua/videonab/komp-video16/ 1 1
+https://mdamadam.ru/zdorove/ 1 1
+https://trubyda.ru/dymovye 1 1
+http://apec2012ceosummit.ru/kursy-akciy 1 1
+https://registraciya-karty-club.ru/bkcard/ 1 1
+http://silastroy.com/category/remont-i-otdelka 1 1
+https://ashdodrus.com/category/novosti-ashdoda/ekonomika-ashdod/ 1 1
+http://www.pinelandsdirectory.co.za/detailSubscriber.php 1 1
+https://cipark.ru/parkovochnyj-pod-jomnik-city 1 1
+https://spb-sert.ru 3 3
+http://flash-games.kz/race 1 1
+https://nedorogo.by/grunty/ 1 1
+http://postelminsk.by/catalog/odeyalo-ovechya-sherst 1 1
+http://ladyrf.ru/krasota-i-uhod 1 1
+https://topical-news.com/category/video-news/ 1 1
+http://www.remont-garaga24.ru/services/nastil-derevyannogo-pola/ 1 1
+https://www.indiway.com/en/prod/basic-free-and-easy-vivaldi-park-resort 1 1
+https://mostszh.ru/obyazannosti-upravlyayushhej-kompanii/ 1 1
+http://v-okne.by/regulirovka-okon-pvc-steklopaketov 1 1
+https://cipark.ru/parkovochnyj-pod-jomnik-monokolona 1 1
+https://video-potok.ru 1 1
+https://www.beton-area.com/kak-vibrat-rasteniya-dlya-pruda.html 1 1
+http://nsk-kinno.ru/filmy-pro-zombi/ 1 1
+http://vmemoriz.ru/category/showbiz 1 1
+https://cng.su/catalog/filtra/ 1 1
+https://mir-peska.com.ua/scheben/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 31
+5gyj 1
+tradeo3r 1
+reasonwrs 1
+selladk 1
+partly2ss 1
+support1tu 1
+dullxbh 1
+h5yl 1
+camepjz 1
+driver3jy 1
+7tvo 1
+3eyc 1
+refused8xe 1
+3ftp 1
+inventedfpp 1
+farmerku4 1
+workerf8x 1
+thread5xe 1
+4gde 1
+chapter5gz 1
+jr0n 1
+zerodx8 1
+haveaz8 1
+team8hw 1
+molecularkfo 1
+plainwiz 1
+horndwe 1
+negativewhz 1
+2yxp 1
+tall31r 1
+nj0c 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 31
+tall31r 1
+2yxp 1
+nj0c 1
+driver3jy 1
+7tvo 1
+plainwiz 1
+horndwe 1
+negativewhz 1
+dullxbh 1
+camepjz 1
+h5yl 1
+5gyj 1
+tradeo3r 1
+partly2ss 1
+selladk 1
+reasonwrs 1
+support1tu 1
+molecularkfo 1
+workerf8x 1
+thread5xe 1
+3eyc 1
+refused8xe 1
+farmerku4 1
+inventedfpp 1
+3ftp 1
+team8hw 1
+haveaz8 1
+zerodx8 1
+chapter5gz 1
+4gde 1
+jr0n 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 52 1277255
+404 2548 0
+408 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 584
+//research.asp 1 http://www.cttoastmasters.org.za/
+/admin/login.php 5 -
+///jsc.php.php 1 http://www.cttoastmasters.org.za///jsc.php.php
+/admin/ 2 -
+//lx.php 5 http://www.cttoastmasters.org.za//lx.php
+//cache/cachee.php 1 http://www.cttoastmasters.org.za//cache/cachee.php
+/toastmastersmeeting/feed/ 2 -
+/wp1/wp-includes/wlwmanifest.xml 4 -
+//admin/error.asp 4 http://www.cttoastmasters.org.za//admin/error.asp
+/%E5%A4%87%E4%BB%BD.rar 2 -
+/slrpa.php 1 http://www.cttoastmasters.org.za/slrpa.php
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/index.php/2015/09/25/cttm-meeting-minutes-23-sept-2015-30th-anniversary/ 1 -
+/index.php/2015/09/25/cttm-meeting-minutes-23-sept-2015-30th-anniversary/wp-admin/setup-config.php 1 -
+//include/ckeditor/plugins/pagebreak/images/inCahe.php 2 http://www.cttoastmasters.org.za//include/ckeditor/plugins/pagebreak/images/inCahe.php
+/wso.php 1 -
+/admin/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 1 -
+/e/data/ecmseditor/ueditor/ueditor.config.js 5 http://www.cttoastmasters.org.za/e/data/ecmseditor/ueditor/ueditor.config.js
+/index.php/speakers-tips/www.cttoastmasters.org.za/contact/ 1 -
+/dede/login.php 4 -
+/speakers-tips/ 4 -
+/FCKeditor/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/FCKeditor/FCKeditor/fckconfig.js
+/blog/ 1 -
+/js/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/js/FCKeditor/fckconfig.js
+//images/uploadfile.asp 2 http://www.cttoastmasters.org.za//images/uploadfile.asp
+/wp-content/plugins/estatik/readme.txt 1 http://cttoastmasters.org.za/wp-content/plugins/estatik/readme.txt
+/2013/10/ 1 -
+/downloads/category/1-tools-and-tips.html 5 -
+/wp/wp-login.php 1 -
+/index.php/interviews/ 1 -
+/uploads/dede/sys_verifies.php 40 http://www.cttoastmasters.org.za/uploads/dede/sys_verifies.php
+//plus/ad_js.php 4 -
+/static/ueditor/ueditor.config.js 1 http://www.cttoastmasters.org.za/static/ueditor/ueditor.config.js
+/cttoastmasters/admin/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/cttoastmasters/admin/FCKeditor/fckconfig.js
+//data/cache/flye.php 5 http://www.cttoastmasters.org.za//data/cache/flye.php
+///plus/read.php 1 http://www.cttoastmasters.org.za///plus/read.php
+/index.php/api/Uploadify/preview 17 http://www.cttoastmasters.org.za/index.php/api/Uploadify/preview
+/components/com_b2jcontact/b2jcontact.php 1 -
+/index.php/2013/09/19/toastmastersmeeting/wp-admin/setup-config.php 1 -
+/index.php/home/wp-admin/setup-config.php 1 -
+/e/DoInfo/ecms.php 8 http://www.cttoastmasters.org.za/e/DoInfo/ecms.php
+/2015/09/ 2 -
+/yvull.php 1 http://www.cttoastmasters.org.za/yvull.php
+/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php 1 http://cttoastmasters.org.za/wp-content/themes/village/blueprint/gallery/ajaxupload/server/php.php
+//FCKeditor/editor/filemanager/connectors/php/connector.php 4 -
+/.well-known/wcs-challenge/cttoastmasters.org.za 429 -
+/uncategorized/toastmastersmeeting/feed/ 1 -
+//Rose20190627030425.txt 2 -
+//search.asp 2 http://www.cttoastmasters.org.za//search.asp
+//install.php 1 http://www.cttoastmasters.org.za//install.php
+/Public/kindeditor/php/file_manager_json.php 2 http://www.cttoastmasters.org.za/Public/kindeditor/php/file_manager_json.php
+//111.zip 2 http://www.cttoastmasters.org.za//111.zip
+//templates/red.asp 1 http://www.cttoastmasters.org.za//templates/red.asp
+/images/apple-touch-icon.png 32 -
+/media/wp-includes/wlwmanifest.xml 4 -
+/index.php/speakers-tips/ 1 -
+//Web_fckeditor/editor/filemanager/connectors/php/connector.php 4 -
+/plugins/ueditor/php/imageUp.php 3 http://www.cttoastmasters.org.za/plugins/ueditor/php/imageUp.php
+/wp-admin/setup-config.php 14 -
+/delivering-unprepared-speech/ 3 -
+/plus/search.php 2 http://www.cttoastmasters.org.za/plus/search.php
+//1.rar 2 http://www.cttoastmasters.org.za//1.rar
+/admin/include/uploadify.php 1 -
+/wp-content/plugins/wp-symposium/readme.txt 1 http://cttoastmasters.org.za/wp-content/plugins/wp-symposium/readme.txt
+/wp-content/uploads/2013/10/Cape-Town-Toastmasters-Directions1.pdf 1 -
+//admin/images/Sql.asp 2 http://www.cttoastmasters.org.za//admin/images/Sql.asp
+/wp-settings.php 1 -
+/wp-content/themes/headway-163/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-163/style.css
+//inc/md5.asp 3 http://www.cttoastmasters.org.za//inc/md5.asp
+/manager/FCKeditor/fckconfig.js 3 http://www.cttoastmasters.org.za/manager/FCKeditor/fckconfig.js
+//za/..rar 1 http://www.cttoastmasters.org.za//za/..rar
+/contact-2/ 17 -
+/contact_us/ 8 -
+//struts2-showcase/filedownload/index.action 2 https://www.baidu.com
+//md5.asp 2 http://www.cttoastmasters.org.za//md5.asp
+/index.php/comments/feed/wp-admin/setup-config.php 1 -
+//1.asp 1 -
+/category/public-speaking/ 2 -
+/success-stories/feed/ 3 -
+//Somnus/Somnus.asp 2 http://www.cttoastmasters.org.za//Somnus/Somnus.asp
+/downloads/category/5-2010.html 2 -
+/1.php 3 https://www.baidu.com
+///lib/smarty/plugins/modifier.config.php 1 -
+/admin/adminmailto.asp 2 -
+/wp-content/themes/headway-2015/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-2015/style.css
+/wrapper-mainmenu-8.html 2 -
+//install/includes/configure.php 1 http://www.cttoastmasters.org.za/
+/emgbf.php 1 http://www.cttoastmasters.org.za/emgbf.php
+//wangzhan.zip 2 http://www.cttoastmasters.org.za//wangzhan.zip
+/wp-content/themes/headway-202/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-202/style.css
+/suspendisse-sollicitudin-velit-sed/vivamus-vel-sem-at/ 1 -
+/education-learning-fact-training-mind/ 2 -
+//FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+//@admin/login.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 6 -
+/plus/mytag_js.php 12 http://www.cttoastmasters.org.za/plus/mytag_js.php
+/js/kindeditor/php/file_manager_json.php 5 http://www.cttoastmasters.org.za/js/kindeditor/php/file_manager_json.php
+/manage/login.php 3 -
+//admini/logion.php 1 -
+/category/public-speaking/feed/ 1 -
+/category/uncategorized/page/2/ 1 -
+/category/ultrices-posuere-cubilia-curae/ 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/index.php/photo-gallery/wp-admin/setup-config.php 1 -
+//upfile_flash.asp 1 -
+/public-speaking/delivering-unprepared-speech/ 1 -
+//search.php 4 http://www.cttoastmasters.org.za/
+/wp-content/themes/headway-120/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-120/style.css
+/uncategorized/education-learning-fact-training-mind/ 1 -
+//Config_Shell.php 4 http://www.cttoastmasters.org.za//Config_Shell.php
+/plus/recommend.php 4 http://www.cttoastmasters.org.za/plus/recommend.php
+/www.facebook.com/Cape-Town-Toastmasters-428849990552163/ 1 -
+//AdminNew/index.asp 3 http://www.cttoastmasters.org.za//AdminNew/index.asp
+//cttoastmasters.rar 2 -
+//wap/index.asp 1 http://www.cttoastmasters.org.za//wap/index.asp
+//tempplate/___index.php 1 https://www.baidu.com
+/khthd.php 1 http://www.cttoastmasters.org.za/khthd.php
+/backup.rar 2 -
+/wp-content/themes/headway-161/style.css 2 http://cttoastmasters.org.za/wp-content/themes/headway-161/style.css
+//ueditor/net/controller.ashx 1 -
+/templates/system/css/system.css 2 -
+//plus/laobiao.php 5 http://www.cttoastmasters.org.za//plus/laobiao.php
+/uncategorized/cttm-meeting-minutes-23-sept-2015-30th-anniversary/ 1 -
+/index.php/2013/10/ 2 -
+/cttoastmasters/ueditor/php/controller.php 1 http://www.cttoastmasters.org.za/cttoastmasters/ueditor/php/controller.php
+/index.php/comments/feed/ 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/zydji.php 1 http://www.cttoastmasters.org.za/zydji.php
+/wp-content/themes/GeoPlaces3/style.css 1 http://cttoastmasters.org.za/wp-content/themes/GeoPlaces3/style.css
+/features-mainmenu-27.html 4 -
+/wwwroot.rar 2 -
+/adminside/server/php/ 1 -
+/e/data/ecmseditor/ueditor/dialogs/internal.js 4 http://www.cttoastmasters.org.za/e/data/ecmseditor/ueditor/dialogs/internal.js
+/wordpress/wp-includes/wlwmanifest.xml 7 -
+/data/kindeditor/php/file_manager_json.php 2 http://www.cttoastmasters.org.za/data/kindeditor/php/file_manager_json.php
+/wp-json/oembed/1.0/embed 5 -
+/wp-main.php 1 -
+/blog/administrator/index.php 1 -
+//php.php 2 http://www.cttoastmasters.org.za//php.php
+/includes/kindeditor/php/file_manager_json.php 4 http://www.cttoastmasters.org.za/includes/kindeditor/php/file_manager_json.php
+//daswf/concon.asp 1 http://www.cttoastmasters.org.za//daswf/concon.asp
+/apple-touch-icon-precomposed.png 19 -
+/administrator/index.php 1 -
+/wp-content/plugins/vwcleanerplugin/bump.php 1 -
+//data/cache/mysb.php 1 http://www.cttoastmasters.org.za//data/cache/mysb.php
+/member/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/member/FCKeditor/fckconfig.js
+/index.php/author/admin101/wp-admin/setup-config.php 2 -
+//images/cache.asp 2 http://www.cttoastmasters.org.za//images/cache.asp
+//dcman/BaseManage/TemplatePath_Manage.aspx 4 -
+//data/mysql_error_trace.inc 5 http://www.cttoastmasters.org.za//data/mysql_error_trace.inc
+//admin/login.asp 4 http://www.cttoastmasters.org.za//admin/login.asp
+/wp-content/plugins/simple-ads-manager/readme.txt 1 http://cttoastmasters.org.za/wp-content/plugins/simple-ads-manager/readme.txt
+/questions/feed/ 2 -
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+//FCKeditor3/editor/filemanager/connectors/asp/connector.asp 4 -
+//fdgq.php 5 http://www.cttoastmasters.org.za//fdgq.php
+//ss.aspx 6 http://www.cttoastmasters.org.za//ss.aspx
+/ajax/api/hook/decodeArguments 1 -
+/app/webroot/js/tinymce/plugins/imgsurfer/main.php 1 -
+/Public//kindeditor/php/file_manager_json.php 1 http://www.cttoastmasters.org.za/Public//kindeditor/php/file_manager_json.php
+//rosoft/overfill/index.asp 2 http://www.cttoastmasters.org.za//rosoft/overfill/index.asp
+/cms/wp-includes/wlwmanifest.xml 6 -
+/web/wp-includes/wlwmanifest.xml 5 -
+//fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 http://www.cttoastmasters.org.za//fckeditor/editor/filemanager/upload/aspx/upload.aspx
+//fckeditor//editor/filemanager/connectors/aspx/upload.aspx 1 http://www.cttoastmasters.org.za//fckeditor//editor/filemanager/connectors/aspx/upload.aspx
+/index.php/speakers-tips/wp-admin/setup-config.php 1 -
+/images/apple-touch-icon-72x72.png 25 http://www.cttoastmasters.org.za/
+//FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+//plus/lucas.php 5 http://www.cttoastmasters.org.za//plus/lucas.php
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 2 http://cttoastmasters.org.za/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+/uncategorized/toastmastersmeeting/ 1 -
+//index.php/Home/AppUpload/commentUpload 1 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+/sitemap.xml 2 -
+/wp-content/themes/headway-165/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-165/style.css
+/index.php/category/uncategorized/wp-admin/setup-config.php 1 -
+//Web_fckeditor/editor/filemanager/connectors/asp/connector.asp 4 -
+/index.php/questions/ 5 -
+//plug/vote/vote.asp 4 http://www.cttoastmasters.org.za//plug/vote/vote.asp
+/plus/moon.php 22 http://www.cttoastmasters.org.za/plus/moon.php
+/wp-content/themes/konzept/style.css 1 http://cttoastmasters.org.za/wp-content/themes/konzept/style.css
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/wp-content/themes/brainstorm/style.css 1 http://cttoastmasters.org.za/wp-content/themes/brainstorm/style.css
+/editor/editor/filemanager/connectors/asp/connector.asp 1 -
+//install/index.php.bak 5 http://www.cttoastmasters.org.za//install/index.php.bak
+/index.php/photo-gallery/ 1 -
+/category/suspendisse-sollicitudin-velit-sed/ 1 -
+/about/ 4 -
+/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/FCKeditor/fckconfig.js
+//123.zip 2 http://www.cttoastmasters.org.za//123.zip
+//www.cttoastmasters.org.za.rar 2 -
+/2017/wp-includes/wlwmanifest.xml 4 -
+//Public/kindeditor/php/file_manager_json.php 2 http://www.cttoastmasters.org.za//Public/kindeditor/php/file_manager_json.php
+/index.php/2013/09/wp-admin/setup-config.php 1 -
+/public/kindeditor/php/file_manager_json.php 1 http://www.cttoastmasters.org.za/public/kindeditor/php/file_manager_json.php
+/success-stories/www.voicingyourpotential.com 2 -
+//plus/mytag_js.php 8 http://www.cttoastmasters.org.za//plus/mytag_js.php
+///Config_Shell.php 1 http://www.cttoastmasters.org.za///Config_Shell.php
+/statics/ueditor/dialogs/internal.js 5 http://www.cttoastmasters.org.za/statics/ueditor/dialogs/internal.js
+//admin_aspcms/editPass.asp 6 http://www.cttoastmasters.org.za//admin_aspcms/editPass.asp
+/plugins/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/plugins/FCKeditor/fckconfig.js
+/member/ueditor/dialogs/internal.js 6 http://www.cttoastmasters.org.za/member/ueditor/dialogs/internal.js
+/kindeditor/themes/default/default.css 6 http://www.cttoastmasters.org.za/kindeditor/themes/default/default.css
+///plus/result.php 1 http://www.cttoastmasters.org.za///plus/result.php
+//plus/read.php 7 http://www.cttoastmasters.org.za//plus/read.php
+/joomla/robots.txt 1 -
+/wp-content/themes/headway-2013/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-2013/style.css
+/plus/download.php 10 http://www.cttoastmasters.org.za/plus/download.php
+//images/Sql.asp 2 http://www.cttoastmasters.org.za//images/Sql.asp
+/statics/kindeditor/themes/default/default.css 1 http://www.cttoastmasters.org.za/statics/kindeditor/themes/default/default.css
+//conn.asp 1 http://www.cttoastmasters.org.za//conn.asp
+/4.php 1 https://www.baidu.com
+//za/.rar 1 http://www.cttoastmasters.org.za//za/.rar
+//plus/download.php 10 http://www.cttoastmasters.org.za//plus/download.php
+/admin/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/wp-content/plugins/xichang/x.php 1 -
+/plugin/ueditor/ueditor.config.js 4 http://www.cttoastmasters.org.za/plugin/ueditor/ueditor.config.js
+/wp-json/ 8 -
+/include/ueditor/php/controller.php 6 http://www.cttoastmasters.org.za/include/ueditor/php/controller.php
+//fckeditor/editor/filemanager/connectors/php/connector.php 1 http://www.sheaf.com.tw/fckeditor/editor/filemanager/connectors/test.html
+//uploadfile/member/0/0x0.php 2 http://www.cttoastmasters.org.za//uploadfile/member/0/0x0.php
+/assets/tinymce/plugins/imgsurfer/main.php 1 -
+/index.php/interviews/wp-admin/setup-config.php 1 -
+//beifen.zip 2 http://www.cttoastmasters.org.za//beifen.zip
+/ueditor/asp/imageUp.asp 1 http://www.cttoastmasters.org.za/ueditor/asp/imageUp.asp
+//backup.rar 2 http://www.cttoastmasters.org.za//backup.rar
+//member/OrderInfo.asp 3 http://www.cttoastmasters.org.za//member/OrderInfo.asp
+/wordpress/ 1 -
+/admincms/login.php 3 -
+/e/ueditor/php/controller.php 1 http://www.cttoastmasters.org.za/e/ueditor/php/controller.php
+//admin_aspcms/login.asp 3 http://www.cttoastmasters.org.za//admin_aspcms/login.asp
+//weki.asp 2 http://www.cttoastmasters.org.za//weki.asp
+//zip.php 1 http://www.cttoastmasters.org.za//zip.php
+/plus/90sec.php 21 http://www.cttoastmasters.org.za/plus/90sec.php
+//email/shell.php 1 https://www.baidu.com
+/programmes.htm 1 -
+//preview.php 1 http://www.cttoastmasters.org.za/
+//plus/recommend.php 12 http://www.cttoastmasters.org.za//plus/recommend.php
+/wp-includes/wlwmanifest.xml 9 -
+/cjztc.php 1 http://www.cttoastmasters.org.za/cjztc.php
+/system/FCKeditor/fckconfig.js 2 http://www.cttoastmasters.org.za/system/FCKeditor/fckconfig.js
+/ziguv.php 1 http://www.cttoastmasters.org.za/ziguv.php
+/qjshf.php 1 http://www.cttoastmasters.org.za/qjshf.php
+//myship.php 1 http://www.cttoastmasters.org.za//myship.php
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/libraries/libraries.php 4 -
+//manage/Images/Sql.asp 2 http://www.cttoastmasters.org.za//manage/Images/Sql.asp
+/js/close.gif 2 -
+/index.php/2015/09/ 1 -
+/editor/ueditor/ueditor.config.js 2 http://www.cttoastmasters.org.za/editor/ueditor/ueditor.config.js
+//plug/oem/AspCms_OEM.asp 1 http://www.cttoastmasters.org.za//plug/oem/AspCms_OEM.asp
+/statics/js/ueditor/php/controller.php 5 http://www.cttoastmasters.org.za/statics/js/ueditor/php/controller.php
+//fckeditor/editor/filemanager/upload/php/upload.php 1 http://www.cttoastmasters.org.za//fckeditor/editor/filemanager/upload/php/upload.php
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 http://cttoastmasters.org.za/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php
+/index.php/category/uncategorized/ 3 -
+/kindeditor/asp.net/README.txt 2 http://www.cttoastmasters.org.za/kindeditor/asp.net/README.txt
+//Web_fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/wp/wp-includes/wlwmanifest.xml 7 -
+/inc/upfile_class.asp 2 -
+//cttoastmasters.zip 2 -
+/index.php/category/public-speaking/ 1 -
+/wp-content/themes/headway-207/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-207/style.css
+//admin/index.asp 1 http://www.cttoastmasters.org.za//admin/index.asp
+/Articles/tabletopics.htm 2 -
+//images/swfupload/swfupload.swf 3 -
+//FCKeditor3/editor/filemanager/connectors/php/connector.php 4 -
+/wp-content/themes/multimedia1/server/php/ 1 http://cttoastmasters.org.za/wp-content/themes/multimedia1/server/php/
+//wp-admin/install.php 1 -
+//1.zip 2 http://www.cttoastmasters.org.za//1.zip
+/ysyqq.php 11 http://www.cttoastmasters.org.za/ysyqq.php
+/includes/ueditor/dialogs/internal.js 6 http://www.cttoastmasters.org.za/includes/ueditor/dialogs/internal.js
+/wp-content/uploads/2013/10/Cape-Town-Toastmasters-Club-Directions.pdf 1 -
+/bbs/utility/convert/index.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/utility/convert/index.php 22 http://www.cttoastmasters.org.za/utility/convert/index.php
+/wewnp.php 1 http://www.cttoastmasters.org.za/wewnp.php
+//system/config/shell.php 1 http://www.cttoastmasters.org.za/
+/data/ueditor/php/controller.phpp 1 http://www.cttoastmasters.org.za/data/ueditor/php/controller.phpp
+/convert/index.php 1 -
+//gbook/save.asp 5 http://www.cttoastmasters.org.za//gbook/save.asp
+///plus/mytag_js.php 6 http://www.cttoastmasters.org.za///plus/mytag_js.php
+/2015/ 1 -
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 3 -
+/downloads/category/4-general.html 3 -
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css 1 http://cttoastmasters.org.za/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css
+//shell.php 3 http://www.cttoastmasters.org.za/
+//install/install.php 1 http://www.cttoastmasters.org.za/
+//type.php 1 http://www.cttoastmasters.org.za/
+/hxcdm/cdm/hxcdm.php 2 -
+//FCKeditor3/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/v2/ 2 -
+//plus/moon.php 8 http://www.cttoastmasters.org.za//plus/moon.php
+//include/news1.asp 1 http://www.cttoastmasters.org.za//include/news1.asp
+/index.php/questions/wp-admin/setup-config.php 1 -
+/index.php/2014/09/12/education-learning-fact-training-mind/wp-admin/setup-config.php 1 -
+//admin/Admin_Ta.asp 2 http://www.cttoastmasters.org.za//admin/Admin_Ta.asp
+/eilrj.php 1 http://www.cttoastmasters.org.za/eilrj.php
+//FCKeditor3/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+/business-skills/ 13 -
+//dede/login.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/interviews/feed/ 1 -
+//www.cttoastmasters.org.za/..zip 1 http://www.cttoastmasters.org.za//www.cttoastmasters.org.za/..zip
+/index.php/2015/09/09/minutes-of-meeting-09-sept-2015/wp-admin/setup-config.php 1 -
+/upfile_flash.asp 2 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 1 http://cttoastmasters.org.za/wp-content/plugins/page-flip-image-gallery/upload.php
+/data/ueditor/php/controller.php 6 http://www.cttoastmasters.org.za/data/ueditor/php/controller.php
+/public/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/public/FCKeditor/fckconfig.js
+//base/admin/cache.asp 2 http://www.cttoastmasters.org.za//base/admin/cache.asp
+//vendor/phpunit/phpunit/src/Util/PHP/kill.php 2 -
+/hyxds.php 1 http://www.cttoastmasters.org.za/hyxds.php
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/public/js/kindeditor/php/file_manager_json.php 6 http://www.cttoastmasters.org.za/public/js/kindeditor/php/file_manager_json.php
+//data/s.asp 2 http://www.cttoastmasters.org.za//data/s.asp
+//Templates/test.asp 2 http://www.cttoastmasters.org.za//Templates/test.asp
+/efdik.php 1 http://www.cttoastmasters.org.za/efdik.php
+/bbs/convert/index.php 1 -
+//email/index.php 1 http://www.cttoastmasters.org.za/
+/aqbcz.php 1 http://www.cttoastmasters.org.za/aqbcz.php
+/wp-config.php.backup 1 -
+//index.php 13 -
+/speaker's-tips/ 3 -
+/Public/js/kindeditor/php/file_manager_json.php 1 http://www.cttoastmasters.org.za/Public/js/kindeditor/php/file_manager_json.php
+/public/js/ueditor/dialogs/internal.js 5 http://www.cttoastmasters.org.za/public/js/ueditor/dialogs/internal.js
+/nilea.php 1 http://www.cttoastmasters.org.za/nilea.php
+/wp-content/plugins/html404/index.html 1 -
+/e/extend/ueditor/php/controller.php 1 http://www.cttoastmasters.org.za/e/extend/ueditor/php/controller.php
+//index.asp 2 http://www.cttoastmasters.org.za//index.asp
+/wp-content/themes/u-design/style.css 1 http://cttoastmasters.org.za/wp-content/themes/u-design/style.css
+/website/wp-includes/wlwmanifest.xml 4 -
+/privacy-policy/ 2 -
+//Rose20190604164712.txt 2 -
+/shop/wp-includes/wlwmanifest.xml 4 -
+//.asp 3 http://www.cttoastmasters.org.za//.asp
+/admini/logion.php 4 -
+//website.zip 2 http://www.cttoastmasters.org.za//website.zip
+/benefits-of-toastmasters/ 9 -
+//inc/AspCms_AdvJs.asp 1 http://www.cttoastmasters.org.za//inc/AspCms_AdvJs.asp
+/author/club%20/ 2 -
+/apple-touch-icon-120x120.png 1 -
+/comments/feed/ 1 -
+/admin_aspcms/_system/AspCms_SiteSetting.asp 31 http://www.cttoastmasters.org.za/admin_aspcms/_system/AspCms_SiteSetting.asp
+//pass.php 1 http://www.cttoastmasters.org.za//pass.php
+//data/mysqli_error_trace.inc 1 http://www.cttoastmasters.org.za//data/mysqli_error_trace.inc
+//robots1.php 2 http://www.cttoastmasters.org.za//robots1.php
+/editor/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/editor/FCKeditor/fckconfig.js
+/connectors/system/phpthumb.php 1 -
+/data/admin/ver.txt 3 -
+///data/cache/asd.php 1 http://www.cttoastmasters.org.za///data/cache/asd.php
+/photo-gallery/ 2 -
+/thank/ 9 -
+/include/ueditor/php/imageUp.php 7 http://www.cttoastmasters.org.za/include/ueditor/php/imageUp.php
+/phpmyadmin/index.php 2 -
+/admin/upfile_flash.asp 2 -
+/2013/09/ 1 -
+//admin/sdfg.asp 2 http://www.cttoastmasters.org.za//admin/sdfg.asp
+/members/%20 2 -
+//admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 3 -
+/wp-content/themes/project10-theme/style.css 1 http://cttoastmasters.org.za/wp-content/themes/project10-theme/style.css
+//Templates/red.asp 2 http://www.cttoastmasters.org.za//Templates/red.asp
+//1.php 1 -
+//default.php 1 http://www.cttoastmasters.org.za//default.php
+/index.php/2014/09/12/education-learning-fact-training-mind/ 9 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 7 -
+//vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 http://www.cttoastmasters.org.za/
+/admin/kindeditor/asp/demo.asp 6 http://www.cttoastmasters.org.za/admin/kindeditor/asp/demo.asp
+/wp-content/themes/headway-2012/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-2012/style.css
+//x.php 10 http://www.cttoastmasters.org.za//x.php
+/j-stuff.feed 2 -
+/questions/ 3 -
+/ads.txt 2 -
+/admincp/login.php 3 -
+/utility/convert/data/config.inc.php 21 http://www.cttoastmasters.org.za/utility/convert/data/config.inc.php
+/index.php/success-stories/ 12 -
+//config/AspCms_Config.asp 14 http://www.cttoastmasters.org.za//config/AspCms_Config.asp
+/index.php/2015/09/09/minutes-of-meeting-09-sept-2015/ 1 -
+//css/css.asp 1 http://www.cttoastmasters.org.za//css/css.asp
+/editor/editor/filemanager/connectors/php/connector.php 1 -
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/test/wp-includes/wlwmanifest.xml 4 -
+/index.php/2013/10/23/delivering-unprepared-speech/wp-admin/setup-config.php 1 -
+/Upload.asp 1 http://www.cttoastmasters.org.za/Upload.asp
+/2015/wp-includes/wlwmanifest.xml 4 -
+//d.php 1 http://www.cttoastmasters.org.za//d.php
+/typography-mainmenu-33.html 2 -
+/tinymce/plugins/imgsurfer/main.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 1 -
+//FCKeditor3/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/wp-content/themes/famous/style.css 1 http://cttoastmasters.org.za/wp-content/themes/famous/style.css
+/success-stories/ 4 -
+//admin/FCKeditor/editor/filemanager/connectors/php/connector.php 4 -
+//wangzhan.rar 2 http://www.cttoastmasters.org.za//wangzhan.rar
+/index.php/2013/09/19/toastmastersmeeting/ 2 -
+///lx.php 1 http://www.cttoastmasters.org.za///lx.php
+/manager/login.php 4 -
+/toastmastersmeeting/ 3 -
+/wp-content/themes/headway-16/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-16/style.css
+//images/css/Thumb.asp 2 http://www.cttoastmasters.org.za//images/css/Thumb.asp
+/fdgq.php 17 http://www.cttoastmasters.org.za/fdgq.php
+/category/uncategorized/page/3/ 1 -
+/app/ueditor/dialogs/internal.js 1 http://www.cttoastmasters.org.za/app/ueditor/dialogs/internal.js
+/donec-porta-diam-eu-massa/image-format-post/ 1 -
+//member/login.asp 3 http://www.cttoastmasters.org.za//member/login.asp
+///config/AspCms_Config.asp 1 http://www.cttoastmasters.org.za///config/AspCms_Config.asp
+/index.php/2013/10/23/delivering-unprepared-speech/ 1 -
+//system/config/database.php 1 http://www.cttoastmasters.org.za/
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://cttoastmasters.org.za/wp-content/plugins/revslider/temp/update_extract/conf.php
+/Application/Admin/Public/ueditor/ueditor.config.js 1 http://www.cttoastmasters.org.za/Application/Admin/Public/ueditor/ueditor.config.js
+//data/cache/asd.php 9 http://www.cttoastmasters.org.za//data/cache/asd.php
+/jltmk.php 1 http://www.cttoastmasters.org.za/jltmk.php
+//apply/index.asp 1 http://www.cttoastmasters.org.za//apply/index.asp
+/2018/wp-includes/wlwmanifest.xml 4 -
+//FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 4 -
+//radminpass.php 1 http://www.cttoastmasters.org.za//radminpass.php
+/wp-login.php 16 -
+/wp-content/themes/synoptic/style.css 1 http://cttoastmasters.org.za/wp-content/themes/synoptic/style.css
+/index.php/author/admin101/ 1 -
+/wp-content/themes/headway-2010/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-2010/style.css
+/feedback/uploadfile_save.php 1 -
+/hdcmx.php 1 http://www.cttoastmasters.org.za/hdcmx.php
+//111.rar 2 http://www.cttoastmasters.org.za//111.rar
+/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/wp-includes/Text/Tiff.php 1 -
+/public/upload_nhieuanh/server/php/_index.php 1 -
+/wp-content/plugins/font-uploader/readme.txt 1 http://cttoastmasters.org.za/wp-content/plugins/font-uploader/readme.txt
+/index.php 30 -
+/wp-content/uploads/2013/10/IMG_2755-Medium.jpg 1 -
+/static/js/ueditor/dialogs/internal.js 1 http://www.cttoastmasters.org.za/static/js/ueditor/dialogs/internal.js
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/blog/robots.txt 2 -
+/component/content/article/17-roknewsrotator/36-master-your-menu.html 1 -
+//@admin 3 -
+/wp-content/themes/headway-208/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-208/style.css
+/category/suspendisse-sollicitudin-velit-sed/feed/ 2 -
+//data/img/css/xianf.ASP 6 http://www.cttoastmasters.org.za//data/img/css/xianf.ASP
+/sito/wp-includes/wlwmanifest.xml 4 -
+/js/kindeditor/themes/default/default.css 5 http://www.cttoastmasters.org.za/js/kindeditor/themes/default/default.css
+/wp/ 1 -
+/wp/wp-admin/install.php 1 -
+/index.php/success-stories/wp-admin/setup-config.php 1 -
+//data/cache_template/rss.tpl.php 2 http://www.cttoastmasters.org.za//data/cache_template/rss.tpl.php
+//za/..zip 1 http://www.cttoastmasters.org.za//za/..zip
+/news/wp-includes/wlwmanifest.xml 4 -
+/2016/gou.php 1 https://www.baidu.com
+/success-stories/interviews/ 1 -
+/joomla/administrator/index.php 1 -
+/@admin/login.php 3 -
+//SqlOut.asp 2 http://www.cttoastmasters.org.za//SqlOut.asp
+//Images/login.asp 2 http://www.cttoastmasters.org.za//Images/login.asp
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+//plug/comment/commentList.asp 1 http://www.cttoastmasters.org.za//plug/comment/commentList.asp
+/about/feed/ 1 -
+/delivering-unprepared-speech/feed/ 2 -
+/images/apple-touch-icon-114x114.png 35 -
+/index.php/category/public-speaking/wp-admin/setup-config.php 1 -
+/admin/images/cal_date_over.gif 2 -
+//website.rar 2 http://www.cttoastmasters.org.za//website.rar
+/,154.0.172.230 1 -
+/wp-includes/css/buttons.min.css 1 -
+///x.php 1 http://www.cttoastmasters.org.za///x.php
+/category/uncategorized/ 1 -
+//za/.zip 1 http://www.cttoastmasters.org.za//za/.zip
+//js/admin.js 1 -
+/wp-content/themes/headway/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway/style.css
+/11m.php 1 https://www.baidu.com
+/ybnlv.php 1 http://www.cttoastmasters.org.za/ybnlv.php
+/j-stuff/22-news/50-the-high-performance-leadership-program.html 2 -
+/editor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/category/donec-porta-diam-eu-massa/feed/ 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 2 http://cttoastmasters.org.za/wp-content/plugins/revslider/temp/update_extract/revslider/db.php
+//AdminNew/login.asp 3 http://www.cttoastmasters.org.za//AdminNew/login.asp
+//da.php 1 http://www.cttoastmasters.org.za//da.php
+/2016/wp-includes/wlwmanifest.xml 4 -
+/uncategorized/minutes-of-meeting-09-sept-2015/ 1 -
+/public-speaking/10-public-speaking-tips/ 1 -
+//about/index.asp 1 http://www.cttoastmasters.org.za//about/index.asp
+/component/content/article/17-roknewsrotator/52-glossary-of-tm-terms.html 1 -
+//NewsType.asp 1 -
+//manage/login.php 1 -
+/j-stuff/22-news/46-impromptu-speaking.html 1 -
+//FCKeditor3/editor/filemanager/connectors/aspx/connector.aspx 4 -
+/editor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/bf.rar 2 -
+//ms.asp 1 http://www.cttoastmasters.org.za//ms.asp
+//list/index.asp 1 http://www.cttoastmasters.org.za//list/index.asp
+/rrmtj.php 1 http://www.cttoastmasters.org.za/rrmtj.php
+//ver.asp 1 http://www.cttoastmasters.org.za//ver.asp
+/blog/wp-includes/wlwmanifest.xml 7 -
+/robots.txt 362 -
+/wp-content/uploads/2013/10/imagesCAVA8GJG.jpg 1 -
+/include/kindeditor/php/file_manager_json.php 2 http://www.cttoastmasters.org.za/include/kindeditor/php/file_manager_json.php
+//Web_fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/public/js/plugins/imgsurfer/main.php 1 -
+//1.aspx 1 -
+/members/ 2 -
+/ueditor/net/imageUp.ashx 2 http://www.cttoastmasters.org.za/ueditor/net/imageUp.ashx
+/cenzd.php 1 http://www.cttoastmasters.org.za/cenzd.php
+/wp-content/uploads/2014/07/posts-2.jpg 2 -
+/interviews/ 2 -
+/wp-content/themes/ThisWay/readme.txt 1 http://cttoastmasters.org.za/wp-content/themes/ThisWay/readme.txt
+/wp-content/themes/headway-airsolution/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-airsolution/style.css
+/wp-content/plugins/upspy/index.php 1 -
+/template/default/common/common.css 3 http://www.cttoastmasters.org.za/template/default/common/common.css
+//about/tages.asp 3 http://www.cttoastmasters.org.za//about/tages.asp
+/apple-touch-icon.png 19 -
+/fckeditor/editor/filemanager/connectors/php/connector.php 1 http://www.cttoastmasters.org.za/fckeditor/editor/filemanager/connectors/php/connector.php
+/blog/wp-login.php 1 -
+/contact/ 1 -
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/wp-includes/css/modules.php 1 -
+/data/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/data/FCKeditor/fckconfig.js
+/Public/Plugins/ueditor/ueditor.config.js 2 http://www.cttoastmasters.org.za/Public/Plugins/ueditor/ueditor.config.js
+//member/login.php 3 http://www.cttoastmasters.org.za//member/login.php
+/lwfom.php 1 http://www.cttoastmasters.org.za/lwfom.php
+/wzekc.php 1 http://www.cttoastmasters.org.za/wzekc.php
+/wp-content/themes/nuance/style.css 1 http://cttoastmasters.org.za/wp-content/themes/nuance/style.css
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 22 http://www.cttoastmasters.org.za/FCKeditor/editor/filemanager/connectors/asp/connector.asp
+/wp-content/plugins/ubh/index.php 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/apple-touch-icon-152x152.png 2 -
+/user.php 29 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/b.php 1 -
+//www.cttoastmasters.org.za/..rar 1 http://www.cttoastmasters.org.za//www.cttoastmasters.org.za/..rar
+/index.php/2015/09/24/hello-world/ 2 -
+/editor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/index.php/home/ 1 -
+/speakers-tips/feed/ 1 -
+//admin/upfile_flash.asp 1 -
+/10-public-speaking-tips/feed/ 1 -
+/wp-content/plugins/ubh/up.php 1 -
+//plus/search.php 18 http://www.cttoastmasters.org.za//plus/search.php
+/about-us-2/ 13 -
+/index.php/2015/09/wp-admin/setup-config.php 3 -
+/admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/speakers-tips/www.cttoastmasters.org.za/contact/ 1 -
+//manager/login.php 1 -
+///plus/moon.php 1 http://www.cttoastmasters.org.za///plus/moon.php
+/apple-touch-icon-120x120-precomposed.png 1 -
+//Web_fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+//cttoastmasters.org.za.rar 2 -
+//data/cache/qq.php 2 http://www.cttoastmasters.org.za//data/cache/qq.php
+//admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 3 -
+/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php 1 http://cttoastmasters.org.za/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+/test/wp-login.php 1 -
+/wp-content/themes/headway-162/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-162/style.css
+/wp-content/plugins/mailpress/mp-includes/action.php 2 -
+/scripts/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/scripts/FCKeditor/fckconfig.js
+//backup.zip 2 http://www.cttoastmasters.org.za//backup.zip
+//beifen.rar 2 http://www.cttoastmasters.org.za//beifen.rar
+/cttoastmasters/FCKeditor/fckconfig.js 1 http://www.cttoastmasters.org.za/cttoastmasters/FCKeditor/fckconfig.js
+/wp-content/themes/headway-2014/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-2014/style.css
+/category/uncategorized/feed/ 2 -
+/j-stuff/22-news/48-the-distinguished-club-programme.html 1 -
+/2013/ 1 -
+//kdatebase/index_.asp 2 http://www.cttoastmasters.org.za//kdatebase/index_.asp
+//fckeditor//editor/filemanager/connectors/php/upload.php 1 http://www.cttoastmasters.org.za//fckeditor//editor/filemanager/connectors/php/upload.php
+/index.php/2015/09/24/hello-world/wp-admin/setup-config.php 1 -
+//www.cttoastmasters.org.za.zip 2 -
+/admin/ueditor/dialogs/internal.js 5 http://www.cttoastmasters.org.za/admin/ueditor/dialogs/internal.js
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/site/wp-includes/wlwmanifest.xml 6 -
+/quuxx.php 1 http://www.cttoastmasters.org.za/quuxx.php
+/11.php 1 https://www.baidu.com
+/hukhy.php 1 http://www.cttoastmasters.org.za/hukhy.php
+//FCKeditor/editor/filemanager/connectors/asp/connector.asp 4 -
+/contact-us.html 2 -
+/gbook/ 2 -
+/contact-2/feed/ 1 -
+//Web_fckeditor/editor/filemanager/connectors/aspx/connector.aspx 4 -
+/xmlrpc.php 14 -
+//admin_UploadDataHandler.ashx 1 http://www.cttoastmasters.org.za//admin_UploadDataHandler.ashx
+/fckeditor/editor/filemanager/upload/php/upload.php 1 http://www.cttoastmasters.org.za/fckeditor/editor/filemanager/upload/php/upload.php
+/author/admin101/ 1 -
+/ueditor/php/controller.php 1 http://www.cttoastmasters.org.za/ueditor/php/controller.php
+//cttoastmasters.org.za.zip 2 -
+/wp-content/themes/qualifire/style.css 1 http://cttoastmasters.org.za/wp-content/themes/qualifire/style.css
+//fckeditor//editor/filemanager/connectors/asp/upload.asp 1 http://www.cttoastmasters.org.za//fckeditor//editor/filemanager/connectors/asp/upload.asp
+/donec-porta-diam-eu-massa/aliquam-erat-volutpat/ 1 -
+/2013/10/23/delivering-unprepared-speech/ 1 -
+//123.rar 2 http://www.cttoastmasters.org.za//123.rar
+/wp-content/themes/headway-209/style.css 1 http://cttoastmasters.org.za/wp-content/themes/headway-209/style.css
+//FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+//crm/studio/modules/EntityRelease/release.php 1 http://www.cttoastmasters.org.za/
+/wp-content/contact-2/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 390
+104.42.48.187 50 50 0 20190630121253
+85.209.89.216 41 41 0 20190630040507
+85.209.89.241 40 40 0 20190630041524
+185.125.219.13 40 40 0 20190630093257
+194.67.210.77 39 39 0 20190630061304
+85.209.89.217 38 38 0 20190630040507
+85.209.89.224 38 38 0 20190630040506
+185.5.249.185 38 38 0 20190630061304
+85.209.89.205 37 37 0 20190630040508
+185.203.240.129 35 35 0 20190630040448
+212.86.109.31 35 35 0 20190630040801
+77.220.215.153 34 34 0 20190630040448
+185.209.20.147 34 34 0 20190630040448
+193.124.188.188 24 24 0 20190630093257
+193.124.188.83 24 24 0 20190630061304
+193.201.224.224 22 22 571076 20190626225851
+193.124.190.18 20 20 0 20190630061304
+176.100.189.89 20 20 519160 20190630204005
+193.124.191.92 19 19 0 20190630061304
+194.67.207.9 13 13 0 20190630093258
+5.248.225.86 13 13 337454 20190616122729
+194.67.207.94 13 13 0 20190630093257
+37.115.211.162 9 9 233622 20190607163103
+192.99.55.164 6 6 155748 20190625030551
+122.247.179.136 5 5 129790 20190610094137
+34.90.103.217 1 1 25958 20190609163405
+196.22.242.209 1 35 3172359 20190627122938
+54.173.35.129 1 1 25958 20190627085343
+197.87.101.53 1 33 1502224 20190610132723
+111.206.36.135 0 4 25029 
+36.110.199.63 1 8 175986 20190624203939
+14.215.176.142 1 4 354962 20190622233631
+60.215.25.175 1 1 25958 20190605081011
+46.175.74.234 2 2 51916 20190611193157
+36.110.199.146 0 4 116200 
+52.37.98.171 1 1 25958 20190621171129
+142.93.156.134 1 1 25958 20190604052509
+111.206.36.133 0 3 52010 
+36.110.199.177 1 2 119597 20190617101400
+36.250.186.75 1 1 25958 20190617061603
+119.86.29.154 2 2 51916 20190622104204
+142.93.127.190 1 1 25958 20190619053820
+36.110.199.142 0 1 191166 
+52.37.13.241 1 1 25958 20190606153115
+14.215.176.6 0 4 115710 
+14.215.176.146 1 15 281782 20190624125139
+34.222.81.148 1 1 25958 20190620175302
+36.110.199.64 0 16 360846 
+111.206.36.19 0 14 279309 
+34.219.127.75 1 36 3201632 20190601154950
+14.215.176.5 0 3 22354 
+36.110.199.242 1 6 325024 20190608103919
+83.97.23.119 2 2 51916 20190610170321
+104.248.14.241 1 1 25958 20190603064707
+159.203.110.112 1 21 685595 20190619223332
+36.110.199.35 0 4 640631 
+111.206.36.140 0 7 213977 
+173.252.87.19 0 7 438036 
+111.202.101.2 0 4 91050 
+14.215.176.136 0 7 172152 
+66.102.6.212 1 1 25958 20190602220015
+36.110.199.41 1 8 189101 20190609213204
+117.44.161.78 1 1 25958 20190628094801
+36.110.199.136 0 8 331547 
+176.53.43.49 1 1 25958 20190623083042
+34.209.128.183 1 1 25958 20190601140902
+197.81.195.28 1 1 25958 20190604210408
+173.252.87.38 0 6 723767 
+197.86.173.31 2 37 3223684 20190607223206
+14.215.176.132 0 5 94191 
+43.252.229.187 1 1 25958 20190601022343
+54.202.141.128 1 1 25958 20190628175122
+144.48.242.108 1 1 25958 20190601162529
+36.110.199.179 0 6 58598 
+42.236.101.214 2 2 51916 20190630064145
+31.13.190.254 4 4 103832 20190614150838
+36.110.199.11 0 7 189473 
+23.254.41.76 1 1 25958 20190615035124
+36.110.199.154 0 2 553541 
+36.110.199.50 0 1 130493 
+113.58.42.194 2 2 51916 20190605101837
+36.110.199.52 0 3 219927 
+163.172.218.228 1 1 25958 20190608185824
+111.206.36.10 1 19 663377 20190610032809
+36.110.199.66 0 5 47722 
+111.206.36.12 0 3 136781 
+94.197.120.86 1 1 25958 20190629065113
+36.110.199.158 0 2 152632 
+218.92.226.179 1 1 0 20190622152731
+198.57.247.199 4 4 103832 20190625155733
+23.254.19.139 1 1 25958 20190617032828
+41.138.66.234 2 37 3223684 20190629000011
+158.69.116.60 3 3 77874 20190624210206
+111.206.36.16 0 7 220672 
+54.245.30.149 1 1 25958 20190618094458
+14.215.176.21 1 19 699488 20190609004453
+58.19.83.186 1 1 25958 20190622155830
+42.236.99.178 1 1 25958 20190623100502
+142.93.75.82 1 17 368364 20190609140355
+178.156.202.81 2 2 51916 20190626211947
+173.252.87.37 1 11 839197 20190617093026
+180.101.52.227 0 18 580244 
+66.102.6.208 2 2 51916 20190623105324
+36.110.199.21 0 2 91198 
+42.236.99.86 1 1 25958 20190616154244
+46.246.41.198 1 1 25958 20190609181811
+196.14.91.178 2 38 3202785 20190611151631
+206.189.95.220 1 1 25958 20190605012939
+36.110.199.25 0 1 179397 
+139.180.229.160 3 3 77874 20190609040636
+35.184.203.216 1 1 25958 20190604232601
+36.110.199.155 0 5 771721 
+69.58.178.56 1 1 25958 20190613104535
+60.167.82.43 1 1 25958 20190611093818
+183.131.85.29 1 1 25958 20190606220054
+113.59.13.129 1 1 25958 20190602221357
+89.21.75.85 1 1 25958 20190618174446
+54.183.149.148 1 1 25958 20190621042315
+66.249.92.87 1 2 52609 20190627101435
+27.147.247.84 1 35 3172359 20190627101319
+35.198.96.39 2 2 51916 20190601011151
+36.110.199.167 0 6 286019 
+36.110.199.139 0 3 161659 
+35.202.2.1 1 1 25958 20190613181729
+167.99.91.253 1 1 25958 20190604005814
+34.218.232.11 1 1 25958 20190601154946
+36.110.199.153 0 1 179397 
+188.234.216.99 1 1 25958 20190623231658
+14.215.176.139 0 3 135259 
+196.36.161.121 1 36 3201632 20190605144845
+180.97.35.146 1 9 134874 20190618192319
+198.71.55.41 1 1 25958 20190623152335
+111.206.36.9 1 8 261174 20190626134242
+216.19.180.28 2 36 3194411 20190601160749
+173.252.87.33 0 8 1004528 
+102.182.127.195 1 36 3201632 20190602082137
+14.215.176.149 1 16 467563 20190627142101
+159.65.24.22 1 1 25958 20190609202220
+36.110.199.15 0 1 22139 
+14.215.176.8 0 4 63847 
+54.212.234.50 1 36 3201632 20190603165053
+180.97.35.85 0 2 113084 
+36.110.199.8 0 1 4414 
+14.215.176.15 0 4 38623 
+105.186.94.69 2 36 3194411 20190623083952
+36.110.199.149 0 3 183147 
+59.56.241.218 1 1 25958 20190627180047
+138.197.111.191 1 12 251166 20190601145927
+197.101.10.177 1 1 25958 20190602113957
+111.206.36.134 2 11 579905 20190620230341
+36.110.199.169 0 1 531402 
+104.196.251.32 1 1 25958 20190607222508
+41.56.11.132 4 4 103832 20190628074649
+14.215.176.137 1 4 310783 20190606200936
+159.203.101.95 1 18 530365 20190625000420
+111.206.36.138 0 2 107437 
+35.185.9.176 2 2 25958 20190607203043
+41.164.73.162 2 36 3194411 20190624154025
+77.240.183.236 1 1 25958 20190611132014
+36.110.199.67 0 5 160830 
+23.121.246.227 3 3 77874 20190612205324
+163.172.119.161 1 1 25958 20190615094753
+119.86.26.162 2 2 51916 20190603180535
+111.73.46.48 1 1 0 20190603205321
+34.222.15.66 1 1 25958 20190607165242
+54.184.114.87 1 1 25958 20190613154713
+34.219.77.62 1 1 25958 20190617191358
+36.110.199.172 0 2 213305 
+122.247.21.255 3 3 77874 20190602183515
+180.97.35.14 0 3 126634 
+14.215.176.147 0 14 321199 
+104.196.206.136 2 2 25958 20190628025345
+87.254.138.170 3 3 77874 20190617074625
+175.44.32.222 2 2 51916 20190614095511
+105.225.98.82 1 1 25958 20190629182212
+159.65.37.130 1 21 685595 20190604073914
+112.66.18.51 2 2 51916 20190625152712
+173.193.191.202 1 1 25958 20190606073126
+34.213.50.64 1 1 25958 20190611165817
+111.206.36.17 0 2 113084 
+18.237.65.223 1 1 25958 20190618174409
+36.110.199.176 0 9 366752 
+105.225.129.157 2 36 3194411 20190609174547
+35.196.85.160 2 2 25958 20190628023633
+36.110.199.147 0 1 31399 
+111.206.36.144 0 5 198981 
+35.231.251.188 2 2 25958 20190611205833
+18.138.254.249 1 1 25958 20190605014034
+102.132.250.222 1 35 3172359 20190608123711
+144.76.100.150 2 2 0 20190622175332
+104.196.113.244 2 2 25958 20190619221943
+41.56.22.49 2 2 51916 20190613152745
+41.56.42.184 2 2 51916 20190606164025
+34.210.90.95 1 1 25958 20190605174149
+75.127.5.46 1 1 25958 20190624004543
+34.222.9.202 1 1 25958 20190624161535
+185.253.96.140 2 2 51916 20190623163637
+5.9.94.207 1 1 25958 20190616170753
+195.154.46.111 2 2 51916 20190605191805
+39.66.5.185 2 2 51916 20190623203433
+64.246.165.160 1 1 25958 20190610093501
+46.4.83.150 1 1 25958 20190606065905
+36.110.199.17 0 3 60535 
+180.97.35.8 0 3 82865 
+54.186.251.26 1 1 25958 20190607172648
+105.225.6.91 1 36 3201632 20190630191753
+111.206.36.147 0 3 115473 
+189.112.54.85 1 1 25958 20190625205417
+66.102.8.240 0 10 828459 
+42.236.12.190 2 2 51916 20190611084821
+54.202.222.227 1 1 25958 20190629172844
+14.215.176.144 0 6 230946 
+180.101.52.195 2 26 839264 20190619044426
+66.102.8.244 1 11 678728 20190627101435
+105.186.195.167 1 4 1721460 20190610065112
+83.97.23.233 2 2 51916 20190614164331
+41.56.37.37 4 4 103832 20190612160719
+95.216.214.25 2 2 51916 20190603133434
+14.215.176.148 0 16 231032 
+36.110.199.36 0 4 235417 
+54.175.6.221 2 2 0 20190630220646
+41.114.147.143 2 36 3194411 20190612091753
+14.215.176.134 0 4 92839 
+166.88.161.40 1 1 25958 20190626122333
+60.169.114.126 4 4 103832 20190605063010
+138.197.111.32 1 12 251166 20190605203420
+50.3.200.140 3 3 77874 20190625153436
+185.93.3.114 2 2 51916 20190629233218
+111.206.36.137 0 1 179397 
+36.110.199.32 0 2 161008 
+36.110.199.30 0 1 191166 
+14.215.176.138 0 4 295290 
+36.110.199.27 0 2 91198 
+104.236.102.83 1 12 251166 20190623045945
+36.110.199.175 0 1 29273 
+113.35.251.98 1 1 25958 20190615141656
+180.101.52.131 0 6 167612 
+113.59.13.111 2 2 51916 20190618062603
+54.185.38.186 1 1 25958 20190626174934
+36.110.199.48 0 1 58919 
+36.110.199.138 0 3 230057 
+191.241.235.24 1 1 25958 20190605050747
+35.237.57.253 2 2 25958 20190603195435
+142.93.59.240 1 1 25958 20190618093956
+81.24.150.53 1 1 25958 20190613130828
+36.110.199.170 0 1 58919 
+104.196.155.9 2 2 25958 20190615212436
+180.101.52.163 1 16 542142 20190611101425
+36.110.199.9 0 6 97126 
+36.110.199.18 0 2 161008 
+54.190.16.211 1 1 25958 20190603164735
+115.132.45.127 1 1 25958 20190620122547
+178.162.223.73 2 2 51916 20190625144142
+36.110.199.33 0 2 107437 
+18.237.197.208 1 36 3201632 20190605174153
+54.187.6.224 1 1 25958 20190622180659
+14.215.176.9 0 2 188643 
+14.215.176.18 1 3 64268 20190625101124
+142.93.184.162 1 12 251166 20190610071810
+111.206.36.8 1 18 404354 20190612025147
+52.27.53.155 1 1 25958 20190602164316
+36.110.199.152 0 4 644739 
+34.219.232.149 1 1 25958 20190610142732
+114.249.36.44 1 1 25958 20190619123242
+34.218.226.140 1 1 25958 20190627153441
+34.219.10.242 1 36 3201632 20190606153120
+160.226.239.194 1 1 25958 20190612200542
+105.10.25.49 2 36 3194411 20190604202523
+111.206.36.15 0 2 107437 
+34.219.116.146 1 36 3201632 20190602164320
+66.102.8.242 0 15 1694445 
+108.178.61.58 1 1 25958 20190602044916
+93.120.156.67 2 2 51916 20190607204446
+36.110.199.34 0 2 81058 
+52.38.87.220 1 36 3201632 20190607172652
+104.131.79.127 1 3 127694 20190630062526
+36.110.199.65 1 14 393235 20190625212742
+180.97.35.82 0 3 63057 
+209.126.119.177 1 1 25958 20190619090452
+34.219.105.129 1 1 25958 20190604163832
+51.77.246.200 1 36 3201632 20190624210419
+34.220.81.132 1 1 25958 20190618094458
+42.236.102.3 1 1 25958 20190613144709
+52.27.21.25 1 1 25958 20190619180314
+83.113.144.62 1 35 3172359 20190618004822
+102.165.92.226 1 1 25958 20190619022046
+51.83.43.13 5 5 129790 20190629233306
+36.110.199.47 0 8 288553 
+35.229.33.57 2 2 25958 20190623225216
+36.110.199.164 0 6 520222 
+51.158.120.6 1 1 25958 20190606044200
+111.206.36.139 0 4 61582 
+36.110.199.20 1 9 1192785 20190602114031
+36.110.199.22 0 5 210228 
+221.2.44.75 4 4 0 20190626210414
+183.166.58.2 2 2 51916 20190605042126
+36.110.199.16 0 11 708162 
+64.233.172.60 1 1 25958 20190622162924
+185.190.105.179 1 1 25958 20190628084608
+36.110.199.44 1 5 295910 20190602081708
+5.3.197.234 1 1 25958 20190613213526
+64.233.172.62 1 1 25958 20190630195237
+14.215.176.16 0 5 117791 
+51.68.152.26 1 1 25958 20190605193306
+64.90.48.202 1 1 25958 20190604074824
+34.208.60.253 1 1 25958 20190606142043
+14.215.176.20 1 15 731179 20190616150723
+138.197.96.210 1 12 251166 20190627102804
+89.64.25.196 1 1 25958 20190627072213
+139.99.218.30 5 5 129790 20190630144231
+42.236.46.85 1 1 25958 20190627124723
+35.232.98.233 1 1 25958 20190604214533
+122.247.176.5 2 2 51916 20190607235422
+178.148.23.246 1 1 25958 20190602195105
+36.110.199.37 0 1 22139 
+116.255.174.76 1 1 25958 20190614180856
+34.217.64.200 1 36 3201632 20190604163836
+36.110.199.163 0 1 59799 
+36.110.199.43 0 3 113337 
+45.55.237.183 1 21 685595 20190614212524
+196.61.106.164 2 38 3202785 20190621204747
+54.244.189.160 1 1 25958 20190623171300
+34.219.228.84 1 1 25958 20190630184036
+203.217.242.13 1 1 25958 20190606114602
+49.85.189.186 1 1 25958 20190602012246
+36.110.199.10 1 6 328723 20190601235859
+36.110.199.49 0 4 281298 
+109.184.169.69 2 2 51916 20190608010238
+137.158.0.111 3 74 6404417 20190607115230
+14.215.176.4 1 2 123552 20190625153509
+196.192.170.138 1 36 3201632 20190626083532
+14.215.176.10 0 4 143262 
+14.215.176.12 0 4 184719 
+36.110.199.160 0 3 282364 
+180.97.35.61 0 2 189240 
+14.215.176.145 1 16 481901 20190624000853
+36.110.199.19 0 1 22139 
+36.110.199.24 1 9 437786 20190602081715
+36.110.199.42 0 6 910657 
+185.128.27.168 2 2 51916 20190602155805
+14.215.176.140 1 12 416734 20190615225055
+157.230.249.208 1 1 25958 20190603075841
+36.110.199.40 0 6 165743 
+64.62.202.71 2 2 51916 20190624160148
+36.110.199.145 0 7 255911 
+51.77.109.48 2 2 51916 20190617012925
+34.219.89.75 1 1 25958 20190625174411
+36.110.199.13 0 2 190654 
+159.203.37.0 4 4 103832 20190608090555
+14.215.176.143 0 3 109826 
+36.110.199.38 1 3 87394 20190630102249
+5.188.211.13 2 2 51916 20190617001852
+34.213.57.74 1 1 25958 20190603165049
+179.61.168.10 1 1 25958 20190624010013
+14.215.176.13 0 5 138606 
+138.197.64.38 1 12 251166 20190620124329
+112.206.26.140 1 36 3201632 20190629123039
+154.86.238.66 2 2 51916 20190623043403
+36.110.199.135 0 13 308299 
+36.110.199.23 0 10 897330 
+222.186.20.85 1 1 25958 20190602093156
+14.215.176.135 0 5 107840 
+149.202.52.116 1 1 25958 20190611210837
+142.93.71.22 1 12 251166 20190614153918
+167.160.75.123 1 1 25958 20190609040046
+36.110.199.178 0 6 60952 
+109.162.121.108 5 5 129790 20190612201040
+54.201.62.147 1 1 25958 20190628120332
+111.206.36.142 0 12 293807 
+14.215.176.141 0 12 388830 
+218.92.226.178 1 1 0 20190623013636
+14.215.176.14 0 4 218133 
+173.252.87.6 0 4 196104 
+54.209.139.93 1 1 25958 20190613060106
+36.110.199.159 0 3 319136 
+36.110.199.240 1 7 425136 20190623133543
+122.230.54.156 1 1 25958 20190627031735
+42.236.101.194 1 1 25958 20190619085148
+47.254.69.158 1 1 25958 20190630233908
+66.249.92.85 0 1 55968 
+41.56.22.163 4 4 103832 20190625134037
+58.20.108.148 1 1 25958 20190627152422
+14.215.176.133 1 18 463990 20190608125056
+36.110.199.29 0 1 531402 
+36.110.199.14 0 4 1154002 
+184.94.240.92 1 1 25958 20190601164044
+136.243.144.81 1 1 0 20190624103946
+36.110.199.174 0 3 282364 
+111.206.36.146 1 2 205355 20190625015656
+197.185.117.27 1 36 3201632 20190626153216
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190601 24 131 8529261 22
+20190602 35 151 8351202 32
+20190603 38 73 3461212 35
+20190604 21 110 7341218 20
+20190605 47 128 7147632 41
+20190606 24 80 4170966 23
+20190607 52 202 14509260 39
+20190608 31 107 4825489 26
+20190609 37 147 7588555 34
+20190610 50 117 4418226 48
+20190611 41 107 5332486 39
+20190612 49 104 4241619 42
+20190613 31 61 2259491 28
+20190614 45 76 1222299 39
+20190615 35 77 1627172 31
+20190616 39 60 917418 35
+20190617 35 91 4170966 31
+20190618 26 90 5328018 25
+20190619 31 72 1628971 30
+20190620 21 53 1090710 20
+20190621 22 58 3280659 21
+20190622 37 67 2077785 36
+20190623 43 109 4492785 39
+20190624 19 149 8698318 16
+20190625 53 163 4919118 49
+20190626 24 119 8519540 20
+20190627 37 174 11057133 30
+20190628 33 42 1445905 29
+20190629 28 98 6710854 22
+20190630 36 94 4376534 30
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 925
+30mn-1h 4
+2mn-5mn 1
+5mn-15mn 1
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 1029 10331284 928 918
+/fonts/Flat-UI-Icons.woff 10 220520 2 10
+/pix_mail/new_contact.php 3 168 0 2
+// 2 25958 2 2
+END_SIDER

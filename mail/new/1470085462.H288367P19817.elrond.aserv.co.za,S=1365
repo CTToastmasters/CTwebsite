@@ -1,0 +1,37 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 01 Aug 2016 23:04:22 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1bUKNq-00059Y-6C
+	for cttoaqzb@elrond.aserv.co.za; Mon, 01 Aug 2016 23:04:22 +0200
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1bUKNq-00059Y-6C@elrond.aserv.co.za>
+Date: Mon, 01 Aug 2016 23:04:22 +0200
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: 
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 197.229.40.229
+From: mhdelport@gmail.com
+Reply-To: mhdelport@gmail.com
+X-Mailer: PHP/5.5.29
+Message-Id: <E1bUKNq-00059W-5F@elrond.aserv.co.za>
+Date: Mon, 01 Aug 2016 23:04:22 +0200
+
+
+Subscribe using flatpack form,
+name: thinus delport -  
+company: hobbs sinclair advisory -  
+email: mhdelport@gmail.com -  
+message: I am interested in joining the toastmasters. I have absolutely no experience in speaking in front of people but would love to develop the skill. Can I come check it out one night just to get a feel for it or how does it generally work?
+
+regards,
+Thinus Delport -  
+

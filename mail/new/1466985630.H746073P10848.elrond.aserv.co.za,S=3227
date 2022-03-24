@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 27 Jun 2016 02:00:30 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1bHJyY-0002os-F6
+	for cttoaqzb@elrond.aserv.co.za; Mon, 27 Jun 2016 02:00:30 +0200
+X-Failed-Recipients: admin@demolink.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bHJyY-0002os-F6@elrond.aserv.co.za>
+Date: Mon, 27 Jun 2016 02:00:30 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@demolink.org
+    host mail.demolink.org [69.65.10.169]
+    SMTP error from remote mail server after RCPT TO:<admin@demolink.org>:
+    550 No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.85)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1bHJyT-0002oR-OQ
+	for admin@demolink.org; Mon, 27 Jun 2016 02:00:25 +0200
+To: admin@demolink.org
+Subject: [Cape Town Toastmasters Club] Please moderate: "Audio Format"
+X-PHP-Script: www.cttoastmasters.org.za/wp-comments-post.php for 104.160.7.128
+Date: Mon, 27 Jun 2016 00:00:25 +0000
+From: WordPress <wordpress@cttoastmasters.org.za>
+Message-ID: <7a69adf09cae3aac87fa70497893c6ac@www.cttoastmasters.org.za>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Audio Format" is waiting for your approval
+http://www.cttoastmasters.org.za/portfolio-view/audio-format/
+
+Author: dresses (IP: 104.160.7.128, 104.160.7.128)
+Email: domingoclare@yahoo.de
+URL: http://dresses-clothing.reddress2016.com
+Comment: 
+For men, casual tops should include golf shirts and no tank tops or graphic T-Shirts.
+According to LL Cool J, this type of light show on  a gown was the 
+first time ever in the history of the Grammys.
+The little black dress is an eternal favorite to these occasions and looks adorably 
+stunning. By word of a disclaimer, a human resources representative must understand that even the aforementioned example of a dress code should be vetted by 
+an attorney to ensure that it meets a specific business' needs and its workforce's requirements.
+Pick your celebrity inspired party dresses, prom dresses and evening dresses from 
+Mc - Berry. It might also benefit to check the 
+weather for the day or evening of the event.
+
+Approve it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=approve&c=67#wpbody-content
+Trash it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=trash&c=67#wpbody-content
+Spam it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=spam&c=67#wpbody-content
+Currently 43 comments are waiting for approval. Please visit the moderation panel:
+http://www.cttoastmasters.org.za/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+

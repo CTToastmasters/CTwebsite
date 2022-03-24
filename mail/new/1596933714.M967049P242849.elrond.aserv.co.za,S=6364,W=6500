@@ -1,0 +1,136 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id EO1OLFJGL1+htAMAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Sun, 09 Aug 2020 02:41:54 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Sun, 09 Aug 2020 02:41:54 +0200
+Received: from spe3-3.ucebox.co.za ([197.242.156.253]:58166)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	id 1k4ZPO-0011nH-IU
+	for cttoaqzb@elrond.aserv.co.za; Sun, 09 Aug 2020 02:41:54 +0200
+Received: from Debian-exim by spe2.ucebox.co.za with local (Exim 4.92)
+	id 1k4ZPN-0000kp-8A
+	for cttoaqzb@elrond.aserv.co.za; Sun, 09 Aug 2020 02:41:53 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe2.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1596933713-eximdsn-214981277
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1k4ZPN-0000kp-8A@spe2.ucebox.co.za>
+Date: Sun, 09 Aug 2020 02:41:53 +0200
+
+--1596933713-eximdsn-214981277
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [108.177.126.27]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 Unauthenticated email from yahoo.co.uk is not accepted due to
+    550-5.7.26 domain's DMARC policy. Please contact the administrator of
+    550-5.7.26 yahoo.co.uk domain if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. uz17si7933874ejb.63 - gsmtp
+
+--1596933713-eximdsn-214981277
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe2.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.co.uk is not accepted due to
+ 550-5.7.26 domain's DMARC policy. Please contact the administrator of
+ 550-5.7.26 yahoo.co.uk domain if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. uz17si7933874ejb.63 - gsmtp
+
+--1596933713-eximdsn-214981277
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe2.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1k4ZPE-0000eh-S1
+	for capetowntoastmasters@gmail.com; Sun, 09 Aug 2020 02:41:50 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=elrond.aserv.co.za; s=default; h=Date:Sender:Message-Id:Reply-To:From:
+	Subject:To:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=sLi1ZIBUMQPMK/GUVM+UqU84thQZ3utFfmVRMepMjHc=; b=ak2Th8ngjNSyRRFrZF/i9ThEMX
+	EQTix53i2/8j86qUvTtag5VnPbfqjLWCDJXfS2gUWYiYTinvMYX31meFtfz46S+32Kj5GFWkmosQO
+	IwWh5yPGEDAMOo+3UhwTAGJD2+2qrCJUnmWV3sHxLFcOxY3AXPUFsM/NgNLglYDKlLYBXIdOahReT
+	oA484WrwjUjQ1GYz+gEnY4GRK+IBbcw2x5Y0s5XDIp3Cd7XhwK0MEDhhurhl6S62qc/oOO1bl37ng
+	WBishP5938C1ARJpqkkw1zt7ujgGjn6SCSR2YLGMzgKBx/wezpAsl4LUyGpkvnjbP5Ou9QeZ1G1gv
+	/KSSRhxQ==;
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.93)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1k4ZPE-0011bw-8I
+	for capetowntoastmasters@gmail.com; Sun, 09 Aug 2020 02:41:44 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 41.5.147.152
+X-PHP-Originating-Script: 1108:new_contact.php
+From: Thandekab13@yahoo.co.uk
+Reply-To: Thandekab13@yahoo.co.uk
+X-Mailer: PHP/5.6.40
+Message-Id: <E1k4ZPE-0011bw-8I@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Sun, 09 Aug 2020 02:41:44 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.75)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0fni+3cnVNNYyS96zEouVZ2pSDasLI4SayDByyq9LIhVE+WvSxq+sQk8
+ pk5uEu7NW0TNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDSRB/hobqWaKi0xa9GH5046Ig
+ wMBQaYE5GydeiaTz8neY/RLwb8LtNblQmhlQVhqrWP0AxmnSG0HTyaHHEuwRoNqwTTJhLChIm0ME
+ lNcQXjhafWIPXwL+qlCJ9otFYniBK1eiQfX8GxSqRTxkcF+GvWr6G0fwOoASRHdY8j1Qv0P/bO1f
+ cnnzib2D8Ci9a5zfvgIFPc0kOmcpQLMqFhGNn611qc5TTtnihBuF8qtjLQ/YOACnRq3hbWW5upKA
+ BHmcUHK7AGVIZb+C6ENVpSDX95B4RMjNrYhKfl0SAFHN1M5EDBffVZVjmVaNbG4ZJG7FZd/k02ha
+ rHDNPthBvZure4PKIqvZs5sK20G07pUoO47lgTl6fJxyntEfhZCKje4Z+H/TI0JOTEAZlZOJHJSe
+ C/fSMcMf87BqAWvnrPucBntwjn7Xut/lXagsodd5qqODTFiwcpU4fyz75jxpU98RPGiH1Wgh6RAe
+ nBR+licROGbUXKnr5hD2Uea+OnpFqQFf7AnXOpIUVAinhm17HgcDGnqQWPiqXpna9yvRqQhomOvW
+ AYMG2hi9WkxAAFYmqV0OVISSBjP72rlE3V5Rz1fnSf3QzxUBjDlIxq/CY6GWA8+LBDMrD7q/cJog
+ wbqzsuokd3z6+XiIrEcrq0jWqQQysM+tnmWgfcQgQ2H/enFJ3h0ZOctiEroEfRPxnX5JroyDaIRg
+ vF2qPhu1vgQHOBuFoLthzc3ac/iwu8pubAZAIsLcOXhAFR7W3VAt1WVwlGbM9R/2gMGq0KWAzmMf
+ +ibVDlRLGxWk0O9PpOE6NeZwKScjw4UwWmiKKVpVDnBT9+3/0ZsaAOm7ntCIGw02hdkYwWCKT7UC
+ Ugd1//AVJHZcsG0gyKpU/Rc9PH5J3n0gtEn7Jj4X3qFX7QzXWGGhaKK9N3K8BZ6MtRHa95r/zPjx
+ QbM=
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: Thandeka Buthelezi -  
+email: Thandekab13@yahoo.co.uk -  
+message: Hi, 
+
+Are the toast master classes still on during this period? 
+Is there another toast master closet to the Seapoint? 
+
+Regards, 
+Thandeka  -  
+
+
+--1596933713-eximdsn-214981277--

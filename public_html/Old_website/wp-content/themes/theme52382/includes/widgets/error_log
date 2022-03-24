@@ -1,0 +1,3 @@
+[07-Nov-2015 12:10:36 UTC] PHP Fatal error:  Class 'WP_Widget_Recent_Comments' not found in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/widgets/my-comment-widget.php on line 2
+[07-Nov-2015 12:34:43 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/widgets/my-social-widget.php on line 3
+[13-Apr-2016 21:09:14 UTC] PHP Fatal error:  Class 'WP_Widget_Recent_Comments' not found in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/widgets/my-comment-widget.php on line 2

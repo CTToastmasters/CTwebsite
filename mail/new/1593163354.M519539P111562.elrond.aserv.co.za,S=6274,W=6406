@@ -1,0 +1,132 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id WRtEFlq+9V7KswEAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Fri, 26 Jun 2020 11:22:34 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Fri, 26 Jun 2020 11:22:34 +0200
+Received: from spe6-1.ucebox.co.za ([197.242.156.222]:54648)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	id 1jokZ8-000TWZ-8J
+	for cttoaqzb@elrond.aserv.co.za; Fri, 26 Jun 2020 11:22:34 +0200
+Received: from Debian-exim by spe12.ucebox.co.za with local (Exim 4.92)
+	id 1jokZ7-0006ty-7g
+	for cttoaqzb@elrond.aserv.co.za; Fri, 26 Jun 2020 11:22:33 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe12.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1593163353-eximdsn-430072964
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1jokZ7-0006ty-7g@spe12.ucebox.co.za>
+Date: Fri, 26 Jun 2020 11:22:33 +0200
+
+--1593163353-eximdsn-430072964
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [173.194.76.26]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 Unauthenticated email from ymail.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of ymail.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. l1si26105199wrm.551 - gsmtp
+
+--1593163353-eximdsn-430072964
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe12.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from ymail.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of ymail.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. l1si26105199wrm.551 - gsmtp
+
+--1593163353-eximdsn-430072964
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe12.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1jokZ1-0006oI-KP
+	for capetowntoastmasters@gmail.com; Fri, 26 Jun 2020 11:22:30 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=elrond.aserv.co.za; s=default; h=Date:Sender:Message-Id:Reply-To:From:
+	Subject:To:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=EmgBWuoFdU9q1E8pQTEvNumi12Dy5CjTiJH+FpSHz/w=; b=dPmV1QFAkNsVfgo8cw/mbQcwWj
+	mzxf00VkpjxYxhN5Ry4JcwtKdeu+PwnRIm1P7NEL+buICxB1uBmEJg4XFYQ4dwWoMWWdmWBdM72ig
+	tCbCJAkqZ8edLvUsq8gioQ1tgrNpgC8LHmyN+n6kBBz+vK4m4tKqrxLXK/3RJESe2CDbpIPnxA5Mf
+	OKIQqJGtUhu42I3f1jJcl6NEEtBcgKea9uZiYiQn1Qsc4aqcdZ+t8gMLGR1n/MydYMTmCF0j1usBr
+	5SCJZhVGygwo0spfR2oDJaFZzX08rfcVMRRn4KP5aUHKBQt2U6Lf2cYG5vq+75xgUEZjyDDn9pkWe
+	xxxtmT6Q==;
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.93)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1jokZ1-000T8W-Ba
+	for capetowntoastmasters@gmail.com; Fri, 26 Jun 2020 11:22:27 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 41.138.66.234
+X-PHP-Originating-Script: 1108:new_contact.php
+From: spencer_cat@ymail.com
+Reply-To: spencer_cat@ymail.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1jokZ1-000T8W-Ba@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Fri, 26 Jun 2020 11:22:27 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.76)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0f6LF1GdvkEexklpcFpSF5apSDasLI4SayDByyq9LIhV9k9JWluHthv0
+ mDwCDZwYIETNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDSRB/hobqWaKi0xa9GH5046Ig
+ wMBQaYE5GydeiaTz8neY/RLwb8LtNblQmhlQVhqrJsNpoSX80RDnessB5gQrCdqwTTJhLChIm0ME
+ lNcQXjhafWIPXwL+qlCJ9otFYniBK1eiQfX8GxSqRTxkcF+GvWr6G0fwOoASRHdY8j1Qv0NVj2Ps
+ UTfJ79WeLJWQGnKA3mMZpk09Eao7oARKjaEtQhVVJ2mVvokCO2vVjpfr/eX3+RWxljT0AAJgouHP
+ rg5R/iNVpo7cgZM1aCT5PLncejJNEw0cYcSmmSZw54zIlrmjzzoz6PrQ8BQlXPo12LYeCgJQTfTx
+ VnQ8Q4AmlQvnqtTUbFHc1msMenV9DSfAc7ffX8TdqEXkwxwMjsp2mNAp766WQn3gbdSAFIfbLfo1
+ TA8UKydtMF4pW89pDPZgGTM7/hwjNvmMkS9BXTs5dO3GKP9pWZyqSwiZS/khPlqY4hqZR3KVQgqF
+ /fPYYAfEfsiyxhIDbTRVma/z6wOG4z0ML4pS23KSOiF/jrk2bPp56o9IlyZP/UMi/9wZOMqhZOwj
+ yRIJSNF7glsJI8dkUB2QkI5GCVgMWHA82Ixcl5CHVAE9FrvLEUPXJbB4TOB4dAFErSs0X3oyoTc8
+ j/o7qulxdc6skBA90sZbFC9mrP9aFESeD8k8I8DQ/K8/KBXkVurl/NBnbJJo61mujSnOavg6lbf8
+ QBy5lZYQTIHEo7VlsvLscISqpvfBt3u6AhlBHPZ4HIF4UmZSCBrs/QVDdhbuJOYIJd4MvQ0Nf4Ec
+ bvHO1TBLdeuvQSRRDTuTWajcIq2LeBT2pOsDMU8AEHfisdZ2UGObu8G44VDxiorDAMw9A8yZU8LO
+ fYflSb1vtU1FfAyeHWBdJ0MC9P57USm5f9iusS4WtE1BWfyl+aVGmi75nnndwcgUdq9CmjcVQOst
+ ghA=
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: C Spencer -  
+email: spencer_cat@ymail.com -  
+message: Hello! Please send me details of your next online meeting. 
+
+thanks. -  
+
+
+--1593163353-eximdsn-430072964--

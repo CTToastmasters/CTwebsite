@@ -1,0 +1,300 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Fri, 21 Jul 2017 08:07:34 +0200
+Received: from mail-wm0-f65.google.com ([74.125.82.65]:33808)
+	by elrond.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	id 1dYR65-0005IH-Vf
+	for cttoaqzb@elrond.aserv.co.za; Fri, 21 Jul 2017 08:07:34 +0200
+Received: by mail-wm0-f65.google.com with SMTP id p204so5801533wmg.1
+        for <cttoaqzb@elrond.aserv.co.za>; Thu, 20 Jul 2017 23:07:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20161025;
+        h=from:to:auto-submitted:subject:references:in-reply-to:message-id
+         :date;
+        bh=uibV7qotYtVTcldkcf/gj6WThod3JiiOnbl6Axnh3Ss=;
+        b=JVKyY9Mm/JwqaTYEFNSHVcdr6AE3TbNvDvjfxDYOqfh3OMgX9qPkQMeZJAYXAC/exf
+         pBRUNDY036D2AiVOLM+2Ihxdc0JNC9xN3Iokxb0YIaKz3TiParGNKoDy9vGYpReUWJX2
+         iafFSOxvpPvH0Gr9f4dvu/1vZfceH2BmaoJqjzRTevO2Q4Z9ROTVGx9eZXEDIO/JYxzS
+         PxE45VIWa2oRg9vwyKpsAF1TU5pLFn2BbYgyjMLudUruxlPY0ODUurdozVdW+dLQgkM7
+         EKkrheeh8YVHY+WtBJ95DzoYGs6chGYpBOw652YDqJ7axg5Ir05xF2rMNYgKrIUtCxM1
+         lBTg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:auto-submitted:subject:references
+         :in-reply-to:message-id:date;
+        bh=uibV7qotYtVTcldkcf/gj6WThod3JiiOnbl6Axnh3Ss=;
+        b=M0nDeJ25KV6pMPRQt+WRPIoPhYFtkxYvJNdcN7E+Pf+YYPigvjCdHPncc/xem/unY7
+         YmCaeCAlilEt2DPDLbRdZt3VHsPnA573vUeXWtUF8ZwiQ+S6G80hgqXPTKSLeRGPuuJm
+         JTx5+VKOIt+bLH0hchklF4+ujhLsM52TGwwXTeexVIGdnc+b6usF8juqNyl6Uy2SIClV
+         Ewsen+/9rzhYcYfWG8x9Ywo3BpxsxEBuSXM6z1zfj7fLfogqRV4rUm/18MT8lv94oV6y
+         AcJVns8OFrAVOL7YUtDEw6HnpXUGHtNIpdS8R9m+u8TnvwP+cI2BiStn6xrth6JGIEOv
+         BPAQ==
+X-Gm-Message-State: AIVw110rDRC57/S1K9c3WnmIwYZZ//C3JdiLIRljzYJ5MHUXv3ac8WwR
+	BDGBrlG0Yp8TZu+7xJ8UCkivu6sbT/2lC3ZuCaQR
+X-Received: by 10.28.152.206 with SMTP id a197mr4056691wme.7.1500617212647;
+        Thu, 20 Jul 2017 23:06:52 -0700 (PDT)
+Content-Type: multipart/report; boundary="001a114b2af8e7531c0554cdabb5"; report-type=delivery-status
+Received: by 10.28.152.206 with SMTP id a197mr4448434wme.7; Thu, 20 Jul 2017
+ 23:06:52 -0700 (PDT)
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+To: cttoaqzb@elrond.aserv.co.za
+Auto-Submitted: auto-replied
+Subject: Delivery Status Notification (Delay)
+References: <E1dY4D4-0005oO-9C@elrond.aserv.co.za>
+In-Reply-To: <E1dY4D4-0005oO-9C@elrond.aserv.co.za>
+Message-ID: <597199fc.ce981c0a.9177a.8437.GMRIR@mx.google.com>
+Date: Thu, 20 Jul 2017 23:06:52 -0700 (PDT)
+
+--001a114b2af8e7531c0554cdabb5
+Content-Type: multipart/related; boundary="001a114b2af8e7537a0554cdabb6"
+
+--001a114b2af8e7537a0554cdabb6
+Content-Type: multipart/alternative; boundary="001a114b2af8e753800554cdabb7"
+
+--001a114b2af8e753800554cdabb7
+Content-Type: text/plain; charset="UTF-8"
+
+
+** Delivery incomplete **
+
+There was a temporary problem delivering your message to chris@chrisadlamnlp.com. Gmail will retry for 47 more hours. You'll be notified if the delivery fails permanently.
+
+Learn more here: https://support.google.com/mail/?p=DisabledUser
+
+The response was:
+
+The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+
+--001a114b2af8e753800554cdabb7
+Content-Type: text/html; charset="UTF-8"
+
+
+<html>
+<head>
+<style>
+* {
+font-family:Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+</style>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" class="email-wrapper" style="padding-top:32px;background-color:#ffffff;"><tbody>
+<tr><td>
+<table cellpadding=0 cellspacing=0><tbody>
+<tr><td style="max-width:560px;padding:24px 24px 32px;background-color:#fafafa;border:1px solid #e0e0e0;border-radius:2px">
+<img style="padding:0 24px 16px 0;float:left" width=72 height=72 alt="Error Icon" src="cid:icon.png">
+<table style="min-width:272px;padding-top:8px"><tbody>
+<tr><td><h2 style="font-size:20px;color:#212121;font-weight:bold;margin:0">
+Delivery incomplete
+</h2></td></tr>
+<tr><td style="padding-top:20px;color:#757575;font-size:16px;font-weight:normal;text-align:left">
+There was a temporary problem delivering your message to <a style='color:#212121;text-decoration:none'><b>chris@chrisadlamnlp.com</b></a>. Gmail will retry for 47 more hours. You'll be notified if the delivery fails permanently.
+</td></tr>
+<tr><td style="padding-top:24px;color:#4285F4;font-size:14px;font-weight:bold;text-align:left">
+<a style="text-decoration:none" href="https://support.google.com/mail/?p=DisabledUser">LEARN MORE</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr style="border:none;background-color:#fff;font-size:12.8px;width:90%">
+<td align="left" style="padding:48px 10px">
+The response was:<br/>
+<p style="font-family:monospace">
+The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+</p>
+</td>
+</tr>
+</tbody></table>
+</body>
+</html>
+
+--001a114b2af8e753800554cdabb7--
+--001a114b2af8e7537a0554cdabb6
+Content-Type: image/png; name="icon.png"
+Content-Disposition: attachment; filename="icon.png"
+Content-Transfer-Encoding: base64
+Content-ID: <icon.png>
+
+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
+--001a114b2af8e7537a0554cdabb6--
+--001a114b2af8e7531c0554cdabb5
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; cttoaqzb@elrond.aserv.co.za
+Arrival-Date: Wed, 19 Jul 2017 22:41:18 -0700 (PDT)
+X-Original-Message-ID: <E1dY4D4-0005oO-9C@elrond.aserv.co.za>
+
+Final-Recipient: rfc822; chris@chrisadlamnlp.com
+Action: delayed
+Status: 4.0.0
+Diagnostic-Code: smtp; The email account that you tried to reach is disabled. Learn more at https://support.google.com/mail/?p=DisabledUser
+Last-Attempt-Date: Thu, 20 Jul 2017 23:06:52 -0700 (PDT)
+Will-Retry-Until: Sat, 22 Jul 2017 22:41:18 -0700 (PDT)
+
+--001a114b2af8e7531c0554cdabb5
+Content-Type: message/rfc822
+Content-Transfer-Encoding: quoted-printable
+
+X-Received: by 10.28.152.206 with SMTP id a197mr1430306wme.7.1500529278845;
+        Wed, 19 Jul 2017 22:41:18 -0700 (PDT)
+ARC-Seal: i=3D1; a=3Drsa-sha256; t=3D1500529278; cv=3Dnone;
+        d=3Dgoogle.com; s=3Darc-20160816;
+        b=3DLdvFnEZ5UegFYD0PJfJVhayP/X5Ap3ItIgkqh6lo91Kikwk8pM6A0gtXB5h6kD4=
+IL2
+         qx8xAQuUSnGO16otVGk/On+Ppc577uWKHIKb32YFSgG6W5FuQwidr14IEtaFOlI3af=
+hX
+         y1pP2XtlsMwuVi/21MDXGlRtpc7DHoMMH8lldf57RBwbv6y622UZOE8OGRvblXjbVY=
+tO
+         XWZnvYDlX6n4EwGnOiYtXg6y6mNme2fmSdc61/ZB0OA/HG6Hs42jo3WvJZyDPz7m+7=
+P7
+         yNgGvVuO5mfgG50ZSvCcEjp1ErPVz+QKvr1fHXqh3uwSl6Jm1S+w07khiCl5iKA5aG=
+4y
+         3PKg=3D=3D
+ARC-Message-Signature: i=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed; d=3Dgoog=
+le.com; s=3Darc-20160816;
+        h=3Ddate:message-id:reply-to:from:subject:to:arc-authentication-res=
+ults;
+        bh=3DvSztOj1Jw52j64icqP8v1yWU/BnFX482WjU6+6YB55U=3D;
+        b=3DNs/tc6Ma6uIzg2U0ajxc7ELv/VP1dDFntAjn9wZ7195jiCy3RhoWut/HpEdKEII=
+x2B
+         0QtJasEOMWF9NW0dhBSFwDKU5Ya3ZTH0kSwe2L2AElClMUJS7SaFVZ5MI6PzGbI6A3=
+uR
+         sMPkV/yMRIq/urHtF36e026V637IlqqLOI4qdoac0KxlwMXGv3V8K/HyyZ61n7jXM7=
+O1
+         LVG00DhqmeRv+bXwOCqYI7oTyva0EM1PYhQk4RAL2WSOLdMuy9BzvoQJQ/vXepPtRT=
+K6
+         jBZ7q0wk68Cs7EXWuZQaEs62cXiCNSrgXYePDjhPvCyH5fhqz+WwQN48xjHYrExuT0=
+YI
+         lB+g=3D=3D
+ARC-Authentication-Results: i=3D1; mx.google.com;
+       spf=3Dpass (google.com: best guess record for domain of cttoaqzb@elr=
+ond.aserv.co.za designates 154.0.172.230 as permitted sender) smtp.mailfrom=
+=3Dcttoaqzb@elrond.aserv.co.za
+Return-Path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za (elrond.aserv.co.za. [154.0.172.230])
+        by mx.google.com with ESMTPS id 76si1088440wmi.70.2017.07.19.22.41.=
+18
+        for <chris@chrisadlamnlp.com>
+        (version=3DTLS1_2 cipher=3DECDHE-RSA-AES128-GCM-SHA256 bits=3D128/1=
+28);
+        Wed, 19 Jul 2017 22:41:18 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of cttoaqzb@el=
+rond.aserv.co.za designates 154.0.172.230 as permitted sender) client-ip=3D=
+154.0.172.230;
+Authentication-Results: mx.google.com;
+       spf=3Dpass (google.com: best guess record for domain of cttoaqzb@elr=
+ond.aserv.co.za designates 154.0.172.230 as permitted sender) smtp.mailfrom=
+=3Dcttoaqzb@elrond.aserv.co.za
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.87)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1dY4D4-0005oO-9C
+	for chris@Chrisadlamnlp.com; Thu, 20 Jul 2017 07:41:14 +0200
+To: chris@Chrisadlamnlp.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 197.98=
+.7.218
+From: bouwe.vandereems@dimensiondata.com
+Reply-To: bouwe.vandereems@dimensiondata.com
+X-Mailer: PHP/5.6.30
+Message-Id: <E1dY4D4-0005oO-9C@elrond.aserv.co.za>
+Date: Thu, 20 Jul 2017 07:41:14 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with a=
+ny abuse report
+X-AntiAbuse: Primary Hostname - elrond.aserv.co.za
+X-AntiAbuse: Original Domain - chrisadlamnlp.com
+X-AntiAbuse: Originator/Caller UID/GID - [1517 501] / [47 12]
+X-AntiAbuse: Sender Address Domain - elrond.aserv.co.za
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/on=
+ly user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php=20
+X-Source-Dir: cttoastmasters.org.za:/public_html/pix_mail
+
+
+Subscribe using flatpack form,
+name: Bouwe van der Eems - =20
+email: bouwe.vandereems@dimensiondata.com - =20
+message: Hi there
+
+I am from the Milnerton residents association. There will be a by election =
+in our ward (Ward 4) in August and several political parties will contest t=
+he election. In order for residents to make a more informed vote, we are ex=
+ploring the possibility of organising a public debate where the different p=
+arties can state their case. However, we will need an experienced and impar=
+tial person that can facilitate such a debate. Would Toastmasters perhaps b=
+e interested to provide a person that can facilitate such a debate? - =20
+
+
+--001a114b2af8e7531c0554cdabb5--

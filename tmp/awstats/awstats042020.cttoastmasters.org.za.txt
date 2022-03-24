@@ -1,0 +1,1720 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2698                
+POS_VISITOR 62765               
+POS_DAY 72006               
+POS_DOMAIN 3571                
+POS_LOGIN 4201                
+POS_ROBOT 4356                
+POS_WORMS 5321                
+POS_EMAILSENDER 5452                
+POS_EMAILRECEIVER 5595                
+POS_SESSION 72865               
+POS_SIDER 73057               
+POS_FILETYPES 5730                
+POS_DOWNLOADS 5946                
+POS_OS 6141                
+POS_BROWSER 6509                
+POS_SCREENSIZE 8316                
+POS_UNKNOWNREFERER 8390                
+POS_UNKNOWNREFERERBROWSER 8968                
+POS_ORIGIN 9336                
+POS_SEREFERRALS 9480                
+POS_PAGEREFS 9661                
+POS_SEARCHWORDS 54915               
+POS_KEYWORDS 55067               
+POS_MISC 2361                
+POS_ERRORS 55126               
+POS_CLUSTER 4057                
+POS_SIDER_404 55229               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501013956 86 17714 13059443782508
+FirstTime 20200401004950
+LastTime 20200430220019
+LastUpdate 20200501142711 86 0 85 0 0
+TotalVisits 1414                
+TotalUnique 223                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 236                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 31 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 49 123 7039497 48 71 752844
+1 96 131 3509686 23 49 985405
+2 229 264 3431893 41 65 710321
+3 114 154 892694 77 109 588569
+4 56 56 181517 19 36 312322
+5 30 41 406725 23 35 390115
+6 26 95 6410177 108 140 681862
+7 10 65 4169323 29 59 1420206
+8 13 51 4204099 39 62 546121
+9 8 28 867085 102 153 1457659
+10 9 79 6835666 39 55 459552
+11 8 114 10167177 35 59 184967
+12 56 178 10759732 110 139 949205
+13 111 168 5808252 34 92 1088377
+14 38 176 13555768 41 84 1005544
+15 78 226 13842075 60 90 363034
+16 92 233 13626523 100 144 1343558
+17 46 223 17273991 46 77 2206464
+18 88 123 3535617 48 65 407312
+19 91 547 44182238 64 86 835867
+20 114 223 10374984 100 113 413656
+21 48 103 4216071 52 68 691018
+22 25 26 26168 59 73 614760
+23 29 58 2375340 88 103 447619
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+ru 762 762 363034
+sa 326 326 0
+us 124 1438 120031216
+ua 61 61 25931
+uz 56 56 0
+gb 18 191 15636138
+cn 17 51 3237594
+id 17 167 15473608
+ca 17 37 1074533
+it 15 15 388965
+za 10 195 16592282
+in 8 8 207448
+de 7 43 3484908
+nl 5 75 6785993
+th 3 3 77793
+ch 2 2 51862
+cz 2 2 51862
+vn 2 2 51862
+mu 2 38 3355253
+hr 2 2 51862
+ro 2 2 51862
+dk 1 1 25931
+no 1 1 25931
+pk 1 1 25931
+pl 1 1 25931
+ie 0 3 542706
+es 1 1 25931
+gr 1 1 25931
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+Googlebot/ 287 6298510 20200430185518 0
+bingbot/ 60 1665441 20200430074523 0
+msnbot/ 26 2471396 20200410175617 0
+facebookexternalhit/ 23 1650276 20200422090315 0
+YandexBot/ 14 363034 20200430071119 0
+bot[\s_+:,\.\;\/\\-] 11 285241 20200428120020 0
+360Spider 10 259310 20200430215234 0
+Applebot/ 9 450858 20200429085627 0
+Sogou[\x20]web[\x20]spider/ 9 129655 20200427132515 0
+MJ12bot/ 7 181517 20200427002529 0
+no_user_agent 6 103724 20200417033442 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 103724 20200426082256 0
+robot 3 77793 20200415151051 0
+crawl 2 51862 20200429140746 0
+MegaIndex\.ru/ 1 25931 20200419121839 0
+DuckDuckGo\-Favicons\-Bot/ 1 25931 20200426084851 0
+AhrefsBot/ 1 25931 20200408114339 0
+KomodiaBot/ 1 25931 20200427061818 0
+Baiduspider/ 1 0 20200412215419 0
+BLEXBot/ 1 25931 20200424223109 0
+link 1 25931 20200425131823 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+txt 19 1450 0 0
+php 4 224 0 0
+js 680 14000589 0 0
+css 583 26827573 0 0
+html 1457 6742060 0 0
+jpg 533 133337056 0 0
+woff 3 66156 0 0
+png 206 6717190 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/5AA4A9A8380EF26C8CE344701B9F2851.txt 18 0 1386
+/.well-known/pki-validation/0962CEBDDB505D3529EE5450E5E3D0E9.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+win10 251 73
+win7 180 63
+winlong 151 151
+win2008 147 147
+winunknown 748 748
+linuxubuntu 1 1
+linuxandroid 79 9
+macosx8 1 1
+win2003 145 145
+macosx10 7 7
+macosx12 35 1
+Unknown 67 17
+winnt 3 3
+win8.1 3 3
+ios_ipad 28 1
+linux 1284 52
+unix 72 2
+macosx 204 16
+winxp 11 11
+macosx9 2 2
+ios_iphone 65 10
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 83
+msie8.0 1 1
+opera62.0.3331.99 2 2
+chrome75.0.3770.142 24 3
+chrome26.0.1410.65 1 1
+chrome68.0.3440.84 2 2
+chrome31.0.1650.57 1 1
+msie2.00 222 222
+Unknown 33 11
+chrome79.0.3945.79 1 1
+chrome80.0.3987.132 1 1
+safari13.0.1 7 7
+firefox38.0 1 1
+firefox29.0 2 2
+firefox54.0 1 1
+chrome67.0.3396.87 1 1
+chrome65.0.3325.181 100 9
+safari12.1 85 3
+chrome67.0.3396.62 1 1
+chrome65.0.3312.0 35 1
+chrome76.0.3809.136 72 2
+chrome45.0.2454.101 5 5
+safari13.1 137 4
+chrome76.0.3809.132 1 1
+chrome46.0.2490.80 2 2
+opera53.0.2907.99 3 3
+chrome64.0.3282.167 1 1
+chrome68.0.3440.75 1 1
+chrome79.0.3945.88 3 3
+opera55.0.2994.44 2 2
+chrome21.0.1180.89 1 1
+chrome53.0.2785.104 1 1
+chrome78.0.3904.70 1 1
+firefox18.0 3 3
+chrome66.0.3359.170 16 16
+chrome52.0.2743.116 2 2
+chrome45.0.2454.94 1 1
+chrome72.0.3626.121 2 2
+msie6.00 177 177
+chrome77.0.3865.90 40 4
+chrome66.0.3359.181 32 32
+chrome41.0.2224.3 1 1
+msie3.00 204 204
+chrome78.0.3904.108 3 3
+chrome41.0.2272.89 4 4
+opera54.0.2952.64 2 2
+chrome68.0.3440.106 1157 37
+mozilla 47 19
+opera54.0.2952.54 2 2
+chrome81.0.4044.122 110 4
+chrome49.0.2623.112 1 1
+chrome79.0.3945.130 36 1
+chrome74.0.3729.157 38 3
+chrome50.0.6786.1733 22 1
+chrome41.0.2226.0 1 1
+chrome73.0.3683.90 1 1
+chrome50.0.2661.102 4 4
+chrome80.0.3987.162 37 2
+chrome41.0.2225.0 1 1
+chrome76.0.3809.100 1 1
+firefox59.0 1 1
+msie5.00 192 192
+chrome72.0.3626.109 4 4
+opera54.0.2952.51 1 1
+chrome80.0.3987.122 1 1
+firefox48.0 1 1
+chrome67.0.3396.79 2 2
+chrome63.0.3239.132 3 3
+msie4.00 195 195
+msie7.00 200 200
+chrome60.0.3112.107 3 3
+edge18 37 1
+netscape5.0 1 1
+chrome80.0.3987.149 76 5
+msie7.0 7 7
+chrome74.0.3729.131 1 1
+chrome67.0.3396.99 4 4
+msie9.0 15 4
+firefox75.0 1 1
+chrome41.0.2228.0 1 1
+iphone 36 2
+chrome4.0.221.8 1 1
+firefox57.0 3 3
+chrome79.0.3945.117 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200425235448
+myseosnapshot/1.0 20200423185706
+Mozilla/5.0 20200424024810
+Go-http-client/1.1 20200415070907
+COMODO_DCV 20200421032453
+Mozilla/5.0_(compatible;_ips-agent) 20200413180854
+Python/3.7_aiohttp/3.6.1 20200426134815
+AGENT 20200404140714
+adreview/1.0 20200406083500
+Python/3.7_aiohttp/3.0.9 20200409064535
+Mozilla/4.0_(compatible;_Netcraft_Web_Server_Survey) 20200430220019
+cortex/1.0 20200406083502
+python-requests/2.23.0 20200428015544
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+Python/3.7_aiohttp/3.0.9 20200409064535
+myseosnapshot/1.0 20200423185706
+adreview/1.0 20200406083500
+AGENT 20200404140714
+Python/3.7_aiohttp/3.6.1 20200426134815
+python-requests/2.23.0 20200428015544
+cortex/1.0 20200406083502
+COMODO_DCV 20200421032453
+Go-http-client/1.1 20200415070907
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 209 311
+From1 1 1
+From2 7 8
+From3 1207 1207
+From4 40 1958
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_co_za 1 1
+rr 6 6
+bing 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 856
+https://avto-second.com.ua/index.php 9 9
+http://lodki-pvh.com.ua 9 9
+https://hotkitchenspb.ru 9 9
+https://avtobesplatno.ru 8 8
+https://skillers.tech 8 8
+https://infection-covid.ru 7 7
+https://coronavirus-epidemiya.online 7 7
+https://magellanovastrana.ru 7 7
+https://coronaviruskazakhstan.online 7 7
+https://ivanovopack.ru 7 7
+https://priliv.com.ua 7 7
+https://advocat-auto78.ru 6 6
+https://prodaiteego.ru/metallicheskie-bytovki/ 6 6
+https://ag4x4.ru 6 6
+http://near-me-open.com 6 6
+https://www.prjadko.com 6 6
+https://prjadko.com.ua/pamjatniki.html 6 6
+https://xn--80aaeb1aqsibk.xn--p1ai 5 5
+http://openingtime.info 5 5
+https://masterclean-msk.ru 5 5
+http://szto-barnaul.ru 5 5
+https://besuchszeiten.info 5 5
+https://neonsignusa.com 5 5
+https://lanet.tv/genres/sport/ 5 5
+https://promopulse.info 5 5
+https://avtovokzal.gudzik.kiev.ua/avtobusi-v-italiju/ 1 1
+https://zvometall.ru/rezka-listovogo-metalla/ 1 1
+https://dobro-zdrav.ru/feodosiya/ 1 1
+https://agatpack.ru/podbors/po-tipu-mashin/palletoupakovshhiki/ 1 1
+https://xn--80ajljfinhdg8e1b.xn--p1ai/truboukladchik-tb-2-na-baze-traktora-dt-75/ 1 1
+https://king-remont.ru/remont-kvartir-v-novostroikah/ 1 1
+https://partnerskie-rody.com/category/otzyvy-o-sovmestnyh-rodah/ 1 1
+https://kotruck-service.ru/technique/vertolety/ 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/v-kirovsk/ 1 1
+https://narkozavisim.ru/lechenie-alkogolizma/ 1 1
+https://radiogo.ru 2 2
+https://vesna-msk.ru/pansionat-dlya-lezhachih-bolnyh/ 2 2
+https://domashnii-ochag.ru/uslugi/uhod-za-lyudmi-s-demencziej.html 1 1
+https://www.pamyatinet.ru/dlya-pamyati-mozga/nootropy/nootropy-stimulyatory-mozga.html 1 1
+https://www.ratingfirmporemontu.ru/okna/osteklenie/plastikovye-okna/ 1 1
+https://www.sq.com.ua/rus/news/energonezavisimost/ 1 1
+https://nonark.ru/tuapse/ 1 1
+https://www.ratingfirmporemontu.ru/remont/ 1 1
+https://www.brainymama.ru/detskie-avtokresla/rejting-avtokresel-0-18-kg.html 1 1
+https://rfserials.online/kanal-ntv/svoya-pravda-s-romanom-babayanom 1 1
+https://narkozavisim.ru/branch/shahty/ 1 1
+https://droidone.ru/cmartfoni/huawei/ 1 1
+https://www.gudzik.kiev.ua/plechevye-nakladki-podplechniki 1 1
+https://applepharma.su/catalog/ankiloziruyuschij-spondiloartrit 1 1
+https://kohiclicktest.org/click-test-20-sec.html 1 1
+https://uzvo.ru/avtomobil_nye_vesy_60_tonn/ 1 1
+https://mywasher.ru/installing-the-dishwasher 3 3
+https://alum.moscow 1 1
+https://rfserials.online/kanal-rossiya-1/pryamoj-efir-s-malaxovym 1 1
+https://www.gudzik.kiev.ua/kantu 1 1
+http://game-stok.ru/shooters-online/ 1 1
+https://partnerskie-rody.com/category/podgotovka-k-partnerskim-rodam/ 1 1
+https://pamjatnik.com.ua/nolink/ritualnaja-productions-prices 2 2
+https://med-cos.xyz/perelomy/perelom-nosa-simptomy-priznaki-metody-terapii/ 1 1
+https://pansionat-seasons.ru/dom-prestarelyh-kurganinsk/ 1 1
+https://zaokotak.ru/category/frukty-yagody/ 1 1
+https://pansionat-seasons.ru/uslugi/medicine/uhod-dlya-bolnyh-demenciej-sochi/ 1 1
+https://herbcart.ru 1 1
+https://www.komplaens-audit.top/stat-komplaens-audit/riski-dlya-yuristov-ugolovno-pravovye.html 1 1
+https://katok555.ru/arenda-asfaltnogo-katka/ 1 1
+https://zaokotak.ru 1 1
+https://kupime.kz/dom-dacha/mebel-i-interier/ 1 1
+https://domashnii-ochag.ru/uslugi.html 1 1
+https://oqex.io/markets 1 1
+https://promopulse.info/o-sajte/ 2 2
+https://www.pamyatinet.ru/pansionaty/pansionaty-po-oblastyam/moskva-i-moskovskaya-oblast-podmoskove.html 1 1
+https://spb.findquiz.ru/location 3 3
+https://narkonet.su/vyzov-narkologa/ 1 1
+https://pansionat-livadia.ru/meditsina/uhod-posle-operatsii/ 1 1
+https://gofelicitari.com 1 1
+https://stavropol-istok.ru/uslugi/medicine/uhod-za-tyajelobolnymi/ 1 1
+https://coronavirus-u-detei.ru/v-mire 4 4
+https://detkamkolyaski.ru 1 1
+https://re-exp.ru/buyer_info/ 1 1
+https://renovationclinic.ru/branch/vyvod-iz-zapoya-zheleznodorozhnyj/ 1 1
+http://tokshow.online/politicheskie_tok-show/vesti-v-subbotu-poslednie-vypuski/ 1 1
+https://sportyguru.ru/velotrenazher/top-nedorogih-velotrenazherov.html 3 3
+https://pansion-rostov.ru/uhod-za-lezhachimi/ 1 1
+https://stop-zavisimost.com/vyzov-narkologa/ 1 1
+https://www.obzormatrasov.ru/matrasy/lonax 1 1
+http://lex-center.ru 4 4
+https://vesna-msk.ru/reabilitaciya-posle-insulta/ 1 1
+https://dontimes.news/dobryie-novosti/ 1 1
+https://pavlovskiy-posad.online/rabota 2 2
+https://wise.promo/articles/actions/ 1 1
+https://domashnii-ochag.ru/uslugi/dom-internat-dlya-prestarelyh-i-invalidov.html 4 4
+https://pozvoniuristu.ru/nalogi 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/v-xabarovsk/ 1 1
+https://mywasher.ru 3 3
+https://avtokristall.ru/chrysler/grand_cherokee/ 1 1
+https://gazmgn.ru 1 1
+https://genezis-rehab.ru/armavir/vyzov-narkologa/ 1 1
+https://prostozaim24.ru/poleznoe/58-sposoby-ispravleniya-kreditnoy-istorii.html 1 1
+https://coronavirus-prognozy.ru/kak-perezhit-samoizolyatsiyu 2 2
+https://mmo-arena.ru/luchshie-onlayn-rpg 1 1
+https://gorod-svobody.ru/filialy/krym/yalta/ 1 1
+https://inzuro.ru/leasing/ 2 2
+https://avtovokzal.gudzik.kiev.ua/avtobusi-v-chehiju/ 1 1
+http://www.turism19.ru/category/ssha/ 1 1
+https://generals-cncgames.ru/popular-pc-games/ 1 1
+https://daily-motor.ru/category/autonews 4 4
+https://lanet.tv 1 1
+https://krovlin-dom.ru/catalog/elementi-besopasnosti/snegozaderzhateli/dlya-metallocherepitsy/ 2 2
+https://pansionat-evropa.com.ua/brovary-dom/ 1 1
+https://radiogo.ru/pop/ 2 2
+http://www.toastmasters.org/find-a-club 1 1
+https://xn----7sbba0ba9aoomhm0cr7h.xn--p1ai 1 1
+https://alum.moscow/jumbo-glazing/ 2 2
+https://revansh-clinic.ru/narkomaniya/narkologicheskaya-pomosch-na-domu/ 2 2
+https://www.gudzik.kiev.ua/belevaia-furnitura 2 2
+https://alum.moscow/windows-and-balconies/ 1 1
+https://dezborets.ru/unichtozhenie-tarakanov-bronnicy/ 1 1
+https://www.best-drinks.com.ua/vina-ru/moldavija/ 1 1
+https://glam-lady.ru 1 1
+https://suden.ru/zemelnoe-pravo/ 1 1
+https://besplatnye-programmy.com/raznoe-v-mobilnix-telefonax/1379-upravlenie-prilozheniyami-na-android-debloater.html 1 1
+https://online-mults.ru/cat/503 1 1
+https://wise.promo/print/lables/ 1 1
+https://good-com.ru/articles/radiatory-otopleniya.html 2 2
+https://avtokristall.ru/hyundai/accent/S4_2010-/1/ 1 1
+https://topnewsrussia.ru/category/koronavirus 1 1
+https://russtaxi.ru/taksi-anapa-beregovoe 1 1
+https://snab.kiev.ua 1 1
+https://xn----ctbjaeie4crd3j.xn--p1ai/category/bukety-iz-roz-perm/ 1 1
+https://freesmi.by/pandemiya-koronavirusa-kovid-19-v-rossii-statistika-na-segodnya 1 1
+https://pavlovskiy-posad.online/avto 1 1
+https://www.pamyatinet.ru/narusheniya-pamyati/bolezn-altsgejmera.html 1 1
+https://help-advisors.com/chem-otteret-skotch-ot-linoleuma.html 1 1
+https://torobrand.com 1 1
+https://rusagros.ru/ru/catalog/equipment-for-keeping-calves/machines-for-drinking-calves 1 1
+https://crazy-mining.org 1 1
+https://zaokotak.ru/category/myaso-ryba/ 2 2
+https://moskva.igosa.ru 3 3
+https://chipideil.ru/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA/kompjuternajaPomosch/ 1 1
+https://disel-auto.ru/czeny/ 1 1
+https://pandemiya-covid.ru/sredstva-zashhity/ 2 2
+http://101dinner.com/near-me-dominos-pizza-dudley-dy1-1ps-51-high-street 3 3
+https://medvio-sevastopol.ru/branch/koktebel/ 2 2
+https://renovationclinic.ru/rehab-narko-balashiha/ 1 1
+https://www.penza-press.ru/liter 3 3
+http://l.facebook.com/l.php 1 1
+https://russtaxi.ru/taksi-kerch-alushta 1 1
+https://www.sq.com.ua/rus/news/zozh/ 1 1
+https://russtaxi.ru/taksi-gelendjik-betta 1 1
+https://chey-telefon.ru 4 4
+https://remont-instrumenta.su/remont-instrumenta/remont-zatirochnoj-mashiny.html 1 1
+https://besplatnye-programmy.com/igri-raznoe/1239-programma-dlya-igry-po-seti-tunngle.html 1 1
+https://doktor.com.ru/speciality/psihoterapevt/ 1 1
+https://akloni.com/blog/posts/tag/1#cat 2 2
+https://mmo-arena.ru/dark-age 1 1
+https://www.best-drinks.com.ua/vina-ru/Argentina/ 1 1
+https://www.perevod24.com/ustnyj-perevod 2 2
+https://suden.ru 1 1
+https://needmana.com/wow-gold/escape-from-tarkov-currency-and-items/ 1 1
+https://agatpack.ru/podbors/po-tipu-mashin/oborudovanie-dlya-gruppovoj-upakovki/ 2 2
+https://kotruck-service.ru/technique/avtovyshkiavtokrany/ 1 1
+https://pavlovskiy-posad.online/novosti 2 2
+https://dramtezi.ru/category/sekret 1 1
+https://re-exp.ru/seller_info/ 1 1
+https://lambre-vip.com/tags/lambre33/ 1 1
+https://clinicrehab.ru/armavir/alkogolizm/ 1 1
+https://partnerskie-rody.com/category/psihologiya-partnerskih-rodov/ 1 1
+https://online-mults.ru/cat/2 1 1
+https://lk-tricolor.ru 4 4
+https://ledyinfograd.ru/category/analogi 1 1
+https://sensmarket.com.ua/tovary-dlya-sushi/ingredienty-dlya-sushi-i-rollov/ 1 1
+https://rfserials.online/kanal-rossiya-1/vecher-s-vladimirom-solovevym 1 1
+https://woodbark.ru/products/karkasnyj-dom-proekt-1 1 1
+https://pansionat-livadia.ru/dom-v-podolske/ 1 1
+https://velesritual.com.ua/funeral.html 3 3
+https://mmo-arena.ru/war-thunder 1 1
+https://sportyguru.ru/velotrenazher/top-velotrenazherov-dlya-pohudeniya.html 1 1
+https://alloprokat.ru 2 2
+https://spb.findquiz.ru/admin/quiz-please-spb 1 1
+https://iphone26.ru/catalog/derzhateli-i-podstavki.html 1 1
+https://gofelicitari.com/de-dor.html 1 1
+https://narkomaniya-net.ru/vyvod-iz-zapoya-luhovitsy/ 1 1
+https://www.brainymama.ru/detskie-avtokresla/rejting-avtokresel-15-36-kg.html 2 2
+https://yutpansion.ru 1 1
+https://www.alcoshop15.ru/shampanskoe/shampanskoe-quot-moet-roze-quot-0-75l-suhoe 1 1
+https://gofelicitari.com/scuze-iarta-ma.html 1 1
+https://tubba.ru/browse-razvlecheniya-videos-1-date.html 1 1
+https://besplatnye-programmy.com/raznoe-dlya-razrabotchikov/1095-ibexpert8239.html 1 1
+https://sportyguru.ru/velotrenazher/top-domashnih-velotrenazherov.html 1 1
+https://www.prjadko.kiev.ua/banners/507-rushnychok.html 1 1
+http://podarok-na-den.ru/kaskad-shampanskogo/ 1 1
+https://dobro-zdrav.ru/feodosiya/alkogolizm/ 1 1
+https://kupime.kz 1 1
+http://oliaus.ru/category/posetiteli-na-sajt/ 1 1
+https://promokodil.ru/meleon/ 1 1
+https://www.grand-ritual.kiev.ua 2 2
+https://panamka.by/mesta/ 1 1
+https://pansionatochag.ru/uslugi/medicine/posleoperacionnyj-uhod/ 1 1
+https://inzuro.ru/osago/ 2 2
+https://dobro-zdrav.ru/feodosiya/narkomaniya/ 1 1
+https://pansionat-livadia.ru/uslugi-sidelki/ 1 1
+https://paratselsis.ru/branch/tihoretsk/ 1 1
+https://tver.droidone.ru/hi-fi-audio/akusticheskie-sistemy/komplekty-akustiki-51/ 1 1
+https://savial.ru/avtomatizacija-torgovli/displei-pokupatelja/ 1 1
+https://edem-msk.ru/dom-prestarelyh-kashira/ 1 1
+https://stop-zavisimost.com/lechenie-narkomanii-uman/ 1 1
+https://alum.moscow/glazing-of-cottages/ 1 1
+https://narkozavisim.ru/branch/volgodonsk/ 1 1
+https://msk.vupe.ru/catalog/odezhda/ 2 2
+http://stolovato.com.ua/katalog/multiklapan-/balloni-bitovie 1 1
+https://pansionat-seasons.ru/ejsk-dom/ 1 1
+https://aplaster.ru/styazhka-pola-pod-laminat/ 1 1
+https://genezis-rehab.ru/novorossijsk/lechenie-ot-solej/ 1 1
+https://needmana.com/wow-gold/buy-warmane-outland-gold/ 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/naxodka/ 1 1
+https://www.goodroofing.ru/products/metallicheskie-sofity/ 1 1
+https://banks-wiki.com/poleznye-instruktsii/kak-otklyuchit-avtoplatezh-sberbanka.html 1 1
+https://pansionat-livadia.ru/dom-v-noginske/ 1 1
+https://my-stickers.ru/category/dlya-vannoy/ 1 1
+http://posetke.ru 2 2
+https://vmnews.ru/novosti/2020/03/11/vybor-i-pokupka-lazernyh-stankov-i-aksessuarov 4 4
+https://snab.kiev.ua/laser-gravirovka 2 2
+https://dobro-zdrav.ru 1 1
+https://stilnaya-podruga.ru/moda/30-top-7-samyh-modnyh-strizhek-na-2019-god.html 1 1
+https://amkdoor.ru/otdelka/ 1 1
+https://domashnii-ochag.ru 1 1
+https://dezborets.ru/unichtozhenie-kleshej-shatura/ 1 1
+http://pr.ua/catalog/news/82 1 1
+https://partnerskie-rody.com/category/zakonodatelstvo-o-partnerskih-rodah/ 1 1
+https://zaokotak.ru/category/sousy-spetsii/ 1 1
+https://pozvoniuristu.ru/advokat 1 1
+http://stolovato.com.ua/contacts 2 2
+https://wise.promo/print/2layers/ 1 1
+https://lambre-vip.com/shop/parfyumeriya/dukhi-lambre-19/ 1 1
+https://pokemondamagecalculator.com 4 4
+https://kocos.kz/cat/volosy/shampuni/ 1 1
+https://promokodil.ru/aliexpress/ 1 1
+https://stop-zavisimost.com/zhitomir/ 1 1
+https://metaphysican.com/dom/ 1 1
+https://gorod-svobody.ru/filialy/krym/feodosiya/ 1 1
+https://my-stickers.ru/category/peyzazh/ 1 1
+https://agatpack.ru/podbors/po-tipu-mashin/vakuumnye-upakovshhiki/promyshlennye/ 1 1
+https://www.ratingfirmporemontu.ru/natyazhnye-potolki/ 2 2
+http://partnerskie-programmy.net/853-luchshaya-birzha-kriptovalyuty-binance.html 1 1
+http://stolovato.com.ua/about_us 1 1
+https://pamjatnik.com.ua/productions 2 2
+https://nastroyka.online/kak-nastroit-may-pablik-vay-fay.html 1 1
+https://disel-auto.ru/uslugi/remont-toplivnoj-apparatury/ 1 1
+https://prostozaim24.ru/kredity/59-kak-vzyat-kredit-bezrabotnomu.html 1 1
+https://vagon-zapchastei.ru/rucckaya-artel-rocciya-ru 2 2
+http://posetke.ru/category/web 1 1
+https://tds-west.ru 1 1
+https://beautysalon.academy/blog/s-chego-stoit-nachat-i-kak-vystroit-kachestvennyy-servis.html 1 1
+https://coleso.md/205_65_r15_anvelope/ 1 1
+https://russtaxi.ru/taksi-anapa-za-rodinu 1 1
+https://med-cos.xyz/perelomy/perelom-mizincza-na-noge/ 1 1
+https://akloni.com/blog/posts/tag/9#cat 2 2
+https://clubwomens.ru/category/fashion/odezhda/ 1 1
+https://diabet911.com/lechenie 1 1
+https://inzuro.ru/strahovanie-ipoteki/ 1 1
+https://woodbark.ru/products/dom-iz-blokov-nesemnoj-opalubki-proekt-2 1 1
+https://www.gruz200.com.ua 2 2
+https://stop-zavisimost.com/lechenie-narkomanii-vasilkov/ 1 1
+https://priliv.com.ua/product-category/zapchasti-dlya-lodok-katerov/osvetitelnoe-oborudovanie 1 1
+https://ct-prom.ru/product-category/ukryvnye-tenty/ 2 2
+https://vagon-zapchastei.ru/tuning-duster 1 1
+https://droidone.ru/cmartfoni/smartfony-tecno/camon-12/ 1 1
+https://medvio-sevastopol.ru/reabilitatsiya-narkozavisimyh/ 1 1
+https://message-geek.com/ne-vidno-v-whatsapp-kogda-byl-chelovek.html 1 1
+https://xn----ctbjaeie4crd3j.xn--p1ai/category/cvety-raznoe/ 1 1
+https://mirbankrot.ru 4 4
+https://www.obzormatrasov.ru/matrasy/afalina 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/v-armavir/ 1 1
+https://valid-cc.com 1 1
+https://pansionat-seasons.ru/dom-prestarelyh-belorechensk/ 1 1
+https://domashnii-ochag.ru/usloviya-razmeshheniya.html 1 1
+http://hotelbutovo.ru 2 2
+https://avto-100.com.ua 4 4
+https://inzuro.ru 1 1
+https://gofelicitari.com/bebelus.html 1 1
+https://topnewsrussia.ru 1 1
+https://radiogo.ru/ethno-folk/ 1 1
+https://kohiclicktest.org/click-test-60-sec.html 1 1
+https://pansionatochag.ru/uslugi/perevozka-bolnyh/ 1 1
+https://lviv.sq.com.ua/ukr/news/zszh/ 1 1
+https://med-rehab.ru/rehab-narko/ 1 1
+http://oliaus.ru/category/raznoe/ 1 1
+https://medclinic-tour.com/resorts 1 1
+https://esthete-cleaning.ru/uslugi/uborka-posle-remonta/ 4 4
+https://clubwomens.ru/category/fashion/obuv/ 1 1
+https://paratselsis.ru/branch/ejsk/ 1 1
+https://raketta.ru/autobus-rostov-na-donu-minsk.php 1 1
+https://my-stickers.ru 1 1
+https://sklinik.ru 1 1
+https://freesmi.by/category/sujety 1 1
+https://med-rehab.ru/lechenie-alkogolizma/ 1 1
+https://domprestarelyh-yut.ru/pansionat-timashevsk/ 1 1
+https://pansionat-evropa.com.ua/irpen-dom/ 1 1
+https://www.goodroofing.ru/products/tsokolnyy-sayding/ 1 1
+https://mmo-arena.ru/panzar 1 1
+https://revansh-clinic.ru/lipetsk/kodirovanie-ot-alkogolizma/ 1 1
+https://xn--80ajljfinhdg8e1b.xn--p1ai/kupit-zapchasti-na-traktor-dt-75/ 1 1
+https://rusherbal.ru/lozhki-mernye-gerbalayf-10-sht/ 1 1
+https://diabet911.com/pitanie 1 1
+https://lookfort.com/pribori/ 1 1
+https://krovlin-dom.ru/catalog/izdeliya-iz-metalla/kolpaki-na-stolby/ 2 2
+http://stolovato.com.ua/gbo-generations 1 1
+https://xn--80ajljfinhdg8e1b.xn--p1ai/dt-75-s2/ 2 2
+https://pandemiya-covid.ru/lechenie/lekarstvo-ot-koronavirusa/ 3 3
+https://leroymerlin-catalog.ru/kraski-dlya-naruzhnyh-rabot-v-lerua-merlen.html 1 1
+https://www.komplaens-audit.top/stat-komplaens-audit/iniciativnij-audit.html 1 1
+https://autolider42.ru/masla-transmissionnie-i-gur/ 1 1
+https://www.obzorreziny.ru/avtomobilnye-tovary/avtomobilnye-akkumulyatory/avtomobilnye-akkumulyatory-varta.html 1 1
+https://infertility.su/infertility/ivf-program/ 1 1
+https://oscarhotels.ru 1 1
+https://www.obzormatrasov.ru/matrasy/violajt 2 2
+https://www.sq.com.ua 3 3
+https://nonark.ru/kropotkin/ 1 1
+https://www.alcoshop16.ru/rom/ 1 1
+https://snab.kiev.ua/lazernaya-rezka-akrila 1 1
+https://disel-auto.ru/uslugi/ 1 1
+https://narkozavisim.ru/branch/krasnyj-sulin/ 1 1
+https://bystik.net 1 1
+http://zarabotat-v-internete.biz/27-azartcash-partnerskaya-programma-kazino.html 1 1
+https://pavlovskiy-posad.online 1 1
+https://face-base.online 2 2
+https://kohiclicktest.org/click-test-7-sec.html 2 2
+https://disel-auto.ru/uslugi/diagnostika-dizelnyh-dvigatelej/ 3 3
+https://www.goodroofing.ru/products/ograzhdenie-krovli/ 1 1
+https://renovationclinic.ru 1 1
+https://promokodas.ru/store/braun/ 1 1
+https://infertility.su/information/ 1 1
+https://aromagolik.kz/muzhskoy-parfyum/ 4 4
+https://www.ratingfirmporemontu.ru/okna/osteklenie/osteklenie-balkonov-lodzhiy/ 1 1
+http://game-stok.ru/rpg-online/ 1 1
+https://pansionatochag.ru/uslugi/medicine/uhod-za-bolnymi-diabetom/ 1 1
+https://iphone26.ru/catalog/chehly-i-kryshki-iphone-6.html 1 1
+https://med-cos.xyz 1 1
+https://message-app.com/pochemu-whatsapp-obrezaet-video.html 1 1
+https://iphone26.ru/catalog/kabeli-i-perehodniki.html 1 1
+https://pansion-rostov.ru/reabilitaciya-posle-insulta/ 1 1
+https://topnewsrussia.ru/category/satira 1 1
+https://xn--80aaeb1aqsibk.xn--p1ai/p383732656-polietilen-granulah-zakupaem.html 1 1
+https://prokat-kurort.ru/arenda-avto-litva 1 1
+https://4-foto-1-slovo-otvety.ru/codycross-otvety/codycross-vremena-goda-gruppa-73/codycross-vremena-goda-gruppa-73-pazl-2/proizvoditel-domashnego-myla-i-kosmetiki-362 1 1
+https://www.best-drinks.com.ua 2 2
+https://needmana.com/wow-gold/buy-warmane-lordaeron-gold/ 1 1
+https://coronavirus-prognozy.ru/koronavirus-i-turizm-prognozy-ekspertov 1 1
+https://inzuro.ru/vzr/ 2 2
+http://wise.promo 1 1
+https://medvio-sevastopol.ru/branch/sudak/ 1 1
+https://wise.promo/articles/promo-for-all/ 1 1
+https://krovlin-dom.ru/catalog/elementi-besopasnosti/snegozaderzhateli/dlya-gibkoy-cherepitsy/ 1 1
+https://www.alcoshop16.ru/vino/ 1 1
+https://kocos.kz/cat/himiya/otbelivateli/ 1 1
+https://xn--80aaeb1aqsibk.xn--p1ai/p383732702-pakety-polipropilenovye.html 1 1
+https://swaplab.io 1 1
+https://rehabfenix.ru/vyvod-iz-zapoya/ 1 1
+https://www.brainymama.ru/detskie-avtokresla/kak-vybrat-avtokreslo-dlya-rebenka.html 1 1
+https://www.komplaens-audit.top 1 1
+https://promokodil.ru/mts/ 1 1
+https://lookfort.com/stakani/ 1 1
+https://freesmi.by/category/interesnye-novosti 1 1
+https://spb.findquiz.ru/quiz/brain-wars-spb 1 1
+http://www.naukograd-novosibirsk.ru/index/fast_order_control_work/0-191 1 1
+https://www.alcoshop16.ru/pivo/ 1 1
+https://novorossiysk.droidone.ru/cmartfoni/realme/ 1 1
+https://domprestarelyh-yut.ru/rehab/posle-insulta-novorossijsk/ 1 1
+https://narkomaniya-net.ru/branch/cfo/moskva/vidnoe/ 1 1
+https://www.obzormatrasov.ru/matrasy/konkord 3 3
+https://medvio-sevastopol.ru/branch/alupka/ 2 2
+https://agatpack.ru/podbors/po-tipu-mashin/oborudovanie-dlya-gruppovoj-upakovki/avtomaticheskie-formirovateli-treya-trejpakery/ 1 1
+http://oliaus.ru/category/zarabotok-na-video-i-foto/ 1 1
+http://partnerskie-programmy.net/640-sposoby-zarabotat-bitkoiny.html 1 1
+https://adwit.ru/5-marketing-instrumentov-upravlenia-agenstvom/ 1 1
+https://rfserials.online/dramy 1 1
+https://lifeinmsk.ru 2 2
+https://sklinik.ru/branch/liski/ 1 1
+https://www.komplaens-audit.top/stat-komplaens-audit/audit-osnovnih-zasobiv.html 1 1
+https://vagon-zapchastei.ru 1 1
+https://alum.moscow/sliding-system/ 1 1
+https://needmana.com/wow-gold/buy-warmane-icecrown-gold/ 1 1
+https://u2s.me 1 1
+https://domprestarelyh-yut.ru/pansionat-dinskaya/ 1 1
+https://pozvoniuristu.ru/online-consultation 1 1
+https://king-remont.ru/primery-remonta-kvartir-v-moskve/ 1 1
+https://partnerskie-rody.com/category/alternativnye-rody/ 2 2
+https://xn--80ajljfinhdg8e1b.xn--p1ai/kupit-gusenitsy-na-traktor-dt-75-na-bolotohod/ 1 1
+https://narko-med.ru/rehab-narko-shahunya/ 1 1
+http://asupro.com 1 1
+http://c2bit.hk 1 1
+https://magnews.live/category/sport/ 1 1
+http://posetke.ru/category/poleznoe 1 1
+https://dymohod-m.ru/dymokhody/dymokhod-iz-nerzhaveyushchey-stali/ 2 2
+https://www.obzorreziny.ru/zimnyaya-rezina 1 1
+https://mistore-russia.ru/catalog/ochistiteli-vody-xiaomi/ 1 1
+https://zvometall.ru 1 1
+http://oliaus.ru/category/nachalo-torgovli-na-foreks/ 1 1
+https://metazentr.ru/katalog/seyfy/ 1 1
+https://coinswitch.cash 1 1
+https://dobro-zdrav.ru/alkogolizm/narkolog-na-dom/ 1 1
+https://steam-helper.ru/polnoe-prohozhdenie-pillars-of-eternity-2-deathfire/ 2 2
+https://avtovokzal.gudzik.kiev.ua/v-polshu/ 1 1
+https://dobro-zdrav.ru/feodosiya/kodirovanie/ 1 1
+https://king-remont.ru/montazh-elektriki-v-kvartirax/ 1 1
+https://daily-motor.ru 2 2
+https://metazentr.ru/katalog/skladskaya-tehnika/telezhki-skladskie-gidravlicheskie/ 1 1
+https://russtaxi.ru/taksi-krasnodar-anapa 1 1
+https://yutpansion.ru/perevozka-bolnyh/ 1 1
+https://dom-rodnoy.ru/medicine/pansionat-dlya-invalidov-kolyasochnikov/ 1 1
+https://www.perevod24.com/notarialnyj-perevod 2 2
+https://applepharma.su/products/tiniba-500mg 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/v-magadan/ 1 1
+https://snab.kiev.ua/rezka-faneri 1 1
+https://doktor.com.ru/diagnostic/ehokardiografiya/ 1 1
+https://besplatnye-programmy.com/igri-raznoe/1510-farming-kartochek-steam-idle-master.html 1 1
+https://adwit.ru/new-year-new-site/ 1 1
+https://narko-med.ru/vyvod-iz-zapoya-vyksa/ 1 1
+https://gorod-svobody.ru/filialy/krym/belogorsk/ 1 1
+https://suden.ru/pensiya/ 1 1
+https://dezborets.ru/unichtozhenie-klopov-zarajsk/ 1 1
+https://russtaxi.ru/taksi-krasnodar-feodosia 1 1
+https://urlspin.me 1 1
+https://katok555.ru 1 1
+https://amkdoor.ru/dver-metallicheskaja-2-h-listovaja-mdf-okrashennaja/ 1 1
+https://mmo-arena.ru/luchshie-onlajn-igry 1 1
+https://pandemiya-covid.ru/novosti/prikaz-v-moskve/ 1 1
+https://leroymerlin-catalog.ru/lerua-merlen-novosibirsk-rodniki.html 1 1
+https://dom-rodnoy.ru/pansionat-shahty/ 1 1
+https://remzona47.ru/g5013653-remont-gruzovikov-rastsenki 3 3
+https://dramtezi.ru/category/recenzii 1 1
+https://turbovector.by 1 1
+https://narkozavisim.ru/branch/aksaj/ 1 1
+https://herbcart.ru/category/skidki-akcii/ 2 2
+https://radiogo.ru/popular/ 2 2
+https://amkdoor.ru/dveri-protivopozharnye-metallicheskie-ot-proizvoditelja-v-spb/ 1 1
+https://remont-instrumenta.su/remont-instrumenta/remont-kompressora.html 1 1
+https://www.affiliate-programs.biz/paid-traffic/ 1 1
+https://prostozaim24.ru/poleznoe/ 1 1
+https://message-geek.com/s-kem-perepisyvaetsya-chelovek-v-whatsapp.html 1 1
+https://rusagros.ru/ru/catalog/stall-equipment/lattices-fixing-animals 1 1
+http://energia63.ru/sro-montaj 1 1
+https://kocos.kz/collagen/ 1 1
+https://edem-msk.ru/dom-prestarelyh-mozhaysk/ 1 1
+http://azbyka.com.ua/pechat-knig/ 1 1
+https://www.prjadko.kiev.ua/banners/215-astral-2r.html 1 1
+https://dom-rodnoy.ru/medicine/uhod-za-bolnymi-dementsiej/ 1 1
+https://vagon-zapchastei.ru/tuning-largus 1 1
+https://www.facebook.com 1 1
+https://lawyersforum.ru/forums/kaskomsk/ 1 1
+https://xn--80ahdheogk5l.xn--p1ai 1 1
+https://nonark.ru/lechenie-alkogolizma/ 1 1
+https://malinaexpert.ru/category/vyrashhivanie/ 3 3
+https://bystik.net/g10319470-byustgaltery-optom 1 1
+https://www.obzorreziny.ru/avtomobilnye-tovary/avtomobilnye-motornye-masla 2 2
+https://needmana.com/wow-gold/endless-tbc-gold/ 2 2
+https://xn--80aaeb1aqsibk.xn--p1ai/articles 1 1
+https://rfserials.online/kanal-rossiya-1/60-minut 1 1
+https://www.pamyatinet.ru/pozhilym-lyudyam/uhod-za-pozhilymi-lyudmi.html 2 2
+https://vrauto.com.ua/carbon-film-for-car/ 1 1
+https://renovationclinic.ru/branch/vyvod-iz-zapoya-korolev/ 1 1
+https://stopshum.pro/product/shumoplast-grunt-rashod-120-gr-na-1-m-p-shirinoj-10-sm/ 1 1
+https://sbank.online/other/hochu-postavit-bankomat-sberbanka-v-magazin/ 1 1
+https://snab.kiev.ua/katalog-tovarov 2 2
+https://zvometall.ru/catalog/traversy/ 1 1
+https://aplaster.ru/styazhka-pola-po-penopleksu/ 1 1
+https://pansion-rostov.ru/volgodonsk-dom/ 1 1
+https://revansh-clinic.ru/kontakty/rossosh/ 1 1
+https://detoxmed24.ru/kodirovanie-ot-alkogolizma/ 1 1
+https://www.brainymama.ru/detskie-avtokresla/rejting-busterov.html 2 2
+http://langwarrin.city-advisor.net 1 1
+https://vesti.in.ua/category/ekonomika 1 1
+https://www.gudzik.kiev.ua/kryzhevo 1 1
+https://domprestarelyh-yut.ru/medicine/uhod-za-lejachimi/ 2 2
+https://clinicrehab.ru/gelendzhik/alkogolizm/ 1 1
+https://tvoydom-max.ru/arenda-nedvizhimosti/ 1 1
+https://ledyinfograd.ru/category/zdorove 2 2
+https://www.perevod24.com/apostil 2 2
+https://pavlovskiy-posad.online/ob-yavleniya 1 1
+https://pansionat-seasons.ru/uslugi/medicine/uhod-za-tyajelobolnymi/ 1 1
+https://domchistoty24.ru/uborka-doma/kuhnya/tekhnika 1 1
+https://narkonet.su/branch/kotelnikovo/ 1 1
+https://dezborets.ru/unichtozhenie-klopov-lytkarino/ 1 1
+https://domashnii-ochag.ru/uslugi/uhod-posle-insulta.html 2 2
+https://mmo-arena.ru/luchshie-onlayn-strelyalki 1 1
+https://avtovokzal.gudzik.kiev.ua/v-germaniju/ 1 1
+http://tokshow.online/filmi/voennie/ 1 1
+https://www.penza-press.ru/komment-i-mneniya 1 1
+https://stalnoyprokat.ru/czvetnoj-metall/ 1 1
+https://my-stickers.ru/category/bolshie-razmery/ 1 1
+https://edem-msk.ru/dom-prestarelyh-solnechnogorsk/ 1 1
+http://xn--90acau6ackhj2gf.xn--p1ai/vyvoz-musora-pushkin/ 1 1
+https://dymohod-m.ru/dymokhody/dymokhod-dlia-bannoy-pechi/ 2 2
+https://help-advisors.com/kak-udalit-akkaunt-v-crossaut.html 1 1
+http://podarok-na-den.ru/na-novyj-god/ 1 1
+https://paratselsis.ru/branch/temryuk/ 1 1
+https://www.obzorreziny.ru/avtomobilnye-tovary/avtomobilnye-akkumulyatory/avtomobilnye-akkumulyatory-bosch.html 2 2
+http://marison.com.ua/united-arab-emirates/ 1 1
+https://www.prjadko.kiev.ua/banners/186-konto.html 1 1
+https://iphone26.ru/catalog/ipod-nano-7.html 1 1
+https://gofelicitari.com/halloween.html 1 1
+https://clinicrehab.ru/ejsk/ 1 1
+http://azbyka.com.ua/elitnaya-eksklyuzivnaya-podarochnaya-upakovka/ 1 1
+https://suden.ru/semeinoe-pravo/ 1 1
+https://edem-msk.ru/dom-prestarelyh-dmitrov/ 1 1
+https://pansionat-seasons.ru/perevozka-bolnyh-sochi/ 1 1
+https://www.alcoshop16.ru/alkogol-nochyu-v-moskve-s-dostavkoj 1 1
+https://generals-cncgames.ru/comand-conquer/ 1 1
+https://gofelicitari.com/valentine-s-day.html 1 1
+https://pamjatnik.com.ua 2 2
+https://ked-helmets.ru/catalog/shlemy-gorodskie.html 1 1
+https://legins.ru/woman/woman-wear/losini-leggins/ 1 1
+https://generals-cncgames.ru/analog-generalov/ 1 1
+https://pro-ytube.com/pochemu-ne-obnovlyaetsya-youtube.html 2 2
+https://droidone.ru/hi-fi-audio/akusticheskie-sistemy/vstraivaemye-sabvufery/ 1 1
+https://detkamkolyaski.ru/originalnye-dugi-dlya-kolyasok_24/ 1 1
+https://sklinik.ru/reabilitatsiya-narkozavisimyh/ 1 1
+https://www.alphaplatforms.com/spider-lift-hire/ 1 1
+https://narkonet.su/lechenie-alkogolizma/ 1 1
+https://prostozaim24.ru/kredity/64-kak-poluchit-kredit-nalichnymi-do-zarplaty.html 2 2
+https://lawyersforum.ru/forums/pbnmsk/ 1 1
+http://arenda-instrumenta-murmansk.ru 3 3
+https://disel-auto.ru/uslugi/remont-common-rail-sistem/ 1 1
+https://slingomaniya.com/ergo-ryukzaki/nash-sling-nash-cling 1 1
+https://detkamkolyaski.ru/nestandartnye-spalni_100/ 1 1
+https://vagon-zapchastei.ru/katalog-po-markam 1 1
+https://dramtezi.ru/category/obzory 1 1
+https://daily-motor.ru/category/autonews/test-drajvy 1 1
+https://www.obzorreziny.ru/avtomobilnye-tovary/avtomobilnye-akkumulyatory 1 1
+https://chromiumm.com/gde-nahodyatsya-rasshireniya-v-google-chrome.html 1 1
+https://narkomaniya-net.ru/kodirovanie-ot-alkogolizma-balashiha/ 1 1
+https://vrauto.com.ua/tinting-front-windshield/ 2 2
+https://idolwiki.com/2946-jessica-baio.html 1 1
+https://novorossiysk.droidone.ru/cmartfoni/nokia/nokia-22/ 1 1
+https://applepharma.su/products/resof-sofosbuvir 1 1
+https://www.infobus.top/v-rossiju-iz-ukrainy/v-birobidzhan/ 1 1
+https://autolider42.ru 1 1
+https://jetless.ru 3 3
+https://detoxmed24.ru/vyzov-narkologa/ 2 2
+https://dymohod-m.ru 2 2
+https://www.penza-press.ru 1 1
+https://med-rehab.ru/lechenie-alkogolizma/narkolog-na-dom/ 1 1
+https://agatpack.ru/podbors/po-tipu-mashin/palletoupakovshhiki/gorizontalnye-palletoupakovshhiki/ruchnye-palletoupakovshhiki/ 1 1
+https://steam-helper.ru 4 4
+https://vrauto.com.ua/vinyl-film/ 1 1
+https://generals-cncgames.ru/training-vgeneralov/ 1 1
+https://narko-med.ru/rehab-narko-kstovo/ 1 1
+https://svitmebliv2018.com.ua 3 3
+https://rusagros.ru/ru/about/articles/technological-features-of-growing-calves-in-individual-and-group-houses 1 1
+https://malinaexpert.ru/category/malina-v-medicine/ 1 1
+https://pansionat-livadia.ru/meditsina/bolezn-alcgejmera/ 1 1
+https://propansionaty.ru/hospisy/ 1 1
+https://coronavirus-u-detei.ru 2 2
+https://ct-prom.ru/product-category/snegouborochnyj-inventar/ 1 1
+https://needmana.com/wow-gold/vanilla-gaming-gold/ 2 2
+https://tver.droidone.ru/cmartfoni/samsung-smart/a51/ 1 1
+https://themagican.pro/tovary/ 4 4
+https://medvio.ru/branch/dzhankoj/ 1 1
+https://revansh-clinic.ru/lipetsk/vyzov-narkologa/ 1 1
+http://posetke.ru/wifi 1 1
+https://rusagros.ru/ru 1 1
+https://stalnoyprokat.ru/krug-titan 1 1
+https://kupime.kz/transport/drugoy-transport/ 1 1
+http://podarok-na-den.ru/muzhchina-na-23-fevralya/ 1 1
+https://mcsert.ru/certificate-of-state-registration-of-products/ 1 1
+https://stop-zavisimost.com/lechenie-narkomanii-brovaru/ 1 1
+https://rusagros.ru/ru/catalog/manure-removal/scraper-chain-manure 1 1
+https://prychal-8.com.ua 3 3
+https://www.best-drinks.com.ua/vina-ru/ispanija/ 1 1
+https://slingomaniya.com/ergo-ryukzaki/i-love-mum 1 1
+https://www.brainymama.ru/detskie-avtokresla/rejting-nedorogih-avtokresel.html 1 1
+https://www.xn----7sbkgnercp0argnfc6jpa.kiev.ua 3 3
+https://my-stickers.ru/category/odnotsvetnye/ 1 1
+https://leroymerlin-catalog.ru/rozetki-i-vyklyuchateli-v-lerua-merlen.html 1 1
+https://nastroyka.online/kak-nastroit-router-megafon.html 1 1
+https://rfserials.online/istoricheskie 1 1
+https://online-mults.ru/cat/497 1 1
+https://spb.findquiz.ru/quiz 1 1
+https://4-foto-1-slovo-otvety.ru/codycross-otvety/codycross-planeta-zemlya-gruppa-11/codycross-planeta-zemlya-gruppa-11-pazl-1/zyornyshki-bezhevogo-ili-chernogo-czveta-posypka-blyud-51 1 1
+https://radiogo.ru/rap-hiphop-rnb/ 1 1
+https://krovlin-dom.ru/catalog/vodostochnye-sistemy/plastikovye/ 1 1
+https://mistore-russia.ru/catalog/noutbuki-planshety-xiaomi/ 1 1
+https://slingomaniya.com/slingi/slingi-s-kolcami/cling-c-kol-cami-sling-art-feathers-mokko 1 1
+http://tokshow.online/tok-show/ty-super-poslednie-vypuski/ 1 1
+https://www.obzorreziny.ru/avtomobilnye-tovary/avtomobilnye-akkumulyatory/nedorogie-avtomobilnye-akkumulyatory.html 1 1
+https://iphone26.ru/catalog/iphone-6.html 1 1
+https://diabet911.com/insulin 1 1
+http://wacol.city-advisor.net 1 1
+https://pandemiya-covid.ru 3 3
+https://spb.findquiz.ru/quiz/spb-einstein-party 1 1
+https://stilnaya-podruga.ru/moda/49-belyj-manikjur.html 1 1
+https://akloni.com/blog/posts/tag/7#cat 2 2
+https://dom-rodnoy.ru/pansionat-volgodonsk/ 1 1
+https://metaphysican.com/otnosheniya/ 2 2
+https://kabinet-bank.ru 2 2
+https://uzvo.ru/catalog/vagonnye_vesy/ 1 1
+https://vlasova-tanya.ru 1 1
+https://raketta.ru/autobus-biysk-artibash.php 1 1
+https://www.alcoshop16.ru/nuzhnoe/ 1 1
+https://dom-rodnoy.ru 1 1
+https://bystik.net/g10319463-trusy-zhenskie-optom 2 2
+https://euromedical.com.ua/rehab-narko/ 1 1
+https://yutpansion.ru/medicine/invalidy-na-kolyaske/ 1 1
+https://zvezda-fc.ru/okolofytbola 1 1
+https://vesna-msk.ru/dom-prestarelyh-kotelniki/ 1 1
+https://www.best-drinks.com.ua/vina-ru/ 1 1
+https://zabolevshie-coronavirusom.ru 1 1
+https://xn--80ajljfinhdg8e1b.xn--p1ai/kabiny-traktora-dt-75/ 1 1
+https://herbcart.ru/category/krasota-i-zdorove/ 2 2
+https://covid19-live.info/onlayn-statistika-koronavirusa-covid-19-v-rossii-na-segodnya 1 1
+https://stavropol-istok.ru/uslugi/medicine/pansionat-dlya-invalidov-kolyasochnikov/ 1 1
+https://pansionat-evropa.com.ua/uslugi/medicine/uhod-za-bolnymi-diabetom/ 1 1
+https://medvio.ru/branch/evpatoriya/ 3 3
+https://xn---78-6cde3a8a8babx9i.xn--p1ai 4 4
+https://coronavirus-prognozy.ru/karty-taro-o-koronaviruse 3 3
+https://my-stickers.ru/category/vesna-leto/ 1 1
+https://lovely-lashes.co.uk 2 2
+https://beautysalon.academy/blog/konkurentosposobnost-salona-krasoty-kak-byt-uspeshnym-sredi-vysokoy-konkurencii-na-byuti-rynke.html 1 1
+https://leroymerlin-catalog.ru/osveshhenie-dlya-pomeshhenij-i-aksessuary-v-lerua-merlen.html 1 1
+https://kocos.kz/cosmetica/telo/ 1 1
+https://narko-med.ru/kodirovanie-ot-alkogolizma-ilinogorsk/ 2 2
+https://lviv.sq.com.ua/ukr/news/novini/ 1 1
+https://radiogo.ru/soundtrack/ 1 1
+http://pr.ua/catalog/news/99 1 1
+https://raketta.ru/autobus-naberezhnie-chelni-totskoe.php 1 1
+https://bystik.net/g85576627-topy-komplekty-sport 2 2
+https://lifeinmsk.ru/obshhestvo 1 1
+https://med-rehab.ru/narkomaniya/spice/ 1 1
+http://101dinner.com/category/lidl-food-market 1 1
+https://domchistoty24.ru/uborka-doma/kuhnya/produkty-pitaniya 1 1
+http://pelican-motors.ru 3 3
+https://online-mults.ru 1 1
+https://www.alcoshop16.ru/alkogol-nochyu-v-moskve-s-dostavkoj-bystro 1 1
+http://pr.ua 1 1
+https://crypto-mining.club 1 1
+https://panamka.by 4 4
+https://vagon-zapchastei.ru/tuning-l200 1 1
+https://propansionaty.ru/hospisy/krasnodar/ 2 2
+https://krovlin-dom.ru/catalog/krovlya/falc-krovlia/ 1 1
+https://www.alphaplatforms.com/our-equipment/truck-mounts/ 1 1
+https://stalnoyprokat.ru/kanatyi-stalnyie-kupit-v-novosibirske 1 1
+https://glam-lady.ru/category/interesno/ 1 1
+https://sklinik.ru/lechenie-alkogolizma/ 1 1
+https://russtaxi.ru/taksi-novorossiysk-ujnaya-ozereevka 1 1
+https://besplatnye-programmy.com/igri-raznoe/1626-zarabotok-virtualnoy-valyuty-gldfy.html 1 1
+https://aplaster.ru/fibrovolokno-dlya-styazhki-pola/ 1 1
+https://partnerskie-rody.com 1 1
+https://mistore-russia.ru/catalog/televizory-tv-pristavki-xiaomi/ 1 1
+http://podarok-na-den.ru/imennaya-oblozhka-pasporta/ 1 1
+https://ua-novosti.info/ekonomika/ 1 1
+https://malinaexpert.ru/category/zabolevaniya-maliny/ 1 1
+https://narko-med.ru/vyvod-iz-zapoya-bogorodsk/ 1 1
+https://xn--80aaedbehtd0dfafhnt.xn--p1ai 4 4
+https://freesmi.by/belarus/vitebsk 1 1
+https://medvio.ru/branch/belogorsk/ 2 2
+https://promokodil.ru/pharmacosmetica/ 1 1
+https://krovlin-dom.ru/catalog/krovlya/kompositnaia-cherepicha/ 1 1
+http://tokshow.online/tok-show/zhit-zdorovo-vse-poslednie-vypuski/ 1 1
+https://glam-lady.ru/category/bud-v-trende/ 1 1
+https://kocos.kz/cosmetica/telo/telo/ 1 1
+https://domashnii-ochag.ru/uslugi/reabilitacziya-posle-perelomov.html 1 1
+https://www.gudzik.kiev.ua/pygovicu 1 1
+https://xn----ctbjaeie4crd3j.xn--p1ai/category/konfety-raffaello/ 2 2
+https://usbravo.ru/kursy-po-nogtyam/kursy-manikyura-pedikyura/ 1 1
+https://zabolevshie-coronavirusom.ru/in-russia 1 1
+https://krovlin-dom.ru 1 1
+https://www.ratingfirmporemontu.ru/ratings/reytingi-tovarov/konditsionery-dlya-kvartiry-doma/ 2 2
+https://4-foto-1-slovo-otvety.ru/brain-out-otvety/brain-out-uroven-81/pomogite-zoi-vypit-ostatok-soka-na-dne-81 1 1
+https://med-rehab.ru 1 1
+https://www.goodroofing.ru/products/vinilovye-sofity/ 1 1
+https://www.obzorreziny.ru/letnyaya-rezina 3 3
+https://shopsellcardsdumps.com 1 1
+https://detoxmed24.ru/lechenie-narkomanii/ 2 2
+https://snab.kiev.ua/yslygi 1 1
+https://mcsert.ru/products_fire_testing/ 1 1
+https://genezis-rehab.ru/gelendzhik/lechenie-narkomanii/ 1 1
+https://legins.ru 1 1
+https://herbcart.ru/category/hvasty-i-otzyvy/ 1 1
+https://pansionat-seasons.ru/myshako-dom/ 1 1
+https://herbcart.ru/category/ingredienty-kosmetiki/ 1 1
+https://www.wallbeauty.ru 2 2
+https://www.pamyatinet.ru/dlya-pamyati-mozga/rejting-sosudistyh-preparatov-dlya-uluchsheniya-krovoobrashheniya-golovnogo-mozga.html 1 1
+https://xn--80ajljfinhdg8e1b.xn--p1ai 2 2
+https://revansh-clinic.ru/alkogolizm/narkolog-na-dom/ 1 1
+https://spb.findquiz.ru/quiz/shaker-quiz-spb 1 1
+https://www.prjadko.kiev.ua/pamyatniki.html 1 1
+https://rehabfenix.ru/lechenie-narkomanii/mephedrone/ 1 1
+https://xn--80aabqzts.su/tury-po-rossii/avtobusnyj-tur-na-altaj.html 1 1
+https://www.netcraft.com/survey/ 1 1
+http://oliaus.ru/category/zarabotok-na-bannerax/ 1 1
+https://www.alcoshop15.ru/nuzhnoe/arahis-feliks 1 1
+https://l.facebook.com 1 1
+https://banks-wiki.com/ipoteka/ipoteka-v-sberbanke-molodaya-semya.html 1 1
+https://promokodas.ru/store/bonprix/ 1 1
+https://stavropol-istok.ru 1 1
+https://oleum.kz/web-development/ 2 2
+https://themagican.pro 1 1
+https://rusherbal.ru/santimetrovaya-lenta-10-sht/ 1 1
+https://dontimes.news/mir/belarus/ 1 1
+https://zvezda-fc.ru/hronograf 1 1
+https://www.goodroofing.ru 2 2
+https://sportyguru.ru/velotrenazher/top-gorizontalnyh-velotrenazherov.html 2 2
+https://www.ratingfirmporemontu.ru/doma/ 2 2
+https://renovationclinic.ru/branch/orehovo-zuevo/ 1 1
+https://www.alphaplatforms.com/our-equipment/truck-mounts/a-150/ 1 1
+https://adwit.ru/look-a-like/ 1 1
+https://akloni.com/blog/posts/tag/8#cat 1 1
+https://yutpansion.ru/rehab/posle-infarkta-miokarda/ 1 1
+https://ked-helmets.ru/catalog/detskie-shlemy.html 1 1
+http://pr.ua/catalog/news/101 1 1
+https://oqex.io/exchange 1 1
+https://kocos.kz/cat/cosmetics/tonaldecorsolnce/decor/ 1 1
+https://remzona47.ru/g15088306-kuzovnye-raboty 1 1
+https://domprestarelyh-yut.ru/pansionat-poltavskaya/ 1 1
+https://topnewsrussia.ru/category/birzha 3 3
+https://prokat-kurort.ru/arenda-avto-sochi 1 1
+https://russtaxi.ru/taksi-simferopol-pribrezhnoe 1 1
+https://savial.ru/kkt/denezhnie-jashhiki/ 1 1
+https://stilnaya-podruga.ru/moda/4-chto-predstavljaet-soboj-glamurnoe-telo.html 1 1
+https://ne-kupi.ru/reviews/internet-magaziny 1 1
+https://propansionaty.ru/sanatorii/krasnodar/ 1 1
+https://rovnypol.ru/product/shumoizolyatsiya-pola/ 1 1
+https://doktor.com.ru/speciality/plasticheskij_hirurg/ 1 1
+https://besplatnye-programmy.com/blog/blog-pro-internet/1197-neskolko-prostyh-sposobov-vosstanovit-udalennuyu-istoriyu-v-brauzere.html 1 1
+https://propansionaty.ru/reabilitacionnye-centry/ 2 2
+https://www.gudzik.kiev.ua/kryuchki 1 1
+http://nevainstrument.ru/produkciya/62-frezy-kontsevye-po-metallu-2-kh-zubye-din-327-frezy-kontsevye-po-metallu-4-kh-zubye-din-844-frezy-kontsevye-po-metallu-4-kh-zubye-udlinenye-din-844v-kachestvenye-nemetskie-kontsevye-frezy-hss-feida-tools-germaniya-kupit-v-spb.html 1 1
+https://dezborets.ru/unichtozhenie-klopov-nahabino/ 1 1
+https://kupime.kz/moda-i-stil/moda-raznoe/ 1 1
+https://suden.ru/vzyskanie-dolgov/ 1 1
+https://coronavirus-prognozy.ru 1 1
+https://sensmarket.com.ua/napitki/chaj/ 1 1
+https://stopshum.pro/product/isotop-sd-4/ 1 1
+https://avtokristall.ru/nissan/x_trail/R5_2014-/0/ 1 1
+https://samsung-wiki.com/kak-vstavit-sim-kartu-v-planshet-samsung.html 1 1
+https://tver.droidone.ru/apple/apple-macbook/macbook-pro-13-2018/ 1 1
+https://ked-helmets.ru/catalog/shlemy-dlya-elektrotransporta.html 1 1
+https://ua-novosti.info/mir/ 1 1
+https://novorossiysk.droidone.ru/cmartfoni/samsung-smart/a01/ 1 1
+https://rumanicur.com 1 1
+https://www.komplaens-audit.top/stat-komplaens-audit/auditors-ka-perevirka-buhgalters-koi-zvitnosti-pidpriemstva.html 1 1
+https://gofelicitari.com/dragobete.html 1 1
+https://autolider42.ru/prisadki/ 1 1
+https://vesna-msk.ru/dom-prestarelyh-vidnoe/ 1 1
+https://message-app.com/perehvat-soobshcheniy-whatsapp.html 1 1
+https://svitmebliv2018.com.ua/g52021545-shkolnye-stulya 1 1
+https://xn--80aaeb1aqsibk.xn--p1ai/p383732714-pakety-pvd-faltsami.html 1 1
+https://nonark.ru/lechenie-alkogolizma/rehab-alco/ 1 1
+https://dobro-zdrav.ru/yalta/vyvod-iz-zapoya/ 1 1
+https://ked-helmets.ru/catalog/veloperchatki.html 1 1
+https://esthete-cleaning.ru/uslugi/myte-okon/ 3 3
+https://nonark.ru 1 1
+https://ked-helmets.ru/catalog/dlya-shlemov.html 1 1
+https://www.pamyatinet.ru/dlya-pamyati-mozga/rejting-trenazherov-dlya-mozga-onlajn.html 1 1
+https://yutpansion.ru/pansionat-essentuki/ 1 1
+https://mmo-arena.ru/world-of-dragons 1 1
+https://uzvo.ru/catalog/vzryvozaschischennye/ 2 2
+https://www.best-drinks.com.ua/vina-ru/frantsija/ 1 1
+https://ct-prom.ru/product-category/metizy/ 1 1
+https://www.obzormatrasov.ru/matrasy/luntek 1 1
+https://detkamkolyaski.ru/stilnye-kukly-dlya-kukol_32/ 1 1
+https://renovationclinic.ru/branch/likino-dulevo/ 1 1
+https://sklinik.ru/branch/borisoglebsk/ 1 1
+https://besplatnye-programmy.com/raznoe-sistema/1282-utilita-razer-synapse.html 1 1
+http://stolovato.com.ua/katalog/komplekti-gbo 1 1
+https://sbank.online/other/sberbank-forma-svedeniya-o-vygodopriobretatele/ 1 1
+https://vesti.in.ua/category/novosti 1 1
+https://lookfort.com/tarelki/ 1 1
+https://rehabfenix.ru/kodirovanie-ot-alkogolizma/ 1 1
+https://medvio.ru/vyvod-iz-zapoya/ 1 1
+https://inherbal.ru/products/trikatu-churna-dlya-vnutrennih-organov-100g-trikatu-churna-proizv-vyas 1 1
+https://xn----ctbjaeie4crd3j.xn--p1ai/category/rozy-ekvador-keniya-gollandiya-rossiya-v-permi/ 1 1
+https://doktor.com.ru/speciality/kosmetolog/ 1 1
+https://infertility.su/infertility/insemination/ 1 1
+https://detkamkolyaski.ru/modnye-progulochnye-kolyaski-dlya-detey_26/ 1 1
+https://mmo-arena.ru/star-conflict 1 1
+https://chromiumm.com/kak-vklyuchit-fayly-cookie-v-google-chrome.html 1 1
+https://topnewsrussia.ru/category/zdorove 1 1
+https://narkomaniya-net.ru/kodirovanie-ot-alkogolizma-chehov/ 1 1
+https://stilnaya-podruga.ru/psihologija/9-top-6-priemov-obretenija-uverennosti-v-sobstvennyh-silah.html 1 1
+https://slingomaniya.com/dlia-mamy/bele-dlya-beremennih-i-kormyashih 1 1
+https://dontimes.news/bez-politiki/ 1 1
+http://azbyka.com.ua/upakovka/ 1 1
+https://evraztrade.com 1 1
+https://velesritual.com.ua 3 3
+http://wise.promo/print/lables/ 1 1
+https://clinicrehab.ru/novorossijsk/narkologicheskaya-pomoshh-na-domu/ 1 1
+https://www.prjadko.kiev.ua/banners/673-byudzhet.html 1 1
+https://detkamkolyaski.ru/originalnye-transformery-kolyaski_86/ 1 1
+https://inherbal.ru/catalog/uhod-za-telom_2 1 1
+https://applepharma.su/catalog/dolutegravir 1 1
+https://med-cos.xyz/perelomy/repozicziya-kostej-nosa-osnovnye-pokazaniya-i-metodika-provedeniya/ 1 1
+https://cool-mining.com 1 1
+https://uzvo.ru/catalog/konveyernye_vesy/ 1 1
+https://rfserials.online/trillery 1 1
+https://edem-msk.ru/dom-prestarelyh-odincovo/ 1 1
+https://spb.findquiz.ru/quiz/squiz-spb 1 1
+https://aromagolik.kz 3 3
+https://kohiclicktest.org/click-test-10-sec.html 1 1
+https://uzvo.ru/catalog/platformennye_vesy/platformennye_protivoudarnye_vesy/ 1 1
+https://covid19-live.info/novosti 2 2
+https://euromedical.com.ua/vyvod-iz-zapoya/ 1 1
+https://propansionaty.ru/doma-otdyha/cherkessk/ 1 1
+https://panamka.by/promokody/ 2 2
+https://prostozaim24.ru/karty/ 1 1
+https://my-stickers.ru/category/karty/ 1 1
+https://dymohod-m.ru/dymokhody/promyshlennye-dymokhody/ 2 2
+https://www.pamyatinet.ru/dlya-pamyati-mozga/rejting-shkol-skorochteniya-i-razvitiya-intellekta-v-moskve-i-podmoskove.html 1 1
+https://alum.moscow/doors/ 1 1
+https://zvezda-fc.ru/futbol-rossii 1 1
+https://sportyguru.ru 2 2
+https://beautysalon.academy/blog/kogda-o-vashem-salone-govoryat-kak-pravilno-privlekat-klientov-s-pomoschyu-sarafannogo-radio.html 1 1
+https://kupime.kz/zhivotnye/ 2 2
+https://narkomaniya-net.ru/branch/cfo/moskva/dmitrov/ 1 1
+https://www.prjadko.kiev.ua/ritualnye-uslugi/pominalnye-obedy.html 1 1
+https://kotruck-service.ru/technique/spectexnika/ 1 1
+https://beautysalon.academy/blog/povyshaem-prodazhi-kosmetiki-v-salonah-krasoty.html 1 1
+https://kotruck-service.ru/services/svarochnye-raboty/ 1 1
+http://oliaus.ru/category/zarabotok-na-sajtax/ 1 1
+https://euromedical.com.ua/alcogolizm/narkolog-na-dom/ 3 3
+https://lawyersforum.ru/forums/zismsk/ 1 1
+https://cosplay.shopping/collections/superhero-cosplay-costumes 1 1
+https://vagon-zapchastei.ru/tuning-octavia 1 1
+https://lviv.sq.com.ua/ukr/news/spetsproekt/ 1 1
+https://remont-instrumenta.su 1 1
+https://whitesound.com.ua 3 3
+https://www.obzormatrasov.ru/matrasy/askona 3 3
+https://raketta.ru/autobus-ordinskoe-novoyarki.php 1 1
+https://www.alcoshop16.ru/tabak/ 1 1
+http://pr.ua/catalog/news/94 1 1
+http://berwick.city-advisor.net 1 1
+https://ne-kupi.ru/reviews/saity 1 1
+https://xn--80aaeb1aqsibk.xn--p1ai/g27585846-plenka-polietilenovaya-tsvetnaya 1 1
+https://narko-med.ru/kodirovanie-ot-alkogolizma-bogorodsk/ 1 1
+https://joy-promo.ru 2 2
+https://samsung-wiki.com/kak-vklyuchit-t9-na-samsung.html 1 1
+https://stalnoyprokat.ru/trubyi-nerzhaveyushhie 1 1
+https://www.prjadko.kiev.ua/banners/321-antares.html 1 1
+https://narkomaniya-net.ru/branch/cfo/moskva/shhelkovo/ 1 1
+https://clinicrehab.ru/ejsk/narkomaniya/ 1 1
+https://prazdnikopen.ru/pozdravleniya-s-novyim-godom-bratu.html 1 1
+https://tehosmotr-am.ru 4 4
+https://ledyinfograd.ru 1 1
+https://agatpack.ru/podbors/po-tipu-mashin/termousadochnoe-obordovanie/avtomaticheskie/ 1 1
+https://autolider42.ru/tosol/ 1 1
+https://www.ratingfirmporemontu.ru/remont/uslugi/remont-komnat/ 1 1
+https://lifeinmsk.ru/afisha/sobytiya 1 1
+https://kotruck-service.ru/services/rixtovka-kuzova/ 1 1
+https://zaokotak.ru/ovoschi-zelen/pravila-hranenija-ovoshhej.html/ 1 1
+https://woodbark.ru/products/dom-iz-blokov-nesemnoj-opalubki-proekt-14 1 1
+https://narkozavisim.ru/branch/novocherkassk/ 1 1
+https://russtaxi.ru/taksi-anapa-golubickaya 1 1
+https://www.goodroofing.ru/products/monolitnyy-polikarbonat/ 1 1
+https://detoxmed24.ru/reabilitatsiya-narkozavisimyh/ 2 2
+https://renovationclinic.ru/lechenie-alkogolizma-korolev/ 1 1
+https://www.brainymama.ru/detskie-kolyaski/rejting-luchshih-nedorogih-kolyasok.html 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 180 4572780
+404 1329 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 181
+//include/taglib/716.lib.php 1 http://www.cttoastmasters.org.za//include/taglib/716.lib.php
+/misc/print.css 2 http://www.google.com/
+/assets/components/gallery/connector.php 1 http://cttoastmasters.org.za/connectors/system/phpthumb.php
+/media/wp-includes/wlwmanifest.xml 1 -
+/router.php 1 -
+/test/license.txt 1 -
+/images/img.asp 1 http://www.cttoastmasters.org.za/images/img.asp
+/demo/ 1 -
+/robots.txt 231 -
+/data/admin/allowurl.txt 4 -
+/admin/FCKeditor/editor/ 2 http://www.baidu.com/
+/admin/index.asp 1 http://www.cttoastmasters.org.za/admin/index.asp
+/old/ 1 -
+/wp-admin/admin-ajax.php 3 -
+/old/license.txt 1 -
+/wp-config.php~ 1 -
+/ftp1.rar 1 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/wp-login.php 9 -
+//include/taglib/201907.lib.php 1 http://www.cttoastmasters.org.za//include/taglib/201907.lib.php
+/wp-json/oembed/1.0/embed 1 -
+/css/css.asp 1 http://www.cttoastmasters.org.za/css/css.asp
+/main/ 1 -
+/public/ui/v1/js/sea.js 1 -
+/backup/license.txt 1 -
+/test1/license.txt 1 -
+/admin/ 5 -
+/websitebak.rar 1 -
+/apple-touch-icon.png 15 -
+/2/license.txt 1 -
+/js/html5shiv.js 1 -
+//wp-content/plugins/apikey/apikey.php 1 -
+/AdminWeb/Login.asp 1 http://www.cttoastmasters.org.za/AdminWeb/Login.asp
+//config/AspCms_Config.asp 1 http://www.cttoastmasters.org.za//config/AspCms_Config.asp
+/include/taglib/cheng.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/cheng.lib.php
+/admin/Fckeditor/editor/ 2 http://www.baidu.com/
+/css/album.css 4 -
+/backup/ 1 -
+/wordpress/ 1 -
+/j-stuff.feed 2 -
+/admin/editor/editor/ 2 http://www.baidu.com/
+/category/ultrices-posuere-cubilia-curae/feed/ 1 -
+/assets/components/gallery/cache/http.836565742893abde7371fbf19ddc8253.php 1 http://cttoastmasters.org.za/assets/components/gallery/connector.php
+/wordpress/license.txt 1 -
+/new/license.txt 1 -
+/programmes.htm 1 -
+/home/ 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/new/ 1 -
+/chengxu.tar.gz 1 -
+/index.php 7 http://www.google.com/
+/js/kindeditor/themes/default/default.css 1 http://cttoastmasters.org.za/js/kindeditor/themes/default/default.css
+/www/license.txt 1 -
+/site/license.txt 1 -
+/include/taglib/ty.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/ty.lib.php
+//include/taglib/ty.lib.php 1 http://www.cttoastmasters.org.za//include/taglib/ty.lib.php
+/Fckeditor/editor/ 2 http://www.baidu.com/
+/admin/kindeditor/themes/default/default.css 2 http://www.cttoastmasters.org.za/admin/kindeditor/themes/default/default.css
+/portal/wp-login.php 1 -
+/website/wp-includes/wlwmanifest.xml 2 -
+//plus/mytag_js.php 3 http://www.cttoastmasters.org.za//plus/mytag_js.php
+/benefits-of-toastmasters/ 3 -
+/images/apple-touch-icon.png 27 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/chengxu.zip 1 -
+/flashxp.rar 1 -
+/wp-config.back 1 http://cttoastmasters.org.za/wp-config.back
+/back/license.txt 1 -
+/ks_inc/common.js../1.php 1 -
+/admin/fckeditor/editor/ 2 http://www.baidu.com/
+/images/apple-touch-icon-72x72.png 23 -
+/plus/read.php 1 http://www.cttoastmasters.org.za/plus/read.php
+/chengxu.rar 1 -
+/flashxp.zip 1 -
+/ht.access 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/thank/ 2 -
+/sitemap.xml 4 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/blog/ 2 -
+//Config_Shell.php 1 http://www.cttoastmasters.org.za//Config_Shell.php
+/bak.rar 1 -
+/\xd0\xc2\xbd\xa8\xce\xc4\xbc\xfe\xbc\xd0.rar 1 -
+/inc/config.asp 1 http://www.cttoastmasters.org.za/inc/config.asp
+/editor/editor/ 2 http://www.baidu.com/
+/phpMyAdmin/index.php 1 -
+/leapftp.rar 1 -
+/FCKeditor/editor/ 2 http://www.baidu.com/
+/public_html.tar.gz 1 -
+/include/taglib/xt.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/xt.lib.php
+/include/taglib/findgs.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/findgs.lib.php
+/2015/11/05/hello-world/ 1 -
+/.env 4 -
+/public_html.zip 1 -
+/include/taglib/new.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/new.lib.php
+/wp-admin/setup-config.php 289 -
+/manager/media/script/mootools/mootools.js 1 -
+/theblog/license.txt 1 -
+/bitrix/admin/index.php 3 -
+/config/AspCms_Config.asp 2 http://www.cttoastmasters.org.za/config/AspCms_Config.asp
+/ftp.rar 1 -
+/delivering-unprepared-speech/ 2 -
+/config.asp 1 http://www.cttoastmasters.org.za/config.asp
+/apple-touch-icon-precomposed.png 15 -
+/.well-known/wcs-challenge/cttoastmasters.org.za 417 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/contact-2/ 7 -
+/public/fckeditor/editor/ 2 http://www.baidu.com/
+//include/taglib/2018gf.lib.php 1 http://www.cttoastmasters.org.za//include/taglib/2018gf.lib.php
+/2016/wp-includes/wlwmanifest.xml 1 -
+/test/ 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/tmp/license.txt 1 -
+/include/taglib/datas.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/datas.lib.php
+/js/editor/editor/ 2 http://www.baidu.com/
+/wwwroot.rar 1 -
+/about-us-2/ 5 -
+//include/taglib/cheng.lib.php 1 http://www.cttoastmasters.org.za//include/taglib/cheng.lib.php
+/2017/wp-includes/wlwmanifest.xml 1 -
+/include/taglib/jr.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/jr.lib.php
+/images/apple-touch-icon-114x114.png 33 -
+/language/index.html 2 http://www.google.com/
+/xmlrpc.php 3 -
+/templates/index.html 2 http://www.google.com/
+/web.rar 1 -
+/ads.txt 3 -
+/blogs/wp-login.php 1 -
+/websitebak.tar.gz 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/xxsssseee 3 -
+/user/ 4 -
+/admin.php 4 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/admina/login.php 1 http://www.cttoastmasters.org.za/admina/login.php
+/websitebak.zip 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/home/wp-login.php 1 -
+/admin/login.php 4 -
+/index.asp 1 http://www.cttoastmasters.org.za/index.asp
+/wp/wp-includes/wlwmanifest.xml 2 -
+/administrator/index.php 3 -
+//api/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/contact_us 1 -
+/2016/license.txt 1 -
+/wp/ 1 -
+/plus/mytag_js.php 1 http://www.cttoastmasters.org.za/plus/mytag_js.php
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/license.txt 1 -
+/back/index.php 1 http://www.cttoastmasters.org.za/back/index.php
+/root.rar 1 -
+/wp/license.txt 1 -
+/site/ 1 -
+/business-skills/ 5 -
+/b/license.txt 1 -
+/interviews/ 6 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/images/main/hl-6.jgp 4 http://www.cttoastmasters.org.za/
+/wp-links-opml.php 1 http://www.google.com/
+/inf/license.txt 1 -
+/12/license.txt 1 -
+/include/taglib/xs.lib.php 1 http://www.cttoastmasters.org.za/include/taglib/xs.lib.php
+/statics/js/admin_common.js 1 -
+/inc/AspCms_AdvJs.asp 1 http://www.cttoastmasters.org.za/inc/AspCms_AdvJs.asp
+/sito/wp-includes/wlwmanifest.xml 1 -
+/2014/license.txt 1 -
+/backup/index.php 1 http://www.cttoastmasters.org.za/backup/index.php
+/2015/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/css/css.php 1 -
+/js/respond.min.js 1 -
+/connectors/system/phpthumb.php 1 http://cttoastmasters.org.za/
+/blog/license.txt 1 -
+/wp-admin/css/ie.css 2 http://www.google.com/
+/fckeditor/editor/ 2 http://www.baidu.com/
+/assets/images/accesson.php 1 http://cttoastmasters.org.za/assets/components/gallery/cache/http.836565742893abde7371fbf19ddc8253.php
+/themes/README.txt 2 http://www.google.com/
+/public/Fckeditor/editor/ 1 http://www.baidu.com/
+/plug/collect/AspCms_CollectFun.asp 1 http://www.cttoastmasters.org.za/plug/collect/AspCms_CollectFun.asp
+/2015/license.txt 1 -
+/css.asp 1 http://www.cttoastmasters.org.za/css.asp
+/public/FCKeditor/editor/ 2 http://www.baidu.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 236
+193.124.188.188 70 70 0 20200430191150
+185.5.249.185 70 70 0 20200430191402
+85.209.89.217 70 70 0 20200430185913
+185.125.219.13 68 68 0 20200430190937
+85.209.89.216 68 68 0 20200430185913
+194.67.207.9 68 68 0 20200430191151
+185.203.240.129 68 68 0 20200430185915
+194.67.207.94 66 66 0 20200430190804
+85.209.89.205 65 65 0 20200430185913
+194.67.210.77 62 62 0 20200430190944
+85.209.89.224 62 62 0 20200430185914
+185.224.132.45 62 62 0 20200430185914
+85.209.89.241 61 61 0 20200430191620
+212.86.109.31 60 60 0 20200430185914
+193.124.190.18 58 58 0 20200430191200
+193.124.188.83 57 57 0 20200430191150
+77.220.215.153 56 56 0 20200430185912
+185.209.20.147 56 56 0 20200430185912
+193.124.191.92 43 43 0 20200430191146
+102.39.157.13 11 45 3584137 20200424110818
+84.17.47.77 9 9 233379 20200405050959
+45.139.48.27 6 6 155586 20200411004124
+31.48.242.99 6 147 13439605 20200429172538
+196.22.199.22 4 4 103724 20200422090829
+50.3.200.140 3 3 77793 20200418151747
+195.181.168.169 1 1 25931 20200425013053
+207.180.246.61 1 1 25931 20200408133046
+34.221.30.149 1 36 3354100 20200429203301
+192.199.249.123 1 1 25931 20200406194216
+119.3.4.150 1 1 25931 20200418103048
+34.218.210.48 1 36 3354100 20200416064647
+112.228.91.192 1 1 25931 20200422044931
+159.203.108.239 1 3 127667 20200409001015
+159.65.37.178 1 21 685568 20200417154610
+54.218.65.228 1 36 3354100 20200418192508
+42.236.10.121 1 1 25931 20200419233518
+103.205.4.134 2 2 51862 20200422085806
+54.213.247.153 1 36 3354100 20200425192807
+34.219.206.77 1 1 25931 20200407144910
+158.69.225.37 3 3 77793 20200425235430
+52.35.132.160 1 36 3354100 20200420193409
+88.152.11.2 2 38 3355253 20200429174125
+52.12.33.50 1 36 3354100 20200407144914
+142.93.184.133 1 21 685568 20200426095635
+41.50.16.55 2 37 3376152 20200426084859
+34.221.28.244 1 1 25931 20200410164620
+52.90.41.3 1 1 25931 20200429180525
+18.232.73.165 1 1 25931 20200410052555
+3.80.25.184 1 1 25931 20200402093718
+54.186.213.94 1 36 3354100 20200429190617
+105.187.46.130 2 38 3355253 20200420100704
+18.237.89.0 1 36 3354100 20200422192640
+125.71.216.114 3 3 77793 20200415204107
+54.213.43.145 1 1 25931 20200404170145
+192.99.55.164 2 2 51862 20200411071327
+54.202.241.84 1 1 25931 20200417072500
+146.185.236.40 1 1 25931 20200404101743
+112.245.198.207 1 1 25931 20200421105403
+34.217.11.88 1 36 3354100 20200406170653
+41.157.114.184 1 36 3354100 20200408114458
+134.119.207.105 1 1 25931 20200427065230
+18.237.241.124 1 1 25931 20200420193406
+44.234.65.65 1 36 3354100 20200405180850
+74.95.1.114 1 1 25931 20200403212326
+5.183.92.37 1 1 25931 20200402043606
+188.143.169.29 2 2 51862 20200405144535
+91.199.212.132 0 4 308 
+23.97.155.253 2 2 51862 20200421065344
+52.90.76.63 1 1 25931 20200429173717
+54.71.191.20 1 36 3354100 20200424192904
+82.223.114.129 1 1 25931 20200414185454
+185.220.101.132 1 1 25931 20200428015537
+122.112.212.65 2 2 51862 20200403082052
+50.112.236.17 1 1 25931 20200413153808
+167.172.50.181 1 1 25931 20200421133257
+52.11.160.187 1 1 25931 20200423200542
+44.233.198.228 1 36 3354100 20200427191952
+104.254.95.152 1 1 25931 20200421212535
+47.56.219.93 1 1 25931 20200413013613
+34.220.113.113 1 1 25931 20200416064644
+37.9.58.194 1 1 25931 20200404132549
+3.17.76.125 1 1 25931 20200418221505
+89.187.178.235 1 1 25931 20200412040140
+51.77.52.160 1 1 25931 20200429190511
+34.214.123.171 1 36 3354100 20200415123145
+34.211.39.5 1 1 25931 20200425192803
+157.55.39.42 0 2 98053 
+172.94.24.32 1 1 25931 20200409175746
+54.218.125.204 1 36 3354100 20200411162744
+31.171.246.144 1 1 25931 20200414085133
+66.84.93.29 1 1 25931 20200413132710
+39.45.54.54 1 1 25931 20200415232619
+91.132.138.62 1 1 25931 20200412103535
+13.229.49.29 1 1 25931 20200418054353
+89.187.177.136 1 1 25931 20200417033611
+82.202.226.49 1 1 25931 20200417094050
+207.46.13.72 0 1 27540 
+42.157.195.85 1 1 25931 20200424024810
+34.217.9.201 1 1 25931 20200406170650
+102.182.78.125 1 28 3101869 20200410142415
+72.13.62.26 1 1 25931 20200413180854
+54.245.192.160 1 1 25931 20200419191551
+24.38.210.92 0 1 191166 
+34.223.94.37 1 36 3354100 20200408163127
+180.163.220.124 1 1 25931 20200415001912
+34.220.53.56 1 36 3354100 20200412135259
+217.138.200.205 1 1 25931 20200406114037
+54.213.240.211 1 1 25931 20200428191229
+51.77.249.198 2 2 51862 20200405020006
+102.65.56.97 2 57 5414792 20200429135750
+34.212.138.236 1 1 25931 20200421194056
+54.82.206.224 1 1 25931 20200429173717
+31.13.127.18 0 1 180902 
+209.59.181.92 1 1 25931 20200423185706
+180.250.12.19 1 1 25931 20200421040938
+51.77.246.200 1 29 1910984 20200425235447
+73.93.38.86 1 35 3324827 20200423214819
+159.89.43.106 1 1 25931 20200428162334
+34.211.29.54 1 36 3354100 20200428191233
+64.246.187.42 1 1 25931 20200417203916
+154.0.172.230 0 15 1142 
+105.184.248.181 0 6 238845 
+93.140.166.44 1 1 25931 20200426134815
+128.199.246.10 1 1 25931 20200411153437
+207.46.13.41 0 3 66013 
+142.93.157.249 1 1 25931 20200403232228
+54.190.112.199 1 36 3354100 20200403152419
+52.88.87.235 1 36 3354100 20200430190339
+34.217.212.117 1 1 25931 20200403152417
+194.36.188.199 1 1 25931 20200404140714
+18.236.81.143 1 1 25931 20200427191949
+31.13.127.8 0 1 180902 
+54.188.90.15 1 36 3354100 20200409165123
+159.203.96.37 1 1 25931 20200404160428
+34.222.104.215 1 1 25931 20200409165120
+118.123.12.126 2 2 51862 20200428081748
+52.170.18.225 1 1 25931 20200417143819
+34.223.93.255 1 1 25931 20200415070907
+54.245.160.7 1 1 25931 20200424192900
+54.210.166.30 1 1 25931 20200418054523
+44.234.45.178 1 36 3354100 20200410164624
+141.101.143.31 1 1 25931 20200414132150
+54.184.237.79 1 1 25931 20200418192504
+77.68.116.52 1 1 25931 20200422171607
+54.201.131.64 1 36 3354100 20200402145128
+35.229.113.246 2 2 25931 20200408131709
+37.120.158.168 2 2 51862 20200428014352
+52.83.126.255 1 22 709727 20200424214458
+77.251.210.141 2 72 6708200 20200418025554
+5.188.62.147 1 1 25931 20200402032649
+173.44.164.116 1 1 25931 20200406120823
+213.136.84.14 1 1 25931 20200411154010
+54.188.206.195 1 36 3354100 20200413153812
+196.216.238.180 2 38 3355253 20200428134356
+105.224.225.51 1 36 3354100 20200406120419
+104.254.92.20 1 1 25931 20200425071922
+34.216.214.235 1 1 25931 20200415123142
+138.201.60.47 1 1 25931 20200410124602
+159.65.159.1 2 2 51862 20200419044747
+34.221.15.224 1 1 25931 20200412135255
+31.13.127.15 0 1 180902 
+105.184.120.208 0 23 2808966 
+52.168.131.47 1 1 25931 20200427120627
+104.46.118.88 1 1 25931 20200427184117
+40.77.167.113 0 2 2868 
+34.223.93.107 1 36 3354100 20200404170148
+188.163.104.167 1 1 25931 20200412112953
+18.213.220.26 1 1 25931 20200428003827
+77.68.116.151 1 1 25931 20200414124314
+184.75.211.148 1 1 25931 20200427235631
+18.237.82.162 1 1 25931 20200411162741
+34.222.175.204 1 36 3354100 20200421194100
+54.245.60.255 1 1 25931 20200417193401
+206.189.16.203 1 1 25931 20200426082257
+64.94.208.254 1 1 25931 20200412195039
+54.202.24.114 1 1 25931 20200408163124
+141.101.143.26 1 1 25931 20200425023613
+61.19.69.181 3 3 77793 20200429152324
+51.77.249.202 1 1 25931 20200415193002
+113.172.222.142 2 2 51862 20200406232545
+93.140.42.198 1 1 25931 20200425162821
+167.99.58.253 1 1 0 20200430220019
+176.113.74.27 2 2 51862 20200403120820
+192.162.101.55 1 1 25931 20200406194213
+34.214.108.250 1 1 25931 20200405180847
+193.148.18.251 1 1 25931 20200405232248
+138.128.84.178 1 1 25931 20200411081024
+13.58.129.195 3 24 761589 20200406032222
+35.237.62.110 2 2 25931 20200402141327
+104.245.145.10 1 1 25931 20200425103356
+198.57.247.199 1 1 25931 20200418160541
+162.253.129.214 1 1 25931 20200428040102
+168.235.70.179 1 1 25931 20200420080635
+188.166.22.77 1 1 25931 20200421080619
+34.214.51.104 1 36 3354100 20200401153238
+18.237.26.249 1 1 25931 20200426194044
+80.82.70.249 1 1 25931 20200404141622
+51.68.152.26 1 1 25931 20200402234955
+47.57.24.74 1 1 25931 20200405060604
+46.242.17.108 1 1 25931 20200401004950
+207.46.13.75 0 3 30734 
+159.203.105.26 2 29 898992 20200430143625
+34.211.206.160 1 1 25931 20200422192635
+199.127.56.236 1 36 3354100 20200414175256
+52.24.142.228 1 1 25931 20200430190337
+161.35.92.10 1 1 25931 20200423192945
+102.65.18.112 2 36 3346879 20200410005903
+34.71.183.146 1 1 25931 20200402232401
+45.79.111.170 1 1 25931 20200402131656
+34.222.200.190 1 36 3354100 20200417193404
+31.171.251.137 1 1 25931 20200408061845
+47.57.21.145 1 1 25931 20200409104919
+18.237.155.225 1 1 25931 20200402145125
+52.42.175.34 1 1 25931 20200401153234
+35.166.240.156 1 1 25931 20200429190610
+178.63.50.66 1 1 25931 20200420133559
+84.17.51.22 2 2 51862 20200424035609
+34.220.55.167 1 36 3354100 20200417072504
+142.93.157.53 1 1 0 20200412170717
+81.4.110.64 1 1 25931 20200423004342
+52.40.201.212 1 36 3354100 20200422200306
+18.237.137.230 1 36 3354100 20200419191554
+84.17.48.139 2 2 51862 20200429062308
+123.116.39.162 2 36 2848629 20200409064545
+185.222.202.12 1 1 25931 20200428015544
+34.215.4.227 1 36 3354100 20200426194047
+185.102.219.171 2 2 51862 20200401232426
+34.222.204.254 1 36 3354100 20200423200545
+138.197.11.151 1 12 251139 20200418052828
+82.165.247.157 1 1 25931 20200411211148
+138.197.6.74 1 12 251139 20200428122516
+173.82.106.148 3 3 25931 20200424191404
+84.17.51.104 2 2 51862 20200427171909
+54.184.44.118 1 1 25931 20200425184904
+138.197.152.122 1 1 0 20200412170716
+111.177.117.37 2 2 51862 20200411170816
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200401 40 75 3457824 39
+20200402 46 81 3561548 45
+20200403 52 87 3535617 51
+20200404 51 86 3691203 47
+20200405 44 79 3587479 41
+20200406 48 142 8194012 45
+20200407 39 74 3405962 39
+20200408 48 118 6889717 46
+20200409 46 118 6599355 45
+20200410 54 150 9880641 53
+20200411 56 91 3665272 52
+20200412 43 78 3483755 43
+20200413 45 100 4143392 45
+20200414 43 78 3483755 43
+20200415 52 121 6990099 47
+20200416 31 66 3431893 30
+20200417 45 135 7549354 45
+20200418 44 160 10494956 44
+20200419 39 74 3457824 38
+20200420 43 114 6787146 42
+20200421 48 108 3853705 46
+20200422 29 122 9698683 27
+20200423 54 123 6834513 53
+20200424 58 114 4245344 54
+20200425 65 128 5524394 63
+20200426 46 144 7711539 45
+20200427 73 111 3542899 72
+20200428 47 234 17276034 43
+20200429 74 271 19120928 70
+20200430 61 103 3593455 61
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 1409
+15mn-30mn 1
+2mn-5mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 1455 6690198 1412 1405
+/pix_mail/new_contact.php 4 224 1 4
+/fonts/Flat-UI-Icons.woff 3 66156 0 3
+// 2 51862 1 2
+END_SIDER

@@ -1,0 +1,81 @@
+Return-Path: <capetowntoastmasters@gmail.com>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id QBhVNHyrjF3GoAAAktO0Fw
+	(envelope-from <capetowntoastmasters@gmail.com>)
+	for <cttoaqzb@elrond.aserv.co.za>; Thu, 26 Sep 2019 14:13:48 +0200
+Return-path: <capetowntoastmasters@gmail.com>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Thu, 26 Sep 2019 14:13:48 +0200
+Received: from mail-wm1-f48.google.com ([209.85.128.48]:54623)
+	by elrond.aserv.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <capetowntoastmasters@gmail.com>)
+	id 1iDSea-000SFp-Jj
+	for cttoaqzb@elrond.aserv.co.za; Thu, 26 Sep 2019 14:13:48 +0200
+Received: by mail-wm1-f48.google.com with SMTP id p7so2485368wmp.4
+        for <cttoaqzb@elrond.aserv.co.za>; Thu, 26 Sep 2019 05:13:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=OTO1Fzypvzu9WsDr2QxCMFt+yvb1HJB/7+CFYDj7AJY=;
+        b=KBIl0dm6B6RqpAyK1EDfnTiI+W54Rq+YeEObLIym07HCODDTwKPPyKiAPYaFPh2RO5
+         rOWAr8kh23s5hYmfSoJSlCUwLwkwAhLeYYHhkJKrh2OpuiZvHuzwP5JaXyYwuCcVqjso
+         ZFdDfsFgcJTu0xv9h8bt/B1tdUwTQdu3V/U8JYGAWvi/sNEsdQwvax6DY/853keUZE0T
+         FBM+6XiUVGdl6U2y+LTRmGt8ZFJZYnFYMhVoNNN15MobST5qWC1XnLKlhXo3NMwIDmJE
+         VrEUq7FBxYx46u6KmcyfYdi4YHxUUf6IaTSRS7/TjONgS19HhRCREq2HIkx8nGaniP7J
+         WMaw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=OTO1Fzypvzu9WsDr2QxCMFt+yvb1HJB/7+CFYDj7AJY=;
+        b=nGpOcEsY3myhvxFKx+0+G638DUFprMEUtdenp0HjxoL4o7ULlt0rxwk+q1PL4WzIeV
+         o+Mitgz4qaimOucYX1WmWOJppferuMXqlwkx3lGqdhkrJEftheccgFkMYkxiFyJyWAjR
+         zt+V604Pqqk5GTTOAbgz1oII4Qox2ElnVWNQfSoXKrOzsqTLKOtHoEeDq96iIUy7s3/j
+         KxLzrczF2YeQaBONx4UmMkdVjYvgxApFrV2PVTNCGMX8gAFfJOl5ELx++YItMD63bWYZ
+         iWTWUU6UNWeMYi68wmO9AOgRrEEvoyV+s+EygQBMljg798llj+Z61Aw1rituKaTNsDhC
+         nDDw==
+X-Gm-Message-State: APjAAAXBRMjYmevQ/6u3zi/jimObF94gbgUYlFXNi3l4o5J/XY116flF
+	PpKWiOy8S1z8IFJYnQ/1om0y8VNazn6/gJMeQRtHxgBVLWg4dby++aGQRiE=
+X-Google-Smtp-Source: APXvYqxL2N+dBw6ePrk7jaJK1oq/sPiQu489kowCV3KoWfRjgBvxUswFfbomgS25mQGx+WQo5Oc6c6cjKUKbaQ68WA4dWQq3f7nkSKSdu9S0
+X-Received: by 2002:a1c:a7d2:: with SMTP id q201mr2666206wme.146.1569499987149;
+        Thu, 26 Sep 2019 05:13:07 -0700 (PDT)
+To: cttoaqzb@elrond.aserv.co.za
+From: "Maria Jose" <capetowntoastmasters@gmail.com>
+Date: Thu, 26 Sep 2019 05:13:06 -0700
+Message-ID: <CABWr83sBqHNAa-NCHjy573b24VvOhYEKwEUFkPEXkkz7cBAQrQ@mail.gmail.com>
+Subject: Cape Town Toastmasters club enquiry Re: CTTM Website Enquiry
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+R29vZCBkYXksIHRoYW5rIHlvdSBmb3IgeW91ciBlbnF1aXJ5ICBpbnRvIG91ciBjbHViIQ0KDQpU
+aGUgYmVzdCB0aGluZyB0byBkbyB3b3VsZCBiZSB0byBjb21lIHRvIGEgbWVldGluZyBhcyBhIGd1
+ZXN0IHRvIGNoZWNrDQp0aGUgY2x1YiBvdXQgLSB0aGlzIGlzIHRoZSBzdGFuZGFyZCBwcm9jZWR1
+cmUuIE9uY2UgeW91IGhhdmUgY29tZSB0byBhDQptZWV0aW5nIHlvdSBjYW4gY2hvb3NlIHdoZXRo
+ZXIgb3Igbm90IHRvIGpvaW4gYXMgYSBtZW1iZXIuDQoNCldoZW4geW91IGNvbWUgYXMgYSBndWVz
+dCwgeW91IG9ubHkgaGF2ZSB0byBwYXkgdGhlIG1lZXRpbmcgZmVlIHdoaWNoDQppc8KgUiA5MC4w
+MMKgKGJvdGggY2FzaCAmIGNhcmQgaXMgYWNjZXB0ZWQpIGFuZCBpbmNsdWRlcyBkaW5uZXINCih2
+ZWdldGFyaWFuIG9wdGlvbnMgYXZhaWxhYmxlKS4gT25jZSBhdCB0aGUgbWVldGluZyBJIG9yIGFu
+b3RoZXINCm1lbWJlciBvZiB0aGUgY2x1YiB3aWxsIGdpdmUgeW91IG1vcmUgaW5mb3JtYXRpb24g
+b24gb3VyIGNsdWIgYW5kIG9uDQpUb2FzdG1hc3RlcnMgSW50ZXJuYXRpb25hbCwgZ3Vlc3RzIGRv
+IG5vdCBuZWVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZQ0KbWVldGluZywgdW5sZXNzIHRoZXkgd2Fu
+dCB0byBzcGVhayBkdXJpbmcgdGhlIHVucHJlcGFyZWQgc3BlZWNoIG9yDQoiVGFibGUgVG9waWNz
+IiBzZWN0aW9uIG9mIHRoZSBldmVuaW5nLg0KDQpXZSBtZWV0IG9uIHRoZSBzZWNvbmQgYW5kIGZv
+dXJ0aCBXZWRuZXNkYXkgb2YgZXZlcnkgbW9udGguIFRoZSBtZWV0aW5nDQpzdGFydHMgYXTCoDE5
+aDAwLMKgc28gSSBzdWdnZXN0IHlvdSBnZXQgdGhlcmUgYXJvdW5kIDE4aDMwIHRvIHNldHRsZSBp
+bi4NClRoZSBhZGRyZXNzIGlzOg0KU0FTTkVWIGJ1aWxkaW5nLCA0IENlbnRyYWwgU3F1YXJlLCBQ
+aW5lbGFuZHMsIENhcGUgVG93biwgNzQwNQ0KT3VyIG5leHQgbWVldGluZyBpcyBvbiB0aGXCoDI1
+IFNlcHRlbWJlci4gUGxlYXNlIGxldCBtZSBrbm93IGlmIHlvdQ0KaGF2ZSBhbnkgb3RoZXIgcXVl
+c3Rpb25zIGFuZCBpZiB5b3UgYXJlIGdvaW5nIHRvIGNvbWUgdG8gdGhlIG5leHQNCm1lZXRpbmcu
+IE91ciBPY3RvYmVyIGRhdGVzIGFyZSA5dGggYW5kIDIzcmQuDQoNClJlZ2FyZHMNCg0KTWFyaWEg
+Sm9zZQ0KVmljZSBQcmVzaWRlbnQgTWVtYmVyc2hpcA0KQ2FwZSBUb3duIFRvYXN0bWFzdGVycw0K

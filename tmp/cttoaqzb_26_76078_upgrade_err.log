@@ -1,0 +1,154 @@
+
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3442
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3444
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3365
+NOTICE Undefined index: ins_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: rem_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: editdetail_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: backup_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: disable_restore_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: disable_clone_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: disable_all_notify_update /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: timezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: pfxapi_key /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: eula_accept /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: color_theme /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: user_defined_color /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: arrange_domain /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3395
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3749
+NOTICE Undefined index: min /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 8226
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: min /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 8226
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3842
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3846
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3850
+WARNING
+WARNING
+WARNING
+NOTICE Undefined variable: ver /var/softaculous/wp/php53/import.php 93
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3918
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+NOTICE Undefined variable: __settings /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 691
+WARNING
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4012
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4016
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4020
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11045
+WARNING
+WARNING
+WARNING
+NOTICE Undefined variable: ver /var/softaculous/wp/php53/import.php 93
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11043
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+NOTICE Undefined variable: mail /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/cli/upgrade.php 390
+WARNING
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3920
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+WARNING
+NOTICE Undefined variable: __settings /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 696
+WARNING
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4014
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4018
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4022
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11056
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+WARNING
+NOTICE Undefined variable: mail /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/cli/upgrade.php 390
+WARNING
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3947
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11204
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 232
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3947
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11204
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 232
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3953
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11230
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 232
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4007
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11373
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 237
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4009
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11375
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 237
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4014
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11398
+WARNING
+WARNING
+WARNING
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined index: no_dir_exists /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 237

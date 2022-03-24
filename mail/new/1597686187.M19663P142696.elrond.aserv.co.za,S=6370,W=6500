@@ -1,0 +1,130 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id aNfEMqrBOl9oLQIAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Mon, 17 Aug 2020 19:43:06 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 17 Aug 2020 19:43:07 +0200
+Received: from spe2-2.ucebox.co.za ([197.242.157.163]:41746)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	id 1k7jA2-000bLX-Mq
+	for cttoaqzb@elrond.aserv.co.za; Mon, 17 Aug 2020 19:43:06 +0200
+Received: from Debian-exim by spe13.ucebox.co.za with local (Exim 4.92)
+	id 1k7jA1-0007Wh-Ar
+	for cttoaqzb@elrond.aserv.co.za; Mon, 17 Aug 2020 19:43:05 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe13.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1597686185-eximdsn-290909487
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1k7jA1-0007Wh-Ar@spe13.ucebox.co.za>
+Date: Mon, 17 Aug 2020 19:43:05 +0200
+
+--1597686185-eximdsn-290909487
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [108.177.119.26]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+    550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+    550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. y9si11697088edw.7 - gsmtp
+
+--1597686185-eximdsn-290909487
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe13.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from yahoo.com is not accepted due to domain's
+ 550-5.7.26 DMARC policy. Please contact the administrator of yahoo.com domain
+ 550-5.7.26 if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. y9si11697088edw.7 - gsmtp
+
+--1597686185-eximdsn-290909487
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe13.ucebox.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1k7j9u-0007Pw-Pr
+	for capetowntoastmasters@gmail.com; Mon, 17 Aug 2020 19:43:02 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=elrond.aserv.co.za; s=default; h=Date:Sender:Message-Id:Reply-To:From:
+	Subject:To:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=uzXvK42Ds5qgonzUaPrFnXjxYdLD9BDr3ShV6gZKAeg=; b=ecSM+qDmdt991ZuashI5nodQrx
+	ggLZl/bRfzhCdh5ZFe5FWm2lceRyV8WkaTg7qbR5exSPwAp6eYa3px2DJUDyI2+x4kYZYqRSQumZw
+	QGZ0XNjwjKZHxYBDKkBkXa0H4CJ5Z6J8ZtsqCXgMZwJ0YzHivMcVndRnYCF5sfQ0a3Q3SK9n127Bh
+	LhRm0a3n508jCIEId6lUT10TBDVRh+IfRmz5s7u36b+GFU8lyg7AlC+Go6WkVE9tqBjBaGmrd5zNu
+	AM+2RPZhHVk7UdYEZg/ycy2Ipik1tOB9RRodLzgaEg3NNpk6HWgx+lx/5p6payhzhd+Ax+bh6BhF2
+	Dlsus/sg==;
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.93)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1k7j9u-000bEB-Ec
+	for capetowntoastmasters@gmail.com; Mon, 17 Aug 2020 19:42:58 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 41.13.243.56
+X-PHP-Originating-Script: 1108:new_contact.php
+From: Ntombekhaya93@yahoo.com
+Reply-To: Ntombekhaya93@yahoo.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1k7j9u-000bEB-Ec@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Mon, 17 Aug 2020 19:42:58 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.66)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0Uc1Z+hCSaILZIw3vLzlsGSpSDasLI4SayDByyq9LIhVYnt7JgmIzuty
+ uqUjATAwDUTNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDSRB/hobqWaKi0xa9GH5046Ig
+ wMBQaYE5GydeiaTz8neY/RLwb8LtNblQmhlQVhqrldNMenNeh3k4069lP5TiH9qwTTJhLChIm0ME
+ lNcQXjhafWIPXwL+qlCJ9otFYniBK1eiQfX8GxSqRTxkcF+GvWr6G0fwOoASRHdY8j1Qv0O9R+Yi
+ Jl/jWPf6HRS0ulIK3mMZpk09Eao7oARKjaEtQhVVJ2mVvokCO2vVjpfr/eX3+RWxljT0AAJgouHP
+ rg5R/iNVpo7cgZM1aCT5PLncejJNEw0cYcSmmSZw54zIlrmjzzoz6PrQ8BQlXPo12LYeCgJQTfTx
+ VnQ8Q4AmlQvnqtTUbFHc1msMenV9DSfAc7ffX8TdqEXkwxwMjsp2mNAp766WQn3gbdSAFIfbLfo1
+ TA8UKydtMF4pW89pDPZgGTM7/hwjNvmMkS9BXTs5dO3GKP9pWZyqSwiZS/khPlqY4hqZR3KVQgqF
+ /fPYYAfEfshYokUTReR5lUtw5bcGz45Ul6glf3XSYLxS6dTDY0Y6RzI2+Ryjh+01hGMieUZNUdTM
+ rhPLQo45D5IqtRcFo9DBfupTrzDsu8BYrT9AJvQUizf9bG4oCE8tXKfGDzsW4pDsxBoFbdIyTZwD
+ 0tTyhMSsMEt1669BJFENO5NZqNwirZeoqAE3EtZFKiJDf+OsbiMmfNLj4ULgonjmMZj0zSCv/5de
+ z/5njl939BTpjZKNPhQKzqLeftQzG/tNZr3f6RUsLBGwdPQICEC9Twlo4PF5fqb5R4VemuUI6bcE
+ ARsm0ENM0BGXjgLpREUZECpQvIS9fcUTsrF8Qr+LPlD6QXY+li8WqACrGeC/obNnjI+2FwVrzd0O
+ /hOUZw27ri3i2R4rtVk/YPBe1p0T2EpcCRQx7RZtIvx5+Jctb654K7I/OHB7HfKjI1eYNYaA4ur2
+ /Is=
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: Ntombekhaya Yokwana -  
+email: Ntombekhaya93@yahoo.com -  
+message: Please send me a quotation. I want to improve public speaking. I work with clients and collegues. I will have an interview with a professional council.  -  
+
+
+--1597686185-eximdsn-290909487--

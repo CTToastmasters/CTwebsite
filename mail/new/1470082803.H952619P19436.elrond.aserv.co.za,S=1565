@@ -1,0 +1,40 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 01 Aug 2016 22:20:04 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1bUJgw-00052O-C5
+	for cttoaqzb@elrond.aserv.co.za; Mon, 01 Aug 2016 22:20:03 +0200
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1bUJgw-00052O-C5@elrond.aserv.co.za>
+Date: Mon, 01 Aug 2016 22:20:02 +0200
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: 
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 196.42.125.217
+From: lebogangmasekoameng45@gmail.com
+Reply-To: lebogangmasekoameng45@gmail.com
+X-Mailer: PHP/5.5.29
+Message-Id: <E1bUJgv-00051C-RZ@elrond.aserv.co.za>
+Date: Mon, 01 Aug 2016 22:20:01 +0200
+
+
+Subscribe using flatpack form,
+name: Lebogang Masekoameng -  
+company: University of Cape Town -  
+email: lebogangmasekoameng45@gmail.com -  
+message: Dear Toastmasters
+I am currently a first year student at UCT. I would like to improve my Public speaking abilities and improve my confidence levels in as far as being myself is concerned. 
+Through reading what the club offers, I would really love to join the community and better my chances of becoming a Keynote Speaker in future.
+I hope to hear from you soon as to how I can join.
+
+Regards
+Lebogang Masekoameng (UCT) -  
+

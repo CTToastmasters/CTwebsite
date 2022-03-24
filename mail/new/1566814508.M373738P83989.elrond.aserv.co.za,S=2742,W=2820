@@ -1,0 +1,78 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id yAvpOCuxY10VSAEAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Mon, 26 Aug 2019 12:15:07 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 26 Aug 2019 12:15:08 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.92)
+	id 1i2C1j-000rmj-Q3
+	for cttoaqzb@elrond.aserv.co.za; Mon, 26 Aug 2019 12:15:07 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1566814507-eximdsn-1095201184
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1i2C1j-000rmj-Q3@elrond.aserv.co.za>
+Date: Mon, 26 Aug 2019 12:15:07 +0200
+
+--1566814507-eximdsn-1095201184
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host smtp.ucebox.co.za [197.242.159.57]
+    SMTP error from remote mail server after end of data:
+    550 High probability of spam
+
+--1566814507-eximdsn-1095201184
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; elrond.aserv.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.ucebox.co.za
+Diagnostic-Code: smtp; 550 High probability of spam
+
+--1566814507-eximdsn-1095201184
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1i2C1d-000rcG-QX
+	for capetowntoastmasters@gmail.com; Mon, 26 Aug 2019 12:15:01 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 41.149.161.30
+X-PHP-Originating-Script: 1108:new_contact.php
+From: mkhululi.mtshiselwa@gmail.com
+Reply-To: mkhululi.mtshiselwa@gmail.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1i2C1d-000rcG-QX@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Mon, 26 Aug 2019 12:15:01 +0200
+
+
+Subscribe using flatpack form,
+name: Mkhululi Mtshiselwa -  
+email: mkhululi.mtshiselwa@gmail.com -  
+message: Good day,
+
+I am interested in joining the club in efforts  to work on my public speaking/presentation  skills.
+
+How do I join, how much and are the groups closer to Plattekloof? -  
+
+
+--1566814507-eximdsn-1095201184--

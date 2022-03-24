@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id 0BCsLLPKT19diQAAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Wed, 02 Sep 2020 18:39:15 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Wed, 02 Sep 2020 18:39:15 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.93)
+	id 1kDVn1-0009xv-IW
+	for cttoaqzb@elrond.aserv.co.za; Wed, 02 Sep 2020 18:39:15 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+References: <E1kDVmx-0009xn-1A@elrond.aserv.co.za>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1599064755-eximdsn-1596014982
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kDVn1-0009xv-IW@elrond.aserv.co.za>
+Date: Wed, 02 Sep 2020 18:39:15 +0200
+
+--1599064755-eximdsn-1596014982
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host smtp.ucebox.co.za [41.76.215.28]
+    SMTP error from remote mail server after end of data:
+    550 High probability of spam
+
+--1599064755-eximdsn-1596014982
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; elrond.aserv.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.ucebox.co.za
+Diagnostic-Code: smtp; 550 High probability of spam
+
+--1599064755-eximdsn-1596014982
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.93)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1kDVmx-0009xn-1A
+	for capetowntoastmasters@gmail.com; Wed, 02 Sep 2020 18:39:11 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 41.114.189.48
+X-PHP-Originating-Script: 1108:new_contact.php
+From: lmusumba09@gmail.com
+Reply-To: lmusumba09@gmail.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1kDVmx-0009xn-1A@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Wed, 02 Sep 2020 18:39:11 +0200
+
+
+Subscribe using flatpack form,
+name: Louis  -  
+email: lmusumba09@gmail.com -  
+message: in light of lock-down, will this be virtual on in person? Any other information you can share? -  
+
+
+--1599064755-eximdsn-1596014982--

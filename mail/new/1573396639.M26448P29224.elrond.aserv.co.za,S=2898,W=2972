@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id zM3uNZ4gyF0ocgAAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Sun, 10 Nov 2019 16:37:18 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Sun, 10 Nov 2019 16:37:19 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.92)
+	id 1iToL8-0007ac-OY
+	for cttoaqzb@elrond.aserv.co.za; Sun, 10 Nov 2019 16:37:18 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1573396638-eximdsn-152191593
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1iToL8-0007ac-OY@elrond.aserv.co.za>
+Date: Sun, 10 Nov 2019 16:37:18 +0200
+
+--1573396638-eximdsn-152191593
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host smtp.ucebox.co.za [197.242.152.133]
+    SMTP error from remote mail server after end of data:
+    550 High probability of spam
+
+--1573396638-eximdsn-152191593
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; elrond.aserv.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.ucebox.co.za
+Diagnostic-Code: smtp; 550 High probability of spam
+
+--1573396638-eximdsn-152191593
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1iToL4-0007I1-HX
+	for capetowntoastmasters@gmail.com; Sun, 10 Nov 2019 16:37:14 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 197.229.1.181
+X-PHP-Originating-Script: 1108:new_contact.php
+From: banzibottoman@gmail.com
+Reply-To: banzibottoman@gmail.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1iToL4-0007I1-HX@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Sun, 10 Nov 2019 16:37:14 +0200
+
+
+Subscribe using flatpack form,
+name: Banzi Bottoman  -  
+email: banzibottoman@gmail.com -  
+message: Greetings, I live at number 28,12th Avenue, Tafelsig, 7785, Western Cape, South Africa. I am a highly anticipated public and motivational speaker at the Metro Central District Department of Basic Education. I have an incommensurable passion for speaking and is quintessential at it too, I would like to join Cape Town Toastmasters club and expand my horizons  -  
+
+
+--1573396638-eximdsn-152191593--

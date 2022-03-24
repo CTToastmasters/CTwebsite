@@ -1,0 +1,1998 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201902 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2701                
+POS_VISITOR 51554               
+POS_DAY 75722               
+POS_DOMAIN 3620                
+POS_LOGIN 4345                
+POS_ROBOT 4500                
+POS_WORMS 5648                
+POS_EMAILSENDER 5779                
+POS_EMAILRECEIVER 5922                
+POS_SESSION 76563               
+POS_SIDER 76772               
+POS_FILETYPES 6057                
+POS_DOWNLOADS 6318                
+POS_OS 6513                
+POS_BROWSER 6924                
+POS_SCREENSIZE 9479                
+POS_UNKNOWNREFERER 9553                
+POS_UNKNOWNREFERERBROWSER 10129               
+POS_ORIGIN 10464               
+POS_SEREFERRALS 10611               
+POS_PAGEREFS 10929               
+POS_SEARCHWORDS 29350               
+POS_KEYWORDS 30197               
+POS_MISC 2363                
+POS_ERRORS 30955               
+POS_CLUSTER 4201                
+POS_SIDER_404 31056               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190301000049 299 69899 8571217217659
+FirstTime 20190201005627
+LastTime 20190228205315
+LastUpdate 20190301141951 299 0 298 0 0
+TotalVisits 1053                
+TotalUnique 490                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 653                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 211 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 234 14458654 87 187 3258581
+1 20 188 6166772 31 100 1830269
+2 15 33 994187 46 73 583739
+3 34 70 970476 84 163 1601429
+4 51 143 6205775 16 75 1450816
+5 106 162 4345794 16 59 1155359
+6 126 259 10933496 74 137 1474702
+7 85 629 43388795 34 169 3453058
+8 91 623 39881718 60 171 1891897
+9 75 848 65558242 146 245 3408535
+10 67 706 49231570 33 124 2281906
+11 36 596 43328397 22 72 953830
+12 38 541 45512189 95 162 1234118
+13 56 581 46321308 50 128 925839
+14 45 575 43438881 37 83 1258173
+15 73 807 65887009 70 197 2957252
+16 48 586 46842430 55 171 2380030
+17 35 289 20674113 220 259 856376
+18 33 481 37629813 73 132 1326603
+19 47 590 50047064 40 121 1109179
+20 52 603 42172335 62 135 1934996
+21 57 699 52275743 95 217 2757863
+22 34 491 38401788 65 129 1611992
+23 23 257 17775511 37 117 2453886
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+us 302 2541 192175879
+za 276 5578 473706326
+ru 268 268 760574
+cn 163 1685 69065346
+ua 88 88 192462
+uz 80 80 0
+id 18 83 5228814
+ca 13 44 1259013
+gb 9 81 6509324
+de 7 42 3331422
+fr 6 6 167986
+mu 3 108 9604896
+at 2 32 1436084
+au 2 38 3202785
+ma 2 21 1499314
+bw 2 36 3194411
+it 2 2 51916
+hn 2 2 64154
+zz 2 2 51916
+br 2 2 64154
+lr 2 37 3355890
+tr 1 1 25958
+jp 1 35 3172359
+cz 1 36 3201632
+vg 1 36 3201632
+ba 1 31 1414032
+gh 1 36 3201632
+pk 1 1 25958
+kh 1 1 25958
+ar 1 35 3172359
+sc 1 1 25958
+nl 1 1 25958
+md 1 1 25958
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 25
+bingpreview 671 22554119 20190228210345 0
+Googlebot/ 219 6627873 20190228230100 0
+Python\-urllib/ 138 6156716 20190228163130 0
+bingbot/ 93 2820429 20190228205209 0
+YandexBot/ 24 671944 20190227203730 0
+no_user_agent 21 954506 20190227225504 0
+Googlebot\-Image/ 18 329977 20190220091023 0
+360Spider 16 464280 20190228235310 0
+Sogou[\x20]web[\x20]spider/ 16 142028 20190220061223 0
+facebookexternalhit/ 12 880291 20190228163007 0
+Baiduspider/ 10 274486 20190228045254 0
+Exabot/ 9 64154 20190225174139 0
+Applebot/ 5 142028 20190228215654 0
+DuckDuckGo\-Favicons\-Bot/ 3 77874 20190226063943 0
+crawl 3 77874 20190208221434 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 408290 20190224200545 0
+netEstate[\x20]NE[\x20]Crawler 2 51916 20190219141511 0
+bot[\s_+:,\.\;\/\\-] 2 51916 20190226215440 0
+CCBot/ 2 51916 20190216160849 0
+KomodiaBot/ 1 25958 20190218201915 0
+oBot/ 1 25958 20190207232342 0
+curl 1 25958 20190206143028 0
+istellabot/ 1 25958 20190222111337 0
+Dalvik/ 1 25958 20190226231653 0
+AhrefsBot/ 1 25958 20190207205246 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+php 17 952 0 0
+woff 144 8867632 0 0
+jpg 2082 494850645 0 0
+js 3405 69899669 0 0
+css 3105 141574860 0 0
+png 1121 59838999 0 0
+eot 3 46182 0 0
+html 1098 17296331 0 0
+txt 15 1142 0 0
+ttf 1 65648 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/84CA3F836000CA0EDFD356499CC4307C.txt 14 0 1078
+/.well-known/pki-validation/16F33D158143F93051EB4A460DFCD5A9.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+macosx 301 15
+winnt 1 1
+macosx5 1 1
+Unknown 110 64
+winunknown 249 249
+win2003 57 48
+ios_ipad 142 6
+win8.1 191 16
+macosx9 4 4
+winxp 53 14
+linuxandroid 2152 131
+ios_iphone 1314 87
+win2008 52 52
+winlong 164 61
+linux 379 70
+winphone 38 3
+macosx10 4 4
+win10 2802 197
+linuxubuntu 42 7
+macosx6 72 3
+macosx12 122 19
+win8 4 4
+macosx11 75 5
+win7 2662 202
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 122
+chrome55.0.2883.91 51 2
+firefox25.0 1 1
+chrome14.0.803.0 1 1
+opera36.0.2254.129859 39 3
+chrome65.0.3325.181 129 17
+firefox43.0 1559 80
+chrome45.0.2454.94 1 1
+chrome68.0.3440.106 38 3
+chrome67.0.3396.99 4 4
+firefox60.0 1 1
+chrome50.0.2661.102 2 2
+chrome66.0.3359.139 1 1
+chrome49.0.2623.75 6 6
+firefox18.0 1 1
+edge17 72 2
+chrome41.0.2225.0 1 1
+Unknown 73 57
+firefox29.0 4 4
+firefox48.0 51 17
+opera37.1.2254.132401 37 2
+chrome70.0.3538.80 158 10
+chrome3.0.195.24 1 1
+chrome68.0.3440.91 37 2
+iceweasel 1 1
+firefox52.9 2 2
+msie7.00 53 53
+safari5.1 1 1
+firefox52.0 5 5
+chrome69.0.3497.92 7 7
+chrome5.0.375.99 4 4
+chrome47.0.2526.69 37 2
+chrome57.0.2987.133 72 2
+chrome72.0.3626.109 1397 47
+safari4.0 1 1
+firefox61.0 1 1
+chrome49.0.2623.112 72 2
+chrome66.0.3349.0 1 1
+chrome66.0.3359.181 28 28
+chrome37.0.2062.124 1 1
+msie4.00 55 55
+chrome65.0.3325.93 1 1
+chrome67.0.3396.79 2 2
+chrome66.0.3359.158 1 1
+chrome51.0.2704.81 37 2
+chrome72.0.3626.76 189 14
+chrome70.0.3538.110 114 8
+msie6.00 72 72
+netscape5.0 2 2
+msie3.00 69 69
+iphone 36 2
+opera54.0.2952.54 2 2
+safari7.0 18 2
+firefox51.0 1 1
+msie11.0 332 16
+firefox31.0 38 2
+chrome63.0.3205.0 22 1
+opera19.0.1326.59 2 2
+chrome19.0.1055.1 1 1
+safari12.0.2 71 3
+chrome72.0.3626.81 181 6
+chrome58.0.3029.83 38 3
+firefox47.0 1 1
+chrome62.0.3202.94 2 2
+chrome72.0.3626.96 436 20
+chrome71.0.3578.80 37 2
+mozilla 57 27
+chrome38.0.1025.166 127 5
+chrome29.0.1547.0 1 1
+chrome13.0.782.41 1 1
+msie5.00 74 74
+chrome55.0.2883.77 1 0
+edge18 36 1
+firefox59.0 38 4
+safari4.0.2 1 1
+chrome42.0.2311.152 2 2
+android 2 2
+chrome71.0.3578.99 398 23
+chrome40.0.2214.93 1 1
+msie6.0 3 3
+safari 288 16
+chrome63.0.3239.111 106 6
+chrome58.0.3029.110 1 1
+chrome63.0.3239.132 4 4
+firefox64.0 39 5
+chrome72.0.3626.119 321 12
+chrome66.0.3359.170 4 4
+chrome69.0.3497.100 75 5
+chrome41.0.2272.89 46 11
+opera54.0.2952.71 2 2
+safari5.0.2 1 1
+chrome72.0.3626.105 481 27
+chrome27.0.1453.93 1 1
+chrome34.0.1847.116 1 1
+safari12.0 1006 63
+chrome34.0.1847.137 1 1
+firefox65.0 254 14
+msie9.0 209 51
+chrome71.0.3578.98 1186 56
+chrome53.6.0057.5785 1 1
+safari11.1.2 36 2
+firefox58.0 3 3
+msie2.00 81 81
+firefox53.0 1 1
+chrome57.5.0620.5358 1 1
+chrome67.0.3396.87 10 10
+opera54.0.2952.51 2 2
+chrome56.0.2924.87 73 3
+safari12.0.3 89 4
+safari10.0 1 1
+msie7.0 19 1
+chrome64.0.3282.167 1 1
+chrome41.0.2228.0 1 1
+msie8.0 8 4
+msie10.0 1 1
+opera53.0.2907.37 1 1
+safari11.0 107 9
+chrome67.0.3372.0 1 1
+firefox40.1 4 4
+chrome61.0.3163.100 13 13
+chrome45.0.2454.93 19 19
+chrome70.0.3538.77 37 2
+opera36.0.2130.32 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/4.0_(compatible;) 20190226124830
+Go-http-client/1.1 20190228142352
+Visited_by_http://tools.geek-tools.org 20190224200542
+Mozilla/5.0_(compatible;_ips-agent) 20190217170121
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190210091542
+PleskBot 20190201120132
+HTTPing_v2.5 20190228195047
+ia_archiver 20190218013948
+COMODO_DCV 20190213032233
+WhatsApp/2.19.34_A 20190210203945
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190201074928
+Photon/1.0 20190224075515
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+PleskBot 20190201120132
+Visited_by_http://tools.geek-tools.org 20190224200542
+Go-http-client/1.1 20190228142352
+Photon/1.0 20190224075515
+COMODO_DCV 20190213032233
+WhatsApp/2.19.34_A 20190210203945
+ia_archiver 20190218013948
+HTTPing_v2.5 20190228195047
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 297 527
+From1 9 9
+From2 261 262
+From3 415 415
+From4 281 9778
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+www_google_at 2 2
+www_google_co_uk 2 2
+www_google_com 150 151
+www_google_sk 1 1
+duckduckgo 3 3
+www_google_co_za 36 36
+baidu 65 65
+r_search_yahoo_com 1 1
+www_google_co_zw 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 345
+http://lex-center.ru 6 6
+https://pamjatnik.com.ua/productions 4 4
+https://silastroy.com 4 4
+http://animals.wiki 4 4
+https://windowsrepublic.com.au 4 4
+https://www.instagram.com/zoospasalon/ 4 4
+http://selenhome.com 4 4
+https://restartclinic.ru/lechenie-alkogolizma/ 4 4
+https://servicekomp.com.ua/ua/service/remont-chistka-monoblokov-kiev-irpen-bucha-gostomel/ 3 3
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D1%80%D1%83%D1%81%D0%B0/ 3 3
+https://www.apostilleru.online/apostille/ 3 3
+https://dezses-sam.ru/unichtozhenie-klopov-samara/ 3 3
+https://ionline.kz 2 2
+https://mancave.gift 2 2
+https://klopservis.ru/category/vidy-vrediteley-doma/ 2 2
+https://nekdo.ru/army/ 2 2
+https://medvio-sevastopol.ru/lechenie-alkogolizma/rehab-alco/ 2 2
+https://wargameclub.ru/asl-starter-kit-1/ 2 2
+http://narko-medical.com.ua/vyzov-narkologa/ 2 2
+https://srochnyj-kredit-pod-zalog.ru/kredit-pod-zalog-avtomobilya.html 2 2
+http://cipark.ru/avtomatizirovannaya-parkovka-translator-parking 2 2
+https://dezcenternsk.ru 2 2
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%85%D0%B0%D1%83%D1%81/ 2 2
+https://psiholog-lebedeva.com/psihoterapevt-zaporozhye.html 2 2
+https://ugadator.ru 2 2
+https://zabota-zp.com.ua/uslugi/medicine/uhod-za-onkobolnymi/ 1 1
+https://europacenter.org.ua/lechenie-alkogolizma/ 1 1
+http://burger-tycoon.com 1 1
+https://klopservis.ru 1 1
+http://kredit-pod-zalog.mozello.ru/uslugikredit-pod-zalog-kvartiry 1 1
+https://kursk.sippartner.ru/shop/ 1 1
+http://tamada-tver.ru 1 1
+https://nekdo.ru/random/ 1 1
+https://renovationclinic.ru/branch/lytkarino/ 1 1
+https://wargameclub.ru/time-of-crisis/ 1 1
+https://www.indiway.com/ru/prod/hk-macau-gondola-airport-collect 1 1
+https://m.c-b-b.ru/detektorlzhi-poligraf-v-orenburge.html 1 1
+http://tokshow.online/category/filmi/ 1 1
+https://www.elegante-vitrage.ru/zerkala 1 1
+https://www.pamyatniki-in-kiev.com.ua/produktsiya/detskie-pamyatniki.html 1 1
+https://www.elegante-vitrage.ru/frost-glass 1 1
+https://rf-upk.ru/chast-tretya/razdel-xii/glava-42/statya-341.html 1 1
+http://parklift.ru/metro 1 1
+https://kursk.sippartner.ru/product-category/ot-100-do-150-m2/ 1 1
+https://rutvshow.net/tv-peredachi/privet-andrej 1 1
+https://kfn.ua 1 1
+http://xn--90acau6ackhj2gf.xn--p1ai/o-kompanii/ 1 1
+https://gorod-svobody.ru/rehab-narco/ 1 1
+https://spb-demontage.ru/demontiruem/promyshlennyj-snos/ 1 1
+http://tokshow.online/category/tok-show/modnyj-prigovor-poslednie-vypuski/ 1 1
+https://rehabfenix-tolyatti.ru/lechenie-narkomanii/spice/ 1 1
+https://autel-diagnostic.ru/maxisys-ms908s-pro/ 1 1
+https://m.c-b-b.ru/detektorlzhi-poligraf-v-simferopole.html 1 1
+https://rehabfenix.ru/vyvod-iz-zapoya/ 1 1
+https://ionline.kz/seo-almaty.html 1 1
+http://tamada69.ru/vedushchaya/ 1 1
+https://fridge.services/15-porshnevye-polugermetichnye 1 1
+https://www.elegante-vitrage.ru/cast-glass 1 1
+https://medvio.ru/lechenie-alkogolizma/rehab-alco/ 1 1
+https://rutvshow.net/politicheskie-shou/mezhdunarodnaya-pilorama 1 1
+https://electric-mitsubishi.ru/kondicioner-mitsubishi-electric/kondicioner-mitsubishi/ 1 1
+https://cafe-silvestre.ru/franchise 1 1
+https://www.dm02.ru/uslugi/stroitelstvo-fundamenta.html 1 1
+https://www.indiway.com/en/prod/gangchon-rail-bike-reservation 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B4%D0%BE%D1%81%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B0/ 1 1
+https://rf-upk.ru/chast-pervaya/razdel-i/glava-2/statya-18.html 1 1
+http://deart-13.ru/gostinica-na-chas-v-moskve/ 1 1
+https://fbmessenger.info/faq/kak-skachat-video 1 1
+http://xxmusic.net/electronic/ 1 1
+https://romotop-ukraine.com.ua/ru/dizajnerskie-kaminy/aksessuary-dlya-dizajnerskih-kaminov 1 1
+http://medsemya.ru 1 1
+http://bezremonta.net/potolok/ 1 1
+http://domikarkas.ru 1 1
+https://stylewear.ru/catalog/igrushki/konstruktory/ 1 1
+https://vannochka.by/ru/restavratsia-vann/zelenograd/ 1 1
+https://maket-off.ru/135-sea/ 1 1
+https://viarehab.ru/branch/stavropolskij-kraj/budyonnovsk/ 1 1
+https://cafe-silvestre.ru/catalog/coffee 1 1
+http://xn--90acau6ackhj2gf.xn--p1ai/vyvoz-musora-toksovo/ 1 1
+http://xn----8sbprkbljnil.xn--p1ai/services/repair/20-remont-kompyuterov-noutbukov-mfu-printerov-monitorov-i-serverov.html 1 1
+https://pansionat-ml.ru/dom-dlya-invalidov/ 1 1
+http://xn--90acau6ackhj2gf.xn--p1ai/otzyvy/ 1 1
+https://superfundamentufa.ru/article/raschet-fundamenta-dlya-doma/ 1 1
+https://konvektor-nobo.ru 1 1
+http://kredit-pod-zalog.mozello.ru/o-nas/ 1 1
+https://srochnyj-kredit-pod-zalog.ru/kredit-pod-zalog-kvartiryi.html 1 1
+https://paratselsis.ru 1 1
+https://kfn.ua/uslugi/registratsiya-flp/ 1 1
+https://nekdo.ru/medicine/ 1 1
+https://muzmart.com/catalog 1 1
+https://romotop-ukraine.com.ua/ru/ 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BA%D0%B0-%D1%88%D1%82%D0%B8%D0%BB%D1%8C/ 1 1
+http://psy-dm.ru/stati.html 1 1
+http://prog69.ru 1 1
+https://www.clinicaimplantpar.com/cazare.html 1 1
+https://www.dm02.ru/uslugi/ustroystvo-zimnego-sada.html 1 1
+http://auto-news24.ru/category/avtosport/ 1 1
+https://www.transplantecapilarturquia.com.br/pacote/partida-em-grupo/ 1 1
+http://tokshow.online/category/politicheskie_tok-show/vecher_s_solovievym/ 1 1
+https://www.apostilleru.online/document-legalization/ 1 1
+https://www.indiway.com/en/prod/latelier-museum-ticket-dongdaemun 1 1
+https://chopperdom.ru/shop/kupit/1832-rama-ruff-porucho-v3-0-promo 1 1
+https://medvio.ru/lechenie-narkomanii/ 1 1
+https://www.transplantecapilarturquia.com.br/passo-a-passo/como-reservar/ 1 1
+http://rupolitshow.ru 1 1
+https://maket-off.ru/39-fotooboi-shkafy-postery-rastr/ 1 1
+https://karapuz.org.ua/catalog/detskie-kofty 1 1
+https://romotop-ukraine.com.ua/ru/kafelnye-kaminy 1 1
+https://restartclinic.ru/reabilitatsiya-narkozavisimyh/ 1 1
+https://rf-upk.ru/chast-pervaya/razdel-iv/glava-12/statya-95.html 1 1
+https://10-icd.com/c00-d49/c81-c96/c82/code-c82-22.html 1 1
+https://www.xpert.com.ua/chizelnuj-plyg.html 1 1
+http://domashniy-recepti.ru/category/poleznye-stati/ 1 1
+https://www.clinicaimplantpar.com/rezultatul-transplantului-par.html 1 1
+https://narkonet.su 1 1
+https://www.xpert.com.ua/motoblok-kaskad-instrukciya-po-remonty.html 1 1
+https://spb-demontage.ru/demontiruem/snos-zhelezobetonnyh-konstrukcij/ 1 1
+http://l.facebook.com/l.php 1 1
+https://10-icd.com/v00-y99/v10-v19/v16/code-v16-5.html 1 1
+https://www.trasplantecapilarturquia.es/cuidados-pre-y-post-operatorios/ 1 1
+http://kredit-pod-zalog.mozello.ru/nedvizhimost-v-zalog/ 1 1
+https://maket-off.ru/25-different/ 1 1
+https://pief.ru/postuplenie-i-obuchenie.html 1 1
+http://www.love-rap.ru/load 1 1
+http://tamada69.ru/blog/ 1 1
+https://www.fermeru.pro/kak-pravilno-virastit-mattiolu.html 1 1
+http://domashniy-recepti.ru/category/blyuda-iz-tvoroga/ 1 1
+https://www.fermeru.pro/bolezni-i-vrediteli-chernoi-smorodini-kak-s-nimi-borotsya.html 1 1
+https://maket-off.ru/72-nature/ 1 1
+https://www.xpert.com.ua/shurupovert-bosch-gsr-gsb-professional.html 1 1
+https://www.transplantecapilarturquia.com.br/transplante-capilar-fue/tratamento-prp/ 1 1
+https://maket-off.ru/140-texture/ 1 1
+http://tintoretto.com.ua/steklyannye-dushevye-kabiny/ 1 1
+http://medsemya.ru/uslugi_solntsevo/ 1 1
+https://pief.ru/education/perepodgotovka/ 1 1
+https://dezses-chl.ru/unichtozhenie-klopov-chelyabinsk/ 1 1
+https://www.elegante-vitrage.ru/aqua-design 1 1
+http://xxmusic.net/rock/ 1 1
+http://domikarkas.ru/interer/ 1 1
+https://vannochka.by/ru/restavratsia-vann/podolsk/ 1 1
+https://karapuz.org.ua/catalog/detskie-shapochki-demi 1 1
+http://parklift.ru/stati 1 1
+https://cafe-silvestre.ru 1 1
+https://www.biznes-idei.com/razvedenie-svinei-kak-biznes.html 1 1
+http://cafe-silvestre.ru/catalog 1 1
+https://yourface.by/category/maski/ 1 1
+https://pansionat-ml.ru/uslugi/medicine/patronazh/ 1 1
+https://pief.ru 1 1
+http://xn----7sbekgbra5agqmqp5o.xn--p1ai 1 1
+https://www.indiway.com/en/prod/basic-free-and-easy-vivaldi-park-resort 1 1
+https://pansionat-ml.ru/kerch-dom/ 1 1
+https://gidro-shop.ru/shop_content.php 1 1
+https://www.zerkala-elegant.ru/dushevye-na-zakaz 1 1
+https://www.sokolovpro.ru/2018/04/pochemy-crivay-sprosa-na-trud.html 1 1
+https://chopperdom.ru/shop/kupit/2357-obod-28-x-67mm-chernyj 1 1
+http://xn--90acau6ackhj2gf.xn--p1ai/vyvoz-musora-tosno/ 1 1
+https://www.trasplantecapilarturquia.es/clinica/ 1 1
+https://srochnyj-kredit-pod-zalog.ru 1 1
+https://medvio.ru/lechenie-igromanii/ 1 1
+https://dobro-zdrav.ru/sevastopol/ 1 1
+https://romotop-ukraine.com.ua/ru/topki-dlya-kaminov 1 1
+https://euro-standart.by/otdelka/sajding/ 1 1
+https://medvio-sevastopol.ru/vyzov-narkologa/ 2 2
+https://www.biznes-idei.com/kak-organizovat-pchelovodstvo-i-poluchit-s-etogo-dengi.html 1 1
+https://nekdo.ru/national/ 1 1
+https://stylewear.ru/catalog/muzhchinam/obuv_4/ 1 1
+https://wargameclub.ru/triumph-tragedy/ 1 1
+https://maket-off.ru/240-ognennyeramki/ 1 1
+http://parklift.ru/metro-s 1 1
+https://euro-standart.by 1 1
+https://www.arrisavto.ru/study/pdd-onlajn.html 1 1
+https://brendof-club.com/catalog/remni_croc/ 1 1
+https://arosw.ru/category/video/ 1 1
+http://domikarkas.ru/stroitelstvo/postrojki/ 1 1
+http://genezis-rehab.ru/anapa/lechenie/lechenie-ot-solej-v-anape/ 1 1
+http://auto-news24.ru/category/nashi-novosti/ 1 1
+https://karapuz.org.ua/catalog/reglany-kostyumy 1 1
+https://zabota-zp.com.ua/uslugi/medicine/uhod-dlya-bolnyh-demenciej/ 1 1
+https://www.parfumin.kiev.ua/product/angel-schlesser-essential-parfjumirovannaja-voda 1 1
+https://www.sokolovpro.ru/2018/12/prizovoy-emayl-chto-eto-za-razvod-otzyvy.html 1 1
+https://www.impiantidentali.clinic/bejko.html 1 1
+https://rf-upk.ru/chast-tretya/razdel-ix/glava-36/statya-271.html 1 1
+https://kondicioneri-mitsubishi.ru 1 1
+http://medsemya.ru/uslugi/vyzov-vracha-na-dom/ 1 1
+https://medvio-sevastopol.ru/prinuditelnoe-lechenie/ 1 1
+http://trubway.ru/category/primenenie/dymohod 1 1
+https://ustanovka-kondicioner.ru/hisense/ 1 1
+https://yourface.by/category/ochishhajushhie-sredstva/ 1 1
+https://psiholog-lebedeva.com/konsultatsiya-psihologa-zaporozhye.html 1 1
+https://gidro-shop.ru 2 2
+https://kursk.sippartner.ru/karkasnye-doma/ 1 1
+https://xn--80aaagl8ahknbd5b5e.xn--p1ai/reviews/ 1 1
+https://www.dm02.ru/projects/odnoetazhnye.html 1 1
+http://auto-news24.ru/category/prototipy/ 1 1
+https://spb-demontage.ru/demontiruem/snos-angarov/ 1 1
+https://10-icd.com/k00-k95/k70-k77/k76/code-k76-4.html 1 1
+http://www.love-rap.ru/dir 1 1
+https://pansionat-ml.ru/uslugi/medicine/ 1 1
+https://www.clinicaimplantpar.com/dr-serkan-aygin.html 1 1
+https://dezborets.ru/unichtozhenie-zhukov/ 1 1
+https://ustanovka-kondicioner.ru 1 1
+https://gorod-svobody.ru/filialy/krym/simferopol/ 2 2
+http://www.marinetraffic.com 1 1
+http://translationrussian.ru/uslugi-buro-perevodov/ 1 1
+https://europacenter.org.ua/vyzov-narkologa/ 1 1
+https://edem-msk.ru/balashiha-dom/ 1 1
+https://smitop.ru/event/ 1 1
+http://auto-news24.ru/category/novosti-azii/ 1 1
+http://buy-roses.ru/rose-order-85/ 2 2
+https://www.facebook.com 2 2
+http://psy-dm.ru/obo-mne.html 2 2
+http://amberbeach.info/283-tury-na-kubu-obhodyatsya-turistam-deshevle-aviabiletov.html 1 1
+https://vodostoki.pro/koleno-dlya-vodostochnoy-truby-otsinkovannoe-diametr-180-mm.html 1 1
+https://xn----7sbabm1ahc4b2aqff.su 1 1
+http://prog69.ru/forum/234/ 1 1
+https://www.zerkala-elegant.ru/sostarennoe-zerkalo 1 1
+https://medvio.ru 1 1
+http://tamada69.ru/di-dzhey/ 2 2
+http://tokshow.online/category/tok-show/sekret-na-million-poslednie-vypuski/ 1 1
+https://kfn.ua/uslugi/abonentskoe-obsluzhivaniya/ 1 1
+https://workdoma.ru/kak-zarabatyvat-na-kommentarijah-v-internete/ 1 1
+https://xn--j1at1a.xn--p1ai/studentu/ 1 1
+https://chopperdom.ru/shop/id/114-28-dyujmov-700s 1 1
+http://podarkilove.ru/podarki-dlya-lyubimyh 1 1
+https://electric-mitsubishi.ru/kondicioner-mitsubishi-electric/kondicioner-mitsubishi/mitsubishi-electric-dm25va/ 1 1
+https://medvio.ru/kodirovanie-ot-alkogolizma/ 1 1
+https://www.parfumin.kiev.ua/product/lanvin-eclat-d-arpege-pour-homme-100-ml-tester 1 1
+https://smitop.ru/conflict/ 1 1
+https://www.xpert.com.ua/kultivator-dlya-dachi-yak-vybraty.html 1 1
+https://www.trasplantecapilarturquia.es/hotel/ 1 1
+https://www.tmp20-school.ru/price 1 1
+http://kredit-pod-zalog.mozello.ru 1 1
+https://kondicioneri-mitsubishi.ru/mitsubishi-heavy/kassetnye-mitsubishi-heavy 2 2
+https://pief.ru/programms/ 1 1
+http://kredit-pod-zalog.mozello.ru/zajm-pod-zalog-nedvizhimosti/ 1 1
+http://cs16exe.ru 1 1
+http://kredit-pod-zalog.mozello.ru/kredit-pod-dom 1 1
+https://fridge.services/12-compressors 1 1
+https://dezses-chl.ru 2 2
+https://servicekomp.com.ua/ua/services/ 1 1
+https://mmoboost.pro/black-desert-online/knowlegde-contribution-bdo/ 1 1
+https://mmoboost.pro/destiny-2/weapons-d2/ 1 1
+http://rupolitshow.ru/vesti-v-subbotu 1 1
+https://xn--j1at1a.xn--p1ai/kolledzh/ 1 1
+https://www.transplantecapilarturquia.com.br/blog/ 1 1
+http://zalog177.ru 2 2
+http://domikarkas.ru/stroitelstvo/fundament/ 2 2
+https://kfn.ua/uslugi/buhgalterskoe-obsluzhivanie/ 2 2
+https://www.impiantidentali.clinic 2 2
+http://www.twooceanstoastmasters.co.za/x-news.php 1 1
+https://www.blog2019.top/quick-seo-traffic-building-tips-to-improve-your-blog/23178613/ 1 1
+https://fabrikagosta.ru/podokonniki.html 1 1
+https://konvektor-nobo.ru/nobo-nordic 2 2
+http://metaphysican.com/otnosheniya/ 1 1
+https://fridge.services 1 1
+https://ustanovka-kondicioner.ru/kondicionery-kentatsu/ 1 1
+https://www.dm02.ru/projects/s-erkerom.html 1 1
+https://gidro-shop.ru/vanny-akrilovye 1 1
+http://xxaudio.net/shanson/ 1 1
+http://rupolitshow.ru/zheleznaya-logika 1 1
+http://tokshow.online/category/filmi/priklycheniya/ 1 1
+https://vodostoki.pro/voronka-vodostochnaya-otsinkovannaya-diametr-160-mm.html 1 1
+http://pupilby.net 1 1
+http://xn----8sbprkbljnil.xn--p1ai/services/repair/140-remont-vseh-telefonov-lyuboy-slozhnosti.html 1 1
+http://xn--80aeibg6ae0b.su/jiv/ 1 1
+http://xn----8sbprkbljnil.xn--p1ai/services/ 1 1
+https://lm.facebook.com 1 1
+https://arosw.ru/category/stati/ 1 1
+https://kursk.sippartner.ru/product-category/do-100-m2/ 1 1
+http://www.remont-garaga24.ru/services/ventilyatsiya-garazha/ 1 1
+https://spb-demontage.ru/demontiruem/snos-derevjannyh-domov/ 1 1
+http://www.love-rap.ru/news/1-0-1 1 1
+http://rupolitshow.ru/mezhdunarodnoe-obozrenie 1 1
+http://narko-medical.com.ua/lechenie-igromanii/ 1 1
+https://karapuz.org.ua/catalog/detskie-podushki-ot-1-goda 1 1
+https://www.clinicaimplantpar.com/istanbul.html 1 1
+http://parklift.ru/puzzle-ml 1 1
+https://chopperdom.ru/shop/kupit/1528-perexodnik-dlya-pedalej-s-1-2-na-9-16 1 1
+https://www.parfumin.kiev.ua/product/antonio-banderas-the-golden-secret-50 1 1
+https://dezses-sam.ru 1 1
+http://narko-medical.com.ua/branch/herson/ 1 1
+http://genezis.by/brest/lechenie/kodirovanie-ot-alkogolizma/ 1 1
+http://burger-imperia.com 1 1
+https://xn--j1at1a.xn--p1ai/abiturientu/ 2 2
+http://podarkilove.ru/muzhskie-ukrashenya/muzhskie-kulony 1 1
+https://gillette-blades.com.ua 1 1
+https://fabrikagosta.ru/ceny-na-okna.html 1 1
+http://xxaudio.net/pop/ 1 1
+https://l.facebook.com 1 1
+https://rubeg-plus.ru/catalog/ 1 1
+https://dezcenternsk.ru/unichtozhenie-klopov-novosibirsk/ 2 2
+https://www.impiantidentali.clinic/trattamenti.html 1 1
+http://stroidomsait.ru/otdelka/vneshnyaya-otdelka 1 1
+http://www.remont-garaga24.ru/services/izgotovlenie-ustanovka-i-uteplenie-vorot/ 2 2
+https://www.pamyatniki-in-kiev.com.ua 2 2
+https://fabrikagosta.ru/otlivy.html 1 1
+https://www.sokolovpro.ru/2018/08/kakie-vidy-sobstvennosti-sushchestvuyut-v-smeshannoj-ehkonomicheskoj-sisteme.html 2 2
+https://rutvshow.net/tv-peredachi/na-samom-dele 1 1
+http://buy-roses.ru/tros-rose-order/ 1 1
+https://www.biznes-idei.com/franshiza-makdonalds-stoimost.html 1 1
+http://xn--80adzit0cxa.xn--p1ai/yur-uslugi 1 1
+https://dezborets.ru/unichtozhenie-krotov/ 1 1
+https://vannochka.by/obl/restavratsia-vann/vitebsk/ 1 1
+http://hundejo.com 1 1
+https://www.zerkala-elegant.ru/zerkalo-s-podsvetkoj 1 1
+https://rubeg-plus.ru/catalog/dveri/vhodnie/mdf/ 1 1
+http://prog69.ru/load/cs_go/7 1 1
+https://www.zerkala-elegant.ru/gravirovka-na-zerkale 1 1
+https://10-icd.com/v00-y99/w85-w99/w89/code-w89-9.html 1 1
+https://www.biznes-idei.com/kak-poluchit-bez-problem-bolchyu-pribil.html 1 1
+http://auto-news24.ru/category/avtoyumor/ 1 1
+http://trubway.ru/category/primenenie/otoplenie-i-vodosnabzhenie 1 1
+https://gorod-svobody.ru/lechenie-narkomanii/spice/ 1 1
+https://autel-diagnostic.ru/maxisys-ms906bt/ 1 1
+https://www.indiway.com/en/prod/mt-seorak-naksansa-temple-shuttle-package 1 1
+http://xn--80adzit0cxa.xn--p1ai/notariusy-v-krymu 1 1
+https://www.elegante-vitrage.ru/stained-glass-landscapes 1 1
+http://podarkilove.ru/zhenskie-ukrasheniya/kulony 1 1
+http://domashniy-recepti.ru/category/sladkie-blyuda/ 1 1
+http://trubway.ru/category/primenenie/gazovye 1 1
+http://xn--80adzit0cxa.xn--p1ai/dokumenty 1 1
+https://www.fermeru.pro/kakimi-bivayut-pletuchiesya-rasteniya-dlya-dekora-dachi-i-sada.html 1 1
+https://m.c-b-b.ru/detektorlzhi-poligraf-v-orle.html 1 1
+https://europacenter.org.ua/lechenie-igromanii/ 2 2
+http://asupro.com 2 2
+https://fabrikagosta.ru/profil-veka.html 1 1
+http://tamada-tver.ru/ceny/ 2 2
+https://dezborets.ru/unichtozhenie-mokrits/ 1 1
+http://rupolitshow.ru/bolshaya-igra 1 1
+https://stylewear.ru/catalog/muzhchinam/aksessuary_8/ 1 1
+https://vodostoki.pro/voronka-vodostochnaya-otsinkovannaya-diametr-100-mm.html 1 1
+http://medsemya.ru/service/ 1 1
+https://electric-mitsubishi.ru/mitsubishi-electric-msz/msz-dm25va 1 1
+http://www.remont-garaga24.ru/services/zamena-remont-kryshi-garazha/ 1 1
+https://superfundamentufa.ru 1 1
+https://stylewear.ru/catalog/igrushki/kukly_i_aksessuary/ 1 1
+https://rubeg-plus.ru 2 2
+https://fbmessenger.info/android 1 1
+https://www.pamyatniki-in-kiev.com.ua/produktsiya/dvojnye-pamjatniki.html 1 1
+https://arosw.ru/category/metalloplastikovye-okna/ 1 1
+http://kredit-pod-zalog.mozello.ru/lombard-pod-zalog-nedvizhimosti 1 1
+https://vodostoki.pro/truba-vodostochnaya-otsinkovannaya-diametr-150-mm.html 1 1
+http://trubway.ru 1 1
+http://translationrussian.ru/otrasli-perevoda/ 1 1
+https://www.zerkala-elegant.ru/zerkalo-s-risunkom 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 66
+factor188 1
+minute7k4 1
+fixo7x 1
+fingeryit 1
+45y 1
+ninew89 1
+donkey7of 1
+hhxo 1
+countwvw 1
+reviewj4l 1
+9k8o 1
+coffeelsm 1
+within9jy 1
+threeh2l 1
+pushqis 1
+sister987 1
+pleasantb66 1
+clayfai 1
+footzfy 1
+storml74 1
+toastmasters+cape+town 1
+lsdw 1
+iyq6 1
+safety7qj 1
+risedsp 1
+labels2r 1
+operation2v7 1
+sea967 1
+seeom7 1
+knowledgeyqn 1
+time566 1
+wfm4 1
+slave977 1
+eatenn9b 1
+twovqw 1
+hay3v5 1
+picturekgn 1
+spendq3u 1
+6j53 1
+passkep 1
+redezj 1
+o88q 1
+pitchbdj 1
+beforeriz 1
+dead1dj 1
+ke1i 1
+heqds 1
+slowlygfo 1
+correctlyqss 1
+chapterssv 1
+heldxmb 1
+2jcd 1
+gewd 1
+1l9z 1
+anybodya1k 1
+n4zw 1
+southuky 1
+lgur 1
+writeaps 1
+country6en 1
+ps3p 1
+identity2zj 1
+automobiletx5 1
+barnfqg 1
+silkx5w 1
+rule7is 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 68
+hhxo 1
+donkey7of 1
+ninew89 1
+cape 1
+45y 1
+fingeryit 1
+fixo7x 1
+minute7k4 1
+factor188 1
+storml74 1
+clayfai 1
+footzfy 1
+pleasantb66 1
+sister987 1
+pushqis 1
+threeh2l 1
+within9jy 1
+coffeelsm 1
+9k8o 1
+reviewj4l 1
+countwvw 1
+operation2v7 1
+labels2r 1
+sea967 1
+risedsp 1
+iyq6 1
+safety7qj 1
+lsdw 1
+slave977 1
+wfm4 1
+twovqw 1
+eatenn9b 1
+knowledgeyqn 1
+time566 1
+seeom7 1
+passkep 1
+6j53 1
+dead1dj 1
+beforeriz 1
+redezj 1
+o88q 1
+pitchbdj 1
+picturekgn 1
+spendq3u 1
+hay3v5 1
+slowlygfo 1
+heqds 1
+ke1i 1
+anybodya1k 1
+1l9z 1
+writeaps 1
+lgur 1
+n4zw 1
+toastmasters 1
+southuky 1
+correctlyqss 1
+gewd 1
+town 1
+chapterssv 1
+2jcd 1
+heldxmb 1
+automobiletx5 1
+barnfqg 1
+silkx5w 1
+rule7is 1
+country6en 1
+ps3p 1
+identity2zj 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1909 0
+206 20 955163
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 357
+/apple-touch-icon-152x152.png 4 -
+/thank/ 9 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+//FCKeditor/editor/filemanager/connectors/asp/connector.asp 4 -
+//xxcc.asp 1 http://www.cttoastmasters.org.za//xxcc.asp
+//admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 4 -
+//data/admin/ver.txt 3 -
+//plus/ad_js.php 7 -
+//data/cache/mepan.php 1 http://www.cttoastmasters.org.za//data/cache/mepan.php
+//infoots.asp 1 http://www.cttoastmasters.org.za//infoots.asp
+//ppx.php 1 http://www.cttoastmasters.org.za//ppx.php
+/%5Cplus%5Clucas.php 1 http://www.cttoastmasters.org.za/\\plus\\lucas.php
+//images/cache.asp 1 http://www.cttoastmasters.org.za//images/cache.asp
+/admin_aspcms/login.asp 2 -
+//admin/FCKeditor/editor/filemanager/connectors/php/connector.php 4 -
+/data/admin/ver.txt 3 -
+//data/cache/pin.php 1 http://www.cttoastmasters.org.za//data/cache/pin.php
+//lian.php 1 http://www.cttoastmasters.org.za//lian.php
+//index.php/Home/AppUpload/commentUpload 4 -
+//songcihe.asp 1 http://www.cttoastmasters.org.za//songcihe.asp
+//admin/index_user.asp 1 http://www.cttoastmasters.org.za//admin/index_user.asp
+/feed/ 1 -
+/l0s4r.php 1 http://www.cttoastmasters.org.za/l0s4r.php
+/wp-admin/setup-config.php 11 -
+//plus/mybak.php 8 http://www.cttoastmasters.org.za//plus/mybak.php
+//weki.php 1 http://www.cttoastmasters.org.za//weki.php
+//Hzllaga.php 1 http://www.cttoastmasters.org.za//Hzllaga.php
+//ernan.php 1 http://www.cttoastmasters.org.za//ernan.php
+//includes/fckeditor/editor/filemanager/connectors/php/connect.php 1 -
+/imp/test.php 2 -
+//e5f5g.asp 1 http://www.cttoastmasters.org.za//e5f5g.asp
+//conghuangua.asp 1 http://www.cttoastmasters.org.za//conghuangua.asp
+///1.php 1 http://www.cttoastmasters.org.za///1.php
+//index.php 23 -
+/index.php/2015/09/23/hello-world/ 1 -
+//css/index.asp 1 http://www.cttoastmasters.org.za//css/index.asp
+/cms/wp-includes/wlwmanifest.xml 2 -
+//Thumbs.asp 1 http://www.cttoastmasters.org.za//Thumbs.asp
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+//index.action 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/team-view/alan-smith/ 1 -
+//concon.asp 5 http://www.cttoastmasters.org.za//concon.asp
+/index.php/2014/09/ 1 -
+//search.action 1 -
+//wp-login.php 2 http://www.google.com.hk
+//ming.asp 1 http://www.cttoastmasters.org.za//ming.asp
+/index.php/2013/10/23/10-public-speaking-tips/ 1 -
+/wp-content/plugins/wp-dreamworkgallery/readme.txt 2 http://cttoastmasters.org.za/wp-content/plugins/wp-dreamworkgallery/readme.txt
+/cms/wp-admin/ 1 -
+//dayrui/libraries/tmp-upload-images/shell1781.php 1 -
+//siteweb.asp 1 http://www.cttoastmasters.org.za//siteweb.asp
+//0.php 1 http://www.cttoastmasters.org.za//0.php
+//pages/viewpage.action 1 -
+//wwwroot.rar 7 http://www.cttoastmasters.org.za//wwwroot.rar
+//ves.php 1 http://www.cttoastmasters.org.za//ves.php
+//xmlrpc.php 3 http://www.cttoastmasters.org.za//xmlrpc.php
+/wp-content/plugins/fluid_forms/file-upload/server/php/index.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/fluid_forms/file-upload/server/php/index.php
+//FCKeditor3/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/x.php 1 http://www.cttoastmasters.org.za/x.php
+/wp-content/plugins/simple-ads-manager/readme.txt 2 http://cttoastmasters.org.za/wp-content/plugins/simple-ads-manager/readme.txt
+//9.php 1 http://www.cttoastmasters.org.za//9.php
+//user/swfupload.asp 2 http://www.cttoastmasters.org.za//user/user_upfile.asp
+//ad.asp 1 http://www.cttoastmasters.org.za//ad.asp
+//dang3.php 1 http://www.cttoastmasters.org.za//dang3.php
+//search.php 5 -
+/mdcrw.php 1 http://www.cttoastmasters.org.za/mdcrw.php
+//pochen.php 1 http://www.cttoastmasters.org.za//pochen.php
+//plus/css_js.php 1 http://www.cttoastmasters.org.za//plus/css_js.php
+//jian.php 1 http://www.cttoastmasters.org.za//jian.php
+//data/img/css/xianf.ASP 3 http://www.cttoastmasters.org.za//data/img/css/xianf.ASP
+//net.asp 1 http://www.cttoastmasters.org.za//net.asp
+//admin/404.asp 1 http://www.cttoastmasters.org.za//admin/404.asp
+//admin_aspcms/login.asp 3 -
+//plus/moon.php 3 http://www.cttoastmasters.org.za//plus/moon.php
+//login.action 1 -
+//plus/bnigqjcvlp.php 1 http://www.cttoastmasters.org.za//plus/bnigqjcvlp.php
+//df.asp 1 http://www.cttoastmasters.org.za//df.asp
+//images/Album/wen.asp 1 http://www.cttoastmasters.org.za//images/Album/wen.asp
+/wp-content/plugins/wpstorecart/readme.txt 1 http://www.cttoastmasters.org.za/wp-content/plugins/wpstorecart/readme.txt
+//FCKeditor3/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+//data/cache/asd.php 14 http://www.cttoastmasters.org.za//data/cache/asd.php
+//make.php 2 http://www.cttoastmasters.org.za//make.php
+//data/common.inc.php 1 -
+/contact-us.html 2 -
+//1jh.php 2 http://www.cttoastmasters.org.za//1jh.php
+//data/cache/tb.php 1 http://www.cttoastmasters.org.za//data/cache/tb.php
+//iihjcs.php 1 http://www.cttoastmasters.org.za//iihjcs.php
+//Rose20190220044620.txt 2 -
+/rss 1 -
+/images/apple-touch-icon-72x72.png 64 http://www.cttoastmasters.org.za/
+//tangjiang.asp 1 http://www.cttoastmasters.org.za//tangjiang.asp
+//ttz/zxc.asp 1 http://www.cttoastmasters.org.za//ttz/zxc.asp
+/speakers-tips/ 6 -
+///index.asp 1 http://www.cttoastmasters.org.za///index.asp
+/wp-includes/wlwmanifest.xml 2 -
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+//gou.php 1 http://www.cttoastmasters.org.za//gou.php
+/wp/wp-login.php 3 -
+//plus/90sec.php 8 http://www.cttoastmasters.org.za//plus/90sec.php
+/phpmyadmin/index.php 1 -
+/category/uncategorized/ 1 -
+//Rose20190222222102.txt 2 -
+/wp-load.php 1 http://www.cttoastmasters.org.za/wp-load.php
+/404.php 1 http://www.cttoastmasters.org.za/404.php
+//fc.php 1 http://www.cttoastmasters.org.za//fc.php
+/wp-content/plugins/apikey/apikey.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/apikey/apikey.php
+//www.cttoastmasters.org.za/..rar 7 http://www.cttoastmasters.org.za//www.cttoastmasters.org.za/..rar
+/sitemap.xml 1 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/index.php
+//Web_fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+//za/.rar 7 http://www.cttoastmasters.org.za//za/.rar
+//admin/xm.asp 1 http://www.cttoastmasters.org.za//admin/xm.asp
+/apple-touch-icon-152x152-precomposed.png 4 -
+//za/.zip 7 http://www.cttoastmasters.org.za//za/.zip
+///lib/smarty/plugins/modifier.config.php 4 -
+/contact-2/ 15 -
+/horde3/imp/test.php 2 -
+////plus/laobiao.php 1 http://www.cttoastmasters.org.za////plus/laobiao.php
+//Dns.asp 1 http://www.cttoastmasters.org.za//Dns.asp
+//plus/e7xue.php 1 http://www.cttoastmasters.org.za//plus/e7xue.php
+///plus/90sec.php 1 http://www.cttoastmasters.org.za///plus/90sec.php
+/wp/wp-includes/wlwmanifest.xml 2 -
+//gou/img/ca4.php 1 http://www.cttoastmasters.org.za//gou/img/ca4.php
+//plus/rpnxm.php 1 http://www.cttoastmasters.org.za//plus/rpnxm.php
+/olspar.php 1 http://www.cttoastmasters.org.za/olspar.php
+//vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 -
+//images/mp.php 1 http://www.cttoastmasters.org.za//images/mp.php
+/mixi.php 1 http://www.cttoastmasters.org.za/mixi.php
+/wp-content/plugins/vwcleanerplugin/bump.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/vwcleanerplugin/bump.php
+/wp-content/plugins/wp_module/wp_cron.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/wp_module/wp_cron.php
+/gh.php 1 http://www.cttoastmasters.org.za/gh.php
+//plus/result.php 4 http://www.cttoastmasters.org.za//plus/result.php
+//sitema.php 1 http://www.cttoastmasters.org.za//sitema.php
+//read.php 2 http://www.cttoastmasters.org.za//read.php
+/wp-content/plugins/wp-easy-gallery-pro/admin/php.php 2 http://www.cttoastmasters.org.za/wp-content/plugins/wp-easy-gallery-pro/admin/php.php
+//haha.asp 1 http://www.cttoastmasters.org.za//haha.asp
+/xing.asp 1 http://www.cttoastmasters.org.za/xing.asp
+//css.asp 3 http://www.cttoastmasters.org.za//css.asp
+//hQ.asp 1 http://www.cttoastmasters.org.za//hQ.asp
+/wp-json/oembed/1.0/embed 4 -
+//SqlOut.asp 1 http://www.cttoastmasters.org.za//SqlOut.asp
+/data/common.inc.php 3 -
+/temp/wp-admin/ 1 -
+/wordpress/ 8 -
+/wp-content/plugins/wp-jobhunt/assets/scripts/extra_functions.js 2 -
+//plus/mytag_js.php 48 http://www.cttoastmasters.org.za//plus/mytag_js.php
+//install.php 1 http://www.cttoastmasters.org.za//install.php
+//polk.aspx 3 http://www.cttoastmasters.org.za//polk.aspx
+//lcwm/news.php 1 http://www.cttoastmasters.org.za//lcwm/news.php
+//Web_fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+/business-skills/ 11 -
+//dada/img/1.asp 1 http://www.cttoastmasters.org.za//dada/img/1.asp
+/database/xingkong.mdb/a.php 1 http://www.cttoastmasters.org.za/database/xingkong.mdb/a.php
+//NewsType.asp 4 -
+//na.asp 1 http://www.cttoastmasters.org.za//na.asp
+/solutions/ 2 -
+//lequ.php 7 http://www.cttoastmasters.org.za//lequ.php
+/staging/wp-admin/install.php 1 -
+//FCKeditor/editor/filemanager/connectors/php/connector.php 4 -
+//plus/mp.php 1 http://www.cttoastmasters.org.za//plus/mp.php
+//plus/read.php 13 http://www.cttoastmasters.org.za//plus/read.php
+/apple-touch-icon-precomposed.png 13 -
+//images/lurd/check.asp 1 http://www.cttoastmasters.org.za//images/lurd/check.asp
+///ver.asp 1 http://www.cttoastmasters.org.za///ver.asp
+//wwwroot.zip 7 http://www.cttoastmasters.org.za//wwwroot.zip
+//admin/sdfg.asp 1 http://www.cttoastmasters.org.za//admin/sdfg.asp
+//xiao.php 1 http://www.cttoastmasters.org.za//xiao.php
+//Rose20190207142339.txt 2 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+//ppx.asp 1 http://www.cttoastmasters.org.za//ppx.asp
+/wordpress/wp-login.php 2 -
+//90.asp 1 http://www.cttoastmasters.org.za//90.asp
+//gu.php 1 http://www.cttoastmasters.org.za//gu.php
+///admin_login.asp 1 http://www.cttoastmasters.org.za///admin_login.asp
+//css/css.asp 1 http://www.cttoastmasters.org.za//css/css.asp
+//www.cttoastmasters.org.za/..zip 7 http://www.cttoastmasters.org.za//www.cttoastmasters.org.za/..zip
+/wp-404.php 2 -
+//ppoiiijuaa.php 1 http://www.cttoastmasters.org.za//ppoiiijuaa.php
+//tongl.asp 1 http://www.cttoastmasters.org.za//tongl.asp
+//dcman/BaseManage/TemplatePath_Manage.aspx 4 -
+//36.php 1 http://www.cttoastmasters.org.za//36.php
+/js/respond.min.js 8 http://www.cttoastmasters.org.za/
+//backup.php 1 http://www.cttoastmasters.org.za//backup.php
+/wooyun.php 1 http://www.cttoastmasters.org.za/wooyun.php
+//fuck.php 4 http://www.cttoastmasters.org.za//fuck.php
+//kevin1.aspx 3 http://www.cttoastmasters.org.za//kevin1.aspx
+//plus/configr.php 1 http://www.cttoastmasters.org.za//plus/configr.php
+/blog/robots.txt 10 -
+/joomla/administrator/index.php 2 -
+//zenme.asp 1 http://www.cttoastmasters.org.za//zenme.asp
+/.well-known/wcs-challenge/cttoastmasters.org.za 144 -
+//SelectUrtiles2.asp 1 http://www.cttoastmasters.org.za//SelectUrtiles2.asp
+//gbook/cos.asp 1 http://www.cttoastmasters.org.za//gbook/cos.asp
+//pass.asp 1 http://www.cttoastmasters.org.za//pass.asp
+//Web_fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/mnjhqwef.lib.php 1 http://www.cttoastmasters.org.za/mnjhqwef.lib.php
+//yue.asp 1 http://www.cttoastmasters.org.za//yue.asp
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/xmlrpc.php 14 -
+//zzk.aspx 3 http://www.cttoastmasters.org.za//zzk.aspx
+/wp-content/plugins/totaldonations/js/migla_authorize_settings.js 2 -
+//UpLoad/Class/cong.aspx 3 http://www.cttoastmasters.org.za//UpLoad/Class/cong.aspx
+//phpmyadmin/index.php 4 -
+//feiyan.asp 1 http://www.cttoastmasters.org.za//feiyan.asp
+//ganyuetuo.asp 1 http://www.cttoastmasters.org.za//ganyuetuo.asp
+//utf8.php 1 http://www.cttoastmasters.org.za//utf8.php
+//da.php 1 http://www.cttoastmasters.org.za//install.php
+/ads.txt 2 -
+//ver.asp 1 http://www.cttoastmasters.org.za//ver.asp
+//config/AspCms_Config.asp 5 http://www.cttoastmasters.org.za//config/AspCms_Config.asp
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+//a.php 1 http://www.cttoastmasters.org.za//a.php
+//gzip/11.asp 1 http://www.cttoastmasters.org.za//gzip/11.asp
+//11m.asp 1 http://www.cttoastmasters.org.za//11m.asp
+//images/cmd.aspx 3 http://www.cttoastmasters.org.za//images/cmd.aspx
+/admin.php 1 -
+//1.aspx 3 http://www.cttoastmasters.org.za//1.aspx
+//xu.asp 1 http://www.cttoastmasters.org.za//xu.asp
+/wp-content/plugins/gravityforms/ 2 http://www.cttoastmasters.org.za/wp-content/plugins/gravityforms/
+//calendar/defaut.asp 1 http://www.cttoastmasters.org.za//calendar/defaut.asp
+//cm.php 1 http://www.cttoastmasters.org.za//cm.php
+//styles.asp 1 http://www.cttoastmasters.org.za//styles.asp
+/blog/administrator/index.php 2 -
+//x.php 1 http://www.cttoastmasters.org.za//x.php
+/nagang.php 1 http://www.cttoastmasters.org.za/nagang.php
+//mysql.php 1 http://www.cttoastmasters.org.za//mysql.php
+/administrator/index.php 5 http://cttoastmasters.org.za/administrator/index.php
+//index.asp 1 http://www.cttoastmasters.org.za//index.asp
+//wap.asp 1 http://www.cttoastmasters.org.za//wap.asp
+/admin/images/cal_date_over.gif 3 -
+/admin/login.php 3 -
+//FCKeditor3/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/plus%5Cread.php 1 http://www.cttoastmasters.org.za/plus\\read.php
+//cp.php 1 http://www.cttoastmasters.org.za//cp.php
+/j-stuff.feed 1 -
+/lequ.php 1 http://www.cttoastmasters.org.za/lequ.php
+//xiao.asp 1 http://www.cttoastmasters.org.za//xiao.asp
+/images/main/hl-6.jgp 2 -
+//plus/recommend.php 1 http://www.cttoastmasters.org.za//plus/recommend.php
+/qofr.php 1 http://www.cttoastmasters.org.za/qofr.php
+//shie.php 1 http://www.cttoastmasters.org.za//shie.php
+//logout.asp 1 http://www.cttoastmasters.org.za//logout.asp
+//inc-adminpass.asp 1 http://www.cttoastmasters.org.za//inc-adminpass.asp
+/help.asp 1 http://www.cttoastmasters.org.za/help.asp
+/xsvip.php 1 http://www.cttoastmasters.org.za/xsvip.php
+//lx.php 8 http://www.cttoastmasters.org.za//lx.php
+/beacher.asp 1 http://www.cttoastmasters.org.za/beacher.asp
+//Web_fckeditor/editor/filemanager/connectors/asp/connector.asp 4 -
+//FCKeditor3/editor/filemanager/connectors/php/connector.php 4 -
+//FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 4 -
+//detail.asp 1 http://www.cttoastmasters.org.za//detail.asp
+//cmd.php 1 http://www.cttoastmasters.org.za//cmd.php
+//sql_euvg.asp 1 http://www.cttoastmasters.org.za//sql_euvg.asp
+//inc/cos.asp 1 http://www.cttoastmasters.org.za//inc/cos.asp
+//6655.php 1 http://www.cttoastmasters.org.za//6655.php
+/.well-known/acme-challenge/cttoastmasters.org.za 302 -
+/images/apple-touch-icon.png 68 http://www.cttoastmasters.org.za/
+//zxc.php 1 http://www.cttoastmasters.org.za//zxc.php
+//ubb.asp 1 http://www.cttoastmasters.org.za//ubb.asp
+/wp-content/plugins/xichang/x.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/xichang/x.php
+//9tu.asp 1 http://www.cttoastmasters.org.za//9tu.asp
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+///jiuge.asp 1 http://www.cttoastmasters.org.za///jiuge.asp
+/about-us-2/ 6 -
+/wp-content/plugins/totaldonations/css/extra.css 1 http://www.cttoastmasters.org.za/wp-content/plugins/totaldonations/css/extra.css
+//admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 4 -
+//Rose20190219154352.txt 2 -
+//install/index.php.bak 1 -
+//data/cache/flye.php 4 http://www.cttoastmasters.org.za//data/cache/flye.php
+//weki.asp 1 http://www.cttoastmasters.org.za//weki.asp
+/oihfoe09fposf.php 1 cttoastmasters.org.za
+//dayrui/libraries/Chart/ofc_upload_image.php 1 -
+/phpmyadmin 1 http://www.cttoastmasters.org.za/phpmyadmin
+//FCKeditor3/editor/filemanager/connectors/aspx/connector.aspx 4 -
+/zoro.asp 1 http://www.cttoastmasters.org.za/zoro.asp
+//data/cache/ranshai.php 1 http://www.cttoastmasters.org.za//data/cache/ranshai.php
+//FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/wp-json/ 3 -
+/benefits-of-toastmasters/ 10 -
+//Web_fckeditor/editor/filemanager/connectors/aspx/connector.aspx 4 -
+//news/x00z.asp 1 http://www.cttoastmasters.org.za//news/x00z.asp
+/js/html5shiv.js 8 http://www.cttoastmasters.org.za/
+/index.php 11 -
+//ceshi3/x.php 1 http://www.cttoastmasters.org.za//ceshi3/x.php
+//coon.php 11 http://www.cttoastmasters.org.za//coon.php
+//za/..rar 7 http://www.cttoastmasters.org.za//za/..rar
+//zx.asp 1 http://www.cttoastmasters.org.za//zx.asp
+//kepan.asp 1 http://www.cttoastmasters.org.za//kepan.asp
+//Inc.asp 1 http://www.cttoastmasters.org.za//Inc.asp
+//wen.php 1 http://www.cttoastmasters.org.za//wen.php
+//plus/download.php 3 -
+//admin/xn.php 6 http://www.cttoastmasters.org.za//admin/xn.php
+//c.php 1 http://www.cttoastmasters.org.za//c.php
+/wp-content/plugins/ext/i.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/ext/i.php
+/kljlhlkh.php 1 http://www.cttoastmasters.org.za/kljlhlkh.php
+/robots.txt 299 -
+//config.css.php 1 http://www.cttoastmasters.org.za//config.css.php
+//sb.asp 1 http://www.cttoastmasters.org.za//sb.asp
+//sqzr.asp 5 http://www.cttoastmasters.org.za//sqzr.asp
+//Search/conn.asp 1 http://www.cttoastmasters.org.za//Search/conn.asp
+//admin/dnhx/sdfg.php 1 http://www.cttoastmasters.org.za//admin/dnhx/sdfg.php
+/templates/system/css/system.css 2 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 2 http://cttoastmasters.org.za/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+//caches/error_ches.php 1 http://www.cttoastmasters.org.za//caches/error_ches.php
+/wp-login.php 7 -
+//en.php 2 http://www.cttoastmasters.org.za//en.php
+//Web_fckeditor/editor/filemanager/connectors/php/connector.php 4 -
+//zuoshou.php 1 http://www.cttoastmasters.org.za//zuoshou.php
+//FCKeditor3/editor/filemanager/connectors/asp/connector.asp 4 -
+//dlmw/lost.asp 1 http://www.cttoastmasters.org.za//dlmw/lost.asp
+//plus/kizmxfhoi.php 1 http://www.cttoastmasters.org.za//plus/kizmxfhoi.php
+//web.rar 7 http://www.cttoastmasters.org.za//web.rar
+/joomla/robots.txt 2 -
+//helmap.asp 1 http://www.cttoastmasters.org.za//helmap.asp
+//admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 4 -
+/images/apple-touch-icon-114x114.png 86 http://www.cttoastmasters.org.za/
+//admin/inc/jiuge.asp 1 http://www.cttoastmasters.org.za//admin/inc/jiuge.asp
+//11m.php 2 http://www.cttoastmasters.org.za//11m.php
+/wp/ 8 -
+//web.zip 7 http://www.cttoastmasters.org.za//web.zip
+/gbook/ 1 -
+//za/..zip 7 http://www.cttoastmasters.org.za//za/..zip
+/feed 1 -
+/apple-touch-icon.png 13 -
+//FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/lk.asp 1 http://www.cttoastmasters.org.za/lk.asp
+//cssa.asp 1 http://www.cttoastmasters.org.za//cssa.asp
+//data/cache/sg.php 1 http://www.cttoastmasters.org.za//data/cache/sg.php
+//plus/qwsdf.asp 1 http://www.cttoastmasters.org.za//plus/qwsdf.asp
+//admin/upload.asp 1 http://www.cttoastmasters.org.za//admin/upload.asp
+/plus%5Cmyjs.php 1 http://www.cttoastmasters.org.za/plus\\myjs.php
+//www.zip 7 http://www.cttoastmasters.org.za//www.zip
+//plus/day.php 1 http://www.cttoastmasters.org.za//plus/day.php
+/chao.php 1 http://www.cttoastmasters.org.za/chao.php
+/about/ 2 -
+/downloads.html 2 -
+//data/cache/shell.php 1 http://www.cttoastmasters.org.za//data/cache/shell.php
+//dunaicai.asp 1 http://www.cttoastmasters.org.za//dunaicai.asp
+//www.rar 7 http://www.cttoastmasters.org.za//www.rar
+//class.php 1 http://www.cttoastmasters.org.za//class.php
+//help9.asp 1 http://www.cttoastmasters.org.za//help9.asp
+//ok.aspx 3 http://www.cttoastmasters.org.za//ok.aspx
+/3.php 1 http://www.cttoastmasters.org.za/3.php
+/gh.asp 1 http://www.cttoastmasters.org.za/gh.asp
+/contact_us/ 10 -
+//include/dialog/select_soft_post.php 1 -
+/horde/imp/test.php 2 -
+/blog/ 8 -
+/comdiy.asp 1 http://www.cttoastmasters.org.za/comdiy.asp
+/speakers-tips 4 -
+/index.php/2013/10/23/delivering-unprepared-speech/ 1 -
+//FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 4 -
+/necapital.asp 1 http://www.cttoastmasters.org.za/necapital.asp
+//plus/fa.php 1 http://www.cttoastmasters.org.za//plus/fa.php
+//inc/config.asp 6 http://www.cttoastmasters.org.za//inc/config.asp
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 653
+104.42.48.187 49 49 0 20190228195047
+178.159.39.237 28 28 0 20190228050005
+178.159.43.212 27 27 0 20190228051903
+212.86.109.31 27 27 0 20190228063942
+185.209.20.147 27 27 0 20190228063613
+185.203.240.129 27 27 0 20190228063613
+77.220.215.153 27 27 0 20190228063613
+77.220.213.173 27 27 0 20190228063613
+77.220.214.180 26 26 0 20190228050004
+185.125.219.13 24 24 0 20190228054839
+185.154.13.6 24 24 0 20190228050004
+66.249.93.201 24 420 39798106 20190228201522
+194.67.207.9 23 23 0 20190228054841
+66.249.93.199 22 347 32085262 20190219201735
+66.249.93.197 20 345 26500515 20190219201732
+194.67.207.94 20 20 0 20190228054839
+185.5.249.185 19 19 0 20190228054840
+194.67.210.77 19 19 0 20190228054840
+193.124.176.156 18 18 0 20190228054839
+185.125.219.134 16 16 0 20190228054841
+193.124.190.64 14 14 0 20190228054840
+102.165.39.65 12 12 384924 20190211141927
+193.124.179.180 11 11 0 20190228054843
+52.53.201.78 11 11 310014 20190226213005
+112.252.16.41 8 8 207664 20190227232301
+54.200.9.3 1 1 25958 20190228154241
+180.97.35.89 1 24 520290 20190214230141
+36.110.199.65 1 12 611873 20190204062206
+164.151.5.19 2 15 1635333 20190227083910
+36.110.199.163 3 8 700901 20190216201651
+40.107.204.2 1 7 800216 20190225072419
+164.151.5.23 1 13 1564391 20190227081927
+154.66.206.25 2 36 3194411 20190214081554
+196.42.84.131 3 39 3224837 20190227213827
+105.186.115.72 2 36 3194411 20190209094445
+34.217.99.190 1 1 25958 20190214150655
+14.215.176.7 0 11 341963 
+180.104.92.71 4 4 152784 20190203171309
+37.115.189.227 1 1 25958 20190211113017
+172.255.80.84 1 1 25958 20190207054002
+165.227.126.25 1 8 187111 20190222042429
+5.9.94.207 1 1 25958 20190221203636
+112.5.248.144 1 1 25958 20190214181032
+104.227.89.28 1 1 25958 20190206085007
+196.211.33.108 2 37 3355890 20190205094927
+212.112.93.5 1 1 25958 20190227131928
+168.167.95.136 2 36 3194411 20190227211046
+164.151.16.10 1 8 212619 20190208113249
+41.138.66.234 2 37 3217026 20190227142347
+197.184.85.160 1 36 3201632 20190210185146
+73.231.9.93 1 35 3172359 20190209090008
+180.97.35.5 0 3 117585 
+142.93.75.193 1 1 25958 20190227002341
+45.222.25.175 2 21 1499314 20190223131338
+105.9.196.145 1 1 38196 20190204214436
+36.102.208.88 1 1 0 20190216123223
+111.206.36.139 0 5 112419 
+104.196.113.244 2 2 38196 20190203102321
+112.245.158.104 4 4 103832 20190209074902
+196.24.141.235 3 37 3348669 20190204194038
+40.107.204.26 0 7 167193 
+173.252.127.7 0 4 149494 
+198.12.118.143 1 1 25958 20190206152154
+36.110.199.158 0 9 865043 
+180.97.35.83 0 3 87922 
+52.38.118.143 1 1 25958 20190215153242
+192.99.55.164 4 4 128308 20190216034805
+66.249.93.67 2 13 587491 20190220093639
+52.33.128.178 1 1 25958 20190223152404
+54.69.231.76 1 1 25958 20190212151650
+69.171.251.15 0 6 991793 
+14.215.176.12 0 11 452343 
+155.238.4.86 2 38 3202785 20190208141810
+41.164.24.76 1 36 3201632 20190226150151
+197.229.1.248 1 36 3201632 20190224221724
+34.227.28.217 1 1 25958 20190221160146
+34.210.154.162 1 1 25958 20190219173810
+35.165.96.85 1 1 25958 20190221170200
+196.22.240.63 1 36 3201632 20190211140927
+105.187.38.177 1 31 1414032 20190219114037
+112.34.110.149 0 4 154456 
+105.246.66.211 2 37 3223684 20190216135123
+41.177.125.11 1 36 3201632 20190225085741
+36.110.199.12 1 12 383465 20190223091741
+197.88.146.243 1 35 3172359 20190209105345
+169.0.74.149 2 36 3194411 20190206205926
+36.110.199.17 0 1 531402 
+104.251.91.151 2 2 51916 20190214024756
+54.240.197.234 1 35 3172359 20190211165941
+40.107.204.64 0 5 841764 
+197.229.1.135 0 13 1307463 
+197.89.114.166 2 37 3237096 20190226152453
+165.0.8.185 2 32 1998811 20190211213709
+112.34.110.29 1 13 328884 20190217072456
+36.110.199.63 0 15 439175 
+36.110.199.242 1 12 685816 20190212101714
+129.205.158.18 1 36 3201632 20190214130748
+54.191.182.168 1 1 25958 20190213150102
+165.49.136.245 1 35 3172359 20190210095809
+14.215.176.17 1 19 613079 20190223111941
+35.166.59.137 1 1 25958 20190224155558
+185.165.88.249 1 1 25958 20190206122554
+36.110.199.9 0 13 319103 
+14.215.176.138 0 5 62244 
+202.46.49.119 1 1 25958 20190213220342
+34.212.167.150 1 1 25958 20190226155412
+105.22.72.182 1 36 3201632 20190215103809
+94.23.196.14 1 1 25958 20190223190013
+212.83.146.233 1 1 25958 20190214205849
+197.229.1.224 2 24 1916221 20190217191551
+111.206.36.11 0 26 713656 
+35.237.242.5 2 2 25958 20190212185023
+36.110.199.138 1 10 222063 20190226201617
+14.215.176.9 1 19 822419 20190213201502
+105.233.33.103 1 36 3201632 20190207124203
+185.234.219.246 2 2 76392 20190203164036
+36.110.199.36 0 1 531402 
+66.249.93.203 4 80 6941651 20190228201524
+36.110.199.161 0 3 154186 
+14.215.176.14 1 25 613284 20190222214059
+142.93.71.91 1 12 263404 20190204154325
+39.66.79.50 1 1 25958 20190218101222
+66.102.6.220 2 2 51916 20190216035732
+34.73.187.107 2 2 25958 20190224221527
+36.110.199.41 0 3 113337 
+18.236.237.118 1 1 25958 20190218151602
+115.239.212.68 0 6 252947 
+80.110.99.243 2 32 1436084 20190223160840
+180.97.35.8 0 8 424832 
+212.86.219.134 1 1 25958 20190206045325
+197.86.156.95 1 35 3172359 20190209190220
+155.240.161.3 1 36 3201632 20190227093029
+169.0.180.49 2 36 3194411 20190224070406
+202.46.57.207 1 1 25958 20190222182923
+141.0.12.99 3 39 3224837 20190222084709
+41.164.6.228 1 36 3201632 20190211095447
+54.36.119.144 1 1 25958 20190208091908
+202.46.57.124 1 1 25958 20190224160447
+173.252.127.1 0 6 797754 
+202.46.51.162 1 1 25958 20190220114411
+197.101.116.132 4 28 1717871 20190221112955
+180.97.35.61 0 8 120761 
+223.255.127.138 1 1 0 20190212160533
+41.135.71.122 2 18 738762 20190206172530
+102.250.154.83 3 38 3377942 20190202091916
+18.237.156.145 1 1 25958 20190216172632
+209.126.119.224 1 1 38196 20190203095419
+66.249.83.215 0 11 1136724 
+118.24.1.220 2 37 3227590 20190208093555
+198.27.69.191 1 1 25958 20190227133414
+164.151.5.25 0 12 1079515 
+105.186.176.80 2 36 3194411 20190226215833
+114.246.56.103 1 1 25958 20190214041927
+18.237.89.37 1 1 25958 20190211151024
+34.213.72.104 1 1 38196 20190205174618
+185.104.120.5 1 1 25958 20190227004051
+202.46.51.183 1 1 25958 20190216170907
+41.148.239.13 3 38 3239078 20190209185341
+196.251.19.146 4 144 12806528 20190214222926
+167.114.117.176 3 3 77874 20190210091544
+197.96.203.12 1 35 3172359 20190221142304
+36.110.199.139 0 9 512218 
+217.69.143.217 1 1 25958 20190225030846
+197.95.132.152 3 38 3302744 20190218080514
+197.101.101.206 1 36 3201632 20190225225801
+34.215.128.149 1 1 25958 20190225164249
+41.13.192.17 2 36 3194411 20190211070845
+14.215.176.139 0 8 142952 
+36.110.199.42 0 2 109129 
+197.229.0.67 1 21 2070305 20190227180619
+41.13.212.121 2 36 3194411 20190221151243
+105.228.102.92 2 36 3326617 20190205110521
+40.107.204.78 1 1 25958 20190222132815
+93.120.172.144 4 4 103832 20190226110410
+111.206.36.17 0 13 345928 
+111.206.36.12 0 10 400872 
+197.245.234.42 1 36 3201632 20190225143902
+197.245.220.253 0 14 696507 
+36.110.199.28 0 3 108637 
+115.239.212.72 0 16 517662 
+36.110.199.164 0 7 316305 
+41.13.204.193 2 36 3194411 20190212141336
+197.229.2.169 1 36 3201632 20190219001254
+111.206.36.14 1 20 521953 20190226111142
+196.15.163.66 1 36 3201632 20190226124828
+36.110.199.159 0 4 265925 
+202.46.53.145 1 1 25958 20190207091250
+104.144.112.239 1 1 25958 20190213082531
+66.70.178.119 2 2 76392 20190202071440
+71.163.11.124 1 3 120815 20190203061125
+36.110.199.44 0 1 22139 
+111.206.36.138 0 4 289223 
+169.0.202.77 1 1 25958 20190208030855
+36.110.199.39 0 4 280610 
+186.212.154.165 1 1 38196 20190205015751
+36.110.199.11 3 23 695631 20190221101559
+45.76.115.111 1 1 38196 20190205151553
+51.15.209.146 1 1 25958 20190206201727
+23.250.2.171 1 1 38196 20190205020639
+41.13.254.239 2 36 3194411 20190212233621
+14.215.176.11 1 16 519324 20190214004655
+184.94.240.92 1 1 25958 20190207062626
+52.209.128.89 1 1 25958 20190227222827
+54.245.50.117 1 1 25958 20190217151546
+66.249.83.213 0 12 948582 
+111.206.36.9 1 15 295422 20190216184832
+14.215.176.5 1 8 610697 20190202211421
+165.255.134.5 1 36 3201632 20190207200635
+111.206.36.132 2 11 563562 20190201113705
+54.174.10.46 0 1 26651 
+40.107.204.90 0 6 786530 
+180.97.35.63 0 5 125752 
+104.168.18.112 1 1 25958 20190210093508
+192.3.191.236 1 1 25958 20190207051856
+154.65.0.15 2 37 3355890 20190202151519
+60.215.30.228 8 8 207664 20190206134212
+66.249.83.222 1 30 2425073 20190219154256
+105.184.207.245 1 1 56 20190202141749
+41.13.232.140 2 37 3223684 20190210181322
+54.153.73.37 2 2 25958 20190220223248
+54.201.164.188 1 1 25958 20190227150428
+140.234.253.9 1 31 1414032 20190213081554
+27.209.178.254 3 3 114588 20190203202906
+54.188.178.88 1 1 25958 20190207133505
+111.206.36.143 1 10 456521 20190206074641
+199.65.128.93 1 36 3201632 20190218142538
+36.110.199.176 0 3 343798 
+164.151.5.24 0 20 1300497 
+41.13.48.68 1 14 972245 20190220093945
+80.88.0.15 1 31 1414032 20190222094430
+180.97.35.91 0 12 524245 
+196.34.250.26 1 36 3201632 20190214113348
+180.97.35.84 0 11 335037 
+52.91.61.38 1 1 25958 20190211153906
+105.8.4.194 2 37 3223684 20190223214149
+185.104.120.60 2 2 51916 20190226161507
+209.126.119.176 1 1 25958 20190223051456
+41.193.53.130 1 36 3201632 20190212132633
+50.3.200.140 3 3 77874 20190226162556
+160.48.234.77 1 36 3201632 20190218161024
+14.215.176.146 2 20 563954 20190220042630
+197.155.2.55 1 31 1414032 20190225103502
+35.164.91.83 1 1 25958 20190227150504
+180.97.35.58 3 29 818182 20190226144726
+197.95.207.251 2 36 3194411 20190221005620
+111.206.36.135 1 11 543802 20190219103757
+60.215.28.132 3 3 77874 20190217091544
+190.18.73.164 1 35 3172359 20190220221843
+41.169.80.41 1 36 3201632 20190226163611
+14.215.176.4 1 26 775125 20190227001759
+192.0.96.187 0 1 191166 
+41.114.172.47 3 37 3348669 20190202102504
+188.164.31.83 1 36 3201632 20190207145905
+115.239.212.65 0 5 155084 
+36.102.208.83 1 1 0 20190209231143
+69.171.251.21 1 10 591892 20190222104326
+209.126.119.177 1 1 38196 20190203094253
+14.215.176.144 1 13 343142 20190219233541
+154.0.172.230 0 11 834 
+144.76.100.150 1 1 0 20190224200542
+66.102.7.25 1 1 25958 20190226102713
+36.110.199.144 0 8 298069 
+111.206.36.147 0 17 283213 
+180.97.35.11 0 4 78587 
+104.131.129.79 1 1 25958 20190213043646
+54.172.118.182 1 1 25958 20190214131648
+138.197.71.220 1 12 251166 20190216202756
+202.46.54.22 1 1 25958 20190225164500
+197.184.53.189 2 19 2491972 20190214132544
+36.110.199.180 0 7 693457 
+59.58.132.219 2 2 51916 20190221154108
+14.215.176.20 1 17 903257 20190215120303
+202.46.52.60 1 1 25958 20190210184139
+105.11.192.125 3 37 3220369 20190228172510
+111.206.36.16 0 10 370825 
+169.255.145.10 1 3 108577 20190211082218
+36.110.199.19 0 9 745868 
+159.65.189.124 1 12 251166 20190224183451
+196.36.178.228 6 110 3627858 20190228105906
+147.135.225.194 1 1 25958 20190206100037
+165.227.177.8 2 24 502332 20190228185808
+180.97.35.21 0 11 489572 
+66.249.83.193 1 30 2507646 20190219154256
+41.71.100.218 1 36 3201632 20190207125506
+111.206.36.8 3 32 1015817 20190225013641
+14.215.176.19 1 12 652906 20190207085041
+111.206.36.141 0 9 369387 
+34.216.171.220 1 1 38196 20190201134438
+41.56.36.222 1 1 25958 20190210203945
+66.249.93.73 0 11 1635840 
+36.110.199.20 0 1 531402 
+36.110.199.174 0 3 222933 
+36.110.199.46 0 3 221691 
+137.158.179.151 1 3 120815 20190205145042
+165.90.206.1 1 36 3201632 20190226123521
+36.110.199.52 0 1 22139 
+197.229.1.210 2 14 1168924 20190202093518
+35.190.186.14 2 2 25958 20190208141550
+81.26.78.26 1 36 3201632 20190225113003
+66.102.7.29 1 1 25958 20190214123355
+69.171.251.6 0 2 535816 
+14.215.176.143 0 2 187853 
+197.229.0.89 2 30 2219040 20190209160220
+197.229.0.46 2 58 5330382 20190227182553
+196.13.176.82 1 36 3201632 20190220070143
+54.191.190.139 1 1 25958 20190210135454
+180.97.35.88 1 9 269788 20190212013241
+173.252.127.41 0 3 715301 
+41.246.31.68 2 36 3194411 20190227213643
+41.50.171.118 1 31 1414032 20190224082649
+156.155.8.201 1 36 3201632 20190214150618
+14.215.176.132 0 11 298514 
+41.164.26.133 2 36 3194411 20190222045118
+112.34.110.156 0 1 179397 
+164.151.5.21 0 7 362373 
+36.102.208.80 1 1 0 20190215131633
+209.197.30.135 1 1 25958 20190213005430
+105.186.83.116 1 2 1153 20190210155209
+173.252.127.6 0 1 55968 
+111.206.36.146 1 10 231777 20190228051046
+180.97.35.81 0 8 143890 
+42.236.46.85 1 1 25958 20190228012740
+36.110.199.135 0 19 360108 
+14.215.176.135 0 8 117736 
+69.58.178.56 1 1 25958 20190217170121
+197.96.129.180 2 2 37362 20190226124830
+197.95.203.120 2 37 3237096 20190210213838
+221.229.204.71 1 1 0 20190219224608
+81.22.45.62 1 1 38196 20190204235724
+36.110.199.23 0 10 1234021 
+114.115.190.9 1 1 38196 20190203051727
+197.99.161.3 1 36 3201632 20190213083621
+180.97.35.6 0 4 43992 
+36.110.199.37 0 3 575680 
+36.110.199.51 0 10 455149 
+111.206.36.144 0 7 142713 
+36.110.199.147 0 7 247713 
+14.215.176.147 1 8 618978 20190205210044
+105.22.66.198 1 36 3201632 20190221160008
+196.21.144.253 1 36 3201632 20190212093133
+180.97.35.14 2 10 676436 20190201213913
+111.202.101.2 0 8 182100 
+173.252.127.16 0 3 617861 
+197.229.1.44 1 1 25958 20190223114011
+197.184.150.6 2 2 51916 20190220081050
+165.73.96.112 1 36 3201632 20190207153858
+203.142.70.221 1 1 25958 20190222105404
+80.245.110.128 1 1 25958 20190214061121
+36.110.199.171 0 13 994195 
+202.46.56.207 1 1 25958 20190220181633
+34.220.38.65 1 1 25958 20190206223025
+197.95.204.206 2 36 3194411 20190211185753
+36.110.199.32 0 4 411093 
+69.171.251.24 0 1 9843 
+197.86.175.246 3 51 3836209 20190226222636
+41.193.83.183 1 36 3201632 20190223074023
+36.110.199.25 0 2 91198 
+82.165.77.68 1 1 25958 20190222012316
+18.236.236.255 1 1 38196 20190203150232
+36.110.199.49 0 4 73147 
+36.110.199.177 0 3 622600 
+35.196.190.89 2 2 38196 20190203102324
+14.215.176.16 1 15 550451 20190202013924
+196.24.132.74 2 37 3223684 20190216150200
+191.102.148.249 1 1 38196 20190205224630
+36.110.199.8 0 6 332955 
+41.13.224.191 3 37 3348669 20190205142831
+197.229.1.185 1 23 2179745 20190202093518
+173.252.127.32 0 5 167410 
+41.114.137.127 1 31 1414032 20190222142722
+14.215.176.8 0 18 533696 
+194.44.247.218 1 1 38196 20190204041547
+36.110.199.16 0 2 250085 
+14.215.176.141 0 4 43992 
+111.206.36.19 2 11 488854 20190203114143
+160.242.124.126 1 35 3172359 20190208112951
+169.159.192.230 2 72 6403264 20190218175527
+197.173.55.247 1 36 3201632 20190216133644
+165.227.119.37 1 1 38196 20190201074928
+40.107.204.81 0 8 397952 
+39.35.17.4 1 1 25958 20190217132211
+42.236.54.42 1 1 25958 20190218143148
+173.234.151.104 1 1 25958 20190209053402
+191.102.148.101 1 1 25958 20190206103305
+52.90.235.182 0 2 25333 
+196.24.168.97 1 36 3201632 20190209194749
+164.151.16.9 0 10 949463 
+137.158.193.183 1 36 3201632 20190218162224
+66.249.83.217 1 13 1116326 20190227223552
+40.107.204.47 0 4 677468 
+196.24.148.44 1 3 108577 20190210220100
+197.229.1.81 1 25 2645499 20190220205551
+196.11.8.240 2 37 3217026 20190228160650
+41.13.246.108 2 36 3194411 20190220113504
+41.246.24.64 1 36 3201632 20190211153518
+111.206.36.13 0 13 384680 
+196.47.229.140 3 39 3357043 20190204152636
+112.245.243.231 4 4 103832 20190206123432
+105.9.55.116 1 21 2456106 20190224163649
+41.164.194.50 2 37 3355890 20190201141111
+107.152.243.113 1 1 38196 20190201144026
+202.46.52.159 1 1 25958 20190213022327
+198.57.247.199 3 3 77874 20190226165525
+36.110.199.43 2 8 315819 20190202071940
+196.251.53.46 1 3 120815 20190204132747
+41.13.200.129 3 38 3377942 20190205050027
+18.237.9.233 1 1 25958 20190222145730
+180.97.35.90 1 19 485736 20190224075930
+41.149.200.16 2 37 3355890 20190205101359
+81.169.144.135 1 1 25958 20190206164235
+105.224.155.23 1 17 682609 20190201222811
+34.214.123.234 1 1 38196 20190202165711
+41.168.131.9 1 36 3201632 20190218092740
+36.110.199.38 0 1 179397 
+23.121.246.227 2 2 76392 20190203055746
+35.233.173.173 3 3 77874 20190207224959
+69.171.251.11 0 5 772576 
+41.13.194.16 3 37 3348669 20190202092155
+180.97.35.37 1 24 866986 20190228205315
+41.71.70.34 2 36 3326617 20190204115505
+180.97.35.12 0 3 43379 
+169.0.57.94 2 36 3194411 20190222214158
+104.227.106.185 1 1 25958 20190213061641
+54.200.214.253 1 1 25958 20190209151730
+36.110.199.244 2 25 637532 20190216225054
+111.206.36.140 0 12 201926 
+34.220.249.199 1 1 25958 20190208161155
+36.110.199.29 0 3 221691 
+14.215.176.10 1 5 203549 20190202211420
+203.59.130.34 2 38 3202785 20190227064639
+54.173.35.129 1 1 25958 20190218013948
+64.246.165.170 1 1 25958 20190220021711
+105.226.71.69 3 37 3220369 20190216192302
+36.110.199.10 1 20 585900 20190204062159
+23.101.169.3 8 166 5608758 20190225010746
+115.239.212.71 3 17 598613 20190224133445
+40.107.204.79 0 6 698400 
+198.54.223.165 4 77 6512994 20190228131344
+180.97.35.20 2 12 546411 20190205010945
+196.36.178.83 1 19 1133313 20190219144734
+41.13.220.146 2 37 3223684 20190206170948
+129.205.144.221 2 37 3355890 20190205104853
+14.215.176.149 2 21 551073 20190223014501
+109.184.255.189 2 2 76392 20190201074121
+62.210.80.2 4 4 116070 20190226215008
+111.206.36.15 0 3 60535 
+89.34.167.221 1 36 3201632 20190221070407
+54.38.59.63 1 1 25958 20190225034801
+173.193.191.202 1 1 25958 20190228193908
+164.151.5.20 0 7 462308 
+41.164.158.43 1 31 1414032 20190222135630
+36.110.199.178 0 4 242066 
+41.164.182.26 2 37 3355890 20190201095046
+36.102.208.91 1 1 0 20190209030020
+36.110.199.64 0 5 217766 
+105.251.240.225 3 27 1343610 20190203193916
+13.57.206.121 1 22 709754 20190220223247
+47.111.75.134 1 1 25958 20190215101946
+197.99.109.47 2 38 3202785 20190225131437
+173.44.34.4 1 1 25958 20190207050137
+158.69.124.228 1 1 25958 20190216050109
+180.97.35.82 1 8 303042 20190208003325
+14.215.176.148 0 25 594010 
+197.101.71.10 2 37 3223684 20190221194526
+40.107.204.82 0 6 457861 
+66.249.93.204 3 72 5842272 20190227134006
+36.110.199.67 0 9 315926 
+14.215.176.13 3 26 838575 20190224013738
+41.114.199.39 2 27 3171504 20190213172652
+40.107.204.14 0 7 337116 
+8.28.16.254 3 3 25958 20190207081931
+104.218.235.109 1 1 38196 20190205162648
+54.153.103.172 1 1 25958 20190220221349
+36.110.199.13 1 7 115244 20190206101653
+202.46.53.59 1 1 25958 20190217065202
+81.26.78.98 3 62 6091254 20190211172506
+41.71.64.14 1 36 3201632 20190213075348
+196.38.148.150 0 2 44278 
+196.45.17.116 1 1 56 20190212101529
+107.175.74.140 1 1 25958 20190206005917
+197.229.1.192 2 36 3194411 20190227214021
+35.204.50.99 1 1 25958 20190226065236
+150.249.214.254 1 1 25958 20190206152559
+45.55.240.186 1 2 119597 20190212085931
+27.209.179.45 1 1 25958 20190211025914
+107.152.242.51 1 1 25958 20190213132013
+38.132.114.141 1 1 2017 20190219111838
+105.224.154.20 3 34 3296608 20190205090933
+202.46.53.117 1 1 38196 20190204103455
+36.110.199.170 0 8 198243 
+173.252.127.3 0 1 49460 
+36.110.199.162 0 5 1284495 
+69.171.251.14 0 7 199861 
+51.15.191.81 2 2 51916 20190215034456
+112.34.110.28 0 4 47017 
+54.154.154.191 1 1 25958 20190222231230
+197.95.129.72 0 1 29273 
+36.110.199.15 0 4 411093 
+36.110.199.40 1 10 266134 20190214081858
+14.215.176.15 1 16 451894 20190201061303
+196.41.104.149 1 36 3201632 20190211163324
+169.145.2.12 1 17 688096 20190226084923
+196.24.131.117 2 36 3194411 20190227122011
+169.1.34.73 2 36 3194411 20190216184807
+196.42.77.148 1 36 3201632 20190215194923
+111.206.36.10 2 8 247803 20190219041613
+14.215.176.140 0 3 35670 
+196.6.234.254 1 36 3201632 20190208082552
+202.46.57.88 1 1 38196 20190203151115
+168.253.72.30 2 37 3355890 20190202150518
+36.110.199.26 0 3 592074 
+192.143.161.139 1 36 3201632 20190225130826
+134.73.199.154 2 2 51916 20190226071351
+105.27.116.202 1 36 3201632 20190214125810
+148.251.36.84 1 1 25958 20190206222656
+165.231.105.217 1 1 25958 20190207202036
+111.206.36.134 0 10 411020 
+197.184.60.76 4 38 3403009 20190204083752
+36.102.208.81 1 1 0 20190213164300
+102.182.252.189 1 31 1414032 20190223112849
+137.158.19.110 1 36 3201632 20190206122948
+36.110.199.137 1 23 769906 20190222071309
+14.215.176.137 0 3 109826 
+54.190.217.200 1 1 25958 20190220134448
+41.189.76.254 1 36 3201632 20190225163956
+40.107.204.32 0 5 223926 
+36.110.199.153 0 5 382699 
+34.228.240.168 0 1 55968 
+197.86.156.164 1 36 3201632 20190214220618
+192.185.4.166 3 3 77874 20190206153834
+36.110.199.66 1 15 344164 20190210201857
+69.171.251.23 0 2 39649 
+196.33.103.246 1 36 3201632 20190225194300
+122.114.163.117 1 1 0 20190219083342
+41.13.200.135 0 1 29273 
+197.242.203.189 1 36 3201632 20190221153917
+196.42.127.74 2 36 3326617 20190201212423
+197.229.1.53 1 12 578185 20190220205527
+14.215.176.6 2 15 371874 20190202083646
+36.110.199.33 0 6 74989 
+202.46.56.177 1 1 25958 20190226044931
+2.221.81.51 1 34 3113440 20190226231652
+147.110.59.244 1 36 3201632 20190228155924
+202.46.49.143 1 1 25958 20190226131828
+173.252.127.25 1 4 263410 20190213110600
+66.102.9.135 1 1 38196 20190204143129
+119.3.235.135 2 2 51916 20190210191601
+41.50.138.130 2 36 3194411 20190224074759
+37.115.191.132 4 4 128308 20190211025121
+173.252.127.42 0 1 15490 
+41.114.156.185 2 36 3194411 20190213082808
+192.99.1.217 1 1 25958 20190214141304
+164.151.16.4 0 10 912844 
+14.215.176.133 1 5 207966 20190207005756
+197.155.252.3 1 36 3201632 20190207113208
+180.97.35.86 1 9 222649 20190224211713
+159.203.43.220 1 1 0 20190210174356
+202.46.53.11 1 1 25958 20190208131405
+41.189.75.4 1 36 3201632 20190222161121
+197.159.62.206 2 37 3355890 20190201103919
+111.206.36.18 3 9 422529 20190215034222
+202.46.57.179 1 1 25958 20190215235206
+36.110.199.22 0 1 22139 
+95.70.245.13 1 1 25958 20190207162540
+36.110.199.48 0 4 109342 
+197.184.254.151 1 35 3172359 20190206103245
+14.215.176.142 0 7 218701 
+69.171.251.16 0 3 60202 
+36.110.199.50 0 4 62256 
+180.153.236.133 1 1 25958 20190217015238
+202.46.51.157 1 1 25958 20190218150743
+111.206.36.136 0 7 543794 
+41.13.176.8 3 38 3377942 20190203205826
+154.119.48.100 2 67 4615664 20190223115455
+36.110.199.145 0 2 190292 
+41.164.51.194 5 76 6461933 20190215152432
+14.215.176.145 0 2 187853 
+54.147.152.239 1 1 38196 20190201120132
+197.245.67.246 3 47 4086126 20190205234711
+45.55.252.28 1 8 210237 20190207102429
+139.162.72.149 1 1 25958 20190213133738
+36.110.199.172 1 9 290582 20190225091625
+197.229.1.159 2 36 3194411 20190208221450
+40.107.204.23 0 4 149130 
+35.227.34.214 4 4 51916 20190216200454
+36.110.199.35 0 5 598694 
+60.191.38.77 1 1 25958 20190211063354
+221.2.44.75 4 4 0 20190222162038
+36.110.199.160 0 4 401948 
+119.186.36.62 1 1 25958 20190221091822
+54.240.197.239 3 32 1955810 20190204170518
+197.99.36.165 1 36 3201632 20190206182844
+105.225.229.33 1 36 3201632 20190220143716
+180.97.35.60 0 6 275935 
+164.151.16.8 0 8 1126706 
+202.79.25.88 1 1 25958 20190212151805
+212.112.93.209 1 1 25958 20190214212822
+41.114.129.57 2 36 3194411 20190212091150
+209.126.119.175 1 1 38196 20190203095421
+93.120.176.95 8 8 207664 20190228141208
+159.203.111.120 1 12 251166 20190220192900
+197.96.197.114 2 38 3202785 20190211101932
+66.102.6.122 1 1 38196 20190204154327
+14.215.176.134 1 7 420235 20190212095030
+105.10.84.52 1 35 3172359 20190212125721
+180.97.35.62 0 4 111491 
+111.206.36.137 0 15 442745 
+36.110.199.156 0 5 91884 
+36.102.208.87 1 1 0 20190218193128
+40.107.204.20 0 6 839750 
+41.193.218.250 1 31 1414032 20190218161601
+173.252.127.12 0 7 340223 
+41.193.69.202 1 36 3201632 20190221162344
+173.252.127.8 0 1 29261 
+196.33.169.130 1 36 3201632 20190207153122
+41.193.218.122 1 3 108577 20190219170411
+54.191.154.55 1 1 25958 20190228142352
+41.164.6.244 1 36 3201395 20190214190152
+38.100.21.63 1 10 457895 20190225140755
+41.164.24.114 1 36 3201632 20190214091554
+36.110.199.154 0 3 512825 
+105.12.5.226 2 37 3223684 20190207225110
+180.97.35.4 1 11 637568 20190221182626
+196.47.210.62 2 37 3355890 20190205124124
+138.197.96.212 1 12 251166 20190208200146
+196.213.52.66 2 36 3194411 20190226145757
+91.199.212.132 0 4 308 
+111.206.36.133 0 7 328278 
+35.243.182.39 2 2 25958 20190220204222
+14.215.176.18 0 4 73147 
+41.114.183.191 0 2 612413 
+36.110.199.18 0 1 531402 
+202.46.57.75 1 1 25958 20190222105615
+31.173.86.173 2 2 51916 20190212120914
+41.164.178.36 1 36 3201632 20190225115927
+105.213.85.47 0 1 86147 
+191.187.40.89 1 1 25958 20190220101922
+169.0.69.87 1 36 3201632 20190217221943
+18.184.82.216 1 1 25958 20190220011626
+115.239.212.67 0 1 49460 
+154.73.247.118 1 36 3201632 20190210121218
+159.89.182.71 1 21 685595 20190217081838
+31.184.238.190 6 6 192462 20190215112759
+14.215.176.136 0 5 143412 
+36.110.199.21 0 4 751329 
+14.215.176.21 1 25 790676 20190227084851
+111.206.36.145 0 3 108103 
+36.110.199.136 0 15 527951 
+36.110.199.30 0 6 109374 
+102.250.2.106 1 1 25958 20190210190159
+137.158.141.56 1 36 3201632 20190225224822
+18.237.216.79 1 1 38196 20190204190934
+66.249.83.223 2 31 3978338 20190219154255
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20190201 44 380 26484578 31
+20190202 52 421 28889876 37
+20190203 56 177 10092075 40
+20190204 36 212 15033415 28
+20190205 67 576 41531278 45
+20190206 69 476 34976333 51
+20190207 43 460 36474241 38
+20190208 39 357 24912259 35
+20190209 46 398 30395191 39
+20190210 58 501 39685161 50
+20190211 48 437 34815191 38
+20190212 48 435 31538750 42
+20190213 43 413 31157941 41
+20190214 46 519 41403517 42
+20190215 36 219 14514421 33
+20190216 43 308 19285611 34
+20190217 27 158 11595901 26
+20190218 28 343 26300911 23
+20190219 43 353 23547957 41
+20190220 40 310 22331831 35
+20190221 36 370 28700067 33
+20190222 45 530 33152379 38
+20190223 29 287 16146242 26
+20190224 48 437 27865409 43
+20190225 31 537 41774650 29
+20190226 62 465 32678101 53
+20190227 59 566 44729205 46
+20190228 41 346 22429569 36
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 3
+30s-2mn 6
+15mn-30mn 1
+0s-30s 1029
+5mn-15mn 2
+2mn-5mn 10
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 1081 16856826 1011 907
+/fonts/Flat-UI-Icons.woff 93 2050836 26 76
+/fonts/flatpack.woff 47 6674940 8 41
+/pix_mail/new_contact.php 17 952 5 17
+// 15 426084 2 5
+/fonts/lato/lato-regular-webfont.woff 4 141856 0 2
+/fonts/Flat-UI-Icons.eot 3 46182 0 2
+/images/ 1 2017 1 1
+/images/main/ 1 11404 0 1
+/fonts/lato/lato-regular-webfont.ttf 1 65648 0 1
+END_SIDER

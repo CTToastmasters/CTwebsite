@@ -1,0 +1,132 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id aPj9MmM4JmJi5gAAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Mon, 07 Mar 2022 18:52:51 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 07 Mar 2022 18:52:51 +0200
+Received: from spe2.ucebox.co.za ([197.242.159.36]:36786)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1nRGbL-000FT7-KT
+	for cttoaqzb@elrond.aserv.co.za; Mon, 07 Mar 2022 18:52:51 +0200
+Received: from Debian-exim by spe9.ucebox.co.za with local (Exim 4.92)
+	id 1nRGbL-0001u3-I2
+	for cttoaqzb@elrond.aserv.co.za; Mon, 07 Mar 2022 18:52:52 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe9.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1646671971-eximdsn-429557182
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1nRGbL-0001u3-I2@spe9.ucebox.co.za>
+Date: Mon, 07 Mar 2022 18:52:51 +0200
+
+--1646671971-eximdsn-429557182
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [64.233.166.27]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 This message does not have authentication information or fails to
+    550-5.7.26 pass authentication checks. To best protect our users from spam, the
+    550-5.7.26 message has been blocked. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/81126#authentication for more
+    550 5.7.26 information. i16-20020a5d5850000000b001f059897d5csi9486443wrf.766 - gsmtp
+
+--1646671971-eximdsn-429557182
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe9.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This message does not have authentication information or fails to
+ 550-5.7.26 pass authentication checks. To best protect our users from spam, the
+ 550-5.7.26 message has been blocked. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/81126#authentication for more
+ 550 5.7.26 information. i16-20020a5d5850000000b001f059897d5csi9486443wrf.766 - gsmtp
+
+--1646671971-eximdsn-429557182
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe9.ucebox.co.za with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1nRGbF-0001qY-E1
+	for capetowntoastmasters@gmail.com; Mon, 07 Mar 2022 18:52:49 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=elrond.aserv.co.za; s=default; h=Date:Sender:Message-Id:Reply-To:From:
+	Subject:To:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=VW8yjZq/FaHugGbY1Dindjxc+gbpjcQu8yBM/6npS4I=; b=DEXUetAUt6S6P2kgM7Idqe4tPh
+	+aHsdTb6gIRTSoo5Fouu7QDUo8RZSOC18H33+yj9P0XPRGwnl0F7RHd9s3qn6j0CeXB4A6t3572RY
+	FJugPOgAvXq4jpyesry4y6E+CSwk+F47B3O9sh2gSrI1ZDL0lA55fTahXNinOqkFOL7OLrgGBufIJ
+	fnBkjjEbQ2OcjzB95RJ9zQ3/QiCFQggXJ++RCs1IWCpZKQYjCA2V69kCXXf7VyhfSGr9RMpAKaXGg
+	W1jfUnM2Cqa/VsKpcAn+LHWpzmuFDPUgnjwViiuY2zCJ6YCE8cJAs+61JrhpWXqsc0cX2+4B+2t/w
+	YhFUnEWg==;
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.94.2)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1nRGbE-000FKi-Gc
+	for capetowntoastmasters@gmail.com; Mon, 07 Mar 2022 18:52:44 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 197.245.67.239
+From: admin@brendonjordaan.com
+Reply-To: admin@brendonjordaan.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1nRGbE-000FKi-Gc@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Mon, 07 Mar 2022 18:52:44 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.32)
+X-Recommended-Action: accept
+X-Filter-ID: Pt3MvcO5N4iKaDQ5O6lkdGlMVN6RH8bjRMzItlySaT+AjwQ2BjgzBuve287voIEPPUtbdvnXkggZ
+ 3YnVId/Y5jcf0yeVQAvfjHznO7+bT5y8C21t3rlvjC8CpohUmD1pY/hJweNuHzBZHZJy8XXpaMws
+ Fkh0+CAGkxpML+6MObgDu3R7eZpm0Hzy7d2EQS4MVrkVq5D4oaud2KgHdRDTahYBR9XwOqE2UQOv
+ l5ZMjv6rv3g6PnQla5+ymlw8ju8yb9HNBh+wLyxGZ+jOkNcVhYKHjzGy4U1/4CsiDmBdIKCbgaCk
+ W8nGm/sYr5TGcUrdUF8HVG2cpnKFv/jFLP1KEChC9PDYKnv6Tg5zyqINgzM+AwMXi+OSqQVvJeAt
+ QeT9Q5MeWyHYFcw5tP/0jE4kl9S+AdPwEy3hqs9fJgteWWIMoOLjGsRz/MUE6aIZoCcUNXR4aVG4
+ tVHU1Zldyy+zfbnrM5aYo0PL7jUsZY4sbPZdjx85xQq9VD42UbTRudBo31/E3ahF5MMcDI7KdpjQ
+ KboK6boZPQUalEbe5OUmnDyBlGmc8wsQEkx8GXtWvf6AYOaeuiH/yEdZH8S1+TgcJBOjh0vPxcQO
+ jKKOrYIQYpwamUdylUIKhf3z2GAHxH7Iprmn7OGuVIORyK6Ax6ZVkFCodRcFKBYAihauUECAuU93
+ iKz0M5NfyxE2qi9OYS5Ez4gcUBegcV7vZJaIiEo2SNtfh3qYZqqe9CC3nIkfSk4zOD3nwgVsoqU1
+ zQ3lxqBCERWeKKG4PAQYNyavp7c49BrwaISd4jYMXVrI7AojcRFhPqInmQTVo0KeyrwPay+Vt6O3
+ 8+Sv2ou/YBeqGk6Wi0/s+iwz/NzlI1xGd3UTJGlDPDo3pDJlUlQ25PasjIMIY1dgb3h/J/2kaxu0
+ FxE/vuuO5TcDeKjrEmYPn2IVWRt2L0565131WoXotd+XHEadGzdbsOBKfVZ/dt74KgHZgX68iSMG
+ XNKj2i0OHCB/29wXMgX3CZWj5RLudBUDgZ9FpEgJoCmtYU+VnECfrukuO5yIPuoL+i9PPCXnLLLk
+ By9VmdjuwAXM3edxKmH2z73N
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: brendon jordaan -  
+email: admin@brendonjordaan.com -  
+message: is it possible for me to look in and see what toast master is all about before joining?
+
+Regards
+Brendon Jordaan  -  
+
+
+--1646671971-eximdsn-429557182--

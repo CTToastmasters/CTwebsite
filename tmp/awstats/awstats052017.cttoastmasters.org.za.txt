@@ -1,0 +1,2459 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2701                
+POS_VISITOR 95335               
+POS_DAY 119314              
+POS_DOMAIN 3655                
+POS_LOGIN 4627                
+POS_ROBOT 4782                
+POS_WORMS 5500                
+POS_EMAILSENDER 5631                
+POS_EMAILRECEIVER 5774                
+POS_SESSION 120266              
+POS_SIDER 120477              
+POS_FILETYPES 5909                
+POS_DOWNLOADS 6198                
+POS_OS 6246                
+POS_BROWSER 6645                
+POS_SCREENSIZE 9455                
+POS_UNKNOWNREFERER 9529                
+POS_UNKNOWNREFERERBROWSER 11065               
+POS_ORIGIN 11608               
+POS_SEREFERRALS 11760               
+POS_PAGEREFS 11960               
+POS_SEARCHWORDS 94223               
+POS_KEYWORDS 94643               
+POS_MISC 2363                
+POS_ERRORS 94903               
+POS_CLUSTER 4483                
+POS_SIDER_404 95026               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601000012 337 81164 7197111902053
+FirstTime 20170501011805
+LastTime 20170531224116
+LastUpdate 20170601142309 337 0 336 0 0
+TotalVisits 2672                
+TotalUnique 561                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 598                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 299 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 142 407 14349278 101 155 845975
+1 244 435 10328922 73 156 2642650
+2 177 262 4499532 35 73 1288321
+3 61 163 7437370 96 148 2426360
+4 103 220 8926045 107 189 2042763
+5 225 353 7721429 57 127 2033853
+6 102 274 9774201 105 164 1722123
+7 116 405 17141110 59 150 2013419
+8 165 734 31058956 57 166 2096635
+9 190 479 16637099 88 137 731890
+10 186 1182 56627798 50 160 2688982
+11 151 1191 57569540 61 198 2562327
+12 101 721 35612866 113 223 2763449
+13 123 856 42042397 73 149 1333944
+14 203 1455 70272536 93 330 6675206
+15 118 816 40459015 106 193 1687416
+16 181 1187 58342418 45 147 2532118
+17 99 423 19004506 56 136 2576393
+18 216 533 19198323 159 254 2068924
+19 126 626 28284651 54 107 867380
+20 193 778 33466269 75 145 1365232
+21 150 660 29796752 124 225 2832882
+22 178 624 26592807 44 126 2105240
+23 127 253 7629359 64 90 406792
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 50
+ru 1560 1634 4204135
+za 812 8938 462704031
+us 578 2730 121923742
+ua 248 248 60175
+uz 123 123 0
+no 43 43 605711
+de 40 106 4441544
+cn 40 72 1368637
+gb 23 207 11404136
+eu 16 16 174192
+kr 16 38 872286
+md 16 16 174192
+fr 14 34 822410
+zw 11 130 7130432
+lt 11 71 6591293
+cz 10 42 1945201
+lr 10 106 5512951
+pl 9 9 180605
+ma 9 96 5283576
+nl 9 9 318095
+ca 8 72 3734718
+ro 7 8 256015
+ke 6 37 1844862
+dk 5 40 1882332
+in 4 4 98608
+rw 2 33 1790089
+ee 2 2 49308
+kh 2 2 76802
+ae 2 2 49304
+dz 1 1 10907
+my 2 2 49304
+pk 2 2 49308
+gh 2 34 1819362
+hr 2 2 49304
+hu 1 1 10887
+sr 2 2 49308
+ps 2 2 49304
+sk 4 4 38401
+ph 1 1 10907
+ie 1 1 38401
+om 2 2 49308
+it 3 33 772517
+mu 3 34 1812141
+id 2 2 49304
+jp 3 3 115203
+sa 0 1 44295
+br 3 4 157399
+au 3 35 1857763
+mn 2 2 49308
+gt 0 1 191166
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+bot[\s_+:,\.\;\/\\-] 613 15090761 20170531235749 0
+googlebot 558 16602370 20170531224455 0
+spider 298 8447168 20170531230605 0
+googlebot\-image 71 1231100 20170531095902 0
+no_user_agent 36 968614 20170529013734 0
+google[_+\s]web[_+\s]preview 34 1819362 20170519031645 0
+robot 26 630243 20170531105514 0
+bingpreview 23 1599535 20170512164639 0
+php 22 1973074 20170521121752 0
+slurp 4 98612 20170527214421 0
+crawl 4 126090 20170519174040 0
+checker 3 115203 20170529131734 0
+curl 2 76802 20170531180506 0
+ia_archiver 1 38401 20170524000709 0
+[\s_+:,\.\;\/\\-]bot 1 38401 20170527213123 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+js 4046 82334273 0 0
+php 672 6816989 0 0
+eot 42 3825988 0 0
+gif 1 8536 0 0
+svg 21 5589536 0 0
+png 1665 72376099 0 0
+woff 438 47160624 0 0
+css 3570 162050366 0 0
+ttf 9 643796 0 0
+jpg 2057 249079976 0 0
+html 2516 22886996 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+ios_iphone 1662 169
+macosx 1195 83
+win8.1 648 51
+winnt 1885 150
+ios_ipad 202 12
+winxp 192 55
+Unknown 301 70
+win2008 221 221
+win8 5 5
+win98 2 2
+win16 7 7
+win7 3715 576
+unix 1 1
+blackberry 70 4
+linuxandroid 2778 514
+linux 252 39
+macosx9 103 27
+macosx8 34 2
+win2003 250 240
+winlong 269 236
+macosx7 3 3
+macosx6 34 2
+winunknown 1208 1208
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 135
+chrome49.0.2623.112 101 6
+iphone 2 0
+safari7.0 69 5
+firefox21.0 17 6
+chrome39.0.2171.95 4 3
+chrome49.0.2623.110 34 2
+chrome52.0.2743.98 38 6
+chrome58.0.3029.110 2147 134
+firefox51.0 1 1
+chrome57.0.2987.132 530 112
+chrome52.0.2743.116 5 5
+firefox3.6 1 1
+firefox2.0.0.6 1 1
+firefox52.0 69 7
+chrome56.0.1750.154 2 2
+opera45.0.2552.812 36 3
+chrome41.0.2272.89 77 13
+msie2.00 310 310
+safari10.1.1 33 2
+firefox15.0 3 3
+mozilla 72 25
+firefox36.0 2 2
+safari10.0.1 34 2
+firefox14.0.1 1 1
+firefox3.6.3 1 1
+chrome40.0.2214.85 1 1
+chrome59.0.3071.60 41 9
+firefox3.6.28 1 1
+chrome58.0.3029.83 1089 204
+chrome51.0.2704.106 110 14
+chrome42.0.2311.152 35 35
+msie8.0 98 26
+safari6.0.0.668 35 1
+chrome57.0.2987.133 1763 128
+wget 3 3
+chrome55.0.2883.91 74 10
+chrome48.0.2564.116 2 2
+android 88 24
+opera12.16 134 14
+chrome53.0.2785.104 3 0
+chrome27.0.1453.93 1 1
+firefox25.0 1 1
+chrome47.0.2526.83 40 8
+chrome57.0.2987.110 3 3
+chrome45.0.2454.101 3 0
+chrome55.0.2883.75 4 2
+firefox28.0 31 9
+firefox49.0 1 1
+firefox40.0 2 2
+firefox45.0 2 2
+chrome38.0.1025.166 33 1
+safari10.0 1264 110
+chrome38.0.2125.102 75 11
+msie3.00 300 300
+firefox2.0.0.15 2 0
+chrome50.0.2674.85 1 1
+opera14.0.123.123 2 2
+chrome34.0.1847.116 1 1
+firefox48.0 2 2
+chrome44.0.2403.133 236 43
+opera18.0.1284.63 1 1
+chrome34.0.1847.131 69 14
+chrome5.0.375.99 5 5
+safari10.1 132 8
+chrome36.0.1985.143 34 2
+msie9.0 326 103
+chrome49.0.2623.75 13 13
+netscape5.0 3 2
+chrome34.0.1847.76 38 6
+firefox29.0 33 11
+safari7.0.3 17 6
+chrome39.0.2171.99 2 2
+firefox4.0 3 3
+firefox30.0 1 1
+chrome26.0.1410.63 1 1
+firefox53.0.2 3 3
+msie5.00 312 312
+msie11.0 655 73
+chrome51.0.2704.79 102 6
+safari 375 56
+safari6.2.8 34 2
+chrome35.0.1916.114 27 5
+chrome54.0.2840.85 76 12
+firefox34.0 18 18
+chrome58.0.3029.96 579 37
+chrome37.0.0.0 37 5
+chrome39.0.2171.96 1 1
+Unknown 56 24
+safari10.2.1.3253 37 4
+firefox40.1 42 42
+safari9.1.2 34 2
+chrome52.0.2776.26 1 1
+firefox19.0 1 1
+chrome51.0.2704.103 1 1
+firefox3.0.11 1 1
+chrome45.0.2454.93 16 16
+chrome50.0.2661.89 38 6
+chrome34.0.1847.137 3 3
+msie10.0 42 10
+lynx 2 2
+chrome50.0.2661.75 60 60
+chrome51.0.2704.84 84 5
+chrome55.0.2883.87 69 5
+chrome26.0.1410.58 1 1
+firefox50.0 30 6
+chrome39.0.2171.71 2 2
+chrome10.0.648.204 3 3
+safari10.0.3 88 6
+firefox24.0 4 4
+chrome50.0.2661.94 34 2
+chrome40.0.2214.115 1 1
+chrome41.0.2220.0 2 1
+safari7.1.0.714 35 3
+chrome38.0.2125.122 1 1
+firefox6.0.2 15 15
+msie6.00 334 334
+chrome56.0.2924.87 394 51
+chrome54.0.2840.99 34 2
+chrome22.0.1229.94 3 3
+msie7.0 11 1
+firefox6.0 70 10
+chrome43.0.2357.93 38 6
+chrome43.0.2357.124 2 0
+msie7.00 317 317
+lg\- 35 3
+safari5.1.9 34 2
+msie4.00 323 323
+safari9.0 218 21
+chrome58.0.3029.81 342 22
+chrome41.0.2228.0 1 1
+chrome34.0.1847.45 1 1
+chrome48.0.2564.103 2 2
+firefox33.0 33 2
+firefox53.0 173 14
+firefox3.6.8 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 24
+Lynx/2.8.9dev.8_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.4.9 20170519011343
+Visited_by_http://tools.geek-tools.org 20170524115154
+Gobyus 20170502085320
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20170506100102
+Opera/9.80_(Android;_Opera_Mini/20.0.2254/62.178;_U;_en)_Presto/2.12.423_Version/12.16 20170521214317
+gobyus 20170502085318
+Softaculous 20170519023608
+WP_Spydr/1.0_(http://wpspydr.com) 20170510152059
+Mozilla/4.0_(compatible;) 20170530155451
+ltx71_-_(http://ltx71.com/) 20170501002242
+Opera/9.80_(Android;_Opera_Mini/19.0.2254/63.203;_U;_en)_Presto/2.12.423_Version/12.16 20170528214353
+Opera/9.80_(Android;_Opera_Mini/20.1.2254/62.178;_U;_en)_Presto/2.12.423_Version/12.16 20170513145722
+Mozilla/5.0_(Android_6.0;_Tablet;_rv:53.0)_Gecko/53.0_Firefox/53.0 20170521123837
+Mozilla/5.0 20170525182017
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20170527192543
+Mozilla/5.0_(Android_6.0;_Tablet;_rv:53.0.2)_Gecko/53.0.2_Firefox/53.0.2 20170521123857
+Xenu_Link_Sleuth/1.3.8 20170511005012
+WhatsApp/2.17.190_A 20170526161300
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20170527112749
+WhatsApp/2.17.146_A 20170517122708
+Mozilla/5.0_(compatible;_ips-agent) 20170524080817
+Go-http-client/1.1 20170526031658
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.2.1.3253_Mobile_Safari/537.35_ 20170518083607
+Nutch/Nutch-2.3.1 20170520204404
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+WhatsApp/2.17.190_A 20170526161300
+Visited_by_http://tools.geek-tools.org 20170524115154
+Gobyus 20170502085320
+com.google.GoogleMobile/27.0.0_iPad/9.3.5_hw/iPad2_5 20170519031636
+Xenu_Link_Sleuth/1.3.8 20170511005012
+Softaculous 20170519023608
+gobyus 20170502085318
+WP_Spydr/1.0_(http://wpspydr.com) 20170510152059
+WhatsApp/2.17.146_A 20170517122708
+Nutch/Nutch-2.3.1 20170520204404
+ltx71_-_(http://ltx71.com/) 20170501002242
+Go-http-client/1.1 20170526031658
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 465 557
+From1 15 15
+From2 384 728
+From3 1912 1912
+From4 901 11825
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+yandex 3 3
+yahoo 4 4
+search 2 2
+google 372 716
+bing 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1284
+http://dengi-v-kredit.in.ua 31 31
+http://welltopay.com 22 22
+http://smnews.com.ua 19 19
+http://dskarm.ru 19 19
+http://www.xn--80ardojfh.kz/my-home/dizayn-interer/ 16 16
+http://zaym-kruglosutochno-online.ru 15 15
+http://www.gorizont.com.ua 15 15
+http://anti-lai.ru/index.php 15 15
+http://xn-----6kcaanbcyl4bxipejbngriq.xn--p1ai 15 15
+https://webalex.pro 13 13
+http://zaym-qiwi-online.ru 13 13
+http://ksion-service.ru 13 13
+http://apartments2rent.ru 12 12
+http://msk-eva.ru 11 11
+http://www.\xd1\x81\xd1\x82\xd1\x80\xd0\xbe\xd0\xb9\xd0\xba\xd0\xb0.kz/my-home/dizayn-interer/ 10 10
+http://xn--53-6kchbqbypd1bherrr7fc.xn--p1ai 10 10
+http://akbmart.ru 10 10
+http://resurs-2012.ru 10 10
+https://teman.com.ua 10 10
+http://metall-na-dony.com 10 10
+http://alsochi.ru 9 9
+http://ksion.org 9 9
+http://seomoz.pro 8 8
+http://cleaningservices.kiev.ua/tseni-na-uborku-kvartir 8 8
+http://cleaningservices.kiev.ua/tseni-na-moyku-okon 8 8
+http://actiodance.ru/sovremennyie-tanczyi.html 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma 1 1
+http://ooo-starten.ru/%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%ba%d0%be%d0%bc%d0%bc%d0%b5%d1%80%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b9/ 1 1
+http://ooo-starten.ru/%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6-%d0%bb%d0%be%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%be-%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d0%b5%d1%82%d0%b5/ 1 1
+http://freegamesmoon.com/racing-games/147-tractors-power-2.html 1 1
+https://nonano.ru/pr/volma/belee-belogo-polimernaya-finishnaya-shpaklevka-volma-polifin 1 1
+https://td-33.ru/plastikovye-okna-v-zheleznodorozhnom 1 1
+http://actiodance.ru/latina-solo.html 2 2
+http://express-vyvoz.ru/stati/srochnyj-vyvoz-musora.html 1 1
+http://chemodany.xyz/bag-42775.html 1 1
+http://spasibo-za-rebenka.ru/nashi-raboty/113-ukrashenie-komnaty-na-vstrechu-lyubimykh-iz-roddoma 1 1
+http://www.disprom.ru/svetodiodnyiy-svetilnik-bonus-sso-a-220-002-snt-uhl1-duplicate_5.html 1 1
+http://spasibo-za-rebenka.ru/nabory-nakleek-na-vypisku/naklejka-dlya-tekh-kto-lyubit-minimalizm-on-rodilsya 1 1
+https://td-33.ru/dlya-kvartiry-doma-i-dachi/remont-kvartir-v-moskve 1 1
+https://nonano.ru/pr/pinotex/prostaya-i-nadezhnaya-zashchita-derevyannykh-konstruktsij-pinotex-tribid 1 1
+http://ivicom194.ru/interesnoe/article_post/ispolzovanie-videoregistratora 1 1
+http://naemi.ru/%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0/%d0%b2%d0%be%d0%bb%d0%be%d1%81%d1%8b/ 1 1
+http://kupitcebe.ru/internet-magazin-assorti 1 1
+http://lab-term.ru/omron_h3cr-big.htm 1 1
+https://www.websolution.com.ua/blog/204-sozdanie-sajta-vizitki-pod-klyuch-v-kieve.html 1 1
+http://ictr.ru/inzhenernaya-kompaniya.html 1 1
+https://sellparts.com.ua/zapchasti-dlya-folksvagen/vw-caddy/ 1 1
+https://www.consic.ru/news/708-gde-luchshe-oformlyat-zagranpasport.html 1 1
+http://rupolitshow.ru/mezhdunarodnoe-obozrenie-s-evgeniem-primakovym-25-03-2017.html 1 1
+https://www.distablo.ru/impuls-310-3x2xz4-ew2-ulichnyie-tablo-valyut-4-razryada.html 1 1
+https://onlineessay.us/do-my-homework-service.html 3 3
+http://ivicom194.ru/interesnoe/article_post/letnyaya-rezina 1 1
+http://santexmontaj.com/kotelnoe-oborudovanie.html 3 3
+https://sellparts.com.ua/sbp/ 1 1
+http://zicore.ru/delivery/ 1 1
+http://smt4.ru/ugolok-alyuminievyj.html 1 1
+https://www.e-stroymart.kz/ru/catalog/81959-nabory_smesitelej/ 1 1
+https://petboy.ru/products/25631852 1 1
+http://kupitcebe.ru/mayka-korset-sculpting-clothes 1 1
+https://t-machinery.ru/katki/asfaltovye-svyshe-7t/ 1 1
+http://lab-term.ru/pech-ekps-50.html 1 1
+http://remstroy.xyz/ma41268st.html 1 1
+http://antigav.ru/shop/c2.pervyy_podrazdel_a.htm 1 1
+https://petboy.ru/products/15510326 3 3
+http://lab-term.ru/pechi-otpuska.html 1 1
+https://sn22.ru/articles/ 1 1
+http://filosoff.org 1 1
+http://spasibo-za-rebenka.ru/bukety-iz-myagkikh-igrushek 1 1
+http://vinso-azs.ru/catalog/item/mobilnyi-zapravochnyi-rezervuar-450-l-24-v-elektronnyi-schetchik-26922 1 1
+https://ladyclub.org/news/modnye-rekomendacii-ot-ksenii-sobchak 1 1
+http://naemi.ru/%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0/%d1%82%d0%b5%d0%bb%d0%be/ 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/kontakty 1 1
+http://kupitcebe.ru/internet-magazin-assorti/futbolka-hot-shapers 1 1
+http://ecogr.ru/documentation/ 2 2
+http://ivicom194.ru/order 1 1
+http://ooo-starten.ru/%d1%80%d0%b5%d0%ba%d0%be%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d1%83%d1%8e%d1%89%d0%b8%d1%85-%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b8/ 1 1
+https://t-machinery.ru/katki/gruntovye/ 1 1
+http://svetofor-zom.ru/svetoforyi-300-mm.html 1 1
+https://alfarehab.ru/kodirovanie-ot-alkogolizma/ 1 1
+http://metaphysican.com/sport/ 1 1
+http://gomario.ru/igri/letalki_igry/kapitan_galaktika/33-1-0-1417 1 1
+http://alsochi.ru/%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%B0%D1%80%D0%BA-%D1%82%D0%B0%D0%BA%D1%81%D0%B8-%D1%81%D0%BE%D1%87%D0%B8/ 4 4
+http://remkompov.ru/prog.html 1 1
+https://nashkomp.ru/kuda-telegram-sohranyaet-polzovatelskie-faylyi-i-dannyie 1 1
+http://vinso-azs.ru/catalog/item/emkost-10l-08053 1 1
+https://tigsochi.ru/vse-dlya-sada/sadovaya-mebel/mebel-iz-iskusstvennogo-rotanga/kresla-podvesnye-iz-iskusstvennogo-rotanga 1 1
+http://express-vyvoz.ru/vyvoz-stroitelnogo-musora/vyvoz-melkogo-musora.html 1 1
+http://asupro.com/building/technology/smart-home-sys-benefits-wireless-systems.html 1 1
+https://t-machinery.ru/katki/asfaltovye-do-7t/ 2 2
+http://remstroy.xyz/ma37017st.html 1 1
+https://tigsochi.ru/tovary-dlya-doma/novogodnie-tovary 1 1
+https://gamesua.top 5 5
+https://tigsochi.ru/zdorove-i-sport/bilyard 1 1
+http://excitecash.info/full/about_casino/how-to-play-online-casino-fore-real 1 1
+http://www.capetownmagazine.com/volunteer-cape-town 1 1
+https://ladyclub.org/news/detskie-napitki 1 1
+https://ladyclub.org/news/krasota-i-zdorove/modnyj-manikyur-prityazhenie-mnogocvetnogo-resheniya 1 1
+http://gomario.ru/igri/igry_na_vnimatelnost/shkola/43-1-0-349 1 1
+http://lab-term.ru/180-350.html 1 1
+https://boathiremalta.com/getting-around-the-island-of-malta/ 1 1
+http://excitecash.info/full/about_casino/roulette-for-dollars 2 2
+http://rupolitshow.ru/vladimir-solovev-polnyj-kontakt-16-03-2017.html 1 1
+https://nonano.ru/pr/volma 1 1
+http://lab-term.ru/trubchataya-pech.html 2 2
+http://smt4.ru/alyuminievyj-prokat.html 1 1
+https://www.tvoysad.ru/construction/krysha-s-mansardoj.html 1 1
+http://gorokna.com/catalog/balkony/ 1 1
+https://www.protaganrog.ru/%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%BE%D0%B2-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2/%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%BE%D0%B2/ 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/baby-on-board 1 1
+https://www.tvoysad.ru/rubric/stati/plodovye 1 1
+http://lovegfx.top 1 1
+https://onlineessay.us/essays-for-sale.html 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-rbs-600-80x16e-duplicate_24.html 1 1
+http://rozarii.ru/tehnika-dlja-sada/opryskivatel-pricepnoj.html 1 1
+http://svetofor-zom.ru/tablo-obratnogo-otscheta-vremeni-svecheniya-krasnogo-i-zelenogo-signala-svetofora-toov-300jrg-300-mm-sid-jeltyie-duplicate.html 1 1
+https://tigsochi.ru/tekhnika/televizory 2 2
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma/krovati 1 1
+https://www.emctestlab.ru/single-post/EMI-glass 1 1
+https://www.eurostroy.ru/ventilation_system/project_ventilation/proektirovanie-sistem-ventilyaczii 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/sad/133-dlya-piknika/330-stoly-i-stul-ya-raskladnye 1 1
+http://lovegfx.top/frames/4804-childs-photo-frame-happy-school-time.html 1 1
+http://lab-term.ru/lab-hightemperatur.html 1 1
+http://rupolitshow.ru/pervaya-studiya-14-02-2017.html 1 1
+http://lovegfx.top/vector/927-business-infographics-elements-collection-211.html 1 1
+http://kck-usadba.ru/uslugi/ct-menu-item-22/64-kp-alpijskaya-derevnya 1 1
+http://ivicom194.ru/stati/article_post/ne-sadites-za-rul-v-netrezvom-sostoyanii 1 1
+http://www.gorizont.com.ua/category/interernye-resheniya/rulonnye-shtory 1 1
+https://nonano.ru/arts/kreps/kuzya 1 1
+http://vinso-azs.ru/catalog/item/kanistra-dlya-topliva-10l-21055 1 1
+https://www.disdecor.ru/cheyzing-5w-16mm-neo-neon-dl-5w-100m-multi.html 1 1
+http://sekostrop.by/bloki-montazhnye/30-zakrytye 1 1
+https://santehexpress.ru/categories/napolnye-gazovye-kotly-vaillant-so-vtroennym-boilerom 1 1
+https://vosstanovim.by/nashi-kontaktyi 1 1
+http://remkompov.ru/stati/st2.html 1 1
+https://ladyclub.org/news/iz-chego-shyotsya-detskaya-odezhda 1 1
+https://nonano.ru/pr/abb/krasota-v-melochakh-abb-sky-niessen-abb-sky-moon 1 1
+http://resursmsk.com 1 1
+http://i-remo.ru/news/dizayn_interiera/tsvetniki-svoimi-rukami-foto-728549/ 4 4
+https://www.promstok.com/catalog/truboprovody_3/uponor_ecoflex_varia_single_truba_pn6_75x6_8_175/ 1 1
+http://www.alfateh.su/%d0%b1%d1%8b%d1%82%d0%be%d0%b2%d0%ba%d0%b8/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-elvan-rossiya/katalog-elvan-svetotekhnicheskaya-produktsiya-2016/ 1 1
+http://gorokna.com/company/faq/uxod-i-ekspluatacziya 1 1
+https://www.distablo.ru/elektronnyie-chasyi-kalendar-impuls-415-1td-2tdxz8-3dn-er1-duplicate_2.html 1 1
+http://akpp-mers.ru/faq/ 1 1
+http://foto-galaxy.ru/fotoramki/10539-stilnye-ramki-s-uzorami.html 1 1
+https://td-33.ru/osteklenie-v-moskve/osteklenie-balkonov-pod-klyuch-bystro-i-nadezhno 2 2
+https://santehexpress.ru/categories/gruppy-bystrogo-montazha-buderus 1 1
+http://lovegfx.top/style/4227-new-10-extra-light-text-effects-vol6-19453640.html 1 1
+https://nonano.ru/pr/skil 2 2
+https://www.tvoysad.ru/rubric/stati/derevya-i-kustarniki 1 1
+https://td-33.ru/osteklenie-v-moskve/plastikovye-okna-i-dveri 1 1
+http://naemi.ru 2 2
+https://alfarehab.ru/lechenie-alkogolizma/zapoj-vyvod-v-statsionare/ 1 1
+https://tigsochi.ru/zdorove-i-sport/bilyard/aksessuary-i-komplektuyushchie 1 1
+http://gomario.ru/igri/nastolnye_igry/mjasorubka/46-1-0-1391 1 1
+https://www.emctestlab.ru/aux 1 1
+https://onlineessay.us/chicago-style-papers.html 7 7
+https://alfarehab.ru/rehab-alco/ 1 1
+https://www.e-stroymart.kz/ru/catalog/85275-otdelnyje_predmety/ 1 1
+http://express-vyvoz.ru/vyvoz-grunta.html 2 2
+http://gfxpixel.top/poster/6078-grad-card-organic-tropics-1373438.html 1 1
+https://tigsochi.ru/vse-dlya-stroitelstva/instrumenty/otvertki 1 1
+https://rutv.site/sekret-na-million-vladimir-presnyakov-20-05-2017.html 1 1
+http://lab-term.ru/vakuumnyj-sushilnyy-shkaf.html 1 1
+http://sekostrop.by/stati/vzaimozamenyaemost-kryukov 1 1
+https://onlineessay.us/buy-persuasive-essay-online.html 2 2
+https://www.eurostroy.ru/pools/decoration_polls/mosaic/ 1 1
+http://spasibo-za-rebenka.ru/fontany-iz-sharov 1 1
+https://vosstanovim.by/vosstanovlenie-dannyih-posle-zalitiya-vodoy-iphone-6 1 1
+https://www.disdecor.ru/dimmer-lt-t2-12-24v120-240w_1.html 1 1
+http://chemodany.xyz/bag-5702.html 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/mebelh/119-myagkaya-mebel/325-divany-odnospal-nye 1 1
+https://www.eurostroy.ru/heating/montazh-oborudovaniya-kotelnoj 1 1
+http://ivicom194.ru/driver 1 1
+http://mosapple24.ru/remont-imac/zamena-videokarty/ 1 1
+https://sellparts.com.ua/motornye-masla/ 1 1
+https://onlineessay.us/masters-essay.html 1 1
+https://www.tvoysad.ru/stati/rozyi/kak-vybrat-rozy-dlya-sada.html 1 1
+https://boathiremalta.com/chem-privlekaet-otdy-h-na-mal-te/ 1 1
+http://sekostrop.by/dokumenty/attestat-stenda 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma/pufiki 1 1
+https://ladyclub.org/news/krasota-i-zdorove/ukreplyaem-resnicy-doma 1 1
+https://td-33.ru/kupit-plastikovye-okna 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/baby-on-board-nozhki 1 1
+https://ladyclub.org/news/podarok-parnyu 1 1
+http://www.disprom.ru/svetilnik-svetodiodnyiy-luch-24.html 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine 1 1
+http://rupolitshow.ru/mesto-vstrechi-na-konu-evropa-09-03-2017.html 1 1
+http://foto-galaxy.ru/project-proshow-producer/61171-romanticheskiy-proekt-dlya-proshow-producer-pust-mirom-pravit-lyubov.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-arlight/fasadnye-svetilniki-katalog-2017/ 1 1
+http://grafics.top/png/2757-boho-totem-sacred-geometry-691369.html 1 1
+http://cleaningservices.kiev.ua/price-tseni-na-uslugi 1 1
+http://sekostrop.by/kryuki 1 1
+http://www.gorizont.com.ua/category/interernye-resheniya/rimskie-shtory 1 1
+https://sveterra.ru/catalogs-presentations/katalog-kemar-polsha/katalog-svetilnikov-kemar-2014-1-chast/ 1 1
+http://vinso-azs.ru/catalog/item/zabornoe-vederko-1-litr 1 1
+https://nonano.ru/pr/pinotex 1 1
+http://gomario.ru/igri/igry_na_vnimatelnost/snezhnyj_shar/43-1-0-1475 1 1
+https://www.disdecor.ru/tabletki-sp.html 1 1
+http://www.disprom.ru/88563-lyuminestsentnaya-lampa-t5-14w-holodnyiy-belyiy-840.html 1 1
+http://mosapple24.ru/remont-ipad/air-2/ 1 1
+http://naemi.ru/%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0/%d0%bb%d0%b8%d1%86%d0%be/ 1 1
+http://actiodance.ru/raspisanie-zanyatij.html 1 1
+https://t-machinery.ru/katki/transhejjnye/ 2 2
+http://kalibr-sochi.ru/produkciya_dlya_gostinechno_restora 4 4
+https://onlineessay.us 3 3
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/sad/131-tovary-dlya-bani/128-bannye-aksessuary 1 1
+http://spasibo-za-rebenka.ru/plyushevye-mishki/mishka-plyushevyj-medovyj-120-sm 1 1
+http://svetofor-zom.ru/svetofor-svetodiodnyiy-110mm-s-radioupravleniem.html 1 1
+https://tigsochi.ru/tekhnika/elektrooborudovanie 1 1
+https://www.emctestlab.ru/single-post/2017/5G 3 3
+http://narko-medical.com.ua/reabilitatsiya/ 1 1
+http://kupitcebe.ru/maska-ot-chernykh-tochek-s-uglem-bioaqua 1 1
+https://topparcel.com/p/parcel-delivery-to-lithuania 1 1
+https://ladyclub.org/news/preobrazovanie-muzhchiny-v-zolotuyu-rybku 1 1
+http://lab-term.ru/cnol-dv.html 1 1
+http://akpp-mers.ru/offer/ 2 2
+http://lab-term.ru/Sushilka-puff-8851.html 1 1
+https://www.tvoysad.ru/stati/mnogoletniki/i-drugie-gvozdichnyie.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-arlight/katalog-svetodiodnoe-osveshchenie-2016/ 1 1
+http://antigav.ru/shop/i90.Batareyka_GP_4LR44_6V.htm 1 1
+http://mosapple24.ru/remont-mac-mini/ 1 1
+https://rutv.site/samye-shokiruyushhie-gipotezy-24-04-2017.html 1 1
+http://smt4.ru/shestigrannik-bronzovyj.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-brilliant-/katalog-brilliant-2015-naruzhnoe-osveshchenie/ 1 1
+https://www.eurostroy.ru/pools/sistemyi-vodopodgotovki/obrabotka-vodyi-aktivnyim-kislorodom 1 1
+https://xn----7sbabm1ahc4b2aqff.su 1 1
+http://sekostrop.by/skoby-takelazhnye/33-skoba-g209 1 1
+http://resursmsk.com/list 3 3
+https://sellparts.com.ua/pfi/ 1 1
+https://ladyclub.org/news/krasota-i-zdorove/zhenskie-rubashki 1 1
+http://antigav.ru/articles/c2.vtoroy_razdela.htm 1 1
+http://antigav.ru/shop/i131.Gamak_dlya_sobak.htm 1 1
+http://www.alfateh.su/%d0%b8%d0%bf%d1%80%d1%81/ 1 1
+http://metall-vip.ru/sdat-metallolom/ 1 1
+http://sekostrop.by/zvenya/23-zveno-a-344 1 1
+https://ladyclub.org/news/malenkie-sovety-dlya-bolshogo-prevrashheniya 1 1
+http://diplomrf.info/snizit_risk_pri_pokupke.html 1 1
+https://resursmsk.ru/armatura-a500s 3 3
+http://remkompov.ru/remont-kompyuterov-odincovo.htm 1 1
+https://www.disdecor.ru/lenta-rv-2-5000-12v-blue-2x-5060-300-led-0-90.html 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/ 1 1
+http://akpp-mers.ru/pravila/ 2 2
+http://vrachinadom.ru/nashi-preimushestva/ 1 1
+http://mosapple24.ru/remont-iphone/6/lcd/ 1 1
+http://genezis-rehab.ru/novorossijsk/ 1 1
+http://foto-galaxy.ru/fotoramki/8926-kollekciya-iz-20-ramok-s-zavitkami-i-cvetami-na-prozrachnom-fone.html 1 1
+https://ladyclub.org/news/detskaya-ortopedicheskaya-obuv 1 1
+https://alfarehab.ru/rehab-narko/ 1 1
+https://ladyclub.org/news/ortopedicheskaya-detskaya-obuv 1 1
+http://foto-galaxy.ru/videouroki/40854-fokusivka-dlya-fotografa-i-fotoshopera-2015.html 1 1
+http://kck-usadba.ru/ct-menu-item-11/ct-menu-item-15 1 1
+http://lab-term.ru/termostat.html 1 1
+https://ladyclub.org/news/sekond-xend-dlya-vsej-semi 1 1
+http://mosapple24.ru/remont-imac/sistema-podsvetki/ 4 4
+https://nonano.ru/foto-villeroy-boch-dinnerware 1 1
+http://foto-galaxy.ru/photobook/30176-fotokniga-vinetka-k-shkolnomu-vypusknomu.html 1 1
+http://anti-lai.ru/soputstvuyushie-tovary/ 1 1
+https://www.e-stroymart.kz/ru/catalog/71791-napolnyje/ 1 1
+http://rozarii.ru 4 4
+http://metall-rnd.ru/demontazh-rezka-metalloloma/ 1 1
+http://foto-galaxy.ru/fotoramki/3446-fotoramka-chuvstvo-skorosti.html 1 1
+http://ivicom194.ru/stati/article_post/kak-veselo-provesti-novogodniye-prazdniki 1 1
+https://www.websolution.com.ua/services/sites-support.html 1 1
+http://gomario.ru/igri/morskoj_boj_igry/otlichnyj_morskoj_boj/86-1-0-1529 1 1
+https://t-machinery.ru/vibroplity/vibrotrambovki/ 2 2
+https://nonano.ru/arts/s36/novyj-mir-za-oknom 1 1
+https://vosstanovim.by/vosstanovlenie-dannyih-s-povrezhdennoy-fleshki 1 1
+http://grafics.top/vectors/1666-circus-funy-holiday-cartoon-clown-with-balloons.html 1 1
+http://vinso-azs.ru/catalog/item/programma-nastroiki-topaz-185-03 1 1
+http://grafics.top/stocks/309-christmas-decorations-sparkle.html 1 1
+https://www.eurostroy.ru/heating/po-vidu-doma 1 1
+http://freegamesmoon.com/kids-games/49-puppy-surgery.html 1 1
+http://rupolitshow.ru/pravo-golosa-poslednij-vypusk-16-05-2017.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-globo/katalog-globo-2015/ 1 1
+http://i-remo.ru/news/dizayn_interiera/tsvetushchie-mnogoletnie-kustarniki-684732/ 1 1
+http://smt4.ru/truby-nerzhaveyushhie-kruglye.html 1 1
+http://metall-rnd.ru/sdat-metallolom/ 1 1
+http://mosapple24.ru/about/ 1 1
+http://ooo-starten.ru/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82/ 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/balkonnyie-dveri 1 1
+https://nonano.ru/arts/s1/art7 1 1
+https://ladyclub.org/news/futbolki-istoriya-i-rol-sovremennom-mire 1 1
+http://kck-usadba.ru/uslugi/ct-menu-item-22/54-kottedzhnyj-poselok-malinovka 1 1
+https://sveterra.ru/brands/halla-chekhiya/ 1 1
+http://metall-rnd.ru/vyvoz-metalloloma/ 2 2
+http://toastmasters.co.za/westerncape-toastmasters-clubs/ 3 3
+http://capmeta-msk.ru/elmoris 1 1
+http://remkompov.ru/autsorsing.html 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-512-288x8-er2.html 1 1
+http://kck-usadba.ru/uslugi/inzhenernye-seti 1 1
+http://www.eurostroy.ru/heating/elektricheskoe-otoplenie-chastnogo-doma 1 1
+https://bazaprint.ru/product/kalendari 1 1
+https://ladyclub.org/news/molochnaya-vanna-v-domashnix-usloviyax-spasenie-dlya-kozhi 1 1
+https://td-33.ru/osteklenie-v-moskve/ustanovka-kryshi-na-balkone 1 1
+http://grafics.top/style/1379-140-effects-gradient-map-pack-109522.html 1 1
+https://www.protaganrog.ru/%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B0/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA-%D1%87%D0%B5%D1%85%D0%BE%D0%B2%D1%83/ 1 1
+http://ivicom194.ru/voditel-vyhodnogo-dnya 1 1
+https://t-machinery.ru/katki/pnevmoshinnye/ 1 1
+https://nonano.ru/pr/gira/gira-domofon-vkhodnaya-dver-s-intellektom-novaya-gira-system-106 1 1
+https://nonano.ru/arts/s35/i-vasha-krysha-ne-techet 1 1
+https://sellparts.com.ua/transporterparts/ 2 2
+https://a7r.ru/stroitelnyy-metalloprokat 1 1
+https://resursmsk.ru/k09g2s 1 1
+https://td-33.ru/plastikovye-okna-v-klinu 1 1
+http://gomario.ru/igri/supermen_igry/supermen_kraj_apokalipsisa/101-1-0-1702 1 1
+http://me-sto.ru/id/ustanovka-dlya-zapravki-kondicionerov-bosch-acs-752-632.html 1 1
+http://vrachinadom.ru/medicina_4880/ 1 1
+http://maldivy.biz/kitchen-food 1 1
+http://mosbiz-agency.ru/services/podtverzhdenie-nalogovogo-rezidentstva-rf 1 1
+http://vinso-azs.ru/catalog/item/ustanovka-usn-175-usn-150 1 1
+http://naemi.ru/diy-%d0%b8%d0%b4%d0%b5%d0%b8/%d0%b5%d0%b4%d0%b0/ 2 2
+http://narko-medical.com.ua/lechenie-zavisimosti-ot-spajsa/ 1 1
+https://www.promstok.com/catalog/khozyaystvenno_bytovye/yunilos_ustanovka_glubokoy_biologicheskoy_ochistki_stochnykh_vod_astra_20/ 1 1
+http://vinso-azs.ru/catalog/item/manometr-mti 1 1
+http://actiodance.ru/argentinskoe-tango.html 1 1
+http://metall-vip.ru 1 1
+http://gorokna.com/catalog/balkony/vyibor-profilya 3 3
+http://grafics.top/vectors/3541-vintage-romantic-flower-classic-elegant-card.html 1 1
+http://gomario.ru/igri/tetris_igry/tetris_dlja_porosjat/106-1-0-1171 1 1
+https://a7r.ru/katanka 2 2
+http://resurs-2012.ru/article/diplomnye-raboty-na-zakaz-po-psikhologii-ekonomike-pedagogike-menedzhmentu 3 3
+http://www.disprom.ru/svetodiodnyiy-svetilnik-ritm-ssop-08-08.html 1 1
+http://msk-eva.ru/foto-rabot-i-otzyvy/ 7 7
+https://onlineessay.us/hooks-for-essays.html 1 1
+https://onlineessay.us/custom-english-papers.html 3 3
+http://mosapple24.ru/remont-ipod/touch/ 1 1
+http://jetski-tenerife.com/de/two-hours-tour/ 2 2
+https://bazaprint.ru/service/site-create 1 1
+https://sellparts.com.ua/pascal/ 1 1
+http://i-remo.ru/news/lyustra-svoimi-rukami/ 1 1
+https://vosstanovim.by/vosstanovlenie-foto-i-video-s-kartyi-pamyati-fotoapparata 1 1
+http://remkompov.ru/podkl_internet.html 1 1
+https://alfarehab.ru 3 3
+http://ivicom194.ru/stati/article_post/o-prichinakh-populyarnosti-uslugi-trezvyy-voditel 1 1
+https://stop-zavisimost.com/xarkov/ 1 1
+http://mosbiz-agency.ru/services/zakaz-spravki-iz-pfr 1 1
+http://anti-lai.ru/elektronnye-zabory/ 2 2
+https://sn22.ru/catalog/kozhukhotrubnye-teploobmenniki/ 1 1
+http://resursmsk.com/profnastil 1 1
+https://www.emctestlab.ru/single-post/2017/TDEMIX 1 1
+http://vinso-azs.ru/catalog/item/sistema-plastikovyh-truboprovodov-pe-petrol-line 1 1
+http://gamerev.us 3 3
+http://i-remo.ru/news/dizayn_interiera/novye-idei-dlya-dachi-svoimi-rukami-foto-647854/ 1 1
+https://resursmsk.ru/armatura 2 2
+https://spb-clean.ru/o-kompanii/rabota-v-klininge 1 1
+https://www.promstok.com/catalog/truboprovody/asto_vnutrennyaya_kanalizatsiya_truba_rastrubnaya_58kh4_0_2_0_m/ 1 1
+https://rutv.site/vladimir-solovev-polnyj-kontakt-28-02-2017.html 1 1
+http://freegamesmoon.com/puzzle-games/36-island-defense.html 1 1
+http://vinso-azs.ru/catalog/item/vmr-2012oc-v-napornaya-sistema 1 1
+http://svetofor-zom.ru/transportnyiy-svetofor-t1g2-300-mm.html 1 1
+http://novaera.su/filialy/dneprorudnoe/ 1 1
+http://i-remo.ru/news/instrument/izmelchitel-vetok-svoimi-rukami-245213/ 1 1
+http://gomario.ru/igri/rpg_rpg_igry/rycari_i_volshebniki/182-1-0-3173 1 1
+http://gomario.ru/igri/luntik_igry/gusenichnaja_raznica/63-1-0-2340 1 1
+https://sellparts.com.ua/benpart/ 1 1
+http://smt4.ru/ocinkovannyj-metalloprokat.html 2 2
+http://antigav.ru/shop/c18.Otpugivateli_sobak.htm 1 1
+https://td-33.ru/plastikovye-okna-v-vidnom 1 1
+http://www.distver.ru/category/51-dizajn-trekhkomnatnoj-kvartiry-v-zhk-volzhskij-bereg-5.html 1 1
+http://rupolitshow.ru/mesto-vstrechi-s-veshhami-na-vyxod-20-01-2017.html 1 1
+http://freegamesmoon.com/135-bomb-it-4.html 1 1
+https://t-machinery.ru/zavody/asfaltovye-260-400t/ 1 1
+http://spasibo-za-rebenka.ru/ya-stala-babushkoj/naklejka-na-mashinu-u-menya-rodilsya-vnuk 1 1
+http://ecogr.ru/dealer/ 2 2
+http://diplomrf.info/diplom_doktora_nauk.html 2 2
+https://nonano.ru/pr/tarkett/pr2 1 1
+http://spasibo-za-rebenka.ru/plyushevye-mishki/ogromnyj-plyushevyj-mishka-2-metra140531144819 1 1
+http://lovegfx.top/source/5592-bundle-v-t-shirt-mockup-1469688.html 1 1
+https://www.eurostroy.ru/heating/project_otoplenie/otop_dom_2 2 2
+http://psyopora.ru/libido.html 3 3
+https://santehexpress.ru/categories/nakopitelnye-emkosti-liftaway 1 1
+http://gomario.ru/igri/aehrokhokkej_igry/sovershennyj_turnir/69-1-0-2753 1 1
+http://remkompov.ru/kompyuternaya-pomosch.htm 1 1
+http://msk-eva.ru/kontakty/ 4 4
+http://www.disprom.ru/svetodiodnyiy-projektor-ll-221.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-eglo/katalog-eglo-2016/ 1 1
+http://vinso-azs.ru/catalog/item/filtr-uglovoi-fu-porshen 1 1
+http://www.1001sovet.info/otzyv-zhenskoj-atlasnoj-pizhamy.html 2 2
+http://remstroy.xyz/ma42351st.html 1 1
+https://resursmsk.ru 1 1
+http://jetski-tenerife.com/de/photo/ 1 1
+http://mosapple24.ru/remont-macbook/remont-yugnogo-mosta/ 1 1
+https://nonano.ru/pr/villeroy-boch/villeroy-boch-germaniya-skazhi-mne-spakojnoj-nochi 1 1
+http://vinso-azs.ru/catalog/item/svarochnaya-mufta-63mm-02-63 1 1
+https://gorodkotlov.ru/market/goods/kotly/komplektuushhie_dlya_kotlov/dymohody/iz_nerzhaveushhei_stali/jeremias_homut_obzhimnoi_d200/ 1 1
+http://akpp-mers.ru/serii-akpp/ 2 2
+https://onlineessay.us/custom-university-papers.html 2 2
+http://narko-medical.com.ua/lechenie-igromanii/ 2 2
+http://vinso-azs.ru/catalog/item/ustanovka-ltz-dlya-opredeleniya-temperatury-pomutneniya-i-nachala-kristallizacii-motornyh-topliv 1 1
+http://lab-term.ru/states-3.html 2 2
+http://grafics.top/videofootage/142-heavy-rain-footage.html 1 1
+http://psyopora.ru/analiz-semejnyh-vzaimootnoshenij.html 1 1
+http://www.disprom.ru/std-jcdr-24w-gu53-cw-gold-svetodiodnaya-lampa-standard-jcdr-24vt-gu53-6500k-holodnaya.html 1 1
+https://boathiremalta.com/uslugi/den-rozhdeniya/ 1 1
+http://www.distver.ru/category/2-dizajn-kvartiry-v-zhilom-komplekse-volzhskij-bereg.html 1 1
+http://grafics.top/action/1608-50-mix-photoshop-actions-19192019.html 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/kantstovary/353-konverty 1 1
+https://teman.com.ua/pages/news 2 2
+https://www.consic.ru/news/448-priglashenie-v-rossiju-inostranca-kak-oformit.html 1 1
+http://yugmet61.ru/vivoz-stroitelnogo-musora/ 1 1
+https://ladyclub.org/news/kofejnaya-dieta 2 2
+http://grafics.top/scraps/4083-vegetable-watercolor-collection-1100889.html 1 1
+http://i-remo.ru/news/dizayn_interiera/dizayn-tualeta-remont-svoimi-rukami-45724175/ 1 1
+http://excitecash.info/full/about_casino/play-slot-machines-for-real-money 1 1
+http://rozarii.ru/derevya-i-kustarniki/gornaya-sosna.html 1 1
+http://www.disprom.ru/zagraditelnyie-ogni-na-svetodiodah-serii-vsp90.html 1 1
+https://www.websolution.com.ua/contacts.html 3 3
+http://dengi-v-kredit.in.ua/uk/ternopol/ 1 1
+http://vinso-azs.ru/catalog/item/klapan-skorostnoi-rego-3292-b 1 1
+http://vinso-azs.ru/catalog/item/suzzarablue-dc-ac-pumps 1 1
+http://me-sto.ru/id/portativnaya-ustanovka-dlya-zapravki-kondicionerov-r134a-473.html 1 1
+http://autoua.top 5 5
+https://sveterra.ru/brands/rexant/ 1 1
+http://dengi-v-kredit.in.ua/chernigov/ 1 1
+http://www.disprom.ru/svetilnik-sadovo-parkovyiy-18w-230v-e27-dh0504.html 1 1
+https://www.eurostroy.ru/heating/vodyanoe-otoplenie-chastnogo-doma 2 2
+http://svetofor-zom.ru/svetofor-svetodiodnyiy-transportnyiy-t11-d200-mm.html 1 1
+https://t-machinery.ru/katki/ 1 1
+https://spb-clean.ru/o-kompanii/obrashchenie-direktora 1 1
+http://kupitcebe.ru/internet-magazin-assorti/shchetochka-pobling 1 1
+http://adidasonline.ru 2 2
+http://genezis-rehab.ru/novorossijsk/lechenie/lechenie_ot_spajsov/ 1 1
+http://svetofor-zom.ru/dorojnyie-kontrolleryi-serii-dks-dn.html 1 1
+http://ivicom194.ru/nashi-voditeli 1 1
+https://onlineessay.us/buy-non-plagiarized-essays.html 1 1
+https://www.protaganrog.ru/%D0%BE%D1%82%D0%B4%D1%8B%D1%85-%D0%B2-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B5/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B0/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80/ 1 1
+http://vinso-azs.ru/catalog/item/nasos-shibernyi-corken-z3200-3500 1 1
+https://sveterra.ru/catalogs-presentations/katalog-maytoni/katalog-maytoni-2017/ 1 1
+http://spasibo-za-rebenka.ru/spasibo-za-syna/naklejka-iz-roddoma-vezu-domoj-naslednika 1 1
+http://zicore.ru/about_brake_pads/ 1 1
+http://www.kal-kalan.net/perevozki-kvartir-akko/ 4 4
+https://www.eurostroy.ru/pools/iskusstvennoe-techenie-endless-pools-fastlane 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/vyibor-profilya/novotex 1 1
+https://sveterra.ru/catalogs-presentations/katalog-xlight/ 1 1
+http://mitop.us 2 2
+http://kupitcebe.ru/internet-magazin-assorti/folder/pribory 1 1
+https://petboy.ru/products/19561716 1 1
+https://sveterra.ru/catalogs-presentations/katalog-preciosa-chekhiya/mir-svetilnikov-preciosa/ 1 1
+https://www.tvoysad.ru/stati/dekorativno-listvennyie/hosty.html 1 1
+https://www.websolution.com.ua/blog/181-nebolshie-veb-studii-ili-giganty-seo.html 2 2
+https://alfarehab.ru/motivation/ 1 1
+https://www.promstok.com/catalog/dopolnitelnoe_oborudovanie/reshetka_dlya_trapa_hl71_iz_avs_155kh225_mm/ 1 1
+http://remstroy.xyz/ma22954st.html 1 1
+http://taromir.ru/news/mesta_sily/2017-05-15-1204 1 1
+https://www.disdecor.ru/elochnaya-figura-almaz-25-sm-tsvet-serebryanyiy.html 1 1
+http://capmeta-msk.ru/krishka-to-100/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-astarta/katalog-astarta-2016/ 1 1
+http://lab-term.ru/lab-cnolv.html 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%85%D0%B0%D1%83%D1%81/ 2 2
+http://narko-medical.com.ua/lechenie-narkomanii/ 1 1
+http://priemlomarostov.ru/address/ 1 1
+http://capmeta-msk.ru/nashi-diametri 1 1
+http://psyopora.ru/seksualnaya-addiktsiya-formy.html 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/detskaya-ladoshka-v-avto 1 1
+http://rupolitshow.ru/pravo-golosa-poslednij-vypusk-26-04-2017.html 1 1
+https://www.websolution.com.ua/about.html 1 1
+http://diplomrf.info/kupit_diplom_reestr.html 1 1
+https://www.eurostroy.ru/pools/proektirovanie-bassejna 1 1
+https://resursmsk.ru/krug-aisi-304 3 3
+http://ivicom194.ru/interesnoe/article_post/avtomobil-dlya-zhenshchiny 1 1
+https://www.websolution.com.ua/services/internet-reklama.html 2 2
+https://www.websolution.com.ua/services.html 3 3
+https://t-machinery.ru/vibroplity/vibroplity-200-1000kg/ 2 2
+https://www.eurostroy.ru/ventilation_system/sistemyi-kondiczionirovaniya 1 1
+http://antigav.ru/shop/c3.vtoroy_podrazdel_a.htm 1 1
+http://svetofor-zom.ru/ikao-prilojenie-14-k-konventsii-o-mejdunarodnoy-grajdanskoy-aviatsii-tom-i.html 1 1
+https://santehexpress.ru/categories/gofry 1 1
+http://www.1001sovet.info/kak-prigotovit-tvorozhnuyu-zapekanku-bez-manki.html 3 3
+https://rutv.site/sam-sebe-rezhisser-23-04-2017.html 1 1
+https://www.eurostroy.ru/pools/decoration_polls/alcopran_2000 2 2
+https://santehexpress.ru/categories/filtry-ochistki-dizelnogo-topliva 1 1
+https://www.tvoysad.ru/garden/uhod-za-klubnikoj-posle-plodonosheniya.html 1 1
+http://www.disprom.ru/el-dvo-01-040-0001-20h-cvetilnik-cvetodiodnyiy-ecospace-vstraivaemyiy-duplicate_1.html 1 1
+https://www.e-stroymart.kz/ru/catalog/84253-am_pm/ 1 1
+http://www.xn--80aaaks3bbhabgbigamdr2h.xn--p1ai/novosti-migratsii/257-kak-pravilno-zapolnit-anketu-na-zagranpasport.html 1 1
+http://www.alfateh.su/%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d0%b1%d0%b5%d1%82%d0%be%d0%bd%d0%b0/ 1 1
+http://mosapple24.ru/remont-iphone/5/battery/ 1 1
+http://akpp-mers.ru/obsluzhivanie/ 1 1
+https://www.promstok.com/catalog/fasonnye_chasti/troi_nik_kanalizatsionnyi_110_110kh45gr_trekhrastrubnyi/ 1 1
+http://remkompov.ru/kompyuternaya-pomosch-odincovo.htm 1 1
+http://akpp-mers.ru 1 1
+https://www.protaganrog.ru/%D1%84%D0%BE%D1%82%D0%BE-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B0/%D1%81%D1%82%D0%B0%D1%80%D1%8B%D0%B9-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3/ 1 1
+https://onlineessay.us/type-my-essay.html 2 2
+https://www.e-stroymart.kz/ru/catalog/80357-dushevyje_kabiny_i_ugolki/ 1 1
+http://www.1001sovet.info/eda-na-zakaz-hajfa-krajot.html 3 3
+http://mosapple24.ru/remont-imac/ujnyi-most/ 1 1
+http://www.disprom.ru/88319-lampa-energosber-globe-120-23w-e27-teplyiy-bel.html 1 1
+http://www.disprom.ru/uss-18-ac-dc-nizkovoltnyiy-svetodiodnyiy-svetilnik.html 1 1
+http://gorokna.com/uslugi-i-servis/remont 2 2
+http://capmeta-msk.ru/krishka-to-53/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-sforzin/katalog-sforzin-2014/ 1 1
+https://rutv.site/programma-pust-govoryat-02-03-2017.html 1 1
+http://www.disprom.ru/vstraivaemyiy-svetodiodnyiy-svetilnik-magico-led-30-c-6000k-holodno-belyiy-prozrachnyiy-rasseivatel-korpus-belyiy-duplicate_5.html 1 1
+https://topparcel.com/p/help 1 1
+https://sn22.ru/services/postavka-oborudovaniya/ 1 1
+http://gomario.ru/igri/igry_na_lovkost/sokrovishha_morej/42-1-0-1563 1 1
+http://spasibo-za-rebenka.ru/nadpisi-na-mashinu/naklejka-v-mashine-edut-schastlivye-roditeli 1 1
+https://boathiremalta.com/dajving-na-malte-i-gozo/ 1 1
+https://alfarehab.ru/lechenie-alkogolizma/ 1 1
+https://teman.com.ua/pages/accessory_brake 1 1
+http://ooo-starten.ru/%d0%bf%d1%83%d1%81%d0%ba%d0%be%d0%bd%d0%b0%d0%bb%d0%b0%d0%b4%d0%ba%d0%b0-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%be%d0%b1%d0%be%d1%80%d1%83%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f/ 1 1
+https://spb-clean.ru/o-kompanii/istorija-kompanii 1 1
+http://www.disprom.ru/vzryivozaschischennoe-tablo-violan-f-2h9-2g7-e-ao-1-km-duplicate_101.html 1 1
+http://gomario.ru/igri/luntik_igry/veselyj_luntik/63-1-0-3106 1 1
+http://gfxpixel.top/psd/525-photo-template-1174568.html 1 1
+http://genezis-rehab.ru/armavir/narkologiya/detoksikacziya/ 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B5%D0%B2%D1%80%D0%BE%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BA%D0%B0/ 1 1
+https://www.e-stroymart.kz/ru/catalog/71923-napolnyje_bide/ 1 1
+https://sveterra.ru/brands/chronos-group-rossiya/ 1 1
+http://gomario.ru/igri/spanch_bob_igry/pereschitaj_gubki/20-1-0-2932 1 1
+http://psyopora.ru/panicheskaya-ataka-i-agorafobiya-vvedenie.html 1 1
+https://nashkomp.ru/kakogo-razmera-i-tipa-faylyi-mozhno-otpravlyat-v-telegramm 1 1
+http://lab-term.ru/plitka.html 1 1
+http://vinso-azs.ru/catalog/item/sharovyi-kran-flancevyi-legas-fl-dn-50-pn-25 1 1
+http://www.eurostroy.ru/heating/otoplenie-zagorodnogo-doma 1 1
+http://www.gorizont.com.ua/category/sovety 1 1
+https://sveterra.ru/catalogs-presentations/katalog-mw-light-/katalog-mw-light-2106/ 1 1
+http://foto-galaxy.ru/project/43334-simple-clean-lower-thirds-project-for-after-effects-videohive.html 1 1
+http://gorokna.com/company/nash-opyit 1 1
+https://onlineessay.us/custom-law-papers.html 1 1
+http://genezis-rehab.ru/armavir/lechenie/vyivod_iz_zapoya/ 1 1
+https://www.emctestlab.ru/single-post/2017/05/EMPIRE 1 1
+http://lab-term.ru/100-1100.html 1 1
+http://www.xn--80aaaks3bbhabgbigamdr2h.xn--p1ai/novosti-migratsii/152-gde-oformlyat-zagranpasport.html 1 1
+https://www.distablo.ru/tablo-vyileta-model-r-100h4_057h48_rbs-060-64h8h12_96h8h6b-5-strok.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-aton/ 1 1
+http://me-sto.ru/id/nakonechnik-neoprenovyy-s-kryshkoy-diam--110-mm-dlya-shlanga-100-mm-182.html 1 1
+http://gfxpixel.top/psd/3894-clipart-for-easter-rabbit-sends-you-a-gift.html 1 1
+https://www.promstok.com/catalog/kessony/kesson_dlya_skvazhiny_955x1500_670kh500_6mm/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-geliomaster/ 1 1
+http://gomario.ru/igri/fiksiki_igry/zabavnyj_khokkej/195-1-0-2414 1 1
+http://foto-galaxy.ru/fotoramki/22126-ramka-dlya-romaticheskih-svadebnyh-foto-moe-nezhnoe-schaste.html 1 1
+http://yastreb-tm.ru/unichtozhitel-nasekomyh-ubiyca-moskitov-um-02.html 1 1
+http://santexmontaj.com/kontakty.html 2 2
+http://smt4.ru/provoloka-latunnaya.html 1 1
+http://gomario.ru/igri/rpg_rpg_igry/labirint_minotavra/182-1-0-937 1 1
+http://lab-term.ru 2 2
+https://www.tvoysad.ru/stati/mnogoletniki/samye-malenkie-hosty.html 1 1
+http://resursmsk.com/armatura 2 2
+http://alsochi.ru/%D1%86%D0%B5%D0%BD%D1%8B-%D1%82%D0%B0%D0%BA%D1%81%D0%B8-%D1%81%D0%BE%D1%87%D0%B8/ 1 1
+http://mosbiz-agency.ru/services/50/ 1 1
+https://bazaprint.ru/service 1 1
+http://www.disprom.ru/xf-dwl-170-15w-3000k-220v-vstraivaemyie-svetodiodnyie-svetilniki-tipa-downlight.html 1 1
+http://gomario.ru/igri/igry_na_lovkost/vor_nevidimka/42-1-0-1860 1 1
+http://foto-galaxy.ru/fotoramki/20846-ramka-dlya-foto-sekretnye-momenty.html 1 1
+http://spasibo-za-rebenka.ru/nabory-nakleek-na-vypisku/nabor-parovoz-roz 1 1
+http://capmeta-msk.ru 2 2
+http://smt4.ru/truby-titanovye1.html 1 1
+http://gfxpixel.top/background/245-excellent-wood-backgrounds.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-alfresco/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-reccagni-angelo/katalog-reccagni-silver/ 1 1
+http://rostovlom.ru 4 4
+https://www.emctestlab.ru 1 1
+http://zicore.ru/info/ 2 2
+http://lab-term.ru/cnol-vp.html 1 1
+http://54-remont.ru/remont-kvartir/remont-v-hrushhevke 1 1
+http://metall-vip.ru/uslugi/ 1 1
+http://foto-galaxy.ru/vector/56124-set-of-various-colored-vector-business-logos.html 1 1
+http://mosbiz-agency.ru/services/zakaz-spravki-o-sostoyanii-raschetov-po-nalogam-i-sboram 1 1
+http://matras.top 5 5
+http://ecogr.ru/production/ 1 1
+https://onlineessay.us/custom-turabian-style-papers.html 1 1
+https://www.tvoysad.ru/rubric/featured 1 1
+https://nonano.ru/pr/geberit/geberit-aquaclean-novoe-slovo-v-obustrojstve-vannykh-komnat 1 1
+http://diplomrf.info/diplom_dlya_inostrannyh_grazhdan.html 1 1
+http://lovegfx.top/source/5125-cute-woodland-animals-bundle-1091920.html 1 1
+https://www.distablo.ru/tablo-platformennoe-1-model-te-150h4_130h12_rbs-120-32h8_128h8d-ulichnoe-ispolnenie-duplicate_1.html 1 1
+http://vinso-azs.ru/catalog/item/mini-trk-dlya-perekachki-diztopliva-benza-25-24-57r 1 1
+http://santexmontaj.com/prokladka-truboprovodov.html 1 1
+http://lab-term.ru/mullitokremnezemistaya-trubka.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-regenbogen/katalog-regenbogen/ 1 1
+https://tigsochi.ru/vse-dlya-stroitelstva/instrumenty/uroven 1 1
+https://www.websolution.com.ua/blog/172-razrabotka-sajta-s-chego-nachinat.html 1 1
+https://www.websolution.com.ua/blog.html 1 1
+http://mosbiz-agency.ru/services/spravka-ob-otsutstvii-zadolzhennosti-iz-ifns 1 1
+http://novaera.su/detox/ 1 1
+https://boathiremalta.com/active-holidays-in-malta-and-gozo/ 1 1
+https://www.websolution.com.ua/blog/171-obsluzhivanie-i-administrirovanie-sajta.html 1 1
+http://priemlomarostov.ru 3 3
+https://nonano.ru/pr/ilbor/patina-sostarivanie-ili-obnovlenie-metallicheskie-dveri-elbor 1 1
+https://sveterra.ru/catalogs-presentations/katalog-lgo/ 1 1
+https://nashkomp.ru/kak-zagruzit-i-russifitsirovat-telegram-na-ios-mac-os 1 1
+http://naemi.ru/%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0/%d0%bd%d0%be%d0%b3%d1%82%d0%b8/ 1 1
+https://nonano.ru/pr/polk-audio 1 1
+https://www.e-stroymart.kz/ru/catalog/59528-sidenja_dla_unitaza/ 1 1
+http://smartstore24.ru 1 1
+http://resurs-2012.ru/bank-rabot/gotovye-kursovye-raboty 1 1
+http://mosbiz-agency.ru/services/ 1 1
+http://narko-medical.com.ua/reabilitatsiya-narkozavisimyh/ 1 1
+https://rutv.site/programma-pervaya-studiya-vypusk-03-04-2017.html 1 1
+http://mosbiz-agency.ru/services/pomoshch-v-poluchenii-patenta-na-rabotu 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/kantstovary/341-aksessuary-dlya-dosok 1 1
+https://td-33.ru/dlya-kvartiry-doma-i-dachi/gde-kupit-plastikovye-dveri-dlya-ustanovki-doma 1 1
+https://sveterra.ru/brands/sun-lumen/ 1 1
+http://foto-galaxy.ru/fotoramki/11138-ramochka-dlya-fotoshopa-lyubimaya-fotografiya.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-reccagni-angelo/katalog-reccagni-blue/ 1 1
+http://www.gorizont.com.ua/category/interernye-resheniya/avtomatika-i-aksessuary 1 1
+https://petboy.ru 1 1
+http://kck-usadba.ru/ct-menu-item-19 1 1
+http://lab-term.ru/58-350.html 1 1
+https://nonano.ru/pr/ilbor/yarko-sochno-zhivi-neskuchno-vkhodnye-stalnye-dveri-elbor 1 1
+http://rupolitshow.ru/mesto-vstrechi-bez-prava-peredachi-17-03-2017.html 1 1
+https://www.eurostroy.ru/ventilation_system/project_ventilation 1 1
+https://santehexpress.ru/manufacturers/fujitsu 1 1
+http://freegamesmoon.com/racing-games/48-tractor-trial.html 1 1
+https://petboy.ru/products/19545069 1 1
+http://me-sto.ru/id/ack-384011-nabor-molotkov-i-zubil-5pr--v-lozhemente-679.html 1 1
+http://dengi-v-kredit.in.ua/brovari/ 1 1
+http://rozarii.ru/katalog-rastenij/magnoliya-cvetok.html 1 1
+http://ivicom194.ru/interesnoe/article_post/preodolenie-gololeda 1 1
+http://gomario.ru/igri/shrehk_igry/dumaj_osel_dumaj/114-1-0-1065 1 1
+https://www.e-stroymart.kz/ru/catalog/80385-detskije_rakoviny/ 1 1
+http://priemlomarostov.ru/sdat-metallolom/ 4 4
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-5k10-800x96-ew1.html 1 1
+http://metall-vip.ru/rezka-metalloloma/ 1 1
+https://www.disdecor.ru/blok-pitaniya-arpj-lg423500-150w-3500ma-pfc.html 1 1
+http://jetski-tenerife.com/de/contact/ 1 1
+https://www.tvoysad.ru/construction/kak-postroit-dom-iz-brevna.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-eglo/katalog-ulichnykh-svetilnikov-eglo-topline/ 2 2
+http://www.disprom.ru/gruntovyiy-svetilnik-d2wbr0314.html 1 1
+https://boathiremalta.com/rent-fishing-boat/ 1 1
+http://zicore.ru/contacts/ 2 2
+http://54-remont.ru/stoimost-remonta-kvartir/ 1 1
+https://onlineessay.us/research-paper-writer.html 1 1
+http://vinso-azs.ru/catalog/item/m2r-50-ssh-penogasitel-specshkala-1 1 1
+http://kupitcebe.ru/internet-magazin-assorti/folder/odezhda-dlya-pokhudeniya 1 1
+https://petboy.ru/products/15493501 3 3
+https://metallpro.su/krug/p/0 2 2
+http://www.disprom.ru/vzryivozaschischennyiy-svetodiodnyiy-svetilnik-atomsvet-x-proof-02-16-1800-20-eh-plant-02-16-1800-20-ehmbllt4x.html 1 1
+http://gorokna.com/company/otzyvy/byistraya-i-professionalnaya-rabota 2 2
+https://sellparts.com.ua/ukrainskiy-proizvoditel-zapchastey-bcguma/ 1 1
+http://liftalliance.ru/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/ 1 1
+http://techtoday.co/smart-home-products-home-automation-systems/ 1 1
+http://actiodance.ru/razvitie-rebenka-v-tanczax.html 1 1
+https://onlineessay.us/custom-mla-style-papers.html 2 2
+https://tigsochi.ru/vse-dlya-sada/sadovaya-mebel/mebel-iz-iskusstvennogo-rotanga/etazherki-iz-iskusstvennogo-rotanga 1 1
+http://spasibo-za-rebenka.ru/plakaty-na-vypisku-iz-roddoma 1 1
+https://tigsochi.ru/tovary-dlya-doma/posuda/nozhnitsy-kukhonnye 1 1
+https://alfarehab.ru/detox/ 1 1
+http://antigav.ru/shop/i411.Akkumulyator_852528_Li-POL_3_7V_500_mAh_s_platoy_zaschity.htm 1 1
+https://metallpro.su/katanka/p/0 1 1
+http://remkompov.ru/kompyuternaya-pomosch-v-odincove.htm 1 1
+https://a7r.ru/setka 1 1
+http://maldivy.biz/stoit-li-exat-na-maldivy.html 1 1
+https://lm.facebook.com 1 1
+http://rupolitshow.ru/programma-ot-2-do-5-s-evgeniem-satanovskim-29-03-2017.html 1 1
+https://santehexpress.ru/categories/fitingi-stout-dlya-trub-iz-sshitogo-polietilena 1 1
+http://rupolitshow.ru/voskresnoe-vremya-12-03-2017.html 1 1
+https://alfarehab.ru/narko/ 2 2
+http://gomario.ru/igri/logicheskie_igry/alisa_v_chudesnoj_strane/40-1-0-3675 1 1
+http://anti-lai.ru/oshejniki-antilaj/ 1 1
+http://54-remont.ru/remont-kvartir/evroremont 1 1
+http://gomario.ru/igri/streljalki_igry/missija_specnaza/30-1-0-1857 1 1
+http://foto-galaxy.ru/raznye-futajes/45825-blue-abstract-footage-particles-and-stars.html 1 1
+https://onlineessay.us/critical-essay.html 1 1
+https://sveterra.ru/brands/fireled-rossiya/ 1 1
+http://ooo-starten.ru/%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6-%d1%81%d0%ba%d1%81/ 1 1
+http://remkompov.ru/stati/st1.html 1 1
+http://maldivy.biz/atoll-yuzhnyj-male.html 1 1
+http://gomario.ru/igri/mmorpg_igry_onlajn/karos_onlajn/210-1-0-1823 1 1
+http://kupitcebe.ru/internet-magazin-assorti/product/antivozrastnaya-syvorotka-ot-morshchin-bioaqua-advanced-repair-essence 1 1
+http://chemodany.xyz/bag-61542.html 1 1
+http://novaera.su/lechenie-alkogolizma/vyvod-iz-zapoya/ 1 1
+http://strategieoptionsbinaires.info 2 2
+https://santehexpress.ru/categories/krany-sharovye-pressovye-i-kombinirovannnye 1 1
+https://tigsochi.ru/zdorove-i-sport/bilyard/lampy-i-osvetitelnye-pribory 1 1
+http://ivicom194.ru/stati/article_post/vygodno-li-brat-kredit-na-avtomobil 1 1
+http://jetski-tenerife.com/es/photo/ 1 1
+http://www.disprom.ru/bs-8143-8x01-led-kontur-svetilniki-avariynogo-osvescheniya-duplicate_2.html 1 1
+http://vrachinadom.ru/category/vrach-flebolog/ 1 1
+https://td-33.ru/staty/ustanovka-plastikovih-okon 2 2
+http://smt4.ru/list-ocinkovannyj.html 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BA%D0%B0/ 2 2
+http://sekostrop.by/dokumenty/svidetelstvo 1 1
+https://www.websolution.com.ua/portfolio.html 2 2
+https://www.disdecor.ru/product_details.php 4 4
+http://ivicom194.ru/stati/article_post/kak-dobratsya-domoy-posle-otdykha-za-gorodom 1 1
+http://anti-lai.ru/instrukcii 2 2
+http://express-vyvoz.ru/vyvoz-stroitelnogo-musora/vyvoz-zhelezobetonnykh-izdelij-zhbi.html 1 1
+http://gorokna.com/uslugi-i-servis/ 2 2
+https://ladyclub.org/news/krasota-i-zdorove/vechernij-naryad-s-vyrezom-na-spine-vyrazitelnost-smelosti 1 1
+http://kalibr-sochi.ru/biznes-podarki 1 1
+http://lab-term.ru/Sushilka-puff-120.html 1 1
+http://i-remo.ru/news/pletenie-iz-gazetnykh-trubochek-567421/ 2 2
+http://jetski-tenerife.com/es/vip/ 1 1
+http://express-vyvoz.ru/kontakty.html 1 1
+http://lab-term.ru/970-350.html 1 1
+http://jetski-tenerife.com 1 1
+https://www.disdecor.ru/vyivodnyie-kruglyie-8-10-mm-10-mm.html 1 1
+http://technostudio.com.ua/posudomoechnye-mashiny 1 1
+http://lab-term.ru/kamernaya-pech-s.htm 1 1
+https://nonano.ru/arts/s1/kist-i-valik-vazhnyj-instrument 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-5k10-480x32-ey1.html 1 1
+http://kupitcebe.ru/internet-magazin-assorti/utyagivayushchiye-ledzhinsy-jeaneez 1 1
+http://liftalliance.ru/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-2/ 1 1
+http://spasibo-za-rebenka.ru/spasibo-za-doch/thank-you-for-daughter 1 1
+http://priemlomarostov.ru/price/ 1 1
+http://actiodance.ru/kontaktyi.html 1 1
+http://rupolitshow.ru/novye-russkie-sensacii-14-05-2017.html 1 1
+https://a7r.ru/balka 1 1
+https://topparcel.com/p/parcel-delivery-to-usa 2 2
+http://antigav.ru/shop/ 1 1
+https://vosstanovim.by/vosstanovlenie-dannyih-s-sim-kartyi-telefona 1 1
+http://resurs-2012.ru/bank-rabot/gotovye-referaty 1 1
+http://sekostrop.by/stropy-kanatnye 1 1
+https://well-web.net/virt-private-serv/ 1 1
+http://jetski-tenerife.com/ru/destinations/ 2 2
+http://ivicom194.ru/stati/article_post/trezvyy-voditel-na-strazhe-vashey-bezopasnosti 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/vidyi-steklopaketov 1 1
+http://gomario.ru/igri/letalki_igry/sobachja_voznja/33-1-0-2550 1 1
+http://www.kal-kalan.net 1 1
+https://www.e-stroymart.kz/ru/catalog/80381-nakladnyje_vreznyje/ 2 2
+http://dengi-v-kredit.in.ua/vy-shgorod/ 1 1
+http://kck-usadba.ru/poleznye-stati/82-vozvedenie-kirpichnykh-sten 1 1
+http://ecogr.ru/contacts/ 1 1
+http://freegamesmoon.com/sports-games/102-gym-class-racers.html 1 1
+http://smartstore24.ru 6 6
+http://naemi.ru/%d1%81%d1%82%d0%b8%d0%bb%d1%8c/ 1 1
+https://topparcel.com/p/parcel-delivery-to-uk 1 1
+http://gorokna.com/catalog/ofisnie-peregorodki 2 2
+http://freegamesmoon.com/puzzle-games/18-chipoches.html 2 2
+http://rozarii.ru/katalog-rastenij/tuya-zapadnaya-pravilnyj-uxod.html 1 1
+http://www.gorizont.com.ua/category/katalog-materialov 1 1
+https://www.disdecor.ru/blok-pitaniya-arpv-24030b-24v-125a-30w.html 1 1
+https://onlineessay.us/research-paper-writing-service.html 3 3
+https://vosstanovim.by/vosstanovlenie-dannyih-na-telefone-android 1 1
+http://www.1001sovet.info/chto-mozhno-bystro-prigotovit-uzhin-na-dvoix.html 6 6
+http://smt4.ru/krug-stalnoj.html 1 1
+http://actiodance.ru/kontemporari.html 2 2
+https://a7r.ru/balka-k2 2 2
+http://dengi-v-kredit.in.ua/uk/uzhgorod/ 1 1
+http://akbmart.ru/catalog/moto-batteries/ 1 1
+http://www.kal-kalan.net/perevozki-kvartir-jerusalim/ 3 3
+https://alfarehab.ru/category/narkomaniya/ 1 1
+https://ladyclub.org/news/eroticheskie-laski 1 1
+https://spb-clean.ru/uslugi/himchistka-kozhanoy-myagkoy-mebeli 2 2
+https://santehexpress.ru/manufacturers/wieland 1 1
+http://lab-term.ru/klimat-kamera.html 1 1
+https://boathiremalta.com/water-activities-attractions-malta/ 1 1
+http://gomario.ru/igri/barbi_igry/igry_odevalki_barbi_zimoj/8-1-0-14 1 1
+http://kyiv.tech 4 4
+https://nashkomp.ru/kak-v-telegram-zvonit-besplatno-i-onlayn-na-kompe-telefone 3 3
+http://santexmontaj.com/otdelochnyie-rabotyi.html 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-rbs-210-80x8d-duplicate_30.html 1 1
+https://www.websolution.com.ua/blog/174-redizajn-sajta-a-nuzhen-li.html 3 3
+http://narko-medical.com.ua/branch/rovno/ 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-5k10-224x48-er1.html 1 1
+http://psyopora.ru/psiholog-onlajn 1 1
+http://grafics.top/videofootage/884-bright-happy-birthday-bubbles-ambient.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-intesso/katalog-intesso-2016/ 1 1
+https://www.eurostroy.ru/pools/sistemyi-vodopodgotovki/obrabotki-vodyi-serebrom 1 1
+https://sellparts.com.ua/wix-filters/ 1 1
+http://www.disprom.ru/svetodiodnaya-lampa-ar-g9-36s3170-220v-white_1.html 1 1
+http://dengi-v-kredit.in.ua/irpen/ 2 2
+http://akbmart.ru/catalog/batteries/ 2 2
+https://www.emctestlab.ru/single-post/2017/IDEF-2017 1 1
+http://ooo-starten.ru/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D1%81%D0%BA%D1%81/ 1 1
+https://www.e-stroymart.kz/ru/catalog/29201-ekrany_dla_vann/ 1 1
+https://tigsochi.ru/tovary-dlya-doma 1 1
+http://lovegfx.top/source/4686-yoghurt-mock-up-4-806148.html 1 1
+http://lab-term.ru/kvarcevye-trubki.html 1 1
+http://metall-rnd.ru/contacts/ 2 2
+http://lab-term.ru/aquadistillyator4.htm 1 1
+http://ooo-starten.ru/%d0%ba%d0%b0%d0%bf%d0%b8%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be/ 1 1
+https://teman.com.ua/cars 2 2
+https://sn22.ru/catalog/avtomatika-teplovogo-punkta/ 1 1
+https://petboy.ru/products/26203875 1 1
+https://boathiremalta.com/services/excursions/ 1 1
+https://ladyclub.org/news/vash-vybor-damskoj-sumochki-na-sezon-ves 1 1
+http://mosapple24.ru/remont-iphone/6/ 1 1
+http://express-vyvoz.ru/novosti.html 1 1
+http://mosapple24.ru/remont-iphone/iphone-7/batt7/ 1 1
+https://sn22.ru/catalog/nasosy-i-nasosnye-stantsii/ 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/santehnikah/405-vannaya-i-kuhnya/167-mebel-i-zerkala-dlya-vannoj-komnaty 1 1
+https://td-33.ru/maloetazhnaya-postrojka 2 2
+http://express-vyvoz.ru/vyvoz-krupnogabaritnogo-musora/vyvoz-staroj-mebeli.html 1 1
+https://petboy.ru/products/18658211 1 1
+http://antigav.ru/shop/i155.Osheynik_s_shipami_Krokodil_.htm 1 1
+https://www.distablo.ru/lobovoy-ukazatel-marshruta-1-model-tablo-avto-120-48h16_060-96h8h2e-duplicate.html 1 1
+http://kck-usadba.ru/ct-menu-item-19/proekty-domov-ot-170-do-300-kv-m 1 1
+https://www.promstok.com/catalog/voronki_i_trapy_dlya_krovli/trap_dlya_balkonov_i_terras_s_polimerbitumnym_polotnom_s_vertikalnym_vypuskom_dn50_75_110/ 1 1
+https://nashkomp.ru/time-v-telegramm 3 3
+http://capmeta-msk.ru/trebovaniya-k-maketu 1 1
+http://sekostrop.by/stropy-tsepnye 1 1
+https://alfarehab.ru/blog/ 1 1
+http://svetofor-zom.ru/svetodiodnyiy-peshehodnyiy-svetofor-s-sektsiey-spk-v-200-200-mm-s-otschetom-razreshayushego-signala-bez-zummera.html 1 1
+http://mosapple24.ru/remont-macbook/zamena-klaviatury/ 1 1
+https://t-machinery.ru/zavody/asfaltovye-180-260t/ 2 2
+http://resurs-2012.ru/price 1 1
+https://www.distablo.ru/ulichnaya-meteostantsiya-impuls-211-1td-2tp-ver-er1-duplicate_4.html 1 1
+http://freegamesmoon.com/racing-games/43-dirt-road-drive.html 2 2
+http://gomario.ru/igri/draki_igry/cherepashki_na_vrazheskoj_baze/34-1-0-3416 1 1
+http://capmeta-msk.ru/krishka-to-66/ 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-5k10-704x32-eb1.html 1 1
+http://gomario.ru 2 2
+http://metall-vip.ru/demontazh-metalloloma/ 3 3
+https://nonano.ru/arts/s13 1 1
+http://svetofor-zom.ru/blok-upravleniya-bu-f-12-duplicate_1.html 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/devochka-s-bantikom 1 1
+https://spb-clean.ru/uslugi/uborka-kvartir-i-kottedzhej 1 1
+https://onlineessay.us/custom-book-review.html 2 2
+https://www.tvoysad.ru/garden/pochemu-perets-ne-daet-butonov.html 1 1
+https://metallpro.su 1 1
+https://alfarehab.ru/rehab-12step/ 2 2
+http://liftalliance.ru/%d0%ba%d0%be%d1%82%d1%82%d0%b5%d0%b4%d0%b6%d0%bd%d1%8b%d0%b5-%d0%bb%d0%b8%d1%84%d1%82%d1%8b/ 1 1
+http://genezis-rehab.ru/sochi/ 1 1
+https://vosstanovim.by/vosstanovlenie-telefona-posle-formatirovaniya 2 2
+https://www.eurostroy.ru/ventilation_system/uvlazshnenie 2 2
+https://www.protaganrog.ru/%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B0/%D1%82%D0%B5%D0%B0%D1%82%D1%80-%D1%87%D0%B5%D1%85%D0%BE%D0%B2%D0%B0/ 1 1
+http://santexmontaj.com/elektromontazhnyie-rabotyi.html 2 2
+http://kck-usadba.ru/ct-menu-item-11/ct-menu-item-17 1 1
+http://vrachinadom.ru/1861/ 1 1
+https://onlineessay.us/custom-article-review.html 1 1
+http://resursmsk.com/polosa 1 1
+http://lab-term.ru/elektrotigel_dlya_plavki.html 1 1
+https://www.tvoysad.ru/garden/podkormki-chernoj-smorodiny.html 1 1
+http://www.kal-kalan.net/perevozki-kvartir-ashdod/ 4 4
+http://technostudio.com.ua/kondicionery 5 5
+https://sellparts.com.ua/mitsubishi/ 1 1
+http://ictr.ru/dekorativnaya-shtukaturka.html 1 1
+https://ladyclub.org/news/ukrop-poleznye-svojstva 1 1
+http://foto-galaxy.ru/clipart/37416-tyulpany-na-8-marta-klipart-na-prozrachnom-fone-set-2.html 1 1
+http://www.distver.ru/remont-kvartir/kosmeticheskij-remont.html 1 1
+http://ecogr.ru 4 4
+http://vrachinadom.ru/vrach-nevrolog-na-dom/vyizov-vracha-nevrologa-na-dom-v-sankt-peterburge/ 1 1
+http://gomario.ru/igri/poker_igry/korolevskij_poker/95-1-0-929 1 1
+http://liftalliance.ru/%d1%8d%d1%81%d0%ba%d0%b0%d0%bb%d0%b0%d1%82%d0%be%d1%80%d1%8b-%d0%b8-%d1%82%d1%80%d0%b0%d0%b2%d0%b0%d0%bb%d0%b0%d1%82%d0%be%d1%80%d1%8b/ 1 1
+https://td-33.ru/osteklenie-v-moskve/osteklenie-kottedzhej-i-zagorodnykh-domov 1 1
+http://gfxpixel.top/background/6523-circles-pattern-pack-1370982.html 1 1
+http://sekostrop.by/skoby-takelazhnye 1 1
+http://santexmontaj.com 1 1
+https://www.websolution.com.ua/blog/178-dlya-chego-nuzhno-podderzhivat-i-soprovozhdat-sajty.html 3 3
+http://spasibo-za-rebenka.ru/spasibo-za-doch/naklejka-na-avtomobil-spasibo-za-dochku 1 1
+https://ladyclub.org/news/krasota-i-zdorove/dlinnye-nogti-k-novomu-godu-eto-realno 1 1
+https://alfarehab.ru/about/ 2 2
+http://antigav.ru/480i.Dop._resiver_Aetertek_AT-218.htm 1 1
+http://svetofor-zom.ru/mobilnaya-solnechnaya-panel-svetok-7-5-7-vatt-5-volt.html 1 1
+https://teman.com.ua/pages/accessory_absorber 2 2
+https://t-machinery.ru/zavody/asfaltovye-90-180t/ 2 2
+https://ladyclub.org/news/krasota-i-zdorove/domashnie-preparaty-na-osnove-gialuronovoj-kisloty-kremy-dlya-vek 1 1
+http://ooo-starten.ru/%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%be%d1%81%d0%b2%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/ 1 1
+http://svetofor-zom.ru/novyie-fotografii-realizovannyih-proektov-osvescheniya-s-avtonomnyim-pitaniem-na-solnechnyih-batareyah.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-kanlux-/katalog-kanlux-2014-modulnaya-apparatura/ 1 1
+https://topparcel.com/p/parcel-delivery-to-ukraine 2 2
+https://td-33.ru/staty/o-preimushestvah-i-nedostatkah-plastikovih-okon 1 1
+http://ivicom194.ru/interesnoe/article_post/sovety-mototsiklistu 1 1
+http://lab-term.ru/prom-shaht.html 1 1
+http://svetofor-zom.ru/modul-svetodiodnyiy-izluchatelya-peshehodnogo-svetofora-mss-200pk-maska-duplicate.html 1 1
+http://vinso-azs.ru/catalog/item/kamlok-tip-c-boss-lock-soedinenie-rozetka-h-rukavnyi-konec-s-vtulkoi 1 1
+http://lab-term.ru/puff-8828.htm 1 1
+http://remkompov.ru/stati/st10.html 1 1
+http://dengi-v-kredit.in.ua/kirovograd/ 2 2
+http://lovegfx.top/scrapset/5908-fairytale-watercolor-collection-623801.html 1 1
+https://topparcel.com/p/packing-guide 1 1
+http://jetski-tenerife.com/es/destinations/ 1 1
+http://kupitcebe.ru/massazher-pokhudeniye 1 1
+https://www.tvoysad.ru/stati/komnatnye/peresazhivaem-kaktusy-pravilno.html 1 1
+http://metall-rnd.ru/opt-beznal/ 1 1
+http://yastreb-tm.ru/otpugivateli-zmey/ 1 1
+http://foto-galaxy.ru/fotoramki/39640-detskaya-ramka-dlya-fotoshopa-s-domashnimi-zhivotnymi-cvetami-v-derevne.html 1 1
+http://svetofor-zom.ru/p21-tva-p1-svetofor-dorojnyiy-svetodiodnyiy-peshehodnyiy-ploskiy-duplicate.html 1 1
+http://metall-vip.ru/tsenyi/ 1 1
+https://sveterra.ru/catalogs-presentations/katalog-arlight/alyuminievyy-profil-katalog-2017/ 1 1
+http://diplomrf.info/o-nas.html 1 1
+https://www.eurostroy.ru/ventilation_system/service_vent 1 1
+https://www.tvoysad.ru/construction/stroitelstvo-karkasa-domika-dlya-kolodtsa.html 1 1
+http://foto-galaxy.ru/clipart/31655-morskoy-detskiy-skrap-komplekt-pesnya-priboya-skachat-besplatno-s-foto-galaxy.html 1 1
+https://www.foxweber.com 1 1
+https://www.disdecor.ru/noutbuk-acer-aspire-one-aod255.html 1 1
+https://ladyclub.org/news/chaj-vred-ili-polza 1 1
+http://kck-usadba.ru/uslugi/ct-menu-item-22 1 1
+http://gomario.ru/igri/letalki_igry/zelenyj_samuraj/33-1-0-3479 1 1
+http://mosbiz-agency.ru/about/ 1 1
+https://a7r.ru/list-ocinkovannyy 2 2
+http://www.disprom.ru/vzryivozaschischennyiy-svetilnik-podvesnoy-nsp43m-01-75-duplicate_3.html 1 1
+http://ivicom194.ru/interesnoe/article_post/ezda-nochyu-sovety-po-svetu 1 1
+https://metallpro.su/provoloka/p/0 3 3
+http://gfxpixel.top/actions/6911-portrait-hdr-photoshop-action-19433948.html 1 1
+https://ladyclub.org/news/chto-vazhno-uchest-pri-vybore-obuvi 1 1
+https://tigsochi.ru/zdorove-i-sport/trenazhery/skami-stojki-giperekstenziya-raznye 2 2
+https://nonano.ru/inf 1 1
+http://vinso-azs.ru/catalog/item/rukav-a430-dlya-nefteproduktov 1 1
+http://gorokna.com/catalog/rolstavni 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/standartnyie-razmeryi/ 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/mebelh/114-mebel-dlya-spal-ni/116-matracy 1 1
+http://mosapple24.ru/remont-ipad/mini-4/ 2 2
+http://spasibo-za-rebenka.ru/ya-stala-babushkoj/naklejka-na-avto-ura-ya-stala-babushkoj 1 1
+http://narko-medical.com.ua/branch/lvov/sambor/ 3 3
+http://lovegfx.top/footage/2556-colorful-sparkling-waves.html 1 1
+https://rutv.site/mesto-vstrechi-metod-provokacii-25-04-2017.html 1 1
+https://www.disdecor.ru/blok-pitaniya-arv-ht24018-slim-24v-075a-18w.html 1 1
+https://gorodkotlov.ru/market/goods/inzhenerka/kanalizatsiya/naruzhnaya_kanalizatsiya/otvody_pvh_dlya_naruzhnoi_kanalizatsii/otvod_pvh_dlya_naruzhnoi_kanalizatsii_400_30/ 1 1
+http://mosbiz-agency.ru/services/51/ 1 1
+https://www.disdecor.ru/sensornaya-panel-dimmer-q600w-vario-black.html 1 1
+http://ivicom194.ru/interesnoe/article_post/vybor-i-prodazha-podderzhannogo-avtomobilya 1 1
+http://resurs-2012.ru/article 1 1
+https://apps.facebook.com 1 1
+https://ladyclub.org/news/kogda-rebyonok-nachinaet-polzat 1 1
+http://msk-eva.ru/onlajn-zakaz/ 6 6
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/kantstovary/424-plastilin 1 1
+https://tigsochi.ru/vse-dlya-sada/vse-dlya-landshafta/figury-dlya-sada 1 1
+http://naemi.ru/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be/ 1 1
+http://foto-galaxy.ru/fotoramki/3637-ramka-dlya-fotoshopa-cvety-vesny.html 1 1
+http://excitecash.info 2 2
+http://ivicom194.ru 1 1
+http://express-vyvoz.ru/zony-obsluzhivaniya.html 1 1
+http://scrollex.ru/17/minzdrav-preduprezhdaet-vse-o-pravilnom-pitanii-detej-i-beremennosti/ 1 1
+http://vrachinadom.ru/stati/problemyi-shhitovidnoy-zhelezyi/ 1 1
+http://spasibo-za-rebenka.ru/spasibo-za-doch/spasibo-za-zajku 1 1
+https://santehexpress.ru/categories/kotelnoe-oborudovanie-protherm 1 1
+http://actiodance.ru 1 1
+https://sveterra.ru/brands/konkord-rossiya/ 1 1
+http://grafics.top/stocks/343-new-year-raster-graphics-collection-4.html 1 1
+http://sekostrop.by/skoby-takelazhnye/35-g210 1 1
+http://vinso-azs.ru/catalog/item/iskrogasitel-igs-110-stal-08-ps 1 1
+http://remstroy.xyz/ma7644st.html 1 1
+http://svetofor-zom.ru/sgm-gm-95-65-i-gsu-40-12-svetodiodnyiy-svetilnik-s-solnechnoy-batareey-duplicate.html 1 1
+https://tigsochi.ru/vse-dlya-sada/sadovaya-mebel/sadovye-komplekty-mebeli 1 1
+https://m.facebook.com 1 1
+http://lab-term.ru/pech_pm-8.html 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-rbs-100-64x8e.html 1 1
+http://antigav.ru/articles/a11.Agressiya_u_sobak.htm 1 1
+http://mosbiz-agency.ru/services/48/ 2 2
+https://sveterra.ru/articles/naibolee-perspektivnye-oblasti-primeneniya-svetilnikov/ 1 1
+https://td-33.ru/staty/otdelka-balkonov-i-lodgiy-materiali 1 1
+https://td-33.ru/maloetazhnoe-stroitelstvo-v-oblasti 1 1
+http://gomario.ru/igri/mmorpg_igry_onlajn/war_thunder_onlajn/210-1-0-2155 1 1
+http://novaera.su/lechenie-narkomanii/spice/ 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/podokonniki 1 1
+http://www.disprom.ru/std-jcd-4w-g9-cl-ww-silicon-svetodiodnaya-lampa-standard-jcd-5vt-g9-3000k-teplaya-silicon.html 1 1
+https://teman.com.ua/select/motor_oils 2 2
+https://www.disdecor.ru/lenta-rt-2-5000-24v-white-2x2-5060-600-led-lux.html 1 1
+http://resursmsk.com/katanka 1 1
+http://maldivy.biz/maldivy-v-noyabre.html 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/sad/131-tovary-dlya-bani/217-kamni-dlya-bani 1 1
+https://www.websolution.com.ua/blog/175-kak-mozhno-zarabotat-v-internete.html 1 1
+http://rupolitshow.ru/sergej-mixeev-zheleznaya-logika-27-03-2017.html 1 1
+http://svetofor-zom.ru/mehanicheskiy-skorostemer-serii-3sl.html 1 1
+http://ivicom194.ru/stati/article_post/uslugi-trezvogo-voditelya 1 1
+https://spb-clean.ru/o-kompanii/sotrudniki 1 1
+http://dengi-v-kredit.in.ua 1 1
+http://akpp-mers.ru/about-us/ 1 1
+http://capmeta-msk.ru/tehnicheskie-karti 1 1
+http://zicore.ru/catalog/order/ 3 3
+https://tigsochi.ru/tovary-dlya-doma/posuda 1 1
+http://www.disprom.ru/varton-ip54-meditsinskiy-595h595h55-36-vt-meditsinskiy-svetodiodnyiy-svetilnik-duplicate.html 1 1
+http://asupro.com 1 1
+http://psyopora.ru/osobennosti-muzhskoj-psihologii-i-problemy-muzhchin.html 1 1
+https://sveterra.ru/brands/skil/ 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-iz-rotanga 1 1
+https://www.tvoysad.ru/stati/dizain-uchastka/tsvetnik-v-teni.html 1 1
+http://gorokna.com/company/faq/ 2 2
+https://sveterra.ru/brands/blitz-germaniya/ 1 1
+http://svetofor-zom.ru/radioinformator-transportnyiy-ri-t.html 1 1
+http://gorokna.com/contacts 1 1
+http://www.disprom.ru/hl272-60w-belyiy-e27-220-240v-sadovo-parkovyiy-svetilnik-duplicate.html 1 1
+https://spb-clean.ru/uslugi/myte-okon-fasadov-zdanij 1 1
+http://chemodany.xyz/bag-53740.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-eglo/katalog-eglo-ulichnye-svetilniki/ 1 1
+http://rupolitshow.ru/otkrytaya-studiya-tramp-izgoj-v-belom-dome-12-01-2017.html 1 1
+https://www.e-stroymart.kz/ru/articles/81456-am_pm_v_almaty/ 1 1
+https://www.emctestlab.ru/single-post/ProbeCalibrtion 1 1
+https://www.distablo.ru/gruppovoe-ulichnoe-tablo-azs-model-impuls-606-4x1-dtx1-eg2.html 1 1
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-5k10-384x16-ey1.html 1 1
+https://resursmsk.ru/krug-aisi-321 4 4
+https://nashkomp.ru/est-li-reklama-v-telegram-i-zachem-ona-nuzhna 1 1
+http://spasibo-za-rebenka.ru/vozdushnye-shariki 1 1
+https://www.tvoysad.ru/rubric/stati/odnoletniki 1 1
+http://express-vyvoz.ru/vyvoz-snega.html 1 1
+http://ivicom194.ru/stati/article_post/uchimsya-samostoyatelno-rasschityvat-marshrut-na-avtomobile 1 1
+http://www.disprom.ru/bs-4170-4x05-inexi-snel-led-auroris-svetilniki-avariynogo-osvescheniya-duplicate_3.html 1 1
+https://www.tvoysad.ru/construction/kak-pravilno-klast-trotuarnuyu-plitku.html 1 1
+http://capmeta-msk.ru/krishka-to-82/ 2 2
+https://onlineessay.us/cheap-research-papers.html 2 2
+http://lab-term.ru/bxg-200.htm 1 1
+http://sekostrop.by/kryuki/19-s-322 1 1
+http://lab-term.ru/sterilizator.html 1 1
+http://gomario.ru/igri/snajper_igry/unichtozhit_bazu_terroristov/141-1-0-2841 1 1
+https://ladyclub.org/news/kak-pravilno-paritsya-v-russkoj-bane 1 1
+http://ecogr.ru/about/ 3 3
+https://nonano.ru/pr/kraska-tikkurila/perfecta-iznosostojkaya-matovaya-kraska-ot-tikkurila 1 1
+https://vosstanovim.by/vosstanovit-foto-na-planshete-samsung 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/mebelh/119-myagkaya-mebel/121-divany-uglovye 1 1
+https://xn-----7kc5acbqugmkeee0g.xn--p1ai/novosti/18-izgotovlenie-i-ustanovka 1 1
+http://54-remont.ru/nashi-raboty/ 2 2
+http://gomario.ru/igri/flinstouny_igry/flinstouny_kruglyj_pazl/108-1-0-967 1 1
+http://lookup.t-mobile.com/index.php 1 1
+http://smt4.ru/truby-stalnye-tolstostennye1.html 1 1
+http://kupitcebe.ru/oplata 1 1
+http://psyopora.ru/nervnaya-anoreksiya-simptomy-lechenie-priznaki.html 1 1
+https://nonano.ru/pr/fiskars/nezamenimye-v-lyubom-dele-fiskars-isocore 1 1
+http://novaera.su/onas/ 2 2
+https://rutv.site/samye-shokiruyushhie-gipotezy-24-03-2017.html 1 1
+https://sveterra.ru/brands/freya/ 1 1
+https://nonano.ru/pr/jacob-delafon/rakovina-jacob-delafon-kompaktnye-rukomojniki-stilno-i-modno 1 1
+http://spasibo-za-rebenka.ru/spasibo-za-syna/spasibo-za-syna 1 1
+http://narko-medical.com.ua/branch/lvov/drogobych/ 2 2
+http://sekostrop.by/bloki-montazhnye 1 1
+https://boathiremalta.com/malta-great-opportunity-go-yacht/ 1 1
+https://ladyclub.org/news/krasota-i-zdorove 1 1
+http://jetski-tenerife.com/de/ 2 2
+https://vosstanovim.by/vosstanovit-dannyie-na-planshete-posle-sbrosa-nastroek 1 1
+http://technostudio.com.ua/boylery 1 1
+http://spasibo-za-rebenka.ru/spasibo-za-doch/zsholtaja-koljaska 1 1
+http://technostudio.com.ua/holodilniki 2 2
+http://www.disprom.ru/svetodiodnyiy-svetilnik-vyisota-le-0409.html 1 1
+http://lab-term.ru/omron_e5cwl.html 1 1
+https://www.e-stroymart.kz/ru/catalog/80371-vodanyje/ 1 1
+http://ivicom194.ru/stati/article_post/pomoshchnik-trezvyy-voditel 1 1
+http://yugmet61.ru/ceny-metalloloma/ 2 2
+https://www.e-stroymart.kz/ru/catalog/83490-otdelnyje_predmety/ 1 1
+http://sekostrop.by/kontakty 1 1
+https://www.protaganrog.ru/%D0%BE%D1%82%D0%B4%D1%8B%D1%85-%D0%B2-%D1%82%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D0%B5/%D1%81%D0%B0%D1%83%D0%BD%D1%8B/ 1 1
+http://me-sto.ru/news/ID_356.html 1 1
+http://svetofor-zom.ru/soedinitel.html 1 1
+https://www.e-stroymart.kz/ru/catalog/80355-vanny_akrilovyje/ 1 1
+http://gfxpixel.top/videofootages/347-winter-forest-in-the-snow-hd.html 1 1
+http://antigav.ru/shop/i39.furminator_3_smennyh_lezviya_dlya_lyuboy_shersti.htm 1 1
+https://tigsochi.ru/vse-dlya-sada/urny-sadovye 1 1
+http://maldivy.biz 1 1
+http://remkompov.ru/remont-noutbukov-v-aprelevke.htm 2 2
+https://www.distablo.ru/elektronnoe-tablo-beguschaya-stroka-model-impuls-520-128x8-b.html 1 1
+https://www.emctestlab.ru/single-post/2017/M-Shield-Surge 1 1
+https://sveterra.ru/brands/kbsound/ 1 1
+http://metall-vip.ru/pokupka-metalloloma-na-punktah-priema-adresa-tsenyi-kontaktyi/ 1 1
+https://gorodkotlov.ru/market/goods/inzhenerka/krany_sharovye_dlya_vody_i_para/kran_shar_vodorazbornyi_1_2_nr_so_shtutserom_rych_valtec_vt_051/ 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/butylochka-rebenok-v-mashine 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma/tumby 1 1
+https://www.eurostroy.ru/ventilation_system/montazsh_ventilation 1 1
+https://onlineessay.us/buy-expository-essay-online.html 1 1
+http://filosoff.org 2 2
+https://gorodkotlov.ru/market/goods/kotly/tverdotoplivnye_kotly/kotly_kentatsu/napolnyi_stalnoi_tverdotoplivnyi_kotel_kentatsu_vulkan_max_pr_520d/ 1 1
+http://gorokna.com/company/faq/czenyi-i-oplata 2 2
+https://td-33.ru/vakansii 1 1
+http://sekostrop.by/kryuki/18-s-320 1 1
+http://ictr.ru/naklejka-oboev.html 1 1
+https://tigsochi.ru/tovary-dlya-doma/posuda/vinnye-nabory 2 2
+http://vinso-azs.ru/catalog/item/mufta-slivnaya-msm-s-nippelem-2 1 1
+http://vinso-azs.ru/catalog/item/gespasa-compact-46e-hi-elektronnyya-sistema-ucheta-topliva-i-gsm 1 1
+https://rutv.site/programma-naedine-so-vsemi-16-05-2017-pervyj-kanal.html 1 1
+https://ladyclub.org/news/top-top-topaet-malysh 1 1
+https://www.e-stroymart.kz/ru/catalog/84622-kollekcija_toly/ 1 1
+http://gomario.ru/igri/streljalki_igry/zashhita_astrobazy/30-1-0-1231 1 1
+https://sveterra.ru/brands/fereks/ 1 1
+http://narko-medical.com.ua/lechenie-narkomanii/snyatie-lomki/ 1 1
+http://www.alfateh.su 4 4
+https://ladyclub.org/news/sekrety-svezhesti-i-molodosti 1 1
+http://yugmet61.ru/priem-cvetnogo-metalla/ 1 1
+http://liftalliance.ru/2017/01/27/%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b5%d0%bd2/ 1 1
+http://kupitcebe.ru/internet-magazin-assorti/folder/modeliruyushchaya-odezhda 1 1
+http://yugmet61.ru/vivoz-musora/ 2 2
+http://lab-term.ru/aquadistillyator1.htm 1 1
+http://vinso-azs.ru/catalog/item/ruchnye-nasosy-perekachki-benzina-i-dizelnogo-topliva-benza-39-38-115 1 1
+http://vinso-azs.ru/catalog/item/k-33-meter-ver-a-atex-3-h-razryadnyi-mehanicheskii-schetchik-otpuska-benzina 1 1
+http://sekostrop.by/stati/skhemy-stropovki 1 1
+http://i-remo.ru/news/dizayn_interiera/otdelka-vnutri-bani-foto-i-rekomendatsii-professionalov/ 1 1
+https://ladyclub.org/news/kak-vybrat-odeyalo-i-kakoj-za-nim-nuzhen-uxod-specialisty 2 2
+https://topparcel.com/p/about 1 1
+http://psyopora.ru/stati/avtorskie 1 1
+http://narko-medical.com.ua/psihoterapevticheskoe-kodirovanie-ot-alkogolizma/ 2 2
+http://www.alfateh.su/%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d0%b0-%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%be%d0%bf%d0%b0%d0%bb%d1%83%d0%b1%d0%ba%d0%b8-%d0%b2-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d0%b8%d0%b1%d0%b8%d1%80/ 1 1
+http://resurs-2012.ru/stat-avtorom 1 1
+http://www.marinetraffic.com 1 1
+http://www.disprom.ru/ssu01-010-ip67-svetilnik-svetodiodnyiy.html 1 1
+http://www.vaikams.info 2 2
+http://dengi-v-kredit.in.ua/krivij-rig/ 1 1
+http://foto-galaxy.ru/clipart/21845-shkolnyy-klipart-moya-shkolnaya-tetrad.html 1 1
+http://remkompov.ru/stati/st9.html 2 2
+https://petboy.ru/products/29012067 1 1
+http://vinso-azs.ru/catalog/item/rukav-kompozitnyi-du75-3m 1 1
+https://xn----7sbabm1ahc4b2aqff.su/%D0%BF%D0%B8%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D1%80%D1%83%D1%81%D0%B0/ 2 2
+https://santehexpress.ru/categories/vnutripolnye-konvektory-moehlenhoff-gsk 1 1
+http://lab-term.ru/aquadistillyator6.htm 1 1
+http://rupolitshow.ru/programma-process-16-03-2017.html 1 1
+http://gomario.ru/igri/ogon_i_voda_igry/v_zamke_uzhasov/28-1-0-2315 1 1
+https://tigsochi.ru 2 2
+https://nonano.ru/pr/tekhno-nikol/sovremennaya-ferma-vzglyad-iznutri 1 1
+https://www.tvoysad.ru/stati/korneplodnyie/vyrashhivaem-kartofel-v-meshkah.html 1 1
+http://autorev.us 4 4
+https://santehexpress.ru/categories/gruppy-bystrogo-montazha-barberi 1 1
+https://www.facebook.com 1 1
+http://metall-rnd.ru/price-metallolom2/ 1 1
+http://gomario.ru/igri/flinstouny_igry/flinstounskij_rajd/108-1-0-1045 1 1
+http://vinso-azs.ru/catalog/item/mini-trk-dlya-perekachki-diztopliva-benza-24-12-57r 1 1
+https://onlineessay.us/buy-short-essay.html 1 1
+https://nonano.ru/arts/s20/perforatory-ot-bosch-moshchnost-komfort-i-bezopasnost 1 1
+http://ivicom194.ru/interesnoe/article_post/vykup-avto 1 1
+http://dengi-v-kredit.in.ua/poltava/ 1 1
+http://gomario.ru/igri/logicheskie_igry/tinstvennyj_telefonnyj_zvonok/40-1-0-2951 1 1
+https://tigsochi.ru/vse-dlya-sada/vse-dlya-landshafta/gorshki-dlya-sada 1 1
+https://well-web.net/company/ 1 1
+https://www.emctestlab.ru/kopiya-antenny-ar 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma/kresla 1 1
+https://www.eurostroy.ru/heating/remont-otopleniya 1 1
+https://sveterra.ru/catalogs-presentations/katalog-eglo/katalog-dizaynerskikh-svetilnikov-gloeoeckler-eglo/ 1 1
+http://resurs-2012.ru/usloviya-sotrudnichestva 1 1
+http://yugmet61.ru 3 3
+http://spasibo-za-rebenka.ru/torty-iz-podguznikov-pampersov/tort-iz-pampersov-dlya-dvojnyashek-po-tsene-proizvoditelya 1 1
+https://onlineessay.us/custom-apa-style-papers.html 1 1
+http://spasibo-za-rebenka.ru/bukety-iz-myagkikh-igrushek/buket-na-rozhdenie-malchika 1 1
+http://lovegfx.top/footage/315-bokeh-background-footage-10.html 1 1
+http://mosbiz-agency.ru/services/proizvodstvo-novoy-pechati 1 1
+http://novaera.su/lechenie-ot-spajsa-po-sovremennym-metodikam-s-garantiej/ 1 1
+http://vrachinadom.ru/detskiy-lor-vrach-na-dom/vyizov-detskogo-lor-vracha-na-dom-v-spb/ 1 1
+https://metallpro.su/armatura/p/0 1 1
+http://spasibo-za-rebenka.ru/rebenok-v-mashine/deti-v-mashine-eyl 1 1
+http://dengi-v-kredit.in.ua/kiev/ 4 4
+http://smt4.ru/krug-latunnyj1.html 1 1
+https://www.tvoysad.ru/stati/posevyi-i-rassada/gazon-eto-prosto.html 1 1
+http://dengi-v-kredit.in.ua/odessa/ 1 1
+http://ivicom194.ru/interesnoe/article_post/remen-bezopasnosti-detskoye-avtokreslo 1 1
+http://gfxpixel.top/psd/3838-sony-tv-mockup-1145741.html 1 1
+https://www.e-stroymart.kz/ru/405-kak_zakazat.html 2 2
+https://santehexpress.ru/categories/kanalizatsiya-rehau-raupiano 1 1
+http://mosbiz-agency.ru/services/58/ 1 1
+http://svetofor-zom.ru/svetodiodnyiy-dorojnyiy-znak-1341-1342.html 1 1
+http://svetofor-zom.ru/solnechnaya-elektrostantsiya-kottedj-rezerv-25-kvt.html 1 1
+http://remstroy.xyz/ma6974st.html 2 2
+http://remkompov.ru/o_companii.html 2 2
+http://lab-term.ru/pech-nizkotemperaturnaya.html 2 2
+https://petboy.ru/products/18730950 1 1
+http://lab-term.ru/omron.html 1 1
+https://www.disdecor.ru/vyiklyuchatel-elektronnyiy-s52r515-odace-belyiy.html 1 1
+https://tigsochi.ru/tovary-dlya-doma/kukhni 3 3
+http://gfxpixel.top/psd/1352-easter-mockup-1199526.html 1 1
+http://www.kal-kalan.net/perevozki-kvartir-haifa/ 2 2
+https://t-machinery.ru/zapchasti-i-servis/ 2 2
+https://sveterra.ru/brands/horeca-germaniya/ 1 1
+https://santehexpress.ru/categories/prinadlezhnosti-k-nasosam-grundfos 1 1
+http://sekostrop.by/bloki-montazhnye/31-otkrytye 1 1
+http://freegamesmoon.com/adventure-games/144-spongebob-carnival.html 1 1
+http://zicore.ru/catalog/ 2 2
+http://express-vyvoz.ru/vyvoz-krupnogabaritnogo-musora/vyvoz-musora-iz-kvartiry.html 1 1
+https://td-33.ru/obratnaya-svyaz 2 2
+http://psyopora.ru/psihologiya-polovogo-sozrevaniya.html 1 1
+https://www.eurostroy.ru/heating/montazsh_otoplenie 1 1
+http://foto-galaxy.ru/project-proshow-producer/62195-posledniy-shkolnyy-den-proekt-proshow-producer.html 1 1
+https://sellparts.com.ua/exp/ 1 1
+http://ictr.ru 1 1
+http://kck-usadba.ru/poleznye-stati/79-fundament-dlya-kottedzhej 1 1
+http://gfxpixel.top/producer/4769-wedding-spring-project-proshow-producer.html 1 1
+https://www.eurostroy.ru/heating/ 1 1
+http://kck-usadba.ru/uslugi/ct-menu-item-22/59-pos-rossijskij-ul-komarova 2 2
+https://www.eurostroy.ru/ventilation_system/sistemyi-ventilyaczii-pod-klyuch 1 1
+https://boathiremalta.com/vodnye-razvlecheniya-na-malte-gozo/ 1 1
+http://ictr.ru/konvejernoe-domostroenie.html 1 1
+https://alfarehab.ru/price/ 1 1
+https://www.disdecor.ru/blok-pitaniya-arj-kl120350m-42w-350ma-pfc.html 1 1
+http://capmeta-msk.ru/informaciya-po-logistike 2 2
+https://www.eurostroy.ru/heating/elektricheskoe-otoplenie-chastnogo-doma 1 1
+http://gorokna.com/catalog/ 2 2
+https://well-web.net/oplata/ 1 1
+http://lab-term.ru/states-2.html 1 1
+http://narko-medical.com.ua/price/ 1 1
+https://sellparts.com.ua/kompaniya-ayfar-otomotiv-turtsiya/ 1 1
+http://smt4.ru 4 4
+https://tigsochi.ru/vse-dlya-sada/vse-dlya-landshafta/iskustvenaya-trava 1 1
+http://gomario.ru/igri/barboskiny_igry/semja_barboskinykh/62-1-0-980 1 1
+https://nonano.ru/arts/s1/pravilnyj-tsvet-polovina-dela 1 1
+https://ladyclub.org/news/dajte-rebyonku-vozmozhnost-zhevat 1 1
+http://vinso-azs.ru/catalog/item/polupricep-cisterna-dlya-perevozki-svetlyh-gsm-bonum-premium-35-m3 1 1
+https://tigsochi.ru/vse-dlya-stroitelstva/instrumenty/elektrotrimmery-kustorezy-motokosa-vozdukhoduvka-izmelchitel-i-komplektuyushchie 2 2
+http://alsochi.ru 1 1
+http://gorokna.com/company/faq/ob-uslugax 1 1
+http://dengi-v-kredit.in.ua/uk/chernovtsy/ 1 1
+http://mospvs.ru/priglashenie-v-rf 1 1
+http://diplomrf.info/diplom_litseya.html 1 1
+http://resursmsk.com/balka 1 1
+http://rupolitshow.ru/pravo-golosa-poslednij-vypusk-11-05-2017.html 1 1
+https://sn22.ru/catalog/ustanovki-dlya-promyvki-teploobmennikov/ 1 1
+https://nashkomp.ru/delaem-skrinshotyi-v-telegram-i-posyilaem-druzyam 1 1
+http://yastreb-tm.ru/otpugivatel-grizunov-yactreb-500.html 1 1
+https://spb-clean.ru/oplata 1 1
+https://sveterra.ru/catalogs-presentations/katalog-donolux/katalog-svetilnikov-donolux/ 1 1
+https://boathiremalta.com/comments/ 1 1
+http://mospvs.ru 1 1
+http://resurs-2012.ru/article/kak-skladyvaetsya-stoimost-na-referat-kursovuyu-i-diplomnuyu-raboty 1 1
+http://liftalliance.ru/%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d1%8f/ 1 1
+https://www.e-stroymart.kz 1 1
+https://tigsochi.ru/vse-dlya-stroitelstva/instrumenty/yashchiki-dlya-instrumentov 1 1
+https://www.disdecor.ru/blok-linz-12sb50df-50-12x-emitter.html 1 1
+http://technostudio.com.ua/holodilniki/morozilniki 1 1
+http://psyopora.ru/posttravmaticheskij-sindrom-u-zhenshhin-detej-i-muzhchin-voennyh.html 1 1
+http://gomario.ru/igri/smurfiki_igry/elka_dlja_smurfov/152-1-0-2230 1 1
+https://ladyclub.org/news/picca-s-kuricej-i-ananasami 1 1
+http://vinso-azs.ru/catalog/item/nasos-blackmer-lgld-4-b 1 1
+http://gomario.ru/igri/zombi_igry/dom_s_prividenijami/52-1-0-1727 1 1
+https://sveterra.ru/catalogs-presentations/katalog-xlight/katalog-xlight-2016/ 1 1
+http://antigav.ru/articles/a7.elektronnyy_zabor.htm 1 1
+https://www.e-stroymart.kz/ru/catalog/81708-ekrany_dla_vann_universalnyje/ 1 1
+https://tigsochi.ru/zdorove-i-sport/trenazhery/ellipticheskie-begovye-velotrenazhery 1 1
+http://kupitcebe.ru/internet-magazin-assorti/elaslim-180 1 1
+https://onlineessay.us/write-my-review-for-me.html 1 1
+https://sveterra.ru/catalogs-presentations/katalog-omnilux/ 1 1
+https://rutv.site/idealnyj-remont-v-gostyax-u-aleksandra-gordona-21-05-2017.html 1 1
+https://metallpro.su/setka-pletenaya/p/0 1 1
+http://liftalliance.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b-2/ 1 1
+https://www.eurostroy.ru/heating/otoplenie-dachnogo-doma 1 1
+http://lab-term.ru/omron_e5cn-ht.html 1 1
+https://ladyclub.org/news/tolkovanie-snovideny-a-zagdansky-1989 1 1
+https://www.disdecor.ru/gibkiy-neon-svetodiodnyiy-postoyannoe-svechenie-zelenyiy-obolochka-zelenaya-220v-buhta-50m-neon-night.html 1 1
+http://metall-rnd.ru/punkty-priyema-metalloloma/ 2 2
+http://freegamesmoon.com/arcade-games/105-shark-bait.html 1 1
+http://dengi-v-kredit.in.ua/belaya-tserkov/ 2 2
+https://sveterra.ru/catalogs-presentations/katalog-ledel-ledel/ 1 1
+http://dengi-v-kredit.in.ua/sumy/ 3 3
+http://spasibo-za-rebenka.ru/nashi-raboty/108-banner-na-rozhdenie-rebenka-s-dnem-rozhdeniya-milana 1 1
+https://petboy.ru/products/22168059 1 1
+https://www.carnstheatrepassion.com 1 1
+http://naemi.ru/%d0%bf%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8/ 1 1
+http://lab-term.ru/omron_e5csv-big.htm 1 1
+http://express-vyvoz.ru/vyvoz-grunta/vyvoz-grunta-s-dachnogo-uchastka.html 1 1
+http://naemi.ru/diy-%d0%b8%d0%b4%d0%b5%d0%b8/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%8c%d0%b5%d1%80/ 1 1
+https://a7r.ru/krug 1 1
+https://well-web.net/disqus-https/ 1 1
+https://rutv.site/programma-govorim-i-pokazyvaem-02-03-2017-ntv.html 1 1
+https://metallpro.su/balka/p/0 2 2
+http://smt4.ru/nerzhaveyushhij-shestigrannik.html 1 1
+https://www.websolution.com.ua/blog/179-web-dizajn-dlya-chego-on-nuzhen.html 1 1
+https://t-machinery.ru/kontakty/ 3 3
+http://ivicom194.ru/interesnoe/article_post/avtokredit-poznavatel-naya-informatsiya-dlya-pokupateley 1 1
+http://rupolitshow.ru/dobrov-v-efire-05-02-2017.html 1 1
+http://gorokna.com/company/ 1 1
+https://well-web.net/kak-oplatit/ 1 1
+http://www.kal-kalan.net/perevozki-kvartir-ber-sheva/ 1 1
+http://liftalliance.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0/ 1 1
+https://topparcel.com/p/parcel-delivery-to-russia 2 2
+http://gomario.ru/igri/pokemon_igry/khozjajka_pokemona/94-1-0-627 1 1
+http://mosapple24.ru/remont-iphone/iphone-6s/usb6s/ 1 1
+http://dengi-v-kredit.in.ua/zaporozh-e/ 1 1
+https://ladyclub.org/news/detskaya-moda-dlya-samyx-malenkix 1 1
+https://www.tvoysad.ru/stati/hvoynyie/hvoynyie-dlya-alpinariya.html 1 1
+http://naemi.ru/%d1%81%d1%82%d0%b8%d0%bb%d1%8c-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8/%d0%bf%d1%83%d1%82%d0%b5%d1%88%d0%b5%d1%81%d1%82%d0%b2%d0%b8%d1%8f/ 4 4
+http://mosapple24.ru/remont-ipod/ 1 1
+http://www.disprom.ru/malogabaritnyiy-vzryivozaschischennyiy-svetilnik-emlayt-g-35-kr-g12-duplicate_4.html 1 1
+http://smt4.ru/pro-nerzhaveyushhuyu-stal.html 1 1
+http://vrachinadom.ru/stati/prichina-gipertonii-zakislenie-organizma/ 2 2
+http://yugmet61.ru/sdat-metallolom/ 1 1
+https://www.disdecor.ru/ekran-arh-power-w35f-2000-frost-pm.html 1 1
+https://tigsochi.ru/tovary-dlya-doma/mebel/mebel-dlya-doma/obuvnitsy 2 2
+http://capmeta-msk.ru/krishka-to-89/ 1 1
+http://freegamesmoon.com/hidden-object-games/19-searching-for-heropolis.html 1 1
+https://rutv.site/zhdi-menya-vypusk-17-02-2017-pervyj-kanal.html 1 1
+http://narko-medical.com.ua/branch/ 1 1
+http://jetski-tenerife.com/ru/about/ 2 2
+http://novaera.su/filialy/krivoj-rog/ 1 1
+http://capmeta-msk.ru/krishka-to-63/ 1 1
+http://rostovlom.ru/contakts/ 6 6
+https://vosstanovim.by/vosstanovlenie-faylov-v-fat32 1 1
+https://nonano.ru/arts/spam-ne-pokupaj-i-budet-schaste 1 1
+https://tigsochi.ru/vse-dlya-sada/vse-dlya-landshafta/fontany-dlya-sada 1 1
+https://rutv.site/programma-pole-chudes-10-03-2017.html 1 1
+http://svetofor-zom.ru/svetofor-t-7-st7-100-65-sb-100-vt-akb-65-ach-s-oporoy-i-znakom.html 1 1
+http://ivicom194.ru/interesnoe 1 1
+http://gomario.ru/igri/igry_na_vnimatelnost/pes_v_shakhte/43-1-0-2035 1 1
+https://nonano.ru/arts/s22/novaya-odezhda-dlya-sten 1 1
+http://vrachinadom.ru/cropped-1930-1-jpg/ 1 1
+https://boathiremalta.com/walk-on-the-boat-or-yacht/ 2 2
+http://naemi.ru/%d0%bc%d0%b0%d0%bd%d0%b8%d0%ba%d1%8e%d1%80/ 1 1
+https://sellparts.com.ua/masla-i-zhidkosti/antifrizy/ 1 1
+http://jetski-tenerife.com/es/about/ 1 1
+https://petboy.ru/products/19545060 1 1
+http://gorokna.com/catalog/okna-i-balkonnyie-bloki/furnitura 1 1
+http://gorokna.com 2 2
+http://lab-term.ru/trubch-pechi.html 1 1
+https://www.e-stroymart.kz/ru/catalog/84636-slivy_dla_dushevyh_poddonov/ 1 1
+https://teman.com.ua/select/antifreez 1 1
+https://sveterra.ru/brands/arti-lampadari-italiya/ 1 1
+https://td-33.ru/kontakty 1 1
+http://yastreb-tm.ru/dostavka-moskva 1 1
+http://lab-term.ru/shakhtnaia-pech.html 2 2
+http://psyopora.ru/psihosomatika-besplodiya.html 1 1
+https://www.eurostroy.ru/pools/project_pools/project_primer_3 1 1
+https://gorokna.com 1 1
+https://topparcel.com 2 2
+https://gorodkotlov.ru/market/goods/kotly/tverdotoplivnye_kotly/kotly_teplodar/uut/tverdotoplivnyi_kotel_teplodar_uut_10_kvt/ 1 1
+http://www.disprom.ru/svetodiodnyiy-svetilnik-jkh-meduse-10w-duplicate_2.html 1 1
+http://novaera.su/motivation/ 1 1
+https://www.tvoysad.ru/rubric/stati 1 1
+http://excitecash.info/full/about_casino/playing-roulette-without-putting-any-money-hook 6 6
+http://www.goodhopetoastmasters.co.za/Other_Toastmasters_Clubs.html 3 3
+http://lab-term.ru/pech-lamp.htm 3 3
+http://mosapple24.ru/remont-iphone/iphone-6s/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 9
+toastmasters+cape+town 2
+toastmasters+in+cape+town 1
+public+speaking+training 1
+public+speaking+classes+cape+town 1
+cttoastmasters.org.za 1
+http+//www.cttoastmasters.org.za 1
+toastmaster+branches+captown 1
+finding+speaking+gigs+in+cape+town 1
+toastmasters+locations 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 17
+town 5
+cape 5
+toastmasters 4
+speaking 3
+in 2
+public 2
+classes 1
+//www.cttoastmasters.org.za 1
+gigs 1
+cttoastmasters.org.za 1
+toastmaster 1
+http 1
+locations 1
+branches 1
+finding 1
+training 1
+captown 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 2 0
+500 93 357554
+302 1829 0
+206 29 772684
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 598
+178.159.43.212 126 126 0 20170531223236
+195.133.48.150 123 123 0 20170531220406
+77.220.213.173 123 123 0 20170531223235
+185.154.13.6 123 123 38401 20170531223235
+195.133.145.199 123 123 0 20170531220406
+195.133.147.6 121 121 0 20170531220946
+194.87.234.246 119 119 0 20170531220714
+178.159.39.237 119 119 0 20170531223235
+193.124.131.168 118 118 0 20170531222158
+195.133.147.89 117 117 0 20170531221624
+194.87.238.17 116 116 0 20170531221808
+195.133.147.74 112 112 0 20170531222017
+185.125.219.134 101 101 0 20170531222831
+193.124.190.64 95 95 0 20170531222805
+66.249.93.197 83 368 17491030 20170531190415
+188.227.18.37 75 75 0 20170531223713
+5.101.78.76 74 74 0 20170531223705
+185.5.249.185 60 60 0 20170531222805
+194.67.210.77 51 51 0 20170531222806
+66.249.93.201 51 324 14669508 20170531190415
+66.249.93.199 50 338 17325151 20170531190410
+91.223.100.230 38 38 413706 20170515184854
+216.244.85.106 31 31 337465 20170531100610
+184.154.36.183 18 48 1127030 20170531143607
+77.243.183.67 16 16 174192 20170501203216
+196.14.91.186 2 34 1819362 20170518131032
+197.89.244.93 2 33 1790089 20170523150546
+197.88.66.8 1 1 38401 20170509003001
+5.9.94.207 1 1 38401 20170525053129
+41.148.44.106 4 59 3282511 20170502213853
+54.218.239.41 1 1 38401 20170519111733
+194.187.170.136 2 2 49308 20170501083044
+105.0.185.126 2 34 1819362 20170523095801
+64.4.70.194 2 35 1846013 20170504202415
+168.253.74.28 6 38 1874135 20170509221014
+144.217.17.186 1 1 10903 20170526051224
+197.86.172.38 3 35 1857763 20170526133307
+137.158.176.153 2 33 1790089 20170503113609
+5.37.157.128 2 2 49308 20170503072953
+169.239.185.140 9 96 5311070 20170503043823
+99.249.123.141 2 33 1790089 20170521060241
+197.248.223.122 6 37 1844862 20170509085433
+45.55.195.141 4 4 98576 20170510061845
+41.148.74.147 6 38 1874135 20170506084155
+41.114.197.0 1 31 1589150 20170527141513
+175.137.169.119 2 2 49304 20170531133111
+202.9.43.97 2 2 49308 20170503151830
+105.228.148.64 2 34 1819362 20170520090007
+105.227.182.28 3 36 1820515 20170526145258
+41.13.196.17 5 37 1863228 20170518142049
+138.197.11.204 1 12 263609 20170513102655
+138.197.111.195 2 2 49288 20170519145353
+192.99.1.217 3 3 60215 20170520051311
+41.13.216.79 1 22 745111 20170512195018
+192.151.152.122 4 4 43628 20170519001638
+188.123.101.16 4 4 38401 20170502085320
+173.208.207.162 1 1 10907 20170509221717
+213.239.205.118 4 4 71114 20170528134044
+41.13.232.3 3 34 1812141 20170518231401
+41.164.71.162 2 34 1819362 20170515142634
+180.76.15.151 1 1 10907 20170521113724
+5.62.43.28 2 2 76802 20170519180146
+165.255.171.107 2 34 1819362 20170510170715
+220.181.51.94 2 2 21794 20170523153236
+138.197.111.190 2 2 49288 20170502081930
+92.42.115.21 1 1 10887 20170520074756
+41.141.98.233 2 2 49308 20170510033432
+176.31.64.186 2 2 49308 20170523221856
+62.210.138.77 1 11 235787 20170529011832
+76.184.105.139 7 61 3523082 20170513073706
+41.181.23.20 3 37 1842778 20170504152943
+197.245.116.201 2 34 1819362 20170527164713
+41.148.68.131 3 35 1841414 20170511052535
+204.79.180.232 0 1 26651 
+180.76.15.10 1 1 10887 20170516221924
+164.151.5.21 3 37 1935306 20170509152204
+105.233.32.218 2 34 1819362 20170525095555
+41.193.221.178 2 34 1819362 20170503161720
+105.225.44.241 4 36 1852321 20170503141055
+41.71.69.178 2 34 1819362 20170516160435
+165.144.196.230 2 34 1819362 20170507101607
+41.13.196.74 2 34 1819362 20170503133939
+41.13.228.132 4 37 1842567 20170518083604
+204.79.180.194 0 1 93639 
+41.21.173.198 3 14 172538 20170509170122
+197.229.60.239 3 35 1841414 20170523210110
+105.229.95.86 2 33 1790089 20170529204154
+196.215.130.63 2 34 1819454 20170526135249
+82.145.222.153 4 36 1812704 20170528214350
+196.15.158.58 3 35 1854826 20170508083730
+78.158.11.226 1 1 38401 20170527112749
+173.208.129.58 4 4 43532 20170529160135
+105.186.195.201 2 34 1819362 20170516172840
+41.150.198.41 13 46 1929874 20170520173338
+41.134.12.233 3 36 1820515 20170509150144
+105.5.55.3 2 34 1819362 20170523142133
+184.154.36.171 14 37 1083388 20170529143636
+41.164.20.42 4 51 2998118 20170530123518
+41.189.74.2 2 34 1819362 20170510153548
+180.76.15.23 1 1 10907 20170521113725
+137.158.144.50 3 35 1857763 20170510111646
+197.215.165.42 2 34 1819454 20170503162958
+154.0.172.230 4 4 98576 20170519023608
+218.6.173.49 1 1 10907 20170505223253
+197.86.161.163 3 34 1812141 20170506114757
+164.151.16.2 2 34 1819362 20170508152600
+105.228.30.114 3 35 1841414 20170506075711
+202.46.53.53 1 1 0 20170517053241
+138.197.111.192 1 1 38401 20170507031458
+203.133.168.31 3 14 312897 20170509201159
+196.14.255.137 2 34 1819362 20170529111330
+41.114.138.199 6 38 1874123 20170527204717
+192.187.115.90 1 1 10907 20170515205923
+112.5.236.104 1 8 133133 20170531201434
+165.225.72.75 4 67 3582848 20170512145021
+62.212.68.156 1 1 38401 20170502054840
+195.154.251.162 2 2 21814 20170509071920
+41.0.219.122 4 36 1845397 20170515002141
+138.197.73.96 2 2 49288 20170524005119
+197.87.158.242 2 34 1819362 20170520173535
+105.186.89.28 4 35 1850542 20170526161454
+164.151.5.23 0 4 387721 
+138.197.11.118 2 13 302010 20170516132532
+138.197.96.246 1 12 263609 20170503211930
+196.22.225.34 2 34 1819362 20170504152305
+66.102.8.135 2 14 720248 20170519112614
+105.224.80.25 3 35 1841414 20170513000458
+66.249.83.223 0 9 601356 
+41.13.200.249 6 38 1874135 20170524082200
+93.186.16.244 1 8 707274 20170522145746
+197.95.192.228 3 34 1812141 20170515222741
+41.144.227.154 2 34 1819362 20170502193941
+93.186.16.157 0 12 1100732 
+41.13.246.248 3 34 1812141 20170509190556
+180.76.15.144 1 1 10907 20170503203321
+196.223.92.121 2 34 1819454 20170529125219
+94.177.164.221 1 2 108091 20170520191504
+194.228.20.227 6 38 1874123 20170529201053
+154.119.53.16 5 69 3677217 20170502142628
+180.76.15.142 1 1 10887 20170521231140
+186.179.171.30 2 2 49308 20170504014900
+198.240.88.18 1 1 38401 20170523033439
+41.6.145.1 3 34 1812141 20170530202433
+41.13.196.209 6 38 1874135 20170517100627
+41.150.252.97 2 34 1819362 20170518104733
+203.133.169.23 4 4 98596 20170511231456
+107.170.100.8 1 1 38401 20170504032016
+138.197.111.170 2 2 49288 20170503221605
+41.13.198.155 3 3 32721 20170512144649
+211.123.206.74 1 1 38401 20170519051018
+105.225.230.90 1 19 578910 20170518203143
+36.73.163.114 2 2 49304 20170527151228
+146.232.97.134 3 35 1854826 20170510142654
+66.249.93.129 2 10 487820 20170510144310
+139.226.144.64 1 1 38401 20170514205658
+66.249.93.157 4 27 1587519 20170510144302
+195.22.127.210 2 2 49288 20170507112519
+93.186.16.158 1 4 133217 20170531224116
+164.151.5.20 0 2 54138 
+105.227.142.130 14 46 2223541 20170518112123
+105.224.96.189 2 34 1819362 20170531221304
+105.224.7.49 5 37 1852071 20170527212328
+39.40.67.242 2 2 49308 20170516214740
+182.118.54.29 1 1 38401 20170517042853
+41.160.79.140 2 34 1819454 20170518211141
+137.158.142.166 2 34 1819362 20170510200450
+172.58.110.211 1 1 38401 20170508233822
+196.192.174.12 3 34 1812141 20170526140310
+196.41.98.78 2 33 1790089 20170508103316
+197.229.83.74 6 38 1874123 20170528021723
+41.164.153.146 3 36 1820515 20170523104256
+41.21.217.70 2 34 1819362 20170508113233
+41.114.216.203 3 35 1841414 20170525110904
+66.249.93.19 1 1 38401 20170516004408
+138.197.13.157 1 12 263609 20170515020913
+41.114.209.147 1 1 56 20170507174745
+46.229.170.193 1 1 38401 20170518011905
+104.197.231.238 2 2 21774 20170502114320
+165.255.246.48 2 33 1790089 20170530183713
+81.7.88.215 5 35 3276446 20170525032049
+129.232.178.66 2 34 1819362 20170502143811
+50.57.110.13 10 10 108870 20170516201838
+61.151.226.16 1 12 263609 20170504214418
+204.79.180.248 0 1 9843 
+138.197.73.85 2 2 49288 20170511210821
+180.76.15.143 1 1 10903 20170528033744
+163.172.108.151 2 2 21814 20170522211831
+184.154.36.184 8 23 539990 20170530143208
+94.203.77.194 2 2 49304 20170524202951
+45.32.129.200 1 1 38401 20170521052510
+41.114.213.218 3 34 1812141 20170511182501
+138.197.7.130 2 13 274496 20170522125654
+41.13.232.247 3 35 1841414 20170503090458
+41.138.71.164 2 34 1819362 20170525150904
+79.7.218.134 1 31 723209 20170508193321
+131.161.93.242 1 2 108091 20170519193744
+105.224.83.136 2 34 1819362 20170508135158
+204.79.180.195 1 1 38401 20170509060233
+2.39.170.200 2 2 49308 20170521171529
+105.228.140.87 3 33 1718502 20170525182052
+157.48.10.57 6 38 1874123 20170527124120
+66.249.83.88 2 2 76802 20170512211617
+41.164.20.114 3 35 1857763 20170511141732
+41.164.27.100 2 34 1819362 20170526134407
+81.7.104.246 5 35 3276446 20170527045203
+198.240.106.250 1 1 38401 20170508100400
+91.206.200.162 2 2 21774 20170505210238
+192.187.108.186 8 8 87064 20170530082345
+204.79.180.118 0 1 97594 
+141.228.106.147 2 34 1612470 20170530155447
+41.148.99.240 3 34 1812141 20170518175606
+41.13.250.177 3 34 1812141 20170503123037
+168.253.66.3 2 34 1819362 20170526145719
+196.21.248.1 6 61 3453307 20170509162334
+41.76.132.82 2 34 1819362 20170512160614
+129.10.115.141 6 70 3682828 20170504010952
+61.14.48.30 2 34 1819362 20170503163430
+41.114.221.95 6 38 1874135 20170523200640
+64.233.172.130 1 1 38401 20170502023406
+203.133.170.155 5 16 362197 20170527192543
+169.202.5.9 3 37 1842682 20170529094132
+134.119.213.82 5 5 192005 20170526171907
+138.197.111.115 1 12 263609 20170525110342
+146.232.227.45 2 34 1819362 20170504214416
+41.114.133.231 8 40 1874237 20170510182350
+196.25.211.41 0 1 93639 
+105.104.71.113 1 1 10907 20170507181915
+138.197.76.52 1 1 38401 20170519011343
+202.46.57.203 1 1 0 20170504184724
+41.13.250.185 3 35 1841414 20170514141805
+169.0.71.59 2 2 49308 20170504222357
+180.76.15.15 1 1 10887 20170504003312
+41.164.75.74 1 13 1075843 20170523140756
+112.5.236.87 1 8 133133 20170526032220
+66.249.93.92 1 1 38401 20170526175414
+165.255.68.53 2 34 1819362 20170518104559
+41.177.196.133 2 33 1790089 20170515000319
+165.255.64.168 2 35 1834852 20170515205628
+66.251.168.170 6 38 1874123 20170526052301
+41.164.8.218 3 36 1820515 20170502113044
+62.138.3.96 2 2 76802 20170513044310
+196.31.28.114 2 34 1819362 20170528190310
+202.46.55.62 2 2 76802 20170529075403
+144.76.100.150 4 6 206546 20170524115154
+197.87.234.69 3 34 1812141 20170509224807
+66.249.93.156 2 16 669753 20170504164828
+169.1.167.182 2 34 1819362 20170509155506
+41.13.254.143 8 40 1884804 20170507045949
+204.79.180.107 0 1 8097 
+196.22.246.126 2 34 1819362 20170504112636
+41.193.102.66 2 34 1819362 20170523141716
+41.50.16.52 6 38 1874135 20170514122009
+204.79.180.5 1 1 10907 20170509060244
+183.57.153.70 1 1 38401 20170505163401
+137.158.240.126 4 36 1893227 20170510165702
+196.215.168.159 3 3 32721 20170511085853
+202.46.56.199 1 1 0 20170525050036
+66.102.6.158 2 2 76802 20170531103548
+196.210.8.53 2 34 1819362 20170530104844
+197.245.48.94 2 34 1819362 20170505113327
+34.250.239.9 1 1 38401 20170517134712
+204.79.180.14 0 1 6344 
+105.13.117.153 2 34 1819362 20170523231005
+183.136.142.175 1 1 38401 20170512112743
+154.69.166.220 2 34 1819362 20170504200015
+64.140.169.42 2 2 76802 20170511022808
+190.143.204.2 0 1 191166 
+92.92.241.192 2 2 49308 20170506113413
+41.144.171.56 3 36 1820515 20170516160957
+52.178.40.125 1 1 38401 20170503071229
+154.68.164.53 2 33 1790089 20170503121459
+196.214.82.227 5 68 3631503 20170530153845
+41.193.218.146 2 34 1819362 20170525122141
+173.208.244.82 6 6 65442 20170523225338
+41.0.109.234 6 38 1874123 20170531080020
+169.0.147.43 2 34 1819362 20170512172444
+91.219.238.181 1 1 10887 20170508045355
+82.217.114.19 1 1 10887 20170521111909
+41.133.142.172 2 34 1819362 20170524164408
+41.13.238.201 1 2 1153 20170524194931
+198.57.247.199 5 5 192005 20170530160657
+138.197.7.55 2 2 49288 20170504000807
+180.76.15.21 1 1 10887 20170509235309
+196.11.235.231 2 34 1819362 20170512022527
+90.193.211.193 2 33 1790089 20170504223633
+117.214.134.45 2 2 49304 20170526165517
+105.0.222.115 3 35 1841414 20170517160806
+66.249.93.14 8 45 2700712 20170522223744
+194.28.115.252 16 16 174192 20170506184008
+169.0.76.12 2 34 1819362 20170516132804
+196.23.48.59 4 38 142020 20170517084653
+41.50.16.49 9 41 1906832 20170526000614
+185.7.214.124 1 1 38401 20170528132517
+103.225.205.14 2 2 49304 20170531103002
+159.203.80.139 4 4 0 20170510152059
+64.74.215.113 4 4 0 20170514064010
+41.193.219.114 2 34 1819362 20170515142533
+196.211.116.179 2 34 1819362 20170516132629
+180.76.15.18 1 1 10907 20170509141458
+197.96.226.244 2 34 1819362 20170512101110
+105.229.138.76 2 34 1819362 20170501212138
+93.186.16.243 1 10 332558 20170522145729
+196.13.141.28 2 34 1819362 20170530104914
+197.101.76.107 4 37 1842567 20170511214441
+69.126.86.5 0 1 191166 
+105.250.3.68 10 42 1945257 20170524150356
+138.197.96.195 2 2 49288 20170508161903
+210.163.39.73 1 1 38401 20170513111833
+159.203.169.21 2 24 527218 20170520070211
+41.164.181.98 2 34 1819362 20170517123553
+5.101.222.23 1 1 0 20170523015755
+41.13.208.62 3 35 1841414 20170514193730
+162.243.60.44 1 1 38401 20170511223219
+196.13.178.67 2 34 1819362 20170529133336
+41.13.208.221 2 2 107 20170503223843
+49.255.191.50 1 1 38401 20170515120141
+176.15.69.140 12 33 1142750 20170508101712
+109.96.212.110 2 2 49308 20170513152403
+192.143.60.110 6 38 1874135 20170504080155
+62.210.75.104 1 11 235787 20170515020735
+188.146.68.86 2 2 49308 20170514124241
+66.249.93.13 8 34 1209479 20170523200713
+66.249.83.193 0 9 448093 
+169.255.34.234 2 34 1819362 20170502165101
+46.30.63.87 2 2 21774 20170503231033
+180.76.15.11 1 1 10883 20170530222620
+197.86.170.70 4 68 3638724 20170525155628
+138.197.104.4 2 2 49284 20170525143309
+196.38.8.92 2 34 1819362 20170508082859
+41.114.154.105 1 1 10907 20170518162758
+52.2.10.94 0 1 49460 
+154.119.52.141 7 39 1912536 20170502210638
+188.165.197.58 2 2 76802 20170508004246
+62.75.158.134 1 1 38401 20170525151707
+185.188.182.230 1 1 38401 20170517175723
+41.13.250.135 6 37 1844862 20170521123857
+169.0.181.110 1 1 10907 20170505163936
+196.41.104.114 2 34 1819362 20170505000318
+165.144.212.172 2 34 1819362 20170518113914
+164.151.5.12 0 2 133303 
+46.118.123.228 1 1 38401 20170507213553
+112.5.237.237 1 8 133133 20170530134831
+164.151.5.19 0 2 112519 
+64.62.210.39 1 1 38401 20170524042703
+196.14.254.98 2 34 1819362 20170509085717
+169.255.34.141 3 3 158 20170504160720
+41.71.103.202 2 34 1819362 20170530080800
+154.69.169.18 1 1 38401 20170518202126
+196.30.30.121 3 35 1841414 20170510151356
+141.0.13.91 7 40 2089958 20170513145845
+204.79.180.119 0 1 24159 
+93.186.16.234 0 1 93639 
+196.213.52.66 2 34 1819362 20170509110121
+105.186.193.24 3 35 1857763 20170509104304
+41.151.92.71 2 34 1819362 20170516142619
+105.228.89.2 2 34 1819362 20170531124926
+204.79.180.79 0 1 9246 
+180.76.15.149 1 1 10907 20170516012146
+197.215.161.38 3 35 1854826 20170503144723
+105.228.227.91 2 35 1953605 20170510132758
+197.86.177.225 1 1 10907 20170501222852
+41.164.33.100 4 37 1820566 20170531134140
+212.237.26.106 1 1 38401 20170522170746
+174.193.149.31 0 1 191166 
+213.136.84.244 1 1 10887 20170507075605
+93.186.16.245 0 12 725548 
+66.249.93.158 6 26 1114828 20170510144307
+66.249.93.15 5 37 1744698 20170523200654
+41.114.150.133 0 7 383914 
+104.45.18.178 2 2 76802 20170531143522
+220.181.51.120 2 2 21810 20170531071204
+93.186.16.155 0 5 174840 
+41.177.127.3 9 40 1877583 20170505101434
+137.158.63.105 2 35 1913001 20170528043616
+202.46.58.86 1 1 38401 20170528041359
+165.144.207.109 6 38 1874135 20170516125941
+89.248.172.48 1 1 38401 20170504172121
+197.86.143.246 2 34 1819362 20170523145839
+197.88.66.121 3 35 1819454 20170518120219
+154.119.53.36 1 17 683826 20170523140747
+142.54.161.10 4 4 43628 20170511075311
+155.238.4.87 2 34 1819362 20170529133752
+105.15.7.7 1 1 38401 20170516092116
+66.102.6.222 2 2 76802 20170509234635
+138.197.11.40 2 2 49284 20170527075743
+197.229.118.136 2 34 1819362 20170504191454
+164.151.5.25 1 2 62560 20170509152159
+196.215.63.168 3 34 1812141 20170505150535
+154.69.186.49 1 1 0 20170527023527
+184.154.36.186 12 31 680340 20170527143106
+66.249.93.39 0 1 237 
+197.87.120.102 4 36 1896164 20170524122909
+159.203.90.26 2 2 49284 20170530204346
+37.187.78.81 2 2 76802 20170523014341
+165.255.64.173 9 41 1906856 20170522230620
+204.79.180.244 0 1 27540 
+138.197.71.180 1 12 263609 20170502010555
+167.114.228.206 1 1 38401 20170513154420
+194.0.236.89 4 39 1843931 20170511101821
+197.89.24.60 2 33 1790089 20170503145026
+162.243.125.92 1 1 38401 20170520032629
+41.13.212.75 6 38 1874123 20170529112625
+138.197.7.66 2 2 49288 20170505155007
+105.11.115.5 5 43 1998166 20170531101245
+41.114.147.24 2 34 1819362 20170523052446
+105.226.86.141 3 34 1812141 20170515202233
+204.79.180.171 0 1 179397 
+41.164.6.244 10 106 5506922 20170525114052
+202.46.55.68 1 1 0 20170509070904
+138.197.111.107 2 2 49288 20170515011634
+180.153.211.172 1 1 142020 20170504214426
+78.155.206.33 1 1 38401 20170511192728
+169.1.8.140 2 34 1819454 20170519134836
+104.132.20.92 2 34 1819362 20170519102058
+197.95.211.116 2 33 1790089 20170513211700
+41.13.254.80 2 2 76802 20170507002847
+180.97.35.91 1 1 38401 20170518055333
+138.197.111.60 1 12 263609 20170507115022
+69.58.178.58 1 1 38401 20170524080817
+197.88.109.23 3 36 1820515 20170530100625
+41.135.172.144 3 35 1857763 20170507195018
+211.6.122.127 1 1 38401 20170527201720
+138.197.111.186 2 2 49288 20170521025633
+192.143.83.5 2 34 1819362 20170505184741
+197.89.245.129 2 34 1819362 20170531003437
+192.169.233.16 12 12 130644 20170516134336
+105.228.23.200 2 34 1819362 20170516113807
+41.13.200.37 3 34 1812141 20170522090124
+41.138.67.41 2 34 1819362 20170519110623
+105.227.117.117 2 34 1819362 20170523132816
+105.227.208.143 2 34 1819362 20170530223936
+196.214.133.241 8 136 7277540 20170531111131
+159.203.109.175 2 2 49284 20170527074252
+169.239.210.97 2 34 1819362 20170507003033
+196.21.245.249 2 34 1819362 20170503164351
+168.210.100.101 5 38 1820709 20170524113041
+138.197.7.43 2 13 274496 20170518012353
+46.161.9.12 2 2 49288 20170516212202
+129.205.136.1 2 34 1819362 20170517102831
+41.164.143.213 2 34 1819362 20170502105736
+45.220.191.6 7 94 5234268 20170515165609
+105.225.119.169 9 16 255585 20170509221755
+64.233.172.128 1 1 38401 20170503204750
+169.0.21.122 2 33 1790089 20170523114530
+152.111.210.241 2 34 1819454 20170511132215
+105.229.225.208 2 37 2208553 20170501153248
+41.150.202.193 8 40 1895949 20170509220906
+93.186.16.246 1 5 69110 20170522145746
+204.79.180.185 0 1 34908 
+204.79.180.43 1 1 2366 20170509060246
+62.212.73.49 2 2 76802 20170515063615
+105.227.159.228 0 1 191166 
+138.197.11.168 2 2 49288 20170515013446
+62.210.80.81 1 1 38401 20170527123820
+197.88.133.131 2 34 1819362 20170501101838
+80.235.42.73 2 2 49308 20170504020320
+154.66.206.93 1 1 38401 20170517131611
+70.39.157.198 1 1 38401 20170516171952
+93.186.16.154 0 11 689805 
+105.229.95.184 1 1 38401 20170505192947
+197.89.112.93 3 35 1841414 20170503061419
+41.2.69.118 3 27 1355649 20170505210422
+63.141.244.250 4 4 43628 20170517080938
+196.24.146.180 2 34 1819362 20170511110359
+41.164.32.77 2 34 1819362 20170511100527
+163.172.4.153 3 3 115203 20170529083523
+197.83.229.99 6 38 1874135 20170518082620
+197.88.54.172 3 35 1841414 20170504071324
+105.184.214.178 2 34 1819362 20170508102937
+169.1.160.194 4 36 1879815 20170517122708
+46.73.188.213 12 33 1142750 20170505142013
+136.243.17.161 1 1 10887 20170512073121
+129.205.146.28 2 34 1819362 20170512205822
+41.71.107.26 2 34 1819362 20170520172021
+194.187.170.145 2 2 21814 20170506100102
+165.255.55.5 3 36 1820515 20170518212729
+169.1.161.60 2 34 1819362 20170509090348
+196.26.90.162 8 104 5489058 20170524164910
+154.70.210.210 2 34 1819362 20170502115418
+104.218.235.109 4 4 153604 20170530152537
+138.197.96.241 2 2 49284 20170529001346
+88.198.22.8 6 6 92908 20170528134531
+136.243.67.139 6 70 3715526 20170526092006
+123.125.67.210 1 1 38401 20170511133525
+89.234.68.90 1 1 38401 20170526144948
+45.58.40.182 1 1 38401 20170507100059
+197.245.234.162 2 34 1819362 20170509090907
+41.13.232.227 6 38 1874135 20170516132150
+159.203.123.116 1 12 263609 20170505161318
+41.13.216.182 6 31 1417643 20170503165012
+105.228.23.211 1 1 38401 20170526161300
+165.143.155.55 2 34 1819362 20170518105608
+168.235.198.46 3 35 1841414 20170523065258
+137.158.133.232 2 34 1819362 20170519164413
+196.23.50.64 3 34 1812141 20170518113904
+197.88.26.111 6 38 1874123 20170527085508
+66.249.83.222 1 15 627893 20170517061532
+184.154.36.185 10 35 1005740 20170526143801
+202.46.51.17 2 2 0 20170520052413
+175.100.97.41 2 2 76802 20170517211434
+123.125.67.224 1 1 10903 20170528032304
+197.96.203.12 2 32 1731170 20170503160718
+197.245.234.194 2 34 1819362 20170516125011
+105.229.165.54 3 35 1841414 20170507202018
+41.13.224.92 13 46 45087 20170511120720
+78.155.217.66 1 1 38401 20170509133700
+197.88.49.249 2 34 1819362 20170518164723
+5.9.106.81 1 1 10907 20170512234800
+41.164.20.34 2 34 1819454 20170511105637
+169.1.204.22 2 33 1790089 20170501014624
+154.66.206.245 2 34 1819362 20170517144452
+197.89.231.130 2 34 1819362 20170506132301
+138.197.96.182 1 12 263609 20170529005116
+105.226.128.92 3 34 1812141 20170505194703
+97.74.24.227 1 1 38401 20170501071448
+41.13.212.135 2 34 1819362 20170529072200
+197.83.227.83 3 35 1841414 20170531135607
+66.249.93.94 2 2 76802 20170527100309
+196.23.154.76 8 133 7059821 20170525115408
+213.149.61.254 2 2 49304 20170525081140
+41.193.101.130 2 34 1819362 20170516163903
+90.180.106.154 2 2 49304 20170530151411
+197.159.50.163 2 34 1819362 20170509112343
+45.55.155.171 3 3 115203 20170522222427
+41.13.243.59 2 34 1819362 20170522192530
+165.255.175.150 2 34 1819362 20170521144347
+66.102.8.131 1 9 429097 20170519112613
+123.125.67.165 1 1 10903 20170525060412
+105.186.184.196 2 34 1819362 20170516125717
+82.205.85.209 2 2 49304 20170525100051
+185.177.20.82 1 1 38401 20170502161836
+109.103.56.222 4 4 98616 20170520204404
+41.146.180.250 2 34 1819362 20170509204103
+188.255.23.130 1 33 1677342 20170506032255
+197.88.66.45 2 34 1819362 20170519011300
+52.53.180.30 1 1 38401 20170526031658
+41.150.245.51 2 34 1819362 20170518140001
+199.19.249.196 1 1 38401 20170530155441
+107.174.142.174 1 1 10907 20170507214436
+41.164.139.74 2 34 1819362 20170503062748
+136.243.89.5 1 1 38401 20170504011225
+196.45.30.188 6 38 1874135 20170504190810
+196.4.17.1 2 34 1819362 20170505112818
+209.203.28.186 2 34 1819362 20170530101312
+222.186.58.198 1 1 10907 20170503084723
+196.215.20.100 2 34 1819362 20170516145842
+41.13.208.226 1 1 51 20170504165357
+164.151.5.24 0 6 244203 
+165.255.75.46 3 38 1987194 20170525205458
+41.13.204.200 3 34 1812141 20170510153942
+197.89.18.171 2 34 1819362 20170516133055
+41.193.202.222 2 34 1819362 20170508185555
+197.88.175.90 3 34 1812141 20170509191614
+105.13.200.232 2 33 1790089 20170516232239
+197.245.221.201 2 34 1819362 20170515110005
+41.145.207.36 6 38 1874123 20170530072154
+189.71.153.176 2 2 49308 20170516153812
+196.220.32.107 2 33 1797223 20170524114326
+85.10.213.93 3 3 32717 20170529040004
+37.221.246.12 2 2 21774 20170508042014
+41.193.223.129 2 34 1819362 20170511124507
+165.144.218.231 6 38 1874123 20170531144229
+197.229.22.190 3 35 1854826 20170501221154
+41.164.6.228 2 34 1813582 20170508102529
+105.186.193.53 3 35 1961382 20170501135853
+204.79.180.151 0 1 15490 
+94.98.192.176 0 1 44295 
+41.193.204.52 4 68 3638724 20170531143527
+41.247.139.220 6 38 1874135 20170523012835
+93.186.16.235 0 2 53874 
+180.76.15.137 1 1 10907 20170516012145
+41.71.96.118 1 1 38401 20170504163920
+165.144.233.23 3 34 1812141 20170502221831
+38.100.21.78 1 11 498001 20170518191631
+196.210.7.252 3 36 1820515 20170525125235
+49.148.133.185 1 1 10907 20170515070508
+41.114.134.49 3 34 1812141 20170520225207
+66.251.164.3 2 29 1591036 20170504152411
+169.0.61.204 2 34 1819362 20170526200216
+105.227.247.231 1 7 334996 20170509164518
+138.197.111.246 2 2 49288 20170513103817
+129.205.39.251 5 37 1852071 20170527192959
+198.204.225.34 4 4 43628 20170511062649
+66.102.8.137 0 12 685503 
+203.133.168.30 4 4 98596 20170512215015
+41.164.141.210 3 35 1857763 20170510153243
+105.227.105.67 1 1 56 20170526203458
+197.155.4.20 2 34 1819362 20170515134130
+169.0.178.101 2 34 1819362 20170530030132
+138.197.111.31 1 12 263609 20170511083552
+164.151.5.22 0 4 292432 
+216.19.210.60 1 1 38401 20170506192823
+144.76.80.151 7 7 76273 20170528134735
+41.13.194.148 6 38 1874135 20170508214837
+46.229.167.149 3 3 115203 20170525131740
+204.79.180.40 0 1 55968 
+196.210.82.107 2 34 1819362 20170506215134
+82.145.222.82 4 27 1894457 20170521214316
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170501 135 432 17576158 103
+20170502 97 583 28017922 68
+20170503 117 687 33008561 78
+20170504 169 853 39606738 99
+20170505 141 458 17967685 106
+20170506 122 316 11350642 94
+20170507 84 323 13609796 59
+20170508 73 451 21877283 37
+20170509 132 782 36578869 79
+20170510 118 547 25022894 81
+20170511 129 594 23492175 88
+20170512 102 415 17594382 86
+20170513 70 298 13729468 47
+20170514 98 239 8164891 83
+20170515 177 674 28397045 114
+20170516 161 687 30370708 106
+20170517 110 382 14576631 91
+20170518 164 782 34993071 115
+20170519 104 301 11693585 89
+20170520 97 305 11903460 70
+20170521 99 220 7657902 86
+20170522 104 277 9807003 88
+20170523 88 599 29529795 55
+20170524 101 362 15317400 72
+20170525 106 535 26123713 77
+20170526 142 603 26629545 105
+20170527 106 435 20612276 65
+20170528 103 234 7688452 89
+20170529 123 468 19262308 94
+20170530 171 627 25776014 144
+20170531 134 568 24836807 104
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 17
+5mn-15mn 18
+0s-30s 2586
+30s-2mn 33
+30mn-1h 9
+15mn-30mn 7
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 2516 22886996 2441 2098
+/wp-admin/setup-config.php 631 6814773 184 294
+/fonts/flatpack.woff 312 44310240 16 217
+/fonts/Flat-UI-Icons.woff 119 2602136 19 8
+/pix_mail/new_contact.php 41 2216 7 25
+/fonts/flatpack.eot 23 3268576 2 19
+/fonts/lato/lato-regular-webfont.woff 7 248248 0 6
+/fonts/Flat-UI-Icons.ttf 5 76020 1 2
+/fonts/Flat-UI-Icons.eot 5 76970 0 1
+/fonts/flatpack.ttf 4 567776 2 2
+/fonts/fontawesome-webfont.eot 2 112012 0 0
+/fonts/lato/lato-regular-webfont.eot 2 61956 0 0
+/fonts/lato/lato-black-webfont.eot 2 61676 0 0
+/fonts/lato/lato-italic-webfont.eot 2 59774 0 0
+/fonts/lato/lato-bold-webfont.eot 2 64112 0 0
+/fonts/lato/lato-light-webfont.eot 2 60232 0 0
+/fonts/lato/lato-bolditalic-webfont.eot 2 60680 0 0
+END_SIDER

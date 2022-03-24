@@ -1,0 +1,61 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Wed, 04 May 2016 13:59:36 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1axvSq-0006RA-Dm
+	for cttoaqzb@elrond.aserv.co.za; Wed, 04 May 2016 13:59:36 +0200
+X-Failed-Recipients: admin@demolink.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1axvSq-0006RA-Dm@elrond.aserv.co.za>
+Date: Wed, 04 May 2016 13:59:36 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@demolink.org
+    host mail.demolink.org [69.65.10.169]
+    SMTP error from remote mail server after RCPT TO:<admin@demolink.org>:
+    550 No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.85)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1axvSk-0006Q5-Qi
+	for admin@demolink.org; Wed, 04 May 2016 13:59:30 +0200
+To: admin@demolink.org
+Subject: [Cape Town Toastmasters Club] Please moderate: "Delivering an Unprepared Speech"
+X-PHP-Script: www.cttoastmasters.org.za/wp-comments-post.php for 172.245.240.22
+Date: Wed, 4 May 2016 11:59:30 +0000
+From: WordPress <wordpress@cttoastmasters.org.za>
+Message-ID: <d2773f068ae2eb40fb24c695305540c2@www.cttoastmasters.org.za>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Delivering an Unprepared Speech" is waiting for your approval
+http://www.cttoastmasters.org.za/public-speaking/delivering-unprepared-speech/
+
+Author: origin Of raining Cats and dogs (IP: 172.245.240.22, 172-245-240-22-host.colocrossing.com)
+E-mail: kristicolmenero@peacemail.com
+URL: http://imgur.com/search?q=crazy+cats
+Comment: 
+Yelling at or hitting your cats isn't only mean, it is going to backfire on you.
+Large and medium particle pre-filters needs to be the first brand 
+of defense against big particles like these. They normally have white 
+underbellies and show the black "mascara" lines throughout the eyes.
+
+Approve it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=approve&c=45
+Trash it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=trash&c=45
+Spam it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=spam&c=45
+Currently 21 comments are waiting for approval. Please visit the moderation panel:
+http://www.cttoastmasters.org.za/wp-admin/edit-comments.php?comment_status=moderated
+

@@ -1,0 +1,64 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Wed, 04 May 2016 20:03:37 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1ay197-0002Lo-KU
+	for cttoaqzb@elrond.aserv.co.za; Wed, 04 May 2016 20:03:37 +0200
+X-Failed-Recipients: admin@demolink.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ay197-0002Lo-KU@elrond.aserv.co.za>
+Date: Wed, 04 May 2016 20:03:37 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@demolink.org
+    host mail.demolink.org [69.65.10.169]
+    SMTP error from remote mail server after RCPT TO:<admin@demolink.org>:
+    550 No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.85)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1ay193-0002I7-H2
+	for admin@demolink.org; Wed, 04 May 2016 20:03:33 +0200
+To: admin@demolink.org
+Subject: [Cape Town Toastmasters Club] Please moderate: "Delivering an Unprepared Speech"
+X-PHP-Script: www.cttoastmasters.org.za/wp-comments-post.php for 23.95.199.148
+Date: Wed, 4 May 2016 18:03:33 +0000
+From: WordPress <wordpress@cttoastmasters.org.za>
+Message-ID: <090c85770cd4f232090a0736409ed41c@www.cttoastmasters.org.za>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Delivering an Unprepared Speech" is waiting for your approval
+http://www.cttoastmasters.org.za/public-speaking/delivering-unprepared-speech/
+
+Author: donald Trump and hillary Clinton (IP: 23.95.199.148, 23-95-199-148-host.colocrossing.com)
+E-mail: novellastella@gmail.com
+URL: http://www.msnbc.com/search/donald+trump
+Comment: 
+Historically as well as in literature there may 
+be still no better technique of expressing this than she has not been happy to sell her soul, to "make an arrangement together with the devil".
+However, when they needed Trump, after over ten years operational, that will produce some concern. This is all 
+about making a choice to participate in an MLM or Network Marketing 
+business and produce other people rich selling and promoting their items for the 
+children but not starting your personal venture 
+and branding yourself and your products.
+
+Approve it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=approve&c=47
+Trash it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=trash&c=47
+Spam it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=spam&c=47
+Currently 23 comments are waiting for approval. Please visit the moderation panel:
+http://www.cttoastmasters.org.za/wp-admin/edit-comments.php?comment_status=moderated
+

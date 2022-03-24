@@ -1,0 +1,82 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Mon, 01 Feb 2016 06:10:22 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1aQ5oj-000726-VN
+	for cttoaqzb@elrond.aserv.co.za; Mon, 01 Feb 2016 06:10:22 +0200
+X-Failed-Recipients: admin@demolink.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aQ5oj-000726-VN@elrond.aserv.co.za>
+Date: Mon, 01 Feb 2016 06:10:21 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@demolink.org
+    host mail.demolink.org [69.65.10.169]
+    SMTP error from remote mail server after RCPT TO:<admin@demolink.org>:
+    550 No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.85)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1aQ5of-00071o-Kk
+	for admin@demolink.org; Mon, 01 Feb 2016 06:10:17 +0200
+To: admin@demolink.org
+Subject: [Cape Town Toastmasters Club] Please moderate: "Delivering an Unprepared Speech"
+X-PHP-Script: www.cttoastmasters.org.za/wp-comments-post.php for 107.172.222.206
+Date: Mon, 1 Feb 2016 04:10:17 +0000
+From: WordPress <wordpress@cttoastmasters.org.za>
+Message-ID: <bcefdf3f32bf215770f702a22cffc30e@www.cttoastmasters.org.za>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+A new comment on the post "Delivering an Unprepared Speech" is waiting for =
+your approval
+http://www.cttoastmasters.org.za/public-speaking/delivering-unprepared-spee=
+ch/
+
+Author: seo (IP: 107.172.222.206, 107-172-222-206-host.colocrossing.com)
+E-mail: dsguwk@gmail.com
+URL: http://www.SEORankingLinks.com/
+Comment:=20
+Hello Web Admin, I noticed that your On-Page SEO is is missing a few factor=
+s, for one you do not use all three H tags in your post, also I notice that=
+ you are not using bold or italics properly in your SEO optimization. On-Pa=
+ge SEO means more now than ever since the new Google update: Panda. No long=
+er are backlinks and simply pinging or sending out a RSS feed the key to ge=
+tting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what =
+is good On-Page SEO?First your keyword must appear in the title.Then it mus=
+t appear in the URL.You have to optimize your keyword and make sure that it=
+ has a nice keyword density of 3-5% in your article with relevant LSI (Late=
+nt Semantic Indexing). Then you should spread all H1,H2,H3 tags in your art=
+icle.Your Keyword should appear in your first paragraph and in the last sen=
+tence of the page. You should have relevant usage of Bold and italics of yo=
+ur keyword.There should be one internal link to a page on your blog and you=
+ should have one image with an alt tag that has your keyword....wait there'=
+s even more Now what if i told you there was a simple Wordpress plugin that=
+ does all the On-Page SEO, and automatically for you? That's right AUTOMATI=
+CALLY, just watch this 4minute video for more information at. <a href=3D"ht=
+tp://www.SEORankingLinks.com" rel=3D"nofollow">Seo Plugin</a>
+
+Approve it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=3D=
+approve&c=3D37
+Trash it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=3Dtr=
+ash&c=3D37
+Spam it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=3Dspa=
+m&c=3D37
+Currently 13 comments are waiting for approval. Please visit the moderation=
+ panel:
+http://www.cttoastmasters.org.za/wp-admin/edit-comments.php?comment_status=
+=3Dmoderated
+

@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: cttoaqzb@elrond.aserv.co.za
+Received: from elrond.aserv.co.za
+	by elrond.aserv.co.za with LMTP
+	id CNHQAATOsWG3KwAAktO0Fw
+	(envelope-from <>)
+	for <cttoaqzb@elrond.aserv.co.za>; Thu, 09 Dec 2021 11:36:04 +0200
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Thu, 09 Dec 2021 11:36:04 +0200
+Received: from spe9-1.ucebox.co.za ([197.242.159.189]:59600)
+	by elrond.aserv.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1mvFqN-0003MP-Rd
+	for cttoaqzb@elrond.aserv.co.za; Thu, 09 Dec 2021 11:36:03 +0200
+Received: from Debian-exim by spe5.ucebox.co.za with local (Exim 4.92)
+	id 1mvFqM-0000PM-3Q
+	for cttoaqzb@elrond.aserv.co.za; Thu, 09 Dec 2021 11:36:03 +0200
+X-Failed-Recipients: capetowntoastmasters@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@spe5.ucebox.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Content-Type: multipart/report; report-type=delivery-status; boundary=1639042561-eximdsn-1287399074
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mvFqM-0000PM-3Q@spe5.ucebox.co.za>
+Date: Thu, 09 Dec 2021 11:36:02 +0200
+
+--1639042561-eximdsn-1287399074
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  capetowntoastmasters@gmail.com
+    host gmail-smtp-in.l.google.com [173.194.76.26]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 Unauthenticated email from rocketmail.com is not accepted due to
+    550-5.7.26 domain's DMARC policy. Please contact the administrator of
+    550-5.7.26 rocketmail.com domain if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+    550 5.7.26 DMARC initiative. v9si8637417wri.824 - gsmtp
+
+--1639042561-eximdsn-1287399074
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; spe5.ucebox.co.za
+
+Action: failed
+Final-Recipient: rfc822;capetowntoastmasters@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from rocketmail.com is not accepted due to
+ 550-5.7.26 domain's DMARC policy. Please contact the administrator of
+ 550-5.7.26 rocketmail.com domain if this was a legitimate mail. Please visit
+ 550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about the
+ 550 5.7.26 DMARC initiative. v9si8637417wri.824 - gsmtp
+
+--1639042561-eximdsn-1287399074
+Content-type: message/rfc822
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from elrond.aserv.co.za ([154.0.172.230])
+	by spe5.ucebox.co.za with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1mvFqD-0008Os-8I
+	for capetowntoastmasters@gmail.com; Thu, 09 Dec 2021 11:35:59 +0200
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.94.2)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1mvFqC-00030l-Mv
+	for capetowntoastmasters@gmail.com; Thu, 09 Dec 2021 11:35:52 +0200
+To: capetowntoastmasters@gmail.com
+Subject: CTTM Website Enquiry
+X-PHP-Script: www.cttoastmasters.org.za/pix_mail/new_contact.php for 197.229.1.125
+From: sulestekusche@rocketmail.com
+Reply-To: sulestekusche@rocketmail.com
+X-Mailer: PHP/5.6.40
+Message-Id: <E1mvFqC-00030l-Mv@elrond.aserv.co.za>
+Sender:  <cttoaqzb@elrond.aserv.co.za>
+Date: Thu, 09 Dec 2021 11:35:52 +0200
+X-Get-Message-Sender-Via: elrond.aserv.co.za: authenticated_id: cttoaqzb/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: elrond.aserv.co.za: cttoaqzb
+X-Originating-IP: 154.0.172.230
+X-Afrihost-Domain: elrond.aserv.co.za
+X-Afrihost-Username: 154.0.172.230
+Authentication-Results: ucebox.co.za; auth=pass smtp.auth=154.0.172.230@elrond.aserv.co.za
+X-Afrihost-Outgoing-Class: ham
+X-Afrihost-Outgoing-Evidence: Combined (0.56)
+X-Recommended-Action: accept
+X-Filter-ID: Pt3MvcO5N4iKaDQ5O6lkdGlMVN6RH8bjRMzItlySaT+1ei+aawfmAXRmVe/tZlDxPUtbdvnXkggZ
+ 3YnVId/Y5jcf0yeVQAvfjHznO7+bT5y8C21t3rlvjC8CpohUmD1pY/hJweNuHzBZHZJy8XXpaMws
+ Fkh0+CAGkxpML+6MObh7Qf2h1NvIMMJz7Pu8Dmd9VrkVq5D4oaud2KgHdRDTahYBR9XwOqE2UQOv
+ l5ZMjv6rv3g6PnQla5+ymlw8ju8yb9HNBh+wLyxGZ+jOkNcVhZytF0V8v2w1vMMZPploFn+bgaCk
+ W8nGm/sYr5TGcUrdAxJT7RaE3j2V+dUEbjlvmihC9PDYKnv6Tg5zyqINgzM+AwMXi+OSqQVvJeAt
+ QeT9Q5MeWyHYFcw5tP/0jE4kl9S+AdPwEy3hqs9fJgteWWIMoOLjGsRz/MUE6aIZoCcUNXR4aVG4
+ tVHU1Zldyy+zfbnrM5aYo0PL7jUsZY4sbPZdjx85xQq9VD42UbTRudBo31/E3ahF5MMcDI7KdpjQ
+ KboK6boZPQUalEbe5OUmnDyBlGmc8wsQEkx8GXtWvf6AYOaeuiH/yEdZH8S1+TgcJBOjh0vPxcQO
+ jKKOrYIQYpwamUdylUIKhf3z2GAHxH7IDVWFvvbHJNA2EyRYQ/sF1e7MkZmG1vlucN0lc4x+O/T4
+ vKRnkO58tvXrQSXIbF4OLbnLRVUKdO/LLyxKh70wmW6pbxv4rgDqLqDgQDZf36zTulJRptMnEIdG
+ JW7dfhGq92PNDpgLsd6Ddd/s7VM53u6qhIJo72XxdKwXHJyN25Q+H0QTuFad85Le7QlQW8kQWJqV
+ wfABBDJ+R8fnA1u0lfAkqz7p7zykCZFs3DOpt0AOVcZv254a1SspgLrZBCX/uNqqI9tR4TfR7Yse
+ 0R4casOpyKA69LF1Ge2GaGfxmfqBWfUaVmbMpRV1Ovu8GuYb/YoROUxEkwtkBpjmO37lT/kn+BdY
+ L7JdQucHQO+5qWa0bpF1Rkx4QcuzdaUBvmz4MG1QP35nsYfP84c+RFK3KnXOrJAQPdLGWxQvZqz/
+ WhRV5npgSdk6SwQx96GYlVgi
+X-Report-Abuse-To: spam@spe1.ucebox.co.za
+
+
+Subscribe using flatpack form,
+name: Suleste Kusche -  
+email: sulestekusche@rocketmail.com -  
+message: Good morning 
+I am interested in joining Toastmasters.  How do I go about joining? 
+
+Kind regards 
+Suleste Kusche 
+0827761354 -  
+
+
+--1639042561-eximdsn-1287399074--

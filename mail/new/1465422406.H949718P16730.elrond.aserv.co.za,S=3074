@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: cttoaqzb@elrond.aserv.co.za
+Delivery-date: Wed, 08 Jun 2016 23:46:46 +0200
+Received: from mailnull by elrond.aserv.co.za with local (Exim 4.85)
+	id 1bAlJG-0004Lk-QQ
+	for cttoaqzb@elrond.aserv.co.za; Wed, 08 Jun 2016 23:46:46 +0200
+X-Failed-Recipients: admin@demolink.org
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@elrond.aserv.co.za>
+To: cttoaqzb@elrond.aserv.co.za
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bAlJG-0004Lk-QQ@elrond.aserv.co.za>
+Date: Wed, 08 Jun 2016 23:46:46 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@demolink.org
+    host mail.demolink.org [69.65.10.169]
+    SMTP error from remote mail server after RCPT TO:<admin@demolink.org>:
+    550 No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <cttoaqzb@elrond.aserv.co.za>
+Received: from cttoaqzb by elrond.aserv.co.za with local (Exim 4.85)
+	(envelope-from <cttoaqzb@elrond.aserv.co.za>)
+	id 1bAlJB-0004L6-TD
+	for admin@demolink.org; Wed, 08 Jun 2016 23:46:41 +0200
+To: admin@demolink.org
+Subject: [Cape Town Toastmasters Club] Please moderate: "10 PUBLIC SPEAKING TIPS"
+X-PHP-Script: www.cttoastmasters.org.za/wp-comments-post.php for 23.95.212.116
+Date: Wed, 8 Jun 2016 21:46:41 +0000
+From: WordPress <wordpress@cttoastmasters.org.za>
+Message-ID: <23656ad79627cfd1915d837b10511a42@www.cttoastmasters.org.za>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "10 PUBLIC SPEAKING TIPS" is waiting for your approval
+http://www.cttoastmasters.org.za/public-speaking/10-public-speaking-tips/
+
+Author: Natalie (IP: 23.95.212.116, .)
+Email: hdefscyv@googlemail.com
+URL: http://yxbp.com/2m6y
+Comment: 
+Hi my name is Natalie and I just wanted to send you a quick message here instead of calling you. I came to your 10 PUBLIC SPEAKING TIPS website and noticed you could have a lot more hits. I have found that the key to running a successful website is making sure the visitors you are getting are interested in your website topic. There is a company that you can get keyword targeted visitors from and they let you try the service for free for 7 days. I managed to get over 300 targeted visitors to day to my site. Visit them here: http://www.dreamingson.com/r/th
+
+Approve it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=approve&c=62#wpbody-content
+Trash it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=trash&c=62#wpbody-content
+Spam it: http://www.cttoastmasters.org.za/wp-admin/comment.php?action=spam&c=62#wpbody-content
+Currently 38 comments are waiting for approval. Please visit the moderation panel:
+http://www.cttoastmasters.org.za/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+

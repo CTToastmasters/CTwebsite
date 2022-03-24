@@ -1,0 +1,12 @@
+[06-Nov-2015 04:16:03 UTC] PHP Warning:  require_once(PARENT_DIR/includes/class-tgm-plugin-activation.php): failed to open stream: No such file or directory in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/register-plugins.php on line 22
+[06-Nov-2015 04:16:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'PARENT_DIR/includes/class-tgm-plugin-activation.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/register-plugins.php on line 22
+[06-Nov-2015 04:19:01 UTC] PHP Fatal error:  Call to undefined function load_child_theme_textdomain() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/custom-function.php on line 3
+[06-Nov-2015 17:02:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/custom-js.php on line 2
+[06-Nov-2015 17:12:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/theme-init.php on line 2
+[06-Nov-2015 17:31:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/sidebar-init.php on line 3
+[06-Nov-2015 18:23:57 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/parallaxSlider.php on line 5
+[06-Nov-2015 18:30:27 UTC] PHP Fatal error:  Call to undefined function load_child_theme_textdomain() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/custom-function.php on line 3
+[06-Nov-2015 18:43:27 UTC] PHP Warning:  require_once(PARENT_DIR/includes/class-tgm-plugin-activation.php): failed to open stream: No such file or directory in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/register-plugins.php on line 22
+[06-Nov-2015 18:43:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'PARENT_DIR/includes/class-tgm-plugin-activation.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/register-plugins.php on line 22
+[12-Mar-2016 14:03:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/theme-init.php on line 2
+[23-May-2016 13:28:39 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/cttoaqzb/public_html/wp-content/themes/theme52382/includes/parallaxSlider.php on line 5

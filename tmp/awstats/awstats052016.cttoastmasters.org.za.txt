@@ -1,0 +1,1614 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+# Last config file used to build this data file was /home/cttoaqzb/tmp/awstats/awstats.cttoastmasters.org.za.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2702                
+POS_VISITOR 23730               
+POS_DAY 51811               
+POS_DOMAIN 3703                
+POS_LOGIN 4735                
+POS_ROBOT 4890                
+POS_WORMS 5598                
+POS_EMAILSENDER 5729                
+POS_EMAILRECEIVER 5872                
+POS_SESSION 52765               
+POS_SIDER 52979               
+POS_FILETYPES 6007                
+POS_DOWNLOADS 6290                
+POS_OS 6338                
+POS_BROWSER 6695                
+POS_SCREENSIZE 9347                
+POS_UNKNOWNREFERER 9421                
+POS_UNKNOWNREFERERBROWSER 10744               
+POS_ORIGIN 11412               
+POS_SEREFERRALS 11561               
+POS_PAGEREFS 11760               
+POS_SEARCHWORDS 12512               
+POS_KEYWORDS 12900               
+POS_MISC 2364                
+POS_ERRORS 13117               
+POS_CLUSTER 4591                
+POS_SIDER_404 13297               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160601001629 528 138485 8344945443203
+FirstTime 20160501001446
+LastTime 20160531235626
+LastUpdate 20160601142231 528 0 527 0 0
+TotalVisits 1331                
+TotalUnique 581                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 737                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 200 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 95 460 38326902 158 249 13644449
+1 104 307 39095655 122 177 2576379
+2 89 404 35442807 138 242 4058651
+3 162 533 49496703 173 304 5162296
+4 75 148 22700710 153 254 3819513
+5 61 130 17029010 138 231 13881114
+6 133 715 72025511 152 248 8785996
+7 102 682 51398948 160 317 4422262
+8 110 1509 166116517 150 312 9672154
+9 270 949 136964299 122 330 21988275
+10 252 1378 173714500 168 276 5555418
+11 224 2226 215881370 190 296 11922427
+12 99 1669 142575382 140 247 4334842
+13 155 1271 107724406 233 354 6490992
+14 281 1518 91031306 180 351 14979315
+15 129 1270 131369163 123 179 2098081
+16 130 1120 86432897 125 201 2858806
+17 316 1889 172360811 187 343 7814824
+18 74 899 82115281 192 372 4926193
+19 184 1227 121317012 160 253 8188088
+20 151 1300 109200659 128 273 9793741
+21 160 1208 97709217 163 311 6755692
+22 167 850 80007204 114 227 8624518
+23 93 937 69497653 159 323 4851989
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 51
+za 970 15339 1533726818
+cn 677 760 25553607
+us 626 2430 288375561
+tr 442 442 1346633
+fr 174 250 3849990
+zz 164 425 27068031
+mx 159 1353 237949518
+de 115 115 3372155
+br 48 1228 37840634
+it 45 183 2402812
+ru 37 98 3718708
+nl 37 98 4311090
+gb 28 474 42681460
+ci 9 161 21063771
+ua 8 8 285063
+vn 8 8 465245
+au 6 77 10500151
+jp 5 16 669961
+es 5 128 6039655
+ro 5 5 192847
+sc 4 74 4677689
+tn 4 132 20664354
+se 4 4 169916
+ch 3 70 1872106
+sn 3 78 10465654
+pt 2 91 1871757
+il 1 1 36155
+kr 1 1 36152
+my 2 66 3302297
+ma 1 1 2763
+bb 2 56 1186116
+in 1 5 1397595
+sg 0 1 286016
+ec 1 44 765156
+sa 2 63 3002719
+id 1 50 1400961
+co 1 18 457082
+ie 1 11 525145
+om 0 1 286016
+hr 1 1 33351
+pr 1 23 522177
+md 1 1 403
+cl 1 18 470404
+gi 1 1 33351
+at 1 1 27008
+eu 1 1 41921
+mu 2 55 1156320
+ca 1 1 36149
+ar 2 65 2093001
+uy 1 46 815427
+ve 1 21 485052
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+googlebot 1292 33995534 20160531200007 56
+bot[\s_+:,\.\;\/\\-] 1001 27454506 20160531191949 126
+spider 387 37926070 20160531204556 36
+bingpreview 294 30749832 20160531162104 0
+slurp 216 3676667 20160531132750 56
+unknown 193 6883 20160531004138 193
+googlebot\-image 70 4432554 20160531184047 0
+no_user_agent 54 1475698 20160531224535 1
+robot 51 1456708 20160531031746 11
+php 38 8869152 20160530201523 0
+ruby\/ 4 144608 20160510180810 0
+crawl 4 73652 20160525084101 2
+[\s_+:,\.\;\/\\-]bot 2 36188 20160522130406 1
+checker 2 0 20160525140709 0
+netcraft 1 36147 20160510214722 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+eot 19 37476 0 0
+css 5000 114219378 0 0
+png 2419 79846526 0 0
+woff 4 5072 0 0
+php 820 2431002 0 0
+html 2764 91120933 0 0
+xml 9 8360 0 0
+js 10095 133636712 0 0
+jpg 2908 1884675106 0 0
+svg 1 1521 0 0
+gif 560 3551837 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxredhat 1 1
+linuxandroid 3576 949
+winxp 508 118
+macosx6 3 3
+winlong 115 68
+ios_iphone 1896 77
+win8 202 101
+macosx9 433 52
+ios_ipad 278 12
+macosx7 220 9
+unix 92 6
+java 5 5
+winnt 2930 729
+linux 479 146
+win7 9485 828
+macosx 1559 67
+macosx4 92 12
+Unknown 718 300
+win8.1 2006 132
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 127
+msie6.0 11 11
+safari7.0.3 6 6
+chrome27.0.1453.94 2 2
+firefox28.0 72 7
+chrome40.0.2214.115 12 9
+chrome50.0.2661.89 833 24
+opera9.50 1 1
+chrome50.0.2661.91 3 0
+firefox44.0 127 14
+chrome34.0.1847.137 2 2
+chrome49.0.2623.110 64 3
+chrome28.0.1500.94 142 5
+chrome39.0.2171.95 20 20
+opera26.0.1656.60 6 6
+firefox34.0 10 10
+safari5.0.2 191 8
+msie8.0 137 13
+opera10.10 113 41
+chrome50.0.2661.94 2110 117
+firefox43.0 450 10
+msie7.0 59 18
+firefox40.1 17 17
+chrome37.0.2062.120 25 25
+chrome50.0.2661.102 4722 253
+chrome41.0.2272.89 10 10
+chrome49.0.2623.91 57 1
+chrome50.0.2661.86 345 23
+chrome49.0.2623.112 390 22
+chrome39.0.2171.71 147 11
+chrome45.0.2454.99 1 1
+opera12.16 89 5
+firefox48.0 2 2
+firefox40.0 160 3
+chrome34.0.1847.131 15 15
+wap 5 1
+chrome49.0.2623.105 7 1
+firefox21.0 110 78
+chrome48.0.2564.82 25 1
+firefox29.0 39 7
+chrome50.0.2661.103 89 6
+safari6.0 79 7
+firefox38.0 115 4
+firefox12.0 1 1
+chrome32.0.1700.107 526 16
+chrome49.0.2623.75 20 12
+firefox45.0 80 4
+chrome35.0.1916.114 3 3
+chrome36.0.1985.143 1160 41
+firefox33.0 1 1
+mozilla 33 31
+firefox25.0 1 1
+chrome18.0.1025.142 74 2
+netscape5.0 4 4
+firefox14.0.1 10 10
+chrome37.0.0.0 76 5
+chrome46.0.2486.0 264 9
+firefox3.6.3 24 16
+opera8.50 10 10
+chrome41.0.2220.0 1 1
+chrome41.0.2228.0 21 21
+chrome44.0.2403.133 215 7
+firefox19.0 145 3
+safari8.0.3 80 4
+firefox36.0 4 4
+safari9.0.2 63 1
+firefox35.0 7 7
+safari 197 5
+chrome21.0.1180.89 1 1
+chrome34.0.1847.76 172 4
+safari7.0 70 2
+opera12.17 61 61
+firefox5.0 3 3
+safari4.1.3 92 12
+firefox4.0.1 1 1
+chrome23.0.1271.64 1 1
+chrome38.0.1025.166 139 9
+android 1574 875
+chrome28.0.1500.95 64 2
+chrome36.0.1985.125 17 17
+firefox24.0 2 2
+safari6.1.6 140 4
+opera12.14 57 57
+iphone 81 6
+firefox6.0.2 26 26
+chrome45.0.2454.93 626 626
+chrome47.0.2526.111 407 20
+chrome38.0.2125.122 1 1
+chrome17.0.1025.133 1 1
+chrome34.0.1847.116 7 7
+chrome40.0.2214.85 10 10
+chrome10.0.648.204 1 1
+chrome30.0.1599.66 1 1
+firefox3.6.9 1 1
+safari8.0 348 10
+firefox3.6.10 2 2
+msie9.0 614 202
+chrome30.0.1599.101 2 2
+Unknown 454 261
+firefox27.0 3 3
+chrome47.0.2526.83 229 14
+safari7.1 102 13
+firefox32.0 4 4
+safari9.0.3 170 9
+firefox17.0 153 3
+chrome48.0.2564.95 131 3
+safari9.1 203 5
+chrome27.0.1453.110 1 1
+safari10.3.2.2876 62 1
+firefox46.0 1017 67
+chrome28.0.1500.71 32 1
+chrome43.0.2357.132 134 2
+chrome36.0.1985.97 6 6
+chrome43.0.2357.130 7 7
+safari5.1.7 2 2
+firefox2.0.0.11 2 2
+msie11.0 1558 112
+safari9.0 1324 54
+firefox39.0 225 4
+chrome45.0.2454.101 1 0
+chrome35.0.1916.153 126 4
+safari10.2.1.3412 79 5
+chrome48.0.2564.109 75 3
+msie10.0 13 13
+chrome51.0.2704.47 101 3
+safari5.1 16 1
+chrome39.0.2171.99 5 5
+opera11.50 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 19
+WAP_Browser-Karbonn_K71_/1.0.0 20160525060512
+WordPress/4.3.3;_http://www.cttoastmasters.org.za 20160506214138
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.2876_Mobile_Safari/537.35_ 20160501103402
+Softaculous 20160525024036
+Opera/9.80_(Android;_Opera_Mini/12.0.1987/37.8325;_U;_en)_Presto/2.12.423_Version/12.16 20160505165915
+WordPress/4.3.4;_http://www.cttoastmasters.org.za 20160524214709
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/37.8346;_U;_en)_Presto/2.12.423_Version/12.16 20160514050152
+vebidoobot 20160519003206
+ltx71_-_(http://ltx71.com/) 20160513073122
+WAP_Browser-Karbonn_K71_/1.0.0_Google 20160525060405
+Mozilla/5.0_(compatible;_Dataprovider/6.92;__https://www.dataprovider.com/) 20160509040806
+ICAP-IOD 20160517112438
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.6;_en-US;_GT-B5512)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160507200256
+Mozilla/5.0 20160520053933
+textPlusCA/6808_CFNetwork/485.13.8_Darwin/11.0.0 20160508190036
+WordPress/4.5.2;_http://www.cttoastmasters.org.za 20160531215011
+Mozilla/4.0_(compatible;) 20160527105500
+nutch-1.4/Nutch-1.4 20160507214354
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.2.1.3412_Mobile_Safari/537.35_ 20160505235757
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+ICAP-IOD 20160517112438
+WordPress/4.3.3;_http://www.cttoastmasters.org.za 20160506214138
+Java/1.7.0_80 20160526032533
+Softaculous 20160525024036
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.6;_en-US;_GT-B5512)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160507200256
+WordPress/4.3.4;_http://www.cttoastmasters.org.za 20160524214709
+textPlusCA/6808_CFNetwork/485.13.8_Darwin/11.0.0 20160508190036
+Java/1.8.0_91 20160520201307
+WordPress/4.5.2;_http://www.cttoastmasters.org.za 20160531215011
+vebidoobot 20160519003206
+nutch-1.4/Nutch-1.4 20160507214354
+ltx71_-_(http://ltx71.com/) 20160513073122
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1475 1771
+From1 6 6
+From2 474 650
+From3 76 77
+From4 1585 22095
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 460 636
+baidu 2 2
+bing 6 6
+yandex 2 2
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://keywords-monitoring-your-success.com/try.php 38 38
+http://keywords-monitoring-success.com/try.php 16 16
+http://free-video-tool.com 12 12
+http://toastmasters.co.za/westerncape-toastmasters-clubs/ 2 2
+http://www.divisiondtoastmasters.co.za/contact.php 1 1
+http://www.toastmasters.org/Find-a-Club/00002249-cape-town-club 1 1
+http://endormedia.co.za/marketing-strategy/ 1 1
+http://www.cyclepedia.ru/user/freescampnan 1 1
+http://www.izito.co.za/ws 1 1
+http://endormedia.co.za/2012/page/3/ 1 1
+http://m.facebook.com 1 1
+http://www.endormedia.co.za:80 1 1
+http://www.vebidoo.com/aletta+koegelenberg 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 8
+toastmasters+cape+town 6
+capetowntoastmastersclub%7cbusinesstheme 2
+toastmasters 1
+toastmaster+clubs+in+cape+town 1
+debates+in+cape+town 1
+toastmasters+club+cape+town 1
+public+speaking+courses+in+cape+town 1
+debate+clubs+in+cape+town 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 13
+town 11
+cape 11
+toastmasters 8
+in 4
+capetowntoastmastersclub%7cbusinesstheme 2
+clubs 2
+debate 1
+courses 1
+club 1
+speaking 1
+public 1
+toastmaster 1
+debates 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 785 181447
+206 75 26458960
+400 1 226
+302 26 0
+405 29 1092
+500 17 38044
+301 1535 785
+404 393 8818658
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 206
+/wp-content/plugins/formcraft/documentation.html 1 http://www.cttoastmasters.org.za/wp-content/plugins/formcraft/documentation.html
+/wp-content/uploads/2013/10/3rd-Banner-640x395.jpg 5 -
+/wp-content/uploads/2013/10/Nathan-Small.jpg 5 -
+/wp-content/uploads/2013/10/Dawn.jpg 1 -
+/phocadownload/overview%20%2024%20march%202010.pdf 1 -
+/wp-content/uploads/2013/10/Contact-Button.jpg 4 http://www.cttoastmasters.org.za/success-stories/
+/2015/09/24/hello-world-2/ 1 -
+/wp-content/themes/images/quotes.png 1 http://www.cttoastmasters.org.za/
+/wp-content/uploads/2013/10/1-1024x556.jpg 2 http://www.cttoastmasters.org.za/about/
+/contact/ 3 -
+/wp-content/themes/blocked/core/images/social-icons/twitter.png 3 -
+/wp-content/uploads/2013/10/Sarah.jpg 1 -
+/wp-content/uploads/2013/10/Cape-Town-Toastmasters-Club-Directions.pdf 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay2.png 1 http://www.cttoastmasters.org.za/
+/wp-checking.php 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay1.png 1 http://www.cttoastmasters.org.za/
+/phocadownload/as%20we%20were%20saying%20feb%20-%20%20final.pdf 1 -
+/xmlrpc.php 2 -
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/uploader.php 1 -
+/portfolio-view/malesuada-fames-ac/feed/ 2 -
+/wp-content/uploads/2013/10/bonita.jpg 1 -
+/docs/Newsletter_2005.pdf 1 -
+/phocadownload/Expanding%20your%20horizens%20brochure.pdf 2 -
+/wp-content/uploads/2013/10/20150513_192506.jpg 1 -
+/wp-content/uploads/2014/06/DSCN0480-1024x768.jpg 1 -
+/wp-content/uploads/2013/10/20150513_192506-655x1024.jpg 2 http://www.cttoastmasters.org.za/about/
+/downloads/category/1-tools-and-tips.html 4 -
+/education-learning-fact-training-mind/ 1 -
+/js.php 1 -
+/downloads/section/3-forms.html 1 -
+/th1s_1s_a_4o4.html 31 http://www.google.com/url
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 http://www.cttoastmasters.org.za/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php
+/\" 1 -
+/wp-content/themes/s/plugins/dzs-piecemaker/admin/dzsuploader/upload.php 1 -
+/phocadownload/CTTM_media_release.pdf 2 -
+/phocadownload/CTTM%20Info.pdf 2 -
+/shell1.php 1 -
+/images/stories/docs/Member%20Application%20Form.pdf 1 -
+/wp-content/plugins/wp-editor/js/wpeditor.js 1 -
+/viva.php 1 -
+/error.php 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay8.png 1 http://www.cttoastmasters.org.za/
+/administrator/ 2 -
+/wp-content/themes/Video/functions/theme_options.css 1 -
+/phocadownload/as%20we%20were%20saying%20-%20dec%202010%20final.pdf 2 -
+/wp_ifgbgf.php 1 -
+/wp-sitemaps.php 1 -
+/default.php 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay6.png 1 http://www.cttoastmasters.org.za/
+/wp-content/plugins/dzs-portfolio/upload.php 1 -
+/downloads/section/5-newsletters.html 1 -
+/timer.htm 4 -
+/category-sitemap.xml 3 -
+/category/public-speaking/by 1 -
+/wp-content/uploads/2013/10/cds-IMG_2468.jpg 3 http://www.cttoastmasters.org.za/about/
+/wp-feeds.php 1 -
+/testimonial/ 2 -
+/wp-content/uploads/2013/10/Alice-Joy-1024x904.jpg 4 http://www.cttoastmasters.org.za/success-stories/
+/downloads/category/4-general.html 2 -
+/wp-content/uploads/2013/10/1.jpg 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay4.png 1 http://www.cttoastmasters.org.za/
+/wp-content/uploads/2013/10/20150408_193048-752x1024.jpg 2 http://www.cttoastmasters.org.za/about/
+/blog-2/ 1 -
+/modules/mod_atawaysipodmp3/index.htm 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php 1 -
+/wp-content/uploads/2013/10/Dawn-705x1024.jpg 2 http://www.cttoastmasters.org.za/about/
+/portfolio-view/in-faucibus-risus/feed/ 1 -
+/10-public-speaking-tips/ 5 http://cttoastmasters.org.za/
+/wp-log.php 1 -
+/photo-gallery/ 17 -
+/sql_dump.php 1 -
+/wp-content/uploads/2013/10/imagesCAVA8GJG.jpg 2 http://www.cttoastmasters.org.za/public-speaking/delivering-unprepared-speech/
+/license.php 3 -
+/wp-content/uploads/2013/10/Toastmasters-Clubs.doc-.pdf 1 -
+/portfolio-view/gallery-format/feed/ 1 -
+/wp-content/uploads/2013/10/20150311_192904.jpg 1 -
+/phocadownload/Newsletter_2005.pdf 1 -
+/ms-media.php 1 -
+/wp-content/uploads/2013/10/20150225_201602.jpg 1 -
+/wp-json/oembed/1.0/embed 18 http://www.google.com/url
+/j-stuff.feed 2 -
+/typography-mainmenu-33.html 2 -
+/j-stuff/22-news/50-the-high-performance-leadership-program.html 3 -
+/Articles/ted.htm 1 -
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.php 1 -
+/wp-content/uploads/2013/10/JohnHambleton-Small.jpg 5 -
+/wp-content/uploads/2013/10/Cape-Town-Toastmasters-Directions.pdf 3 -
+/gmpg.org/xfn/11 3 http://www.cttoastmasters.org.za//gmpg.org/xfn/11
+/opts.php 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay7.png 1 http://www.cttoastmasters.org.za/
+/testimonial/alice-joy-king/ 2 -
+/portfolio-view/sed-blandit-massa-vel/feed/ 1 -
+/features-mainmenu-27.html 1 -
+/wp-content/uploads/2013/10/20150311_192904-1024x623.jpg 2 http://www.cttoastmasters.org.za/about/
+/wp-includes/SimplePie/theme-options.php 1 -
+/wp-content/plugins/dzs-calendar/admin/upload.php 1 -
+/wp-content/uploads/2013/10/Unprepared-Speaking.pdf 1 -
+/wp-content/uploads/2013/10/Sarahsummers-Small.jpg 4 http://www.cttoastmasters.org.za/success-stories/
+/wp-content/themes/CherryFramework/js/testurl 1 -
+/tutorials-mainmenu-34.html 2 -
+/wp-content/uploads/2013/10/20150225_201602-540x1024.jpg 1 -
+/faqs-new/wp-login.php 1 -
+/phocadownload/overview%2013%20oct%202010.pdf 1 -
+/testimonial-sitemap.xml 3 -
+/options.php 1 -
+/fonts.googleapis.com/css 2 -
+/uploadify/uploadify.php 1 http://www.cttoastmasters.org.za/uploadify/uploadify.php
+/wp-content/uploads/2013/10/ChristineDahl-Small.jpg 2 -
+/wordpress/wp-login.php 1 -
+/wp-content/uploads/2013/10/Aletta.jpg 4 http://www.cttoastmasters.org.za/success-stories/
+/xampp/ 1 http://www.cttoastmasters.org.za/xampp/
+/portfolio-view/slideshow-format/feed/ 1 -
+/shell.php 1 -
+/plugin-change.php 1 -
+/mide.php 1 -
+/xmlrppc.php 1 -
+/php_ygallery/admin/upload.php 1 -
+/portfolio-view/sodales-orci-et/feed/ 2 -
+/browserconfig.xml 3 -
+/wp-content/uploads/2013/10/IMG_2755-Medium.jpg 1 -
+/error_log.php 1 -
+/phocadownload/Member%20Application%20Form.pdf 1 -
+/wp-json/ 6 -
+/wp-content/themes/CherryFramework/images/patterns/overlay10.png 1 http://www.cttoastmasters.org.za/
+/xml.php 1 -
+/component/content/article/17-roknewsrotator/35-style-and-sophistication.html 1 -
+/a,c.type= 2 http://www.cttoastmasters.org.za
+/stats.php 1 -
+/wp-content/themes/cherryframework/js/jquery.mobile.customized.min.js 1 -
+/php_ygallery/source/admin/upload.php 1 -
+/downloads/section/2-tools-and-tips.html 1 -
+/wp-content/uploads/2013/10/Gertan.jpg 1 -
+/page-sitemap.xml 3 -
+/images/stories/docs/10%20Tips%20For%20Successful%20Public.pdf 1 -
+/php_mediagallery/admin/upload.php 1 -
+/contact-us.html 2 -
+/magazine/js/mage/cookies.js 2 cttoastmasters.org.za/magazine
+/indexs.php 1 -
+/blog/wp-login.php 1 -
+/phocadownload/overview%2028%20april%202010.pdf 2 -
+/wp-content/themes/s/admin/dzsuploader/upload.php 1 -
+/security.php 1 -
+/support/wp-login.php 1 -
+/wp-content/uploads/2013/10/Ruth-Small.jpg 4 http://www.cttoastmasters.org.za/success-stories/
+/wp-content/uploads/2013/10/Lindsay-1024x904.jpg 3 http://www.cttoastmasters.org.za/success-stories/
+/custom_rapista/upload.php 1 -
+/x.php 1 -
+/post-sitemap.xml 2 -
+/delivering-unprepared-speech/ 5 -
+/wp-content/uploads/2013/10/Gertan-747x1024.jpg 2 http://www.cttoastmasters.org.za/about/
+/wp-content/uploads/2013/10/20150513_193502.jpg 1 -
+/404.php 1 -
+/wp-content/themes/royale/plugins/dzs-portfolio/upload.php 1 -
+/wp-content/uploads/2013/10/Contact-Button-1024x129.jpg 6 http://www.cttoastmasters.org.za/public-speaking/10-public-speaking-tips/
+/wp-pp.php 1 -
+/author-sitemap.xml 3 -
+/wysijap-sitemap.xml 2 -
+/wp-content/uploads/2013/10/20150408_193048.jpg 1 -
+/minutes.htm 2 -
+/wp-content/themes/CherryFramework/images/patterns/overlay3.png 1 http://www.cttoastmasters.org.za/
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 3 http://cttoastmasters.org.za/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/wp-content/uploads/2013/10/Chris-Adlam-profile-672x1024.jpg 2 http://www.cttoastmasters.org.za/about/
+/html5uploader/upload.php 1 -
+/about-us-2/\" 1 -
+/wp-content/themes/CherryFramework/images/patterns/overlay9.png 1 http://www.cttoastmasters.org.za/
+/phocadownload/CTTM%20guest%20flyer.pdf 1 -
+/author/club/ 1 -
+/info.php 1 -
+/phocadownload/jan%2013%202010.pdf 2 -
+/wp/wp-login.php 1 -
+/downloads/category/2-meeting-overviews.html 1 -
+/wp-content/plugins/category-page-icons/include/wpdev-flash-uploader.php 1 http://www.cttoastmasters.org.za/wp-content/plugins/category-page-icons/include/wpdev-flash-uploader.php
+/wp-content/themes/CherryFramework/images/patterns/overlay5.png 1 http://www.cttoastmasters.org.za/
+/wp-content/themes/royale/plugins/dzs-wall/admin/dzsuploader/upload.php 1 -
+/phocadownload/overview%2026%20may%202010.pdf 1 -
+/wp-adminlogin.php 1 -
+/wrapper-mainmenu-8.html 1 -
+/wp-content/themes/blocked/core/images/social-icons/facebook.png 1 -
+/content/view/103/112/ 1 -
+/wp-content/uploads/2013/10/HughSoloman-1024x904.jpg 8 -
+/wp-content/themes/images/black-opacity-60.png 1 http://www.cttoastmasters.org.za/
+/privacy.php 1 -
+/wp-content/wso2.php 1 http://www.cttoastmasters.org.za/wp-content/wso2.php
+/wp-admin/wp-manage.php 1 http://www.cttoastmasters.org.za/wp-admin/wp-manage.php
+/portfolio-view/in-faucibus/feed/ 2 -
+/elements.php 1 -
+/testimonial/christine-dahl-database-administrator/ 1 http://cttoastmasters.org.za/testimonial/christine-dahl-database-administrator/
+/sitemap_index.xml 2 -
+/configbak.php 1 -
+/wp 1 -
+/xml1-wp2.php 1 -
+/wp-content/uploads/2014/06/DSCN0477.jpg 1 -
+/ajax.php 1 -
+/wp-logs.php 1 -
+/wp-content/uploads/2013/10/Cape-Town-Toastmasters-Directions1.pdf 3 -
+/wp-content/uploads/2013/10/Chris-Adlam-profile.jpg 1 -
+/wp-content/themes/royale/admin/upload.php 1 -
+/news/wp-login.php 1 -
+/downloads/category/5-2010.html 1 -
+/success-stories/www.voicingyourpotential.com 3 -
+/wp-admin/user/wp-user.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/downloads/category/3-forms.html 1 -
+/wp-terms.php 1 -
+/portfolio-view/audio-format/feed/ 1 -
+/rssd.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 737
+169.0.252.179 117 270 116246753 20160514110159
+154.0.172.230 97 97 102295 20160531215011
+196.207.40.202 96 302 89169574 20160505231126
+78.242.28.59 95 95 280220 20160522172041
+104.168.147.139 84 84 247759 20160521093427
+52.3.127.144 82 149 87523617 20160513071339
+184.154.36.183 81 121 2950376 20160528144430
+85.97.180.144 69 69 223202 20160531220327
+37.187.56.76 68 68 2082699 20160513111818
+85.106.110.112 61 61 179761 20160506100527
+123.125.67.154 53 53 1915951 20160523103937
+62.248.62.58 52 52 153327 20160513030110
+88.234.90.246 45 45 132670 20160522194035
+184.154.36.186 44 84 1992922 20160531143258
+88.243.204.168 43 43 139410 20160531172628
+123.125.67.147 42 42 1518303 20160523060101
+196.23.50.163 41 264 911765 20160527105741
+2.40.35.139 41 113 918552 20160508032130
+88.253.18.135 40 40 129675 20160531131933
+85.93.89.74 39 39 1090323 20160519091212
+123.125.67.153 37 37 1337560 20160523091740
+52.27.204.14 37 37 14911 20160527093844
+136.243.83.81 36 36 1049667 20160519003206
+85.106.116.232 33 33 97258 20160504175339
+107.21.58.217 32 48 44725375 20160506104753
+197.96.226.98 1 62 2966559 20160506083152
+204.79.180.147 0 1 218 
+192.171.235.20 1 1 37399 20160528160154
+148.251.2.180 2 2 0 20160511064454
+204.79.180.207 0 2 14785 
+204.79.180.251 0 1 20669 
+41.5.61.235 2 71 10861305 20160531021858
+159.203.174.75 1 1 36151 20160520181753
+204.79.180.26 0 1 15248 
+197.97.156.244 5 73 10451250 20160527085144
+52.207.227.189 5 12 371558 20160507102449
+204.79.180.10 0 1 21945 
+80.82.65.82 7 7 210594 20160504020208
+23.95.199.148 5 5 211644 20160504200336
+187.44.21.191 1 14 357715 20160528132806
+41.13.196.240 2 2 74784 20160528202304
+41.133.164.244 3 77 10472352 20160512112323
+202.46.58.53 1 1 36155 20160502143300
+204.79.180.162 0 1 88869 
+197.89.160.35 3 80 10468512 20160524162535
+169.1.165.230 1 1 36155 20160523102835
+197.96.226.225 1 66 4596729 20160525111906
+105.233.204.10 1 67 10315363 20160505153545
+196.210.179.142 5 85 10583397 20160518133003
+213.9.157.175 1 1 36141 20160518091050
+41.13.4.152 2 70 10335572 20160516170629
+196.33.169.130 8 89 10692957 20160524135926
+164.151.5.18 11 297 16964854 20160512113613
+204.79.180.205 1 3 47483 20160513140557
+197.229.0.52 1 63 4566727 20160514223117
+204.79.180.181 0 2 32205 
+202.46.53.197 1 1 36144 20160503202620
+177.9.158.137 1 57 1768965 20160504233154
+204.79.180.241 1 1 36150 20160507150845
+204.79.180.18 0 1 54355 
+41.114.141.172 1 65 10312481 20160504115121
+105.225.9.126 1 1 36144 20160504115253
+61.135.190.220 0 12 208731 
+180.153.186.53 1 1 36148 20160514231534
+186.211.17.253 1 48 779530 20160529062220
+105.225.72.74 8 64 2099871 20160516200121
+41.13.254.172 1 65 4599881 20160510102247
+105.186.87.16 1 62 2966557 20160523200616
+196.38.106.9 1 1 36148 20160519151322
+41.114.231.16 7 82 10581801 20160506225049
+220.181.51.80 22 22 795300 20160523080358
+202.46.57.28 1 1 36148 20160516195351
+96.4.131.242 0 2 708558 
+169.0.109.152 4 83 10535039 20160520201255
+105.226.71.175 2 125 4167518 20160524132924
+202.129.175.3 0 1 1370 
+204.79.180.57 1 1 36150 20160515070731
+181.232.60.121 1 18 457082 20160508200457
+41.13.250.126 1 66 10313989 20160521210748
+220.181.51.82 18 18 650721 20160523103124
+41.164.176.146 4 77 4760706 20160522200818
+169.0.184.163 1 65 10314215 20160517161145
+204.79.180.225 0 1 94840 
+204.79.180.47 0 1 7258 
+216.81.71.150 1 1 36150 20160524071203
+41.144.165.153 1 41 749737 20160527144830
+92.251.255.11 1 10 239129 20160522102647
+181.213.102.238 1 44 765156 20160511020207
+122.148.165.68 1 1 36150 20160510172600
+41.114.170.96 1 66 10308116 20160531210132
+185.89.217.235 0 1 5714110 
+41.13.66.18 1 19 447113 20160510160223
+86.148.148.211 2 63 3002712 20160507155911
+104.131.96.112 16 48 932894 20160519234124
+46.2.126.82 2 2 5708 20160524022111
+123.125.67.145 28 28 1012201 20160523043051
+136.243.48.84 25 25 725180 20160510114211
+204.79.180.43 0 2 19503 
+189.171.39.121 2 59 2965610 20160503150158
+41.150.51.72 1 1 36155 20160512091632
+204.79.180.65 0 2 32707 
+220.181.51.74 14 14 506106 20160523085304
+114.125.40.129 0 1 286016 
+202.46.54.196 1 1 36149 20160505185236
+197.87.38.171 12 92 10819739 20160511140907
+197.155.63.146 4 76 10451386 20160505175738
+45.55.229.134 12 12 360079 20160529024833
+107.172.191.198 3 3 108446 20160508011110
+189.24.173.17 1 48 848579 20160524141311
+204.79.180.168 0 1 6252 
+204.79.180.131 0 2 40341 
+41.150.193.87 1 65 10298065 20160507054342
+107.172.209.205 4 4 155969 20160509232732
+41.13.228.244 3 74 10442475 20160516212428
+179.157.164.152 2 63 3002717 20160520213042
+62.210.215.114 1 1 36151 20160510182434
+105.229.16.18 8 89 10688158 20160519171321
+41.13.246.161 2 74 10353648 20160531175452
+107.173.218.82 1 1 41921 20160505063708
+202.46.49.194 1 1 36151 20160521163725
+217.160.130.30 1 1 37394 20160529183730
+204.79.180.141 0 2 101092 
+173.208.201.10 3 3 109709 20160530113806
+36.73.110.186 1 49 1114945 20160511074834
+91.200.82.130 1 1 36153 20160506173720
+105.251.102.129 3 73 10385290 20160505140455
+72.13.86.184 1 1 36146 20160502095045
+162.245.83.3 1 1 36151 20160507230645
+95.181.218.191 1 1 34696 20160526222609
+41.13.250.64 2 66 10348638 20160514221615
+183.13.152.149 15 23 393949 20160531062130
+54.240.197.239 9 87 10651220 20160529065320
+66.249.85.159 0 1 616334 
+41.164.35.162 8 86 10573571 20160513173939
+81.214.25.108 19 19 55944 20160509134140
+107.150.73.44 3 3 108446 20160524044113
+105.229.35.78 3 75 10392898 20160501100423
+66.249.93.152 7 95 12779956 20160530230647
+196.24.175.123 1 1 36151 20160521085644
+200.131.96.2 2 63 3002701 20160524133609
+196.210.7.224 1 1 36146 20160506194744
+204.79.180.90 0 1 7199 
+196.24.40.50 1 66 10313993 20160509195827
+168.235.197.238 1 88 3035522 20160507200251
+169.1.147.145 4 80 10538880 20160519083329
+202.46.52.68 1 1 36155 20160504202717
+46.17.97.72 2 2 65988 20160515151915
+169.0.177.97 2 101 11706032 20160525080956
+107.173.70.211 3 3 108454 20160504060749
+105.186.192.209 1 63 10279476 20160515102433
+155.232.27.110 1 55 1106567 20160509183014
+220.181.51.81 12 12 433788 20160523090943
+31.168.6.46 1 1 36155 20160508190036
+41.13.192.127 1 65 2986529 20160521090427
+41.151.234.167 0 2 0 
+123.125.67.207 8 8 289191 20160523073108
+179.110.91.1 1 1 36146 20160520151240
+204.79.180.106 0 2 12086 
+202.46.54.101 1 1 36142 20160522054601
+204.79.180.114 0 1 5941 
+45.55.133.244 2 34 515848 20160519171143
+41.13.220.195 1 66 4596716 20160528085325
+14.155.122.180 2 2 37399 20160530192400
+197.228.78.11 7 84 10644715 20160503185158
+77.119.129.154 1 1 27008 20160502084803
+182.118.54.13 1 48 848578 20160512083335
+46.148.31.82 3 3 108458 20160501001450
+41.164.161.66 1 67 10310839 20160525082154
+165.255.64.241 2 75 10420274 20160511230929
+195.34.78.106 1 1 33351 20160524023019
+197.242.201.74 1 66 10313993 20160509151605
+204.79.180.189 0 1 218 
+169.0.182.245 1 27 832286 20160519130834
+204.79.180.121 1 1 36149 20160510113051
+202.46.48.14 1 1 36144 20160521191428
+204.79.180.13 0 2 24092 
+190.122.134.120 1 6 157361 20160517181532
+191.254.35.147 1 1 36150 20160515010300
+185.89.217.234 0 10 1248119 
+205.234.159.100 1 1 41921 20160505172428
+196.209.245.49 1 66 10313993 20160520183718
+105.226.77.157 2 100 11685760 20160518114045
+5.101.65.169 14 14 70521 20160518023351
+105.186.64.167 1 64 10295402 20160518172024
+162.243.119.250 1 1 36146 20160518185822
+66.102.6.219 3 51 4448690 20160525060436
+201.82.146.140 1 48 848574 20160523232652
+46.45.177.150 12 12 35287 20160506185252
+184.175.251.191 2 2 85480 20160524165955
+204.79.180.145 0 1 5921 
+196.215.67.222 2 74 3107374 20160510175318
+105.184.130.110 1 1 37403 20160531150720
+177.65.26.190 1 13 329315 20160509141743
+204.79.180.167 0 1 2295 
+185.96.68.234 0 1 15448 
+54.196.214.6 3 64 3038855 20160510180823
+151.80.41.241 1 1 37396 20160528034924
+23.245.143.89 3 3 112176 20160528193702
+197.155.4.70 5 140 12262855 20160530165011
+216.163.188.230 1 1 37389 20160531184931
+131.255.197.159 1 46 762017 20160501132412
+204.79.180.193 0 1 28756 
+41.134.89.1 2 63 3002706 20160524121824
+165.255.77.219 6 89 11092719 20160522234017
+105.5.174.219 5 80 4841519 20160504221819
+123.125.67.150 29 29 1048362 20160523082829
+220.181.51.103 22 22 795310 20160523020240
+198.23.212.94 1 1 41921 20160505222359
+204.79.180.195 0 1 1078 
+41.177.136.251 7 82 10551191 20160511150932
+196.22.243.24 3 114 10387671 20160516074725
+169.202.5.161 0 22 1474288 
+192.210.217.24 3 3 125763 20160504140018
+165.255.133.161 2 72 4652592 20160525165133
+66.249.88.113 1 2 38852 20160525132631
+169.202.5.160 0 19 550916 
+104.236.185.158 1 1 36155 20160509214236
+196.26.183.32 6 84 4882880 20160510105510
+104.236.110.155 12 12 343621 20160510012134
+169.0.74.253 3 116 10377234 20160526112648
+41.164.154.93 6 86 10619546 20160523171850
+66.220.145.244 0 18 1376784 
+185.89.217.229 0 8 4278 
+196.3.173.154 1 1 36155 20160516102810
+202.46.51.194 1 1 36152 20160514143424
+204.79.180.255 0 2 14457 
+52.51.13.69 1 1 36148 20160518232131
+165.255.87.246 0 1 4893 
+199.19.249.196 5 5 210261 20160530101230
+66.102.6.223 2 51 1677084 20160525060355
+5.2.5.206 1 9 238093 20160528185849
+95.181.176.70 1 1 43268 20160529222414
+196.47.197.146 6 84 10591420 20160515200446
+204.79.180.41 0 1 380 
+186.210.74.246 0 2 27886 
+216.163.188.228 1 1 37397 20160530123106
+204.79.180.209 0 2 20526 
+185.89.217.228 1 10 96999 20160517112300
+195.245.112.158 1 1 36153 20160513091540
+113.175.94.162 7 7 429095 20160516155626
+202.46.56.65 1 1 36151 20160510041130
+41.79.195.18 3 52 1208634 20160517004316
+41.82.2.215 3 78 10465654 20160522154844
+204.79.180.192 0 1 9304 
+105.226.186.116 1 24 529380 20160517210139
+197.86.170.129 1 68 10312194 20160525142404
+201.210.153.167 1 21 485052 20160521014835
+122.255.119.67 0 6 1794107 
+105.225.191.219 1 49 751194 20160521033147
+210.163.39.75 1 1 36152 20160505130924
+83.143.242.12 1 1 41921 20160512065535
+204.79.180.244 0 3 144516 
+41.78.5.162 5 74 10402064 20160517124018
+154.70.216.22 1 1 37395 20160526120955
+105.251.165.37 4 80 10911902 20160501230733
+61.135.190.102 1 1 36150 20160517212952
+190.211.167.106 1 18 470404 20160521071932
+204.79.180.236 0 1 2981 
+66.249.93.149 6 114 18248044 20160530081855
+197.88.159.134 6 81 3240296 20160501195952
+41.3.145.14 5 79 10516392 20160505235757
+196.41.102.210 6 83 4863098 20160506173608
+220.181.51.76 23 23 832721 20160528142400
+189.125.5.210 1 46 782161 20160505012001
+196.34.53.35 15 161 4675746 20160519164606
+31.187.76.51 4 4 169803 20160511151400
+23.229.45.172 1 1 38437 20160506193912
+185.89.217.233 2 19 1901250 20160517112435
+185.116.45.5 3 3 112187 20160531094605
+197.155.7.154 4 80 4790560 20160504144656
+105.226.59.174 1 62 4580265 20160511132030
+186.235.80.22 1 11 322355 20160531181858
+184.175.244.78 3 3 108453 20160508085038
+196.47.245.164 3 77 10472351 20160512180025
+54.81.231.162 3 64 3038856 20160505214307
+204.79.180.70 0 2 8216 
+155.94.168.34 3 3 112190 20160528074955
+169.0.47.99 2 71 10380083 20160518120000
+202.46.53.12 1 1 36151 20160516195452
+169.0.76.145 0 3 12778 
+111.13.102.4 2 2 72304 20160517213747
+197.93.146.154 1 1 36146 20160511211142
+85.138.118.188 1 49 1134590 20160507204015
+179.186.65.188 1 35 635381 20160509184303
+196.11.235.233 9 338 21078404 20160518113519
+192.227.217.110 2 2 85783 20160504140028
+204.79.180.49 0 1 54355 
+204.79.180.190 0 1 26264 
+216.163.188.227 1 1 36148 20160505123832
+204.79.180.39 0 1 521 
+203.162.54.114 1 1 36150 20160509105846
+105.184.41.179 2 65 4646799 20160501214736
+217.23.3.67 1 1 37394 20160529155122
+198.54.223.25 8 152 20904645 20160519142644
+204.79.180.24 0 2 3165 
+204.79.180.78 0 2 18708 
+105.228.72.35 2 6 5782570 20160516220713
+202.46.50.151 1 1 36146 20160518111845
+189.61.186.71 2 63 3002705 20160508170813
+184.154.36.171 16 26 578818 20160512150845
+72.34.62.39 3 3 101474 20160521204044
+175.140.139.177 0 1 286016 
+41.114.162.183 1 67 10325263 20160530090827
+41.147.77.3 4 75 4781600 20160502172714
+41.164.145.140 3 53 1334026 20160517220238
+104.129.9.158 2 2 61648 20160519012621
+199.91.135.164 2 2 1442 20160522102651
+41.13.228.230 2 71 10352664 20160506224552
+197.93.162.218 5 81 3226427 20160503005112
+185.89.100.101 1 1 34696 20160530011643
+105.226.68.23 1 53 1116233 20160525131444
+169.202.5.162 1 21 941355 20160512104940
+4.16.104.11 0 1 4501386 
+41.162.22.8 0 1 286016 
+85.14.241.82 2 2 74784 20160527135001
+123.125.67.206 6 6 216912 20160523053623
+220.181.51.110 13 13 469940 20160521201125
+105.228.122.73 3 72 10430238 20160504194927
+89.153.84.139 1 42 737167 20160519093433
+204.79.180.85 0 1 2981 
+177.177.119.86 1 9 207844 20160506210848
+129.110.242.99 2 39 930683 20160520193905
+177.39.120.252 1 7 199644 20160501220814
+82.145.221.203 1 1 36155 20160514050152
+204.79.180.48 0 3 48664 
+197.88.71.29 0 1 286016 
+192.227.244.66 1 1 41921 20160506115538
+61.135.190.222 0 15 229734 
+204.79.180.208 0 2 113223 
+195.154.250.39 1 1 37401 20160531204449
+91.226.140.5 4 4 36149 20160509070002
+23.244.234.98 2 2 72298 20160519170626
+204.79.180.86 0 2 15092 
+41.164.20.42 13 402 30757742 20160527125903
+177.192.95.159 1 48 848581 20160518034927
+109.73.79.248 1 1 41921 20160511064247
+41.222.123.42 7 86 3332341 20160530130713
+197.93.162.51 4 82 10516866 20160504120907
+93.190.138.60 20 20 803580 20160512215937
+117.78.13.51 1 1 36148 20160507214354
+202.46.53.11 1 1 36150 20160518170807
+192.210.228.120 1 1 41921 20160506012556
+204.79.180.56 0 1 1078 
+169.0.183.108 0 2 28197 
+114.98.242.63 1 1 36147 20160518141449
+81.32.41.225 2 64 3000802 20160525122813
+41.77.153.99 4 29 670439 20160531122521
+204.79.180.254 0 2 3041 
+155.133.82.87 2 2 73547 20160528020611
+154.69.151.41 5 82 3238631 20160521163240
+204.79.180.42 0 2 16326 
+179.187.211.172 1 24 540347 20160508222954
+211.6.121.143 1 1 36143 20160512211649
+41.151.109.66 2 69 16065620 20160523131215
+41.71.71.178 7 87 10651237 20160510145910
+204.79.180.166 0 1 1082 
+23.105.184.149 1 1 37399 20160527053923
+105.224.250.144 3 75 10418885 20160514120617
+213.150.213.16 4 132 20664354 20160520155503
+41.0.219.52 7 84 16335587 20160516173520
+185.89.217.227 0 4 9378 
+123.125.67.152 31 31 1120662 20160523042237
+61.14.48.30 5 76 10464001 20160520113146
+204.79.180.123 0 1 20669 
+197.86.170.163 1 66 10313993 20160519114859
+204.79.180.71 0 1 1403 
+41.13.216.30 1 62 10292322 20160517110149
+185.89.217.226 0 5 1670417 
+105.227.153.56 3 71 10414309 20160518041256
+177.154.171.75 1 8 205570 20160517143438
+110.53.183.52 2 2 62374 20160515123034
+41.13.143.3 2 55 1186606 20160522213201
+104.160.8.157 1 1 36151 20160521142708
+105.227.139.77 2 112 10436197 20160509204809
+179.154.86.245 1 20 483803 20160519155443
+196.36.173.148 15 95 10866027 20160522062237
+204.79.180.219 1 2 29244 20160530125723
+197.93.141.10 2 71 10336943 20160518210156
+204.79.180.0 0 1 10762 
+41.13.212.137 1 63 10279469 20160501132654
+177.207.193.138 1 13 251002 20160531023608
+185.89.217.232 0 10 47112 
+197.93.152.56 6 145 15030348 20160504211219
+202.46.55.138 1 1 37394 20160529113720
+117.64.231.180 1 1 37401 20160525073032
+41.13.250.167 1 63 10285164 20160503213032
+123.125.67.209 18 18 650719 20160523031041
+204.79.180.2 0 3 103950 
+180.153.186.18 1 1 36150 20160524031102
+41.114.246.124 3 77 10448558 20160502184825
+5.245.178.118 2 63 3002719 20160521210343
+204.79.180.38 0 1 94840 
+54.218.163.223 1 1 36148 20160503130515
+105.248.39.5 0 3 619409 
+79.110.31.72 2 2 68144 20160524015506
+165.255.43.63 1 64 10295401 20160506191005
+197.86.176.126 2 66 2988605 20160521073123
+105.228.238.212 3 72 3064798 20160517204810
+123.125.67.216 16 16 578382 20160522150111
+169.1.143.162 0 1 5027346 
+177.192.116.81 1 37 692717 20160524014335
+202.46.55.152 1 1 36151 20160511195049
+186.64.92.174 0 4 155891 
+41.193.51.218 6 160 15222653 20160525091247
+197.229.126.94 0 2 0 
+38.111.147.0 2 2 53200 20160519164108
+204.79.180.20 0 2 27559 
+188.255.59.142 2 63 3002707 20160519205454
+178.197.232.186 3 70 1872106 20160518072042
+146.232.227.95 6 88 10620151 20160531215926
+204.79.180.21 0 1 1103 
+177.96.20.210 2 63 3002709 20160523211123
+105.228.213.191 3 79 10875791 20160513061747
+80.64.173.162 7 7 253057 20160513063349
+85.106.119.179 30 30 88405 20160503211413
+50.202.45.86 0 1 354279 
+196.210.148.179 0 2 10323 
+91.229.229.34 1 1 33351 20160524234227
+67.17.36.184 2 2 88051 20160525110949
+202.46.58.130 1 1 36155 20160508212929
+202.46.48.120 1 1 36146 20160501062041
+187.10.62.134 1 6 197980 20160513174702
+41.150.43.36 0 1 1370 
+204.79.180.175 0 2 24477 
+41.114.128.164 2 7 67062 20160507150657
+204.79.180.102 0 1 10231 
+204.79.180.238 0 1 94840 
+204.79.180.63 0 2 27890 
+212.252.56.229 13 13 38238 20160507042821
+105.226.14.182 3 76 3138538 20160509114023
+23.232.165.228 3 3 80790 20160506214154
+176.31.39.23 4 4 110386 20160531153640
+41.13.192.225 0 16 172896 
+69.58.178.59 10 10 290502 20160522050135
+105.249.2.91 5 76 3198152 20160507134004
+41.114.201.25 3 86 11220764 20160529002421
+204.79.180.201 0 1 521 
+41.114.166.181 1 1 36153 20160519224118
+105.226.237.127 3 77 10472355 20160524160742
+41.13.242.234 1 65 10312488 20160509132114
+41.13.192.254 2 2 74787 20160531051901
+107.161.93.39 2 2 67308 20160514114104
+204.79.180.112 0 1 12314 
+41.189.74.170 19 104 12456885 20160530160232
+104.129.14.229 1 1 37399 20160530182547
+66.220.145.245 1 37 3098375 20160528152038
+187.20.164.187 2 63 3002710 20160518005911
+95.85.80.239 1 1 34696 20160525232729
+220.181.51.109 16 16 578413 20160523070633
+179.26.76.59 1 46 815427 20160510233532
+45.55.229.156 12 12 343610 20160519153415
+192.77.245.232 1 1 36148 20160520141802
+195.154.146.225 1 1 37395 20160527085817
+137.158.229.240 1 64 2985157 20160520082955
+197.88.184.200 6 84 10689285 20160507153706
+154.69.187.27 0 3 0 
+200.139.91.163 1 1 37393 20160525152704
+204.79.180.242 0 1 54355 
+23.94.206.183 1 1 36155 20160502224910
+66.249.88.123 1 1 36153 20160512034854
+192.161.171.89 1 1 28283 20160526082802
+204.79.180.113 0 2 100454 
+93.51.66.123 1 46 766761 20160522151915
+41.79.193.33 1 25 546595 20160511132815
+41.135.47.176 1 62 2966562 20160501103350
+204.79.180.157 0 1 5921 
+204.79.180.151 0 3 131335 
+204.79.180.69 0 1 2913 
+104.156.231.254 6 8 185863 20160528092715
+105.227.96.25 1 67 10315358 20160513123315
+195.154.173.103 1 1 26891 20160506214135
+62.231.245.5 0 1 286016 
+154.119.65.194 4 74 4677689 20160520141428
+52.91.19.186 1 1 3057 20160530132126
+5.62.154.125 1 1 34696 20160530235532
+186.214.175.27 2 63 2990559 20160529033509
+41.50.16.46 3 51 922437 20160514222648
+196.207.40.201 1 65 10312493 20160504081926
+107.172.215.168 3 3 108458 20160508113052
+64.237.230.91 1 23 522177 20160513124607
+204.79.180.99 0 1 8844 
+41.48.16.54 1 30 1381146 20160514182855
+204.79.180.138 0 1 380 
+204.79.180.110 0 1 19520 
+41.222.126.233 2 71 10352660 20160502064615
+123.125.67.208 2 2 72303 20160520120528
+91.216.3.24 1 1 34696 20160527203250
+87.33.24.17 0 1 286016 
+197.96.203.12 1 56 1172456 20160513142614
+41.114.234.76 13 102 11326709 20160525062748
+23.229.57.154 20 20 838511 20160527023249
+14.193.243.66 0 1 286016 
+107.161.93.27 2 2 67408 20160514224623
+46.229.167.149 6 6 219412 20160527133633
+204.79.180.50 0 1 1103 
+108.174.49.138 1 1 41921 20160505114631
+201.40.142.13 1 29 557731 20160501234505
+197.87.242.218 10 91 10791664 20160523115836
+197.88.60.193 7 87 10651236 20160515173838
+204.79.180.160 0 1 19520 
+105.226.29.142 1 65 10312491 20160523194046
+105.159.174.228 1 1 2763 20160504170757
+154.66.205.226 4 219 25580434 20160504124947
+197.93.166.2 7 84 10629306 20160512160149
+41.146.158.210 9 80 10464890 20160514211725
+204.79.180.34 0 1 2778 
+105.224.173.63 0 2 863787 
+197.89.40.148 1 1 36148 20160505130135
+123.125.67.144 26 26 939916 20160523011133
+41.77.152.226 6 77 10453013 20160526091515
+204.79.180.124 0 1 2062 
+204.79.180.40 0 1 2778 
+196.23.147.204 6 85 10560950 20160512085550
+144.76.224.111 1 1 36146 20160511003037
+185.89.217.225 0 11 73398 
+177.11.168.249 1 39 698006 20160506145709
+41.150.198.167 8 86 10662090 20160507071135
+165.255.110.43 1 66 4601253 20160505162849
+41.151.103.207 1 16 452978 20160511160615
+66.220.145.246 0 9 102979 
+158.69.225.36 12 12 369436 20160509040807
+191.222.247.121 1 29 528022 20160512003212
+169.1.10.133 6 81 10586179 20160520165919
+187.58.65.6 1 2 143457 20160518160035
+220.181.51.77 17 17 614553 20160523093406
+195.2.244.193 4 79 10500212 20160530092134
+202.46.48.205 1 1 36155 20160509064105
+105.233.204.51 1 67 4598090 20160526110535
+41.50.16.53 19 101 7635377 20160514213351
+202.46.51.187 1 1 37394 20160530025108
+105.228.186.180 4 79 10452007 20160518153317
+204.79.180.53 0 1 2913 
+196.31.28.114 1 1 26891 20160518175023
+105.225.117.133 1 62 2966557 20160518074840
+204.79.180.62 0 1 9304 
+54.147.28.197 2 63 3002714 20160509212031
+192.99.9.164 1 1 36149 20160502130208
+123.125.67.210 11 11 397655 20160523010518
+203.217.245.130 1 1 36152 20160519163617
+41.50.16.47 5 68 1311155 20160514220259
+23.245.207.99 3 3 108456 20160518224151
+202.46.50.123 1 1 36146 20160521130559
+108.255.240.237 0 1 4501386 
+61.135.190.105 1 1 36148 20160517212129
+41.164.29.106 2 73 10355527 20160519085931
+197.245.23.121 4 77 4756293 20160511090111
+204.79.180.187 0 1 2506 
+184.154.36.184 17 33 997199 20160522145628
+54.85.60.26 1 1 2763 20160524125737
+146.185.204.147 1 1 34696 20160528193442
+196.214.54.170 16 197 24933792 20160525175203
+147.110.251.86 12 603 33932525 20160530113015
+64.74.215.113 2 2 0 20160529161507
+41.164.48.131 1 68 10312200 20160527111117
+105.227.82.250 4 86 3415213 20160517140204
+67.17.36.142 2 2 88040 20160525201314
+41.13.254.170 8 87 4967586 20160517152556
+177.207.29.157 1 54 1762419 20160527190732
+146.232.196.9 1 66 10313991 20160518114001
+23.94.228.70 1 1 41921 20160506033332
+196.14.186.150 5 81 4873128 20160513132400
+204.79.180.243 0 1 31273 
+41.21.201.94 1 19 482723 20160504143816
+206.218.52.41 0 1 286016 
+137.158.87.23 1 67 10315365 20160520103630
+212.83.161.8 1 1 25890 20160505062450
+204.79.180.73 0 1 2981 
+80.112.7.246 2 63 3002709 20160517083253
+204.79.180.164 0 1 31273 
+165.255.104.94 4 80 4790557 20160516121443
+106.220.76.141 1 4 1111579 20160525060302
+46.235.65.135 1 1 36148 20160522232005
+41.246.160.183 0 1 65890 
+23.88.19.119 1 1 36153 20160519170612
+197.88.147.52 11 62 4575954 20160519205728
+162.244.14.52 1 1 36155 20160508032251
+221.238.247.65 1 1 37397 20160526032533
+204.79.180.203 0 1 1403 
+216.110.98.65 2 56 1186116 20160524232246
+204.79.180.231 0 2 51716 
+204.79.180.111 1 2 43073 20160529184033
+204.79.180.148 0 2 1483 
+107.175.239.233 1 1 41921 20160519081518
+79.12.75.22 1 14 442010 20160522120715
+191.54.104.29 0 1 1664 
+41.150.55.89 1 1 39484 20160503174253
+104.168.96.142 5 5 211513 20160506111706
+172.245.100.90 1 1 41921 20160505123724
+41.77.152.174 1 63 2969227 20160506142534
+107.152.242.39 2 2 72298 20160505221410
+66.102.6.227 4 37 1906815 20160525060553
+41.144.175.14 4 90 13012559 20160502191629
+24.249.88.34 0 1 286016 
+211.123.206.77 1 1 36150 20160521021432
+152.250.167.74 1 24 529380 20160513141837
+202.46.58.189 1 1 36150 20160513004236
+217.23.3.64 1 1 37401 20160529155132
+204.79.180.126 0 1 3307 
+185.89.217.224 0 4 32716 
+123.176.35.194 0 1 286016 
+151.237.180.70 4 4 169916 20160510202002
+204.79.180.226 0 1 19520 
+187.32.101.249 1 4 151004 20160525162800
+173.208.177.59 3 3 41674 20160521025731
+95.181.177.230 1 1 37390 20160526065943
+204.79.180.125 0 1 11585 
+169.0.24.216 3 74 10391684 20160503185909
+202.46.55.38 1 1 36153 20160508172056
+202.46.58.55 1 1 36151 20160513062042
+192.227.245.71 1 1 41921 20160505010828
+23.95.255.212 1 1 28283 20160531153646
+177.125.58.254 1 29 563457 20160525012544
+220.181.51.104 13 13 469947 20160522174134
+185.89.217.231 0 7 729490 
+87.239.248.163 1 1 26891 20160502084729
+204.79.180.149 0 1 2295 
+41.13.250.16 1 64 10295393 20160508214846
+197.96.152.74 2 66 10298856 20160520154054
+105.251.185.146 1 62 2966502 20160522101508
+41.13.196.173 5 30 814084 20160501133743
+197.89.81.133 6 83 10531001 20160506111152
+220.181.51.79 25 25 903765 20160523034856
+61.135.190.104 0 1 15930 
+41.114.242.39 3 73 3090860 20160504171938
+23.95.62.49 1 1 41921 20160507200822
+177.19.76.0 1 47 782688 20160517094712
+204.79.180.222 0 1 2778 
+41.71.19.57 2 74 10417619 20160510083925
+196.22.231.150 1 67 10310835 20160530132058
+109.147.31.229 2 67 10335585 20160506224906
+190.138.137.10 1 55 1779749 20160524222009
+204.79.180.1 0 1 2913 
+62.210.75.243 1 32 450940 20160519192756
+204.79.180.66 0 1 1082 
+41.6.236.151 1 55 1156522 20160511161153
+204.79.180.60 0 2 24144 
+89.42.237.82 3 3 129804 20160528191120
+204.79.180.32 0 1 107302 
+204.79.180.218 0 1 521 
+41.13.246.152 4 73 10370217 20160517032141
+169.0.185.119 3 77 4896920 20160527190258
+154.73.209.218 2 55 1156320 20160511180551
+177.106.71.225 0 1 26264 
+191.248.241.185 1 46 775947 20160527020614
+123.125.67.151 29 29 1048370 20160523054435
+45.55.133.228 2 35 513931 20160529201612
+113.35.251.98 1 1 36155 20160520112813
+204.79.180.81 0 1 31273 
+104.218.235.109 5 5 182013 20160531164000
+188.163.75.36 1 1 36155 20160517081238
+204.79.180.146 0 1 2062 
+210.19.13.160 2 58 1220804 20160524084743
+197.229.68.178 1 1 25997 20160502220041
+192.3.135.23 1 1 36153 20160519011533
+54.91.109.28 1 1 36150 20160511074318
+5.102.171.149 2 2 56449 20160529001402
+204.79.180.92 0 2 50164 
+123.125.67.215 15 15 542233 20160522094014
+196.208.108.176 1 63 2963399 20160526144230
+184.175.215.30 2 2 78366 20160523013813
+197.229.68.56 1 17 460178 20160506080307
+169.1.130.182 0 20 205266 
+45.55.133.234 2 34 515847 20160508151810
+41.114.157.48 2 73 1985907 20160502235906
+123.125.67.148 29 29 1048376 20160523083641
+204.79.180.8 0 1 107302 
+204.79.180.220 0 1 2778 
+103.226.227.29 1 11 239345 20160505123724
+66.225.232.60 1 1 38437 20160505102949
+199.190.168.200 3 56 1189989 20160517195547
+41.146.141.185 1 63 2963408 20160529164122
+204.79.180.202 0 1 88869 
+198.57.247.199 5 5 181994 20160531160954
+45.35.105.105 3 3 78671 20160516075136
+204.79.180.33 0 1 3307 
+184.154.36.185 20 38 1241712 20160529144254
+169.0.252.117 1 59 1776960 20160519195933
+105.225.100.85 3 72 5322785 20160526122551
+86.122.244.157 1 1 36152 20160506052259
+204.79.180.232 0 2 4170 
+165.5.7.100 9 86 3368545 20160509073920
+107.152.163.190 4 4 155972 20160510113001
+105.2.241.28 13 78 16459179 20160523000320
+196.41.98.78 4 80 10496402 20160511115406
+45.32.129.200 3 4 91035 20160523225154
+90.255.181.56 3 77 3120811 20160531232430
+204.79.180.6 0 1 65890 
+186.225.241.193 1 7 199645 20160506010540
+82.145.221.41 4 88 3894557 20160505165913
+196.22.248.82 20 105 11056672 20160530200345
+79.158.252.6 2 63 3002712 20160504114257
+54.149.187.175 20 20 8060 20160531235626
+204.79.180.98 0 2 67554 
+204.79.180.74 0 1 1664 
+192.210.164.216 1 1 41921 20160506222534
+66.249.93.146 4 86 10740043 20160526113555
+169.0.137.107 5 85 10583397 20160503154927
+179.109.172.191 2 61 2991585 20160522234016
+204.79.180.180 0 1 218 
+146.232.124.246 3 72 10339025 20160506091637
+105.227.41.223 2 34 1415416 20160517203454
+41.84.50.100 1 62 2966564 20160518115940
+159.203.174.73 1 1 36151 20160520201307
+123.125.67.146 23 23 831455 20160523015620
+169.1.162.80 1 1 36148 20160507161825
+196.38.106.11 1 54 1139888 20160523172426
+204.79.180.108 0 1 380 
+176.123.5.16 1 1 403 20160531033714
+41.13.196.91 1 64 2985157 20160514102939
+41.50.16.50 1 57 1158429 20160504102422
+169.0.183.59 2 76 10436214 20160503075806
+191.222.208.89 1 1 36148 20160508043034
+105.208.62.138 4 15 3009732 20160524133053
+172.245.240.22 5 5 211371 20160504135934
+41.114.219.220 4 81 12014093 20160526191939
+220.181.51.102 13 13 469928 20160523074734
+41.114.241.75 7 79 6634716 20160503200726
+197.89.233.222 7 17 728447 20160505151406
+78.176.223.167 23 23 67748 20160516160247
+192.210.228.44 1 1 41921 20160504153101
+196.11.235.232 2 76 10436206 20160514023453
+220.181.51.105 13 13 469943 20160522235229
+187.55.159.92 1 1 36157 20160514031316
+137.158.114.125 9 99 11218723 20160531102031
+66.255.236.30 2 67 3038709 20160513201216
+196.22.228.38 3 90 12303931 20160509125940
+89.248.60.110 2 2 3460 20160526073345
+66.249.88.2 0 1 1449 
+179.92.134.233 1 2 144701 20160525142821
+196.210.109.180 4 79 16212692 20160509092424
+165.255.135.57 1 1 36146 20160506225321
+169.0.21.166 1 1 36142 20160509222544
+105.186.193.236 4 74 2015896 20160517194940
+196.41.116.146 2 2 74795 20160531125218
+31.220.30.65 3 3 115311 20160507122104
+27.54.41.226 0 1 286016 
+197.89.133.215 1 53 1121216 20160517173828
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160501 42 561 45285460 16
+20160502 36 554 56309414 20
+20160503 84 878 90096312 23
+20160504 111 1273 110354150 38
+20160505 211 1123 160341650 59
+20160506 168 880 121914801 64
+20160507 64 603 43884905 24
+20160508 67 338 16373487 19
+20160509 87 944 93098675 28
+20160510 112 631 75135253 40
+20160511 98 850 69122185 53
+20160512 114 791 103019126 37
+20160513 176 654 45713667 34
+20160514 179 962 177459472 24
+20160515 27 254 32048907 12
+20160516 75 767 72752728 19
+20160517 121 1255 96370196 83
+20160518 184 1455 111845822 107
+20160519 263 1152 77070621 110
+20160520 176 909 93848948 94
+20160521 179 598 27415192 74
+20160522 289 844 50135134 95
+20160523 92 678 74196328 52
+20160524 68 1118 90768054 35
+20160525 77 1041 80108270 35
+20160526 51 648 67265614 23
+20160527 70 570 40387872 21
+20160528 32 186 11017344 19
+20160529 47 460 30933424 19
+20160530 80 874 86011838 24
+20160531 236 748 59249074 30
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 16
+5mn-15mn 45
+30s-2mn 85
+15mn-30mn 36
+2mn-5mn 57
+0s-30s 1042
+30mn-1h 50
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 114
+/ 1576 56682449 1092 914
+/wp-login.php 641 1935218 24 23
+/contact_us/ 201 4952254 21 98
+/about-us-2/ 148 4696140 4 25
+/wp-cron.php 89 0 66 66
+/benefits-of-toastmasters/ 83 2144751 2 6
+/public-speaking/delivering-unprepared-speech/ 83 3524392 43 46
+/xmlrpc.php 83 465744 7 10
+/business-skills/ 72 1868542 4 12
+/public-speaking/10-public-speaking-tips/ 41 1581854 21 20
+/solutions/ 34 867938 0 5
+/privacy-policy/ 33 900271 0 1
+/services/ 28 1072423 1 5
+/uncategorized/hello-world/ 22 681186 0 19
+/testimonial-view/testimonial-2/ 22 543951 0 1
+/testimonial-view/testimonial-3/ 21 513897 0 0
+/testimonial-view/testimonial-1/ 21 511237 0 3
+/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/fonts/flexslider-icon.eot 19 37476 0 4
+/team-view/nick-simpson/ 17 459072 0 2
+/feed/atom/ 14 753198 0 0
+/team-view/jessica-right/ 13 346434 0 1
+/team-view/aletta-rochat/ 13 347521 2 1
+/uncategorized/minutes-of-meeting-09-sept-2015/ 13 499218 0 11
+/donec-porta-diam-eu-massa/image-format-post/ 12 409724 9 9
+/comments/feed/ 12 7935 2 2
+/suspendisse-sollicitudin-velit-sed/vivamus-vel-sem-at/ 2 72584 0 0
+/portfolio-view/video-format/ 2 66276 1 0
+/category/uncategorized/page/2/ 2 62524 0 0
+/uncategorized/cttm-meeting-minutes-23-sept-2015-30th-anniversary/ 2 78742 0 0
+/category/in-faucibus-orciluctus-et/ 6 157926 0 1
+/uncategorized/video-post-type/ 1 35316 0 0
+/about-us-2/feed/ 2 1409 0 0
+/feed/ 9 442681 1 1
+/wp-admin/install.php 1 1299 0 0
+/author/admin101/feed/ 1 55670 0 0
+/portfolio_category/category-2/ 3 90972 0 0
+/category/vestibulum-ante-ipsum-primis/ 10 266000 2 3
+/team-view/lisa-white/ 10 265459 1 2
+/uncategorized/toastmastersmeeting/feed/ 1 797 0 0
+/contact-2/ 4 104833 4 4
+/category/interdum-vitaedapibus-ac/ 6 157980 0 1
+/tincidunt-ac-viverra-sed-nulla/etiam-commodo-convallis/ 1 36291 0 0
+/portfolio-view/suspendisse-arcu-nisl/ 3 91581 1 0
+/uncategorized/vimeo-video/ 1 32637 0 0
+/privacy-policy/feed/ 1 714 0 0
+/category/public-speaking/ 9 245907 1 1
+/category/leout-pharetra-augue-nec-augue/ 6 158100 0 0
+/portfolio-view/sed-blandit-massa-vel/ 2 60710 0 1
+/portfolio_tag/consectetur/page/2/ 1 30674 0 0
+/team-view/gerthan-agenbach/ 6 159753 0 1
+/author/admin101/page/3/ 1 31855 0 0
+/wp-content/themes/CherryFramework/admin/data_management/ 2 642 0 1
+/wp-admin/upgrade.php 3 2890 1 1
+/category/nam-elit-agna-endrerit-sit-amet/ 6 159049 0 1
+/category/tincidunt-ac-viverra-sed-nulla/ 6 158304 0 0
+/portfolio-view/image-format/ 4 120940 0 1
+/portfolio-view/audio-format/ 7 233464 3 2
+/uncategorized/education-learning-fact-training-mind/feed/ 1 867 0 0
+/author/admin101/ 5 149220 0 2
+/wp-content/themes/CherryFramework/ 3 344 0 0
+/in-faucibus-orciluctus-et/mauris-posuere/feed/ 1 787 0 0
+/author/admin101/page/6/ 2 57312 0 1
+/team-view/alan-smith/ 8 212907 1 1
+/speakers-tips/ 3 95277 2 2
+/uncategorized/toastmastersmeeting/ 1 35587 0 0
+/interdum-vitaedapibus-ac/donec-tempor-libero/feed/atom/ 1 754 0 0
+/about/ 3 98548 2 3
+/uncategorized/cttm-meeting-minutes-23-sept-2015-30th-anniversary/feed/atom/ 1 847 0 0
+/team-view/chris-adlam/ 8 214754 0 0
+/portfolio-view/in-faucibus/ 4 121750 1 1
+/portfolio_category/category-1/ 3 90603 0 0
+/portfolio-view/in-faucibus-risus/ 3 89808 0 0
+/ultrices-posuere-cubilia-curae/lorem-ipsum-dolor-sit/ 2 72524 0 1
+/category/ultrices-posuere-cubilia-curae/feed/ 1 4191 0 0
+/portfolio_tag/cumque/ 2 60376 0 0
+/uncategorized/minutes-of-meeting-09-sept-2015/feed/atom/ 1 777 0 0
+/category/uncategorized/page/3/ 1 30242 0 0
+/wp-includes/wlwmanifest.xml 9 8360 0 0
+/portfolio-view/gallery-format/ 5 173080 0 0
+/uncategorized/toastmastersmeeting/feed/atom/ 1 745 0 0
+/portfolio_tag/oluptatum/ 2 60238 1 0
+/services/page/2/ 6 197069 0 2
+/category/ultrices-posuere-cubilia-curae/ 8 211240 1 0
+/wp-content/themes/theme52382/ 3 2420 0 0
+/uncategorized/education-learning-fact-training-mind/ 2 68944 0 0
+/portfolio_tag/consectetur/ 3 91014 0 0
+/donec-porta-diam-eu-massa/aliquam-erat-volutpat/ 3 108528 0 0
+/interviews/ 1 44779 0 1
+/portfolio-view/feugiat-vitae-leo/ 3 91500 0 0
+/portfolio-view/donec-tellus-leo/ 2 60938 0 1
+/category/suspendisse-sollicitudin-velit-sed/ 6 158358 1 1
+/author/admin101/page/2/ 1 31051 0 0
+/wp/wp-admin/setup-config.php 3 25851 1 0
+/solutions/feed/ 1 704 0 0
+/portfolio-view/sodales-orci-et/ 3 91716 0 0
+/category/donec-porta-diam-eu-massa/ 7 193508 0 0
+/portfolio_category/category-3/ 3 91116 1 0
+/success-stories/ 4 135724 3 1
+/portfolio-view/malesuada-fames-ac/ 4 121888 0 1
+/in-faucibus-orciluctus-et/mauris-posuere/ 4 144724 0 1
+/category/uncategorized/ 6 176874 1 1
+/in-faucibus-orciluctus-et/mauris-posuere/feed/atom/ 1 742 0 0
+/portfolio-view/slideshow-format/ 3 93372 0 0
+/portfolio_tag/alias/ 1 30288 0 0
+/portfolio_tag/accusantium/ 3 90741 0 0
+/interdum-vitaedapibus-ac/donec-tempor-libero/ 3 108579 0 1
+/portfolio_tag/consectetur/page/3/ 1 26274 0 1
+/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/fonts/flexslider-icon.woff 4 5072 0 1
+/donec-porta-diam-eu-massa/aliquam-erat-volutpat/feed/ 1 801 0 0
+/vestibulum-ante-ipsum-primis/gallery-post-format/ 4 135448 2 2
+/home/feed/ 10 6248 0 0
+/public-speaking/delivering-unprepared-speech/feed/atom/ 1 766 0 0
+/nam-elit-agna-endrerit-sit-amet/phasellus-fringilla/ 4 144832 1 1
+/leout-pharetra-augue-nec-augue/etiam-dictum-egestas/ 4 145032 0 0
+END_SIDER
