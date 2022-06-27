@@ -1026,3 +1026,9 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 		    background-attachment:scroll !important;
 		}
 	}
+
+  .profile_pic {
+    border: 1px solid rgb(68, 68, 68);
+    width: 200px;
+    margin: 10px;
+  }
